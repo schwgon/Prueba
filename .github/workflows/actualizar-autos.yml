@@ -1,0 +1,56 @@
+name: Actualizar datos de vehículos
+
+on:
+  # Actualización mensual.
+  # GitHub puede retrasar unos minutos la ejecución programada.
+  schedule:
+    - cron: "0 5 1 * *"
+
+  # Permite ejecutarlo manualmente desde:
+  # Actions -> Actualizar datos de vehículos -> Run workflow
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generar autos-data.json
+        env:
+          DELAY_MS: 3000
+        run: node scripts/generar-autos-data.js
+
+      - name: Mostrar resumen
+        run: |
+          node -e "
+          const d = require('./autos-data.json');
+          console.log('Marcas:', d.estadisticas?.marcas ?? d.marcas?.length ?? 0);
+          console.log('Modelos:', d.estadisticas?.modelos ?? 0);
+          console.log('Versiones con valuación:', d.estadisticas?.versionesConValuacion ?? Object.keys(d.vehiculos || {}).length);
+          console.log('Actualizado:', d.actualizado);
+          "
+
+      - name: Guardar cambios en GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add autos-data.json
+
+          if git diff --cached --quiet; then
+            echo "No hubo cambios en autos-data.json."
+          else
+            git commit -m "Actualizar datos de vehículos"
+            git push
+          fi
