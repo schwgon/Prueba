@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAUDAM SAS - Crédito Prendario</title>
+    <link rel="icon" type="image/png" href="Logo-Maudam.jpg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<header>
+    <img src="IMAGEN.png" alt="MAUDAM SAS" class="logo">
+    <p class="subtitle">Simulá tu préstamo en segundos</p>
+
+    <div class="calc-container">
+        <h2>¿Cuánto te prestamos por tu auto?</h2>
+
+        <div id="estadoDatos" class="estado-datos">Cargando datos de vehículos...</div>
+
+        <div class="inputs">
+            <div>
+                <label for="marca">Marca</label>
+                <select id="marca">
+                    <option value="">Selecciona una marca...</option>
+                </select>
+            </div>
+            <div>
+                <label for="modelo">Modelo</label>
+                <select id="modelo" disabled>
+                    <option value="">Selecciona un modelo...</option>
+                </select>
+            </div>
+            <div>
+                <label for="version">Versión</label>
+                <select id="version" disabled>
+                    <option value="">Selecciona una versión...</option>
+                </select>
+            </div>
+            <div>
+                <label for="anioVehiculo">Año</label>
+                <select id="anioVehiculo" disabled>
+                    <option value="">Selecciona un año...</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="infoVehiculo" style="display:none; background:#ecfdf5; border:2px solid #22c55e; border-radius:14px; padding:20px; margin-top:20px; text-align:center;">
+            <h3>Vehículo Seleccionado</h3>
+            <div><strong id="vehiculoNombre"></strong></div>
+            <div class="precio-vehiculo">
+                Precio estimado: <span id="precioEstimado">$0</span>
+            </div>
+            <div class="fuente-precio" id="precioFuente"></div>
+        </div>
+
+        <div class="resultado resultado-box">
+            <div class="monto-card tradicional">
+                <span class="titulo-monto">Monto máximo Tasa Tradicional</span>
+                <div id="montoMaximoTradicional" class="monto">$0</div>
+                <div id="textoPorcentajeTradicional" class="detalle"></div>
+            </div>
+
+            <div class="monto-card uva">
+                <span class="titulo-monto">Monto máximo Línea UVA</span>
+                <div id="montoMaximoUVA" class="monto">$0</div>
+                <div id="textoPorcentajeUVA" class="detalle"></div>
+            </div>
+        </div>
+
+        <div class="porcentajes-simple">
+            <div class="porcentajes-titulo">PORCENTAJE DE FINANCIACIÓN SEGÚN ANTIGÜEDAD DEL VEHÍCULO</div>
+            <div class="porcentajes-linea">
+                <strong>Préstamo Tradicional:</strong>
+                <label class="porcentajes-años">2025-2026: 80%</label>
+                <label class="porcentajes-años">2021-2024: 70%</label>
+                <label class="porcentajes-años">2016-2020: 60%</label>
+                <label class="porcentajes-años">2013-2015: 50%</label>
+            </div>
+            <hr style="opacity:.3">
+            <div class="porcentajes-linea">
+                <strong>Línea UVA:</strong>
+                <label class="porcentajes-años">2023-2026: 60%</label>
+                <label class="porcentajes-años">2021-2022: 50%</label>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="calc-section">
+    <h2>Calculadora de Crédito</h2>
+
+    <input type="number" id="montoFinanciar" class="input-monto" value="8000000">
+
+    <h2 class="prestamo-tradicional" id="prestamoTradicional">Préstamo Tradicional</h2>
+
+    <div style="margin-bottom:20px">
+        <label for="provincia">Seleccione la Provincia</label><br>
+        <select id="provincia" style="width:260px">
+            <option value="cordoba">Córdoba</option>
+            <option value="santiago">Santiago del Estero</option>
+        </select>
+    </div>
+
+    <p style="font-size:.95rem;color:#64748b;margin-top:6px">
+        * Los gastos administrativos varían según la provincia
+    </p>
+
+    <div class="cards-grid">
+        <div class="card">
+            <h3>Monto solicitado</h3>
+            <p class="valor" id="mostrarMonto">$0</p>
+        </div>
+        <div class="card">
+            <h3>Gastos MAUDAM</h3>
+            <p class="valor" id="mostrarGastos">$500.000</p>
+        </div>
+        <div class="card">
+            <h3>Neto a percibir (AGENCIA)</h3>
+            <p class="valor neto" id="mostrarNeto">$0</p>
+        </div>
+    </div>
+
+    <div class="cuotas-grid" id="cuotas"></div>
+
+    <p class="info-ofertas">
+        Además del crédito prendario por vehículo, <strong>contamos con 5 ofertas más de financiación</strong> adaptadas a distintas necesidades.
+    </p>
+
+    <h2 class="prestamo-UVA" id="prestamoUVA">Préstamo Línea UVA</h2>
+
+    <div class="uva-box">
+        <div class="uva-cards-grid" id="uvaCards">
+            <div class="card card-cuota uva-card" data-plazo="24">
+                <div class="meses">24 meses</div>
+                <div class="cuota" id="uva24">—</div>
+                <div class="coef">Coeficiente: $55,06065</div>
+            </div>
+            <div class="card card-cuota uva-card" data-plazo="36">
+                <div class="meses">36 meses</div>
+                <div class="cuota" id="uva36">—</div>
+                <div class="coef">Coeficiente: $41,35006</div>
+            </div>
+            <div class="card card-cuota uva-card" data-plazo="48">
+                <div class="meses">48 meses</div>
+                <div class="cuota" id="uva48">—</div>
+                <div class="coef">Coeficiente: $34,64069</div>
+            </div>
+            <div class="card card-cuota uva-card" data-plazo="60">
+                <div class="meses">60 meses</div>
+                <div class="cuota" id="uva60">—</div>
+                <div class="coef">Coeficiente: $30,72835</div>
+            </div>
+        </div>
+
+        <div id="uvaMensaje" class="uva-msg">
+            Consulta a nuestro WhatsApp otras opciones para línea UVA
+        </div>
+    </div>
+
+    <div id="selectorPrestamo" class="selector-prestamo">
+        <div class="selector-header">
+            <h3 class="selector-titulo">Elegí el tipo de crédito</h3>
+            <p class="selector-subtitulo">Seleccioná la modalidad que mejor se adapte a tus necesidades financieras</p>
+        </div>
+        <div class="selector-opciones">
+            <label class="opcion-prestamo">
+                <input type="radio" name="tipoPrestamo" value="Tradicional" checked>
+                <div class="opcion-contenido">
+                    <span class="opcion-titulo">Préstamo Tradicional</span>
+                    <span class="opcion-desc">Cuotas fijas en pesos</span>
+                </div>
+            </label>
+            <label class="opcion-prestamo">
+                <input type="radio" name="tipoPrestamo" value="UVA">
+                <div class="opcion-contenido">
+                    <span class="opcion-titulo">Préstamo Línea UVA</span>
+                    <span class="opcion-desc">Cuotas ajustadas por UVA</span>
+                </div>
+            </label>
+        </div>
+    </div>
+
+    <button class="whatsapp-btn" id="btnWhatsApp">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
+        Enviar a WhatsApp
+    </button>
+</section>
+
+<footer>
+    <p>&copy; 2024 MAUDAM SAS - Crédito Prendario. Todos los derechos reservados.</p>
+</footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
