@@ -1,0 +1,2403 @@
+{
+  "version": 2,
+  "actualizado": null,
+  "marcas": [
+    {
+      "id": "1",
+      "nombre": "AGRALE"
+    },
+    {
+      "id": "2",
+      "nombre": "ALFA ROMEO"
+    },
+    {
+      "id": "65",
+      "nombre": "ARCFOX"
+    },
+    {
+      "id": "3",
+      "nombre": "AUDI"
+    },
+    {
+      "id": "4",
+      "nombre": "BAIC"
+    },
+    {
+      "id": "5",
+      "nombre": "BMW"
+    },
+    {
+      "id": "6",
+      "nombre": "BYD"
+    },
+    {
+      "id": "7",
+      "nombre": "CHANGAN"
+    },
+    {
+      "id": "8",
+      "nombre": "CHERY"
+    },
+    {
+      "id": "9",
+      "nombre": "CHEVROLET"
+    },
+    {
+      "id": "10",
+      "nombre": "CHRYSLER"
+    },
+    {
+      "id": "11",
+      "nombre": "CITROEN"
+    },
+    {
+      "id": "12",
+      "nombre": "DFSK"
+    },
+    {
+      "id": "13",
+      "nombre": "DODGE"
+    },
+    {
+      "id": "70",
+      "nombre": "DOMY"
+    },
+    {
+      "id": "14",
+      "nombre": "DONGFENG"
+    },
+    {
+      "id": "15",
+      "nombre": "DS AUTOMOBILES"
+    },
+    {
+      "id": "16",
+      "nombre": "FAW"
+    },
+    {
+      "id": "17",
+      "nombre": "FERRARI"
+    },
+    {
+      "id": "18",
+      "nombre": "FIAT"
+    },
+    {
+      "id": "19",
+      "nombre": "FORD"
+    },
+    {
+      "id": "20",
+      "nombre": "FORTHING"
+    },
+    {
+      "id": "21",
+      "nombre": "FOTON"
+    },
+    {
+      "id": "64",
+      "nombre": "GAC"
+    },
+    {
+      "id": "22",
+      "nombre": "GEELY"
+    },
+    {
+      "id": "23",
+      "nombre": "GREAT WALL"
+    },
+    {
+      "id": "24",
+      "nombre": "HAVAL"
+    },
+    {
+      "id": "25",
+      "nombre": "HONDA"
+    },
+    {
+      "id": "26",
+      "nombre": "HYUNDAI"
+    },
+    {
+      "id": "27",
+      "nombre": "ISUZU"
+    },
+    {
+      "id": "28",
+      "nombre": "JAC"
+    },
+    {
+      "id": "29",
+      "nombre": "JAGUAR"
+    },
+    {
+      "id": "30",
+      "nombre": "JEEP"
+    },
+    {
+      "id": "31",
+      "nombre": "JETOUR"
+    },
+    {
+      "id": "32",
+      "nombre": "JMC"
+    },
+    {
+      "id": "33",
+      "nombre": "JMEV"
+    },
+    {
+      "id": "34",
+      "nombre": "KAIYI"
+    },
+    {
+      "id": "35",
+      "nombre": "KIA"
+    },
+    {
+      "id": "36",
+      "nombre": "KYC"
+    },
+    {
+      "id": "37",
+      "nombre": "LAND ROVER"
+    },
+    {
+      "id": "76",
+      "nombre": "LEAPMOTOR"
+    },
+    {
+      "id": "38",
+      "nombre": "LEXUS"
+    },
+    {
+      "id": "39",
+      "nombre": "LIFAN"
+    },
+    {
+      "id": "40",
+      "nombre": "LOTUS"
+    },
+    {
+      "id": "71",
+      "nombre": "LYNK&CO"
+    },
+    {
+      "id": "42",
+      "nombre": "MASERATI"
+    },
+    {
+      "id": "43",
+      "nombre": "MAXUS"
+    },
+    {
+      "id": "41",
+      "nombre": "McLAREN"
+    },
+    {
+      "id": "44",
+      "nombre": "MERCEDES BENZ"
+    },
+    {
+      "id": "45",
+      "nombre": "MG"
+    },
+    {
+      "id": "46",
+      "nombre": "MINI COOPER"
+    },
+    {
+      "id": "47",
+      "nombre": "MITSUBISHI"
+    },
+    {
+      "id": "48",
+      "nombre": "NISSAN"
+    },
+    {
+      "id": "49",
+      "nombre": "PEUGEOT"
+    },
+    {
+      "id": "50",
+      "nombre": "PORSCHE"
+    },
+    {
+      "id": "51",
+      "nombre": "RAM"
+    },
+    {
+      "id": "74",
+      "nombre": "RELY"
+    },
+    {
+      "id": "52",
+      "nombre": "RENAULT"
+    },
+    {
+      "id": "53",
+      "nombre": "SHINERAY"
+    },
+    {
+      "id": "54",
+      "nombre": "SKYWELL"
+    },
+    {
+      "id": "55",
+      "nombre": "SMART"
+    },
+    {
+      "id": "56",
+      "nombre": "SOUEAST"
+    },
+    {
+      "id": "57",
+      "nombre": "SSANGYONG"
+    },
+    {
+      "id": "58",
+      "nombre": "SUBARU"
+    },
+    {
+      "id": "59",
+      "nombre": "SUZUKI"
+    },
+    {
+      "id": "60",
+      "nombre": "TOYOTA"
+    },
+    {
+      "id": "61",
+      "nombre": "VOLKSWAGEN"
+    },
+    {
+      "id": "62",
+      "nombre": "VOLVO"
+    },
+    {
+      "id": "63",
+      "nombre": "ZANELLA"
+    }
+  ],
+  "modelos": [
+    {
+      "id": "1",
+      "marcaId": "1",
+      "marca": "AGRALE",
+      "nombre": "MARRUA"
+    },
+    {
+      "id": "2",
+      "marcaId": "2",
+      "marca": "ALFA ROMEO",
+      "nombre": "159"
+    },
+    {
+      "id": "3",
+      "marcaId": "2",
+      "marca": "ALFA ROMEO",
+      "nombre": "BRERA"
+    },
+    {
+      "id": "4",
+      "marcaId": "2",
+      "marca": "ALFA ROMEO",
+      "nombre": "GIULIA"
+    },
+    {
+      "id": "5",
+      "marcaId": "2",
+      "marca": "ALFA ROMEO",
+      "nombre": "GIULIETTA"
+    },
+    {
+      "id": "6",
+      "marcaId": "2",
+      "marca": "ALFA ROMEO",
+      "nombre": "MiTo"
+    },
+    {
+      "id": "7",
+      "marcaId": "2",
+      "marca": "ALFA ROMEO",
+      "nombre": "SPIDER"
+    },
+    {
+      "id": "8",
+      "marcaId": "2",
+      "marca": "ALFA ROMEO",
+      "nombre": "STELVIO"
+    },
+    {
+      "id": "9",
+      "marcaId": "2",
+      "marca": "ALFA ROMEO",
+      "nombre": "TONALE"
+    },
+    {
+      "id": "636",
+      "marcaId": "65",
+      "marca": "ARCFOX",
+      "nombre": "KOALA S"
+    },
+    {
+      "id": "637",
+      "marcaId": "65",
+      "marca": "ARCFOX",
+      "nombre": "S5"
+    },
+    {
+      "id": "638",
+      "marcaId": "65",
+      "marca": "ARCFOX",
+      "nombre": "T1"
+    },
+    {
+      "id": "639",
+      "marcaId": "65",
+      "marca": "ARCFOX",
+      "nombre": "T5"
+    },
+    {
+      "id": "10",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "A1"
+    },
+    {
+      "id": "11",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "A3"
+    },
+    {
+      "id": "12",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "A4"
+    },
+    {
+      "id": "13",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "A5"
+    },
+    {
+      "id": "14",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "A6"
+    },
+    {
+      "id": "15",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "A7"
+    },
+    {
+      "id": "16",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "A8"
+    },
+    {
+      "id": "17",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "ALLROAD"
+    },
+    {
+      "id": "18",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "e-tron"
+    },
+    {
+      "id": "19",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "Q 2"
+    },
+    {
+      "id": "20",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "Q 3"
+    },
+    {
+      "id": "21",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "Q 5"
+    },
+    {
+      "id": "22",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "Q 5 SPORTBACK"
+    },
+    {
+      "id": "640",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "Q 6"
+    },
+    {
+      "id": "23",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "Q 7"
+    },
+    {
+      "id": "24",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "Q 8"
+    },
+    {
+      "id": "25",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "R8"
+    },
+    {
+      "id": "26",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "RS3"
+    },
+    {
+      "id": "27",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "RS5"
+    },
+    {
+      "id": "28",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "RS7"
+    },
+    {
+      "id": "29",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "RS E-TRON"
+    },
+    {
+      "id": "30",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "RS Q3"
+    },
+    {
+      "id": "31",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "RS Q8"
+    },
+    {
+      "id": "32",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "S"
+    },
+    {
+      "id": "33",
+      "marcaId": "3",
+      "marca": "AUDI",
+      "nombre": "TT"
+    }
+  ],
+  "versiones": [
+    {
+      "id": "1",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "C/S 2,8 Am 100 4X4"
+    },
+    {
+      "id": "7",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "C/S 3,8 Eurovi Am 250 C/caja 4X4"
+    },
+    {
+      "id": "5",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "C/S 3,8 Eurovi Am 250 S/caja 4X4"
+    },
+    {
+      "id": "2",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "D/C 2,8 Am 100 4X4"
+    },
+    {
+      "id": "3",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "D/C 2,8 Am 150 4X4"
+    },
+    {
+      "id": "4",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "D/C 2,8 Am 200 4X4"
+    },
+    {
+      "id": "8",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "D/C 3,8 Eurovi Am 250 C/caja 4X4"
+    },
+    {
+      "id": "9",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "D/C 3,8 Eurovi Am 250 C/caja AT 4X4"
+    },
+    {
+      "id": "6",
+      "marcaId": "1",
+      "modeloId": "1",
+      "marca": "AGRALE",
+      "modelo": "MARRUA",
+      "version": "D/C 3,8 Eurovi Am 250 S/caja 4X4"
+    },
+    {
+      "id": "10",
+      "marcaId": "2",
+      "modeloId": "2",
+      "marca": "ALFA ROMEO",
+      "modelo": "159",
+      "version": "4P 1,8 TBI 200CV Distinctive"
+    },
+    {
+      "id": "11",
+      "marcaId": "2",
+      "modeloId": "2",
+      "marca": "ALFA ROMEO",
+      "modelo": "159",
+      "version": "4P 2,2 JTS 185CV S-Speed CRO"
+    },
+    {
+      "id": "12",
+      "marcaId": "2",
+      "modeloId": "2",
+      "marca": "ALFA ROMEO",
+      "modelo": "159",
+      "version": "4P 2,2 JTS 189CV S-Speed Distinctive"
+    },
+    {
+      "id": "13",
+      "marcaId": "2",
+      "modeloId": "2",
+      "marca": "ALFA ROMEO",
+      "modelo": "159",
+      "version": "4P 3,2 JTS Hight 4X4 Ca Elegance"
+    },
+    {
+      "id": "14",
+      "marcaId": "2",
+      "modeloId": "3",
+      "marca": "ALFA ROMEO",
+      "modelo": "BRERA",
+      "version": "Coupe 2,2 JTS S-Speed 6ta"
+    },
+    {
+      "id": "15",
+      "marcaId": "2",
+      "modeloId": "3",
+      "marca": "ALFA ROMEO",
+      "modelo": "BRERA",
+      "version": "Coupe 3,2 Md 4X4 Ca"
+    },
+    {
+      "id": "18",
+      "marcaId": "2",
+      "modeloId": "4",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIA",
+      "version": "4P 2,0 T AT AWD 280CV Veloce"
+    },
+    {
+      "id": "19",
+      "marcaId": "2",
+      "modeloId": "4",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIA",
+      "version": "4P 2,0 T AT AWD 280CV Veloce 2020"
+    },
+    {
+      "id": "16",
+      "marcaId": "2",
+      "modeloId": "4",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIA",
+      "version": "4P 2,0 T AT Rdw 200CV Distinctive"
+    },
+    {
+      "id": "17",
+      "marcaId": "2",
+      "modeloId": "4",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIA",
+      "version": "4P 2,0 T AT Rdw 200CV Distinctive 2020"
+    },
+    {
+      "id": "22",
+      "marcaId": "2",
+      "modeloId": "4",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIA",
+      "version": "4P 2,9 Bt 8AT 520CV Qv Super Sport 2025"
+    },
+    {
+      "id": "20",
+      "marcaId": "2",
+      "modeloId": "4",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIA",
+      "version": "4P 2,9 Bt AT Rdw 510CV Quadrifoglio"
+    },
+    {
+      "id": "21",
+      "marcaId": "2",
+      "modeloId": "4",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIA",
+      "version": "4P 2,9 Bt AT Rdw 510CV Quadrifoglio 2020"
+    },
+    {
+      "id": "29",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 120CV Distinctive"
+    },
+    {
+      "id": "27",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 120CV Progression"
+    },
+    {
+      "id": "28",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 120CV Progression CRO Milano"
+    },
+    {
+      "id": "23",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 120CV Prog. Sprint M6"
+    },
+    {
+      "id": "24",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 120CV Prog. Sprint M6 CRO Milano"
+    },
+    {
+      "id": "26",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 120CV Prog. Sprint M6 CRO Milano Nav"
+    },
+    {
+      "id": "25",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 120CV Prog. Sprint M6 CRO Milano Technology"
+    },
+    {
+      "id": "30",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive"
+    },
+    {
+      "id": "31",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive T/c"
+    },
+    {
+      "id": "36",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct 6m"
+    },
+    {
+      "id": "40",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct 6m Asiento Elec"
+    },
+    {
+      "id": "41",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct 6m Asiento Elec Nav"
+    },
+    {
+      "id": "37",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct 6m CRO Milano"
+    },
+    {
+      "id": "38",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct 6m CRO Milano Technology"
+    },
+    {
+      "id": "39",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct 6m CRO Milano Technology T/c"
+    },
+    {
+      "id": "32",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct AT"
+    },
+    {
+      "id": "35",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct Premium"
+    },
+    {
+      "id": "33",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct T/c AT"
+    },
+    {
+      "id": "34",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Distinctive Tct T/c AT CRO"
+    },
+    {
+      "id": "42",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Tct Progression AT"
+    },
+    {
+      "id": "43",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,4 170CV Tct Progression AT CRO"
+    },
+    {
+      "id": "46",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 T 240CV Quadrifoglio Tct Veloce"
+    },
+    {
+      "id": "47",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 T 240CV Quadrifoglio Tct Veloce T/c"
+    },
+    {
+      "id": "44",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 TBI 235CV Quadrifoglio"
+    },
+    {
+      "id": "45",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 TBI 235CV Quadrifoglio T/c"
+    },
+    {
+      "id": "48",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 Tct 240CV Veloce"
+    },
+    {
+      "id": "52",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 Tct 240CV Veloce 2020"
+    },
+    {
+      "id": "49",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 Tct 240CV Veloce CRO Asiento Elec"
+    },
+    {
+      "id": "50",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 Tct 240CV Veloce CRO Asiento Elec Nav"
+    },
+    {
+      "id": "51",
+      "marcaId": "2",
+      "modeloId": "5",
+      "marca": "ALFA ROMEO",
+      "modelo": "GIULIETTA",
+      "version": "5P 1,8 Tct 240CV Veloce Grigio Racer"
+    },
+    {
+      "id": "53",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Junior"
+    },
+    {
+      "id": "54",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Junior CRO Milano"
+    },
+    {
+      "id": "55",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Junior CRO Milano Technology"
+    },
+    {
+      "id": "56",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Junior CRO Milano Technology Nav"
+    },
+    {
+      "id": "62",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Multiair 6ta Plus"
+    },
+    {
+      "id": "61",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Multiair 6ta Progression"
+    },
+    {
+      "id": "60",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Pack Racer"
+    },
+    {
+      "id": "57",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Progression M5"
+    },
+    {
+      "id": "58",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Progression M5 CRO Milano"
+    },
+    {
+      "id": "59",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 Progression M5 CRO Milano Technology"
+    },
+    {
+      "id": "91",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Quadri 6m CRO Mila Technology Racer"
+    },
+    {
+      "id": "88",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Quadrifoglio 6m"
+    },
+    {
+      "id": "89",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Quadrifoglio 6m CRO Milano"
+    },
+    {
+      "id": "90",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Quadrifoglio 6m CRO Milano Technology"
+    },
+    {
+      "id": "78",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce M6"
+    },
+    {
+      "id": "79",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce M6 CRO Milano"
+    },
+    {
+      "id": "80",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce M6 CRO Milano Technology"
+    },
+    {
+      "id": "81",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce M6 CRO Milano Technology Nav"
+    },
+    {
+      "id": "82",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce M6 CRO Milano Technology Nav Sunroof"
+    },
+    {
+      "id": "83",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce Tct"
+    },
+    {
+      "id": "84",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce Tct CRO Milano"
+    },
+    {
+      "id": "85",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce Tct CRO Milano Technology"
+    },
+    {
+      "id": "86",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce Tct CRO Milano Technology Nav"
+    },
+    {
+      "id": "87",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T 170CV Veloce Tct CRO Milano Technology Nav Sunroof"
+    },
+    {
+      "id": "63",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 TBI 6ta Distinctive"
+    },
+    {
+      "id": "64",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 TBI 6ta Distinctive T/c"
+    },
+    {
+      "id": "67",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 TBI 6ta Quadrifoglio T/c"
+    },
+    {
+      "id": "65",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Multiair 6ta Distinctive"
+    },
+    {
+      "id": "66",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Multiair 6ta Distinctive T/c"
+    },
+    {
+      "id": "68",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Progression Tct 2012"
+    },
+    {
+      "id": "69",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Progression Tct CRO Milano 2012"
+    },
+    {
+      "id": "70",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Qv M6 CRO Alcantara 2013"
+    },
+    {
+      "id": "71",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Qv M6 CRO Alcantara T/c 2013"
+    },
+    {
+      "id": "72",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Qv M6 CRO Milano 2013"
+    },
+    {
+      "id": "73",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Qv M6 CRO Milano T/c 2013"
+    },
+    {
+      "id": "75",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Qv M6 CRO Milano T/c Pack Racer"
+    },
+    {
+      "id": "74",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Qv M6 CRO Milano T/c Premium 2013"
+    },
+    {
+      "id": "6490",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Sport 2012"
+    },
+    {
+      "id": "92",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4t Sport 2012"
+    },
+    {
+      "id": "6491",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Sport T/c 2012"
+    },
+    {
+      "id": "93",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4t Sport T/c 2012"
+    },
+    {
+      "id": "76",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Tct Distinctive AT 2012"
+    },
+    {
+      "id": "77",
+      "marcaId": "2",
+      "modeloId": "6",
+      "marca": "ALFA ROMEO",
+      "modelo": "MiTo",
+      "version": "3P 1,4 T Tct Distinctive T/c 2012"
+    },
+    {
+      "id": "94",
+      "marcaId": "2",
+      "modeloId": "7",
+      "marca": "ALFA ROMEO",
+      "modelo": "SPIDER",
+      "version": "Cabrio 2,2 JTS S-Speed 6ta"
+    },
+    {
+      "id": "95",
+      "marcaId": "2",
+      "modeloId": "8",
+      "marca": "ALFA ROMEO",
+      "modelo": "STELVIO",
+      "version": "5P 2,0 T AT AWD 200CV Distinctive"
+    },
+    {
+      "id": "96",
+      "marcaId": "2",
+      "modeloId": "8",
+      "marca": "ALFA ROMEO",
+      "modelo": "STELVIO",
+      "version": "5P 2,0 T AT AWD 200CV Distinctive 2020"
+    },
+    {
+      "id": "99",
+      "marcaId": "2",
+      "modeloId": "8",
+      "marca": "ALFA ROMEO",
+      "modelo": "STELVIO",
+      "version": "5P 2,0 T AT AWD 280CV Super Q4 2021"
+    },
+    {
+      "id": "97",
+      "marcaId": "2",
+      "modeloId": "8",
+      "marca": "ALFA ROMEO",
+      "modelo": "STELVIO",
+      "version": "5P 2,0 T AT AWD 280CV Veloce"
+    },
+    {
+      "id": "98",
+      "marcaId": "2",
+      "modeloId": "8",
+      "marca": "ALFA ROMEO",
+      "modelo": "STELVIO",
+      "version": "5P 2,0 T AT AWD 280CV Veloce 2020"
+    },
+    {
+      "id": "100",
+      "marcaId": "2",
+      "modeloId": "8",
+      "marca": "ALFA ROMEO",
+      "modelo": "STELVIO",
+      "version": "5P 2,9 Bt Rwd 510CV Quadrifoglio"
+    },
+    {
+      "id": "103",
+      "marcaId": "2",
+      "modeloId": "9",
+      "marca": "ALFA ROMEO",
+      "modelo": "TONALE",
+      "version": "5P 1,3 T 6AT Phev 4q Tributo Italiano"
+    },
+    {
+      "id": "101",
+      "marcaId": "2",
+      "modeloId": "9",
+      "marca": "ALFA ROMEO",
+      "modelo": "TONALE",
+      "version": "5P 1,5 T 7AT Mhev Sprint"
+    },
+    {
+      "id": "102",
+      "marcaId": "2",
+      "modeloId": "9",
+      "marca": "ALFA ROMEO",
+      "modelo": "TONALE",
+      "version": "5P 1,5 T 7AT Mhev Veloce"
+    },
+    {
+      "id": "6326",
+      "marcaId": "65",
+      "modeloId": "636",
+      "marca": "ARCFOX",
+      "modelo": "KOALA S",
+      "version": "Minivan Electrica"
+    },
+    {
+      "id": "6327",
+      "marcaId": "65",
+      "modeloId": "637",
+      "marca": "ARCFOX",
+      "modelo": "S5",
+      "version": "Sedan Sportback Electrico"
+    },
+    {
+      "id": "6328",
+      "marcaId": "65",
+      "modeloId": "638",
+      "marca": "ARCFOX",
+      "modelo": "T1",
+      "version": "Suv Subcompacto Electrico"
+    },
+    {
+      "id": "6329",
+      "marcaId": "65",
+      "modeloId": "639",
+      "marca": "ARCFOX",
+      "modelo": "T5",
+      "version": "Suv Crossover Electrico"
+    },
+    {
+      "id": "104",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "3P 1,2 Tfsi Attraction"
+    },
+    {
+      "id": "105",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "3P 1,4 Tfsi Ambition"
+    },
+    {
+      "id": "106",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "3P 1,4 Tfsi Ambition S-Tronic"
+    },
+    {
+      "id": "107",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "3P 1,4 Tfsi S Line S-Tronic"
+    },
+    {
+      "id": "111",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "5P 1,0 Tfsi Sportback 30 116CV"
+    },
+    {
+      "id": "108",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "5P 1,4 Tfsi Sportback Ambition"
+    },
+    {
+      "id": "109",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "5P 1,4 Tfsi Sportback Ambition S-Tronic"
+    },
+    {
+      "id": "110",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "5P 1,4 Tfsi Sportback S Line S-Tronic"
+    },
+    {
+      "id": "112",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "5P 1,5 Tfsi Sportback 35 150CV"
+    },
+    {
+      "id": "113",
+      "marcaId": "3",
+      "modeloId": "10",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "version": "5P 2,0 Tfsi Sportback 40 200CV S Line"
+    },
+    {
+      "id": "114",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi"
+    },
+    {
+      "id": "124",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi 2013"
+    },
+    {
+      "id": "126",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi 2017"
+    },
+    {
+      "id": "116",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi Alcantara"
+    },
+    {
+      "id": "117",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi Alcantara S-Tronic"
+    },
+    {
+      "id": "118",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi CRO"
+    },
+    {
+      "id": "119",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi CRO S-Tronic"
+    },
+    {
+      "id": "122",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi Plus"
+    },
+    {
+      "id": "123",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi Plus S-Tronic"
+    },
+    {
+      "id": "120",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi Premium"
+    },
+    {
+      "id": "121",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi Premium S-Tronic"
+    },
+    {
+      "id": "115",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi S-Tronic"
+    },
+    {
+      "id": "125",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi S-Tronic 2013"
+    },
+    {
+      "id": "127",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,4 Tfsi S-Tronic 2017"
+    },
+    {
+      "id": "128",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,6"
+    },
+    {
+      "id": "129",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,6 Alcantara"
+    },
+    {
+      "id": "130",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,6 CRO"
+    },
+    {
+      "id": "132",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,6 Plus"
+    },
+    {
+      "id": "131",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,6 Premium"
+    },
+    {
+      "id": "133",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi"
+    },
+    {
+      "id": "143",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi 2013"
+    },
+    {
+      "id": "135",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi Alcantara"
+    },
+    {
+      "id": "136",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi Alcantara S-Tronic"
+    },
+    {
+      "id": "137",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi CRO"
+    },
+    {
+      "id": "138",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi CRO S-Tronic"
+    },
+    {
+      "id": "141",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi Plus"
+    },
+    {
+      "id": "142",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi Plus S-Tronic"
+    },
+    {
+      "id": "139",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi Premium"
+    },
+    {
+      "id": "140",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi Premium S-Tronic"
+    },
+    {
+      "id": "134",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi S-Tronic"
+    },
+    {
+      "id": "144",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi S-Tronic 2013"
+    },
+    {
+      "id": "145",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 1,8 Tfsi S-Tronic Quattro"
+    },
+    {
+      "id": "155",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Diesel S-Tronic"
+    },
+    {
+      "id": "159",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Diesel S-Tronic 2013"
+    },
+    {
+      "id": "156",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Diesel S-Tronic Alcantara"
+    },
+    {
+      "id": "157",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Diesel S-Tronic CRO"
+    },
+    {
+      "id": "158",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Diesel S-Tronic Premium"
+    },
+    {
+      "id": "146",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi"
+    },
+    {
+      "id": "148",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi Alcantara"
+    },
+    {
+      "id": "149",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi Alcantara Tipt"
+    },
+    {
+      "id": "150",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi CRO"
+    },
+    {
+      "id": "151",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi CRO Tipt"
+    },
+    {
+      "id": "152",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi Premium"
+    },
+    {
+      "id": "153",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi Premium Tipt"
+    },
+    {
+      "id": "154",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi S-Tronic 2017"
+    },
+    {
+      "id": "147",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "3P 2,0 Tfsi Tipt"
+    },
+    {
+      "id": "160",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,4 Tfsi"
+    },
+    {
+      "id": "162",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,4 Tfsi 2017"
+    },
+    {
+      "id": "164",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,4 Tfsi 35 150CV"
+    },
+    {
+      "id": "165",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,4 Tfsi 35 150CV 2025"
+    },
+    {
+      "id": "166",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,4 Tfsi 35 150CV Advanced"
+    },
+    {
+      "id": "161",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,4 Tfsi S-Tronic"
+    },
+    {
+      "id": "163",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,4 Tfsi S-Tronic 2017"
+    },
+    {
+      "id": "167",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,8 Tfsi"
+    },
+    {
+      "id": "168",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,8 Tfsi S-Tronic"
+    },
+    {
+      "id": "169",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 1,8 Tfsi S-Tronic Quattro"
+    },
+    {
+      "id": "6330",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 2,0 Tfsi 190CV S Line"
+    },
+    {
+      "id": "173",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 2,0 Tfsi 40 190CV Advance  S-Tronic"
+    },
+    {
+      "id": "172",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 2,0 Tfsi 40 190CV S Line"
+    },
+    {
+      "id": "6589",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 2,0 Tfsi S-Tronic 190CV S Line 40 2026"
+    },
+    {
+      "id": "170",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 2,0 Tfsi S-Tronic 2017"
+    },
+    {
+      "id": "171",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "4P 2,0 Tfsi S-Tronic Line Style 2018"
+    },
+    {
+      "id": "174",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback"
+    },
+    {
+      "id": "184",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback 2013"
+    },
+    {
+      "id": "186",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback 2017"
+    },
+    {
+      "id": "188",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback 35 150CV"
+    },
+    {
+      "id": "189",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback 35 150CV 8trip"
+    },
+    {
+      "id": "190",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback 35 150CV 8trip 2025"
+    },
+    {
+      "id": "191",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback 35 150CV 8trip Advanced"
+    },
+    {
+      "id": "176",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback Alcantara"
+    },
+    {
+      "id": "177",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback Alcantara S-Tronic"
+    },
+    {
+      "id": "178",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback CRO"
+    },
+    {
+      "id": "179",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback CRO S-Tronic"
+    },
+    {
+      "id": "182",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback Plus"
+    },
+    {
+      "id": "183",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback Plus S-Tronic"
+    },
+    {
+      "id": "180",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback Premium"
+    },
+    {
+      "id": "181",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback Premium S-Tronic"
+    },
+    {
+      "id": "175",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback S-Tronic"
+    },
+    {
+      "id": "185",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback S-Tronic 2013"
+    },
+    {
+      "id": "187",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,4 Tfsi Sportback S-Tronic 2017"
+    },
+    {
+      "id": "192",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,6 Sportback"
+    },
+    {
+      "id": "194",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,6 Sportback Alcantara"
+    },
+    {
+      "id": "195",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,6 Sportback CRO"
+    },
+    {
+      "id": "197",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,6 Sportback Plus"
+    },
+    {
+      "id": "196",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,6 Sportback Premium"
+    },
+    {
+      "id": "193",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,6 Sportback Tipt"
+    },
+    {
+      "id": "198",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback"
+    },
+    {
+      "id": "208",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback 180CV"
+    },
+    {
+      "id": "200",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback  Alcantara"
+    },
+    {
+      "id": "201",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback Alcantara S-Tronic"
+    },
+    {
+      "id": "202",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback CRO"
+    },
+    {
+      "id": "203",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback CRO S-Tronic"
+    },
+    {
+      "id": "206",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback Plus"
+    },
+    {
+      "id": "207",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback Plus S-Tronic"
+    },
+    {
+      "id": "204",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback Premium"
+    },
+    {
+      "id": "205",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback Premium S-Tronic"
+    },
+    {
+      "id": "199",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback S-Tronic"
+    },
+    {
+      "id": "209",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback S-Tronic 180CV"
+    },
+    {
+      "id": "210",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 1,8 Tfsi Sportback S-Tronic Quattro 180CV"
+    },
+    {
+      "id": "222",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Diesel Sportback S-Tronic"
+    },
+    {
+      "id": "223",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Diesel Sportback S-Tronic Alcantara"
+    },
+    {
+      "id": "224",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Diesel Sportback S-Tronic CRO"
+    },
+    {
+      "id": "225",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Diesel Sportback S-Tronic Premium"
+    },
+    {
+      "id": "211",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback"
+    },
+    {
+      "id": "221",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback 40 190CV S Line"
+    },
+    {
+      "id": "6590",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback 40 190CV S Line S-Tronic 2026"
+    },
+    {
+      "id": "213",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback Alcantara"
+    },
+    {
+      "id": "214",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback Alcantara S-Tronic"
+    },
+    {
+      "id": "215",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback CRO"
+    },
+    {
+      "id": "216",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback CRO S-Tronic"
+    },
+    {
+      "id": "217",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback Premium"
+    },
+    {
+      "id": "218",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback Premium S-Tronic"
+    },
+    {
+      "id": "212",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback S-Tronic"
+    },
+    {
+      "id": "219",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback S-Tronic 2017"
+    },
+    {
+      "id": "220",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "5P 2,0 Tfsi Sportback S-Tronic Line Style 2018"
+    },
+    {
+      "id": "226",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "Cabrio 1,8 Tfsi"
+    },
+    {
+      "id": "227",
+      "marcaId": "3",
+      "modeloId": "11",
+      "marca": "AUDI",
+      "modelo": "A3",
+      "version": "Cabrio 1,8 Tfsi S-Tronic"
+    }
+  ],
+  "completo": false
+}
