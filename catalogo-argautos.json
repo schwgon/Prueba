@@ -1341,6 +1341,138 @@
       "marcaId": "11",
       "marca": "CITROEN",
       "nombre": "XSARA PICASSO"
+    },
+    {
+      "id": "169",
+      "marcaId": "12",
+      "marca": "DFSK",
+      "nombre": "E5"
+    },
+    {
+      "id": "170",
+      "marcaId": "12",
+      "marca": "DFSK",
+      "nombre": "GLORY 500"
+    },
+    {
+      "id": "171",
+      "marcaId": "12",
+      "marca": "DFSK",
+      "nombre": "GLORY 580"
+    },
+    {
+      "id": "172",
+      "marcaId": "12",
+      "marca": "DFSK",
+      "nombre": "SERIE C"
+    },
+    {
+      "id": "173",
+      "marcaId": "12",
+      "marca": "DFSK",
+      "nombre": "SERIE K"
+    },
+    {
+      "id": "174",
+      "marcaId": "13",
+      "marca": "DODGE",
+      "nombre": "JOURNEY"
+    },
+    {
+      "id": "671",
+      "marcaId": "70",
+      "marca": "DOMY",
+      "nombre": "K2"
+    },
+    {
+      "id": "672",
+      "marcaId": "70",
+      "marca": "DOMY",
+      "nombre": "V1"
+    },
+    {
+      "id": "673",
+      "marcaId": "14",
+      "marca": "DONGFENG",
+      "nombre": "BOX"
+    },
+    {
+      "id": "674",
+      "marcaId": "14",
+      "marca": "DONGFENG",
+      "nombre": "HUGE"
+    },
+    {
+      "id": "675",
+      "marcaId": "14",
+      "marca": "DONGFENG",
+      "nombre": "MAGE"
+    },
+    {
+      "id": "176",
+      "marcaId": "14",
+      "marca": "DONGFENG",
+      "nombre": "U-VAN 414"
+    },
+    {
+      "id": "175",
+      "marcaId": "14",
+      "marca": "DONGFENG",
+      "nombre": "VAN 312"
+    },
+    {
+      "id": "177",
+      "marcaId": "15",
+      "marca": "DS AUTOMOBILES",
+      "nombre": "DS 3"
+    },
+    {
+      "id": "178",
+      "marcaId": "15",
+      "marca": "DS AUTOMOBILES",
+      "nombre": "DS 3 CROSSBACK"
+    },
+    {
+      "id": "179",
+      "marcaId": "15",
+      "marca": "DS AUTOMOBILES",
+      "nombre": "DS 4"
+    },
+    {
+      "id": "180",
+      "marcaId": "15",
+      "marca": "DS AUTOMOBILES",
+      "nombre": "DS 7"
+    },
+    {
+      "id": "181",
+      "marcaId": "15",
+      "marca": "DS AUTOMOBILES",
+      "nombre": "DS 7 CROSSBACK"
+    },
+    {
+      "id": "182",
+      "marcaId": "15",
+      "marca": "DS AUTOMOBILES",
+      "nombre": "DS 9"
+    },
+    {
+      "id": "183",
+      "marcaId": "16",
+      "marca": "FAW",
+      "nombre": "ACTIS"
+    },
+    {
+      "id": "184",
+      "marcaId": "16",
+      "marca": "FAW",
+      "nombre": "T33 BESTUNE"
+    },
+    {
+      "id": "185",
+      "marcaId": "16",
+      "marca": "FAW",
+      "nombre": "X 40"
     }
   ],
   "versiones": [
@@ -13175,6 +13307,654 @@
       "marca": "CITROEN",
       "modelo": "SPACETOURER",
       "version": "Van 2,0 Diesel L2 6AT 7a Feel Pack"
+    },
+    {
+      "id": "1439",
+      "marcaId": "11",
+      "modeloId": "168",
+      "marca": "CITROEN",
+      "modelo": "XSARA PICASSO",
+      "version": "5P 1,6 I 16V"
+    },
+    {
+      "id": "1440",
+      "marcaId": "11",
+      "modeloId": "168",
+      "marca": "CITROEN",
+      "modelo": "XSARA PICASSO",
+      "version": "5P 1,6 I 16V Exclusive"
+    },
+    {
+      "id": "1441",
+      "marcaId": "12",
+      "modeloId": "169",
+      "marca": "DFSK",
+      "modelo": "E5",
+      "version": "5P 1,5 Ecvt Plug-In Hybrid"
+    },
+    {
+      "id": "6664",
+      "marcaId": "12",
+      "modeloId": "169",
+      "marca": "DFSK",
+      "modelo": "E5",
+      "version": "5P 1,5 Plus Phev 7asientos"
+    },
+    {
+      "id": "1442",
+      "marcaId": "12",
+      "modeloId": "170",
+      "marca": "DFSK",
+      "modelo": "GLORY 500",
+      "version": "5P 1,5 T CVT"
+    },
+    {
+      "id": "1443",
+      "marcaId": "12",
+      "modeloId": "171",
+      "marca": "DFSK",
+      "modelo": "GLORY 580",
+      "version": "5P 1,8 CVT 7a"
+    },
+    {
+      "id": "1444",
+      "marcaId": "12",
+      "modeloId": "172",
+      "marca": "DFSK",
+      "modelo": "SERIE C",
+      "version": "C31 1,5 Truck C/S"
+    },
+    {
+      "id": "1445",
+      "marcaId": "12",
+      "modeloId": "172",
+      "marca": "DFSK",
+      "modelo": "SERIE C",
+      "version": "C31 1,5 Truck C/S ESP"
+    },
+    {
+      "id": "1446",
+      "marcaId": "12",
+      "modeloId": "172",
+      "marca": "DFSK",
+      "modelo": "SERIE C",
+      "version": "C32 1,5 Truck D/C"
+    },
+    {
+      "id": "1447",
+      "marcaId": "12",
+      "modeloId": "172",
+      "marca": "DFSK",
+      "modelo": "SERIE C",
+      "version": "C32 1,5 Truck D/C ESP"
+    },
+    {
+      "id": "1448",
+      "marcaId": "12",
+      "modeloId": "172",
+      "marca": "DFSK",
+      "modelo": "SERIE C",
+      "version": "C35 1,5 Furgon Cargo Van"
+    },
+    {
+      "id": "1449",
+      "marcaId": "12",
+      "modeloId": "172",
+      "marca": "DFSK",
+      "modelo": "SERIE C",
+      "version": "C35 1,5 Furgon Cargo Van ESP"
+    },
+    {
+      "id": "1450",
+      "marcaId": "12",
+      "modeloId": "173",
+      "marca": "DFSK",
+      "modelo": "SERIE K",
+      "version": "Pick Up 1,3 K01h C/ext"
+    },
+    {
+      "id": "1451",
+      "marcaId": "13",
+      "modeloId": "174",
+      "marca": "DODGE",
+      "modelo": "JOURNEY",
+      "version": "5P 2,4 Se 2f AT"
+    },
+    {
+      "id": "1452",
+      "marcaId": "13",
+      "modeloId": "174",
+      "marca": "DODGE",
+      "modelo": "JOURNEY",
+      "version": "5P 2,4 Se 3f AT"
+    },
+    {
+      "id": "1456",
+      "marcaId": "13",
+      "modeloId": "174",
+      "marca": "DODGE",
+      "modelo": "JOURNEY",
+      "version": "5P 2,4 Sxt 3f 6AT T/c Dvd 2013"
+    },
+    {
+      "id": "1453",
+      "marcaId": "13",
+      "modeloId": "174",
+      "marca": "DODGE",
+      "modelo": "JOURNEY",
+      "version": "5P 2,4 Sxt 3f AT 2012"
+    },
+    {
+      "id": "1454",
+      "marcaId": "13",
+      "modeloId": "174",
+      "marca": "DODGE",
+      "modelo": "JOURNEY",
+      "version": "5P 2,4 Sxt 3f AT Dvd 2012"
+    },
+    {
+      "id": "1455",
+      "marcaId": "13",
+      "modeloId": "174",
+      "marca": "DODGE",
+      "modelo": "JOURNEY",
+      "version": "5P 2,4 Sxt 3f AT T/c Dvd 2012"
+    },
+    {
+      "id": "1457",
+      "marcaId": "13",
+      "modeloId": "174",
+      "marca": "DODGE",
+      "modelo": "JOURNEY",
+      "version": "5P 3,6 Rt Atx AWD"
+    },
+    {
+      "id": "6500",
+      "marcaId": "70",
+      "modeloId": "671",
+      "marca": "DOMY",
+      "modelo": "K2",
+      "version": "Pick Up 1,5 C/d"
+    },
+    {
+      "id": "6501",
+      "marcaId": "70",
+      "modeloId": "672",
+      "marca": "DOMY",
+      "modelo": "V1",
+      "version": "Furgon 1,5"
+    },
+    {
+      "id": "6502",
+      "marcaId": "14",
+      "modeloId": "673",
+      "marca": "DONGFENG",
+      "modelo": "BOX",
+      "version": "5P Ev Electrico"
+    },
+    {
+      "id": "6503",
+      "marcaId": "14",
+      "modeloId": "674",
+      "marca": "DONGFENG",
+      "modelo": "HUGE",
+      "version": "5P 1,5 T Hev"
+    },
+    {
+      "id": "6504",
+      "marcaId": "14",
+      "modeloId": "675",
+      "marca": "DONGFENG",
+      "modelo": "MAGE",
+      "version": "5P 1,5 T Hev"
+    },
+    {
+      "id": "1462",
+      "marcaId": "14",
+      "modeloId": "176",
+      "marca": "DONGFENG",
+      "modelo": "U-VAN 414",
+      "version": "U-Van 2,3 D 414 Bus 15+1 A"
+    },
+    {
+      "id": "1461",
+      "marcaId": "14",
+      "modeloId": "176",
+      "marca": "DONGFENG",
+      "modelo": "U-VAN 414",
+      "version": "U-Van 2,3 D 414 Cargo"
+    },
+    {
+      "id": "1458",
+      "marcaId": "14",
+      "modeloId": "175",
+      "marca": "DONGFENG",
+      "modelo": "VAN 312",
+      "version": "Van 1,6 312 Cargo"
+    },
+    {
+      "id": "1460",
+      "marcaId": "14",
+      "modeloId": "175",
+      "marca": "DONGFENG",
+      "modelo": "VAN 312",
+      "version": "Van 1,6 312 L Bus Cargo 10+1 A"
+    },
+    {
+      "id": "1459",
+      "marcaId": "14",
+      "modeloId": "175",
+      "marca": "DONGFENG",
+      "modelo": "VAN 312",
+      "version": "Van 1,6 312 L Cargo"
+    },
+    {
+      "id": "6600",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,2 110 6AT Dark Side Pure Tech"
+    },
+    {
+      "id": "6599",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,2 110 6AT So Chic Pure Tech"
+    },
+    {
+      "id": "1476",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 110 6AT Café Racer"
+    },
+    {
+      "id": "1473",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 110 6AT Dark Side Pure Tech"
+    },
+    {
+      "id": "1477",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 110 6AT Performance Line"
+    },
+    {
+      "id": "1472",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 110 6AT So Chic Pure Tech"
+    },
+    {
+      "id": "1465",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 Sport Chic THP"
+    },
+    {
+      "id": "1469",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 THP 156 6MT Sport Chic"
+    },
+    {
+      "id": "1474",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 THP 165 6MT Sport Chic"
+    },
+    {
+      "id": "1475",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 THP 208 6MT S&s Performance"
+    },
+    {
+      "id": "1464",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 Turbo Sport Chic"
+    },
+    {
+      "id": "1470",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 Vti 120 Be Chic 2017"
+    },
+    {
+      "id": "1471",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 Vti 120 Givenchy 2017"
+    },
+    {
+      "id": "1468",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 Vti 120 So Chic"
+    },
+    {
+      "id": "1467",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 Vti 1955"
+    },
+    {
+      "id": "1466",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 Vti So Chic"
+    },
+    {
+      "id": "1463",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "3P 1,6 Vti Sport Chic"
+    },
+    {
+      "id": "1479",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "5P 1,2 T Hybrid Etoile"
+    },
+    {
+      "id": "6601",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "Cabrio 1,2 110 6AT So Chic Pure Tech"
+    },
+    {
+      "id": "1478",
+      "marcaId": "15",
+      "modeloId": "177",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3",
+      "version": "Cabrio 1,6 110 6AT So Chic Pure Tech"
+    },
+    {
+      "id": "1480",
+      "marcaId": "15",
+      "modeloId": "178",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3 CROSSBACK",
+      "version": "5P 1,2 T 8AT Puretech Be Chic"
+    },
+    {
+      "id": "1482",
+      "marcaId": "15",
+      "modeloId": "178",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3 CROSSBACK",
+      "version": "5P 1,2 T 8AT Puretech Grand Chic"
+    },
+    {
+      "id": "1483",
+      "marcaId": "15",
+      "modeloId": "178",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3 CROSSBACK",
+      "version": "5P 1,2 T 8AT Puretech Rivoli"
+    },
+    {
+      "id": "1484",
+      "marcaId": "15",
+      "modeloId": "178",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3 CROSSBACK",
+      "version": "5P 1,2 T 8AT Puretech Rivoli 2022"
+    },
+    {
+      "id": "1481",
+      "marcaId": "15",
+      "modeloId": "178",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 3 CROSSBACK",
+      "version": "5P 1,2 T 8AT Puretech So Chic"
+    },
+    {
+      "id": "1493",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,2 T 8AT Puretech Etoile"
+    },
+    {
+      "id": "1494",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,2 T Hybrid Etoile"
+    },
+    {
+      "id": "1488",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,6 THP 163 6AT Be Chic Cb"
+    },
+    {
+      "id": "1489",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,6 THP 163 6AT Be Chic Cb Pack Inspiration"
+    },
+    {
+      "id": "1486",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,6 THP 163 6AT So Chic Am24"
+    },
+    {
+      "id": "1487",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,6 THP 163 6AT So Chic Am24 Crossback"
+    },
+    {
+      "id": "1490",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,6 THP 208 6MT S&s Performance Line"
+    },
+    {
+      "id": "1491",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,6 THP 215 8AT Performance Line"
+    },
+    {
+      "id": "1492",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,6 THP 215 8AT Trocadero"
+    },
+    {
+      "id": "1485",
+      "marcaId": "15",
+      "modeloId": "179",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 4",
+      "version": "5P 1,6 Turbo"
+    },
+    {
+      "id": "1495",
+      "marcaId": "15",
+      "modeloId": "180",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7",
+      "version": "5P 1,6 T 215 8AT Bastille"
+    },
+    {
+      "id": "1496",
+      "marcaId": "15",
+      "modeloId": "180",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7",
+      "version": "5P 1,6 T 215 8AT Rivoli"
+    },
+    {
+      "id": "1497",
+      "marcaId": "15",
+      "modeloId": "180",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7",
+      "version": "5P 1,6 THP E-Tense 4X4 8AT Pallas Hibrido"
+    },
+    {
+      "id": "1498",
+      "marcaId": "15",
+      "modeloId": "180",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7",
+      "version": "5P Pallas"
+    },
+    {
+      "id": "1499",
+      "marcaId": "15",
+      "modeloId": "180",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7",
+      "version": "5P Plug-In Hybrid AWD"
+    },
+    {
+      "id": "1500",
+      "marcaId": "15",
+      "modeloId": "181",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7 CROSSBACK",
+      "version": "5P 165 Pure Tech AT Performance Line"
+    },
+    {
+      "id": "1504",
+      "marcaId": "15",
+      "modeloId": "181",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7 CROSSBACK",
+      "version": "5P 2,0 Diesel 180 AT  Bastille +"
+    },
+    {
+      "id": "1502",
+      "marcaId": "15",
+      "modeloId": "181",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7 CROSSBACK",
+      "version": "5P 2,0 Diesel 180 AT Grand Chic"
+    },
+    {
+      "id": "1503",
+      "marcaId": "15",
+      "modeloId": "181",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7 CROSSBACK",
+      "version": "5P 2,0 Diesel 180 AT Grand Chic Opera"
+    },
+    {
+      "id": "1505",
+      "marcaId": "15",
+      "modeloId": "181",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7 CROSSBACK",
+      "version": "5P 2,0 Diesel 180 AT Rivoli"
+    },
+    {
+      "id": "1501",
+      "marcaId": "15",
+      "modeloId": "181",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7 CROSSBACK",
+      "version": "5P 2,0 Diesel 180 AT So Chic"
+    },
+    {
+      "id": "1506",
+      "marcaId": "15",
+      "modeloId": "181",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7 CROSSBACK",
+      "version": "5P E-Tense 4X4 300 Bastille +"
+    },
+    {
+      "id": "1507",
+      "marcaId": "15",
+      "modeloId": "181",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 7 CROSSBACK",
+      "version": "5P E-Tense 4X4 300 Bastille + Oprea"
+    },
+    {
+      "id": "1508",
+      "marcaId": "15",
+      "modeloId": "182",
+      "marca": "DS AUTOMOBILES",
+      "modelo": "DS 9",
+      "version": "4P 1,6 Rivoli E8at"
+    },
+    {
+      "id": "1510",
+      "marcaId": "16",
+      "modeloId": "183",
+      "marca": "FAW",
+      "modelo": "ACTIS",
+      "version": "C/S 1,5 Box"
+    },
+    {
+      "id": "1509",
+      "marcaId": "16",
+      "modeloId": "183",
+      "marca": "FAW",
+      "modelo": "ACTIS",
+      "version": "C/S 1,5 Truck"
     }
   ],
   "completo": false
