@@ -1,60 +1,65 @@
 name: Actualizar datos de vehículos
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 5 1 * *"
+    - cron: '0 5 1 * *'
+
 permissions:
   contents: write
   actions: write
+
 concurrency:
   group: actualizacion-autos
   cancel-in-progress: false
+
 jobs:
   lote:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
+
       - name: Configurar Node.js
         uses: actions/setup-node@v5
         with:
           node-version: 24
-      - name: Leer checkpoint
-        id: checkpoint
-        shell: bash
-        run: |
-          if [ -f estado-actualizacion.json ]; then
-            echo "index=$(node -p "require('./estado-actualizacion.json').siguienteIndice || 0")" >> "$GITHUB_OUTPUT"
-          else
-            echo "index=0" >> "$GITHUB_OUTPUT"
-          fi
+
       - name: Procesar lote de prueba
         env:
-          START_INDEX: ${{ steps.checkpoint.outputs.index }}
           JOB_SECONDS: 540
           BATCH_SIZE: 20
         run: node scripts/generar-autos-data.js
-      - name: Guardar resultados
+
+      - name: Guardar resultados y checkpoint
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add autos-data.json catalogo-argautos.json estado-actualizacion.json
           if git diff --cached --quiet; then
-            echo "Sin cambios para guardar."
+            echo 'Sin cambios para guardar.'
           else
-            git commit -m "Actualizar lote de datos de vehículos"
+            git commit -m 'Actualizar lote de datos de vehículos'
             git push
           fi
+
+      - name: Comprobar si debe continuar
+        id: continuar
+        shell: bash
+        run: |
+          if [ -f estado-actualizacion.json ]; then
+            COMPLETE=$(node -p "require('./estado-actualizacion.json').completado === true")
+            echo "complete=$COMPLETE" >> "$GITHUB_OUTPUT"
+          else
+            echo 'complete=false' >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Lanzar siguiente lote
-        if: success()
+        if: steps.continuar.outputs.complete == 'false'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          if [ "$(node -p "require('./estado-actualizacion.json').completado")" = "true" ]; then
-            echo "Actualización completa."
-          else
-            gh workflow run actualizar-autos.yml
-          fi
+        run: gh workflow run actualizar-autos.yml
