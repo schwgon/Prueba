@@ -16,7 +16,7 @@ concurrency:
 jobs:
   lote:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 150
 
     steps:
       - name: Descargar repositorio
@@ -29,13 +29,14 @@ jobs:
         with:
           node-version: 24
 
-      - name: Procesar lote de prueba
+      - name: Procesar lote
         env:
-          JOB_SECONDS: 540
-          BATCH_SIZE: 20
+          JOB_SECONDS: 9000
+          RETRIES: 6
         run: node scripts/generar-autos-data.js
 
       - name: Guardar resultados y checkpoint
+        if: always()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -49,6 +50,7 @@ jobs:
 
       - name: Comprobar si debe continuar
         id: continuar
+        if: always()
         shell: bash
         run: |
           if [ -f estado-actualizacion.json ]; then
