@@ -3,7 +3,7 @@ name: Actualizar datos de vehículos
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 5 1 * *'  # 1er día del mes, 5 AM UTC
+    - cron: '0 5 1 * *'
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ concurrency:
 jobs:
   lote:
     runs-on: ubuntu-latest
-    timeout-minutes: 140  # Reducido de 150 a 140 para buffer de seguridad
+    timeout-minutes: 150
 
     steps:
       - name: Descargar repositorio
@@ -29,43 +29,11 @@ jobs:
         with:
           node-version: 24
 
-      - name: Procesar lote de valuaciones
+      - name: Procesar lote
         env:
-          JOB_SECONDS: 8400  # 2h 20min (margen de 10min antes del timeout de GitHub)
+          JOB_SECONDS: 9000
           RETRIES: 6
         run: node scripts/generar-autos-data.js
-
-      - name: Validar JSON generado
-        run: |
-          node -e "
-            const d = require('./autos-data.json');
-            if (!d.vehiculos || typeof d.vehiculos !== 'object') {
-              console.error('ERROR: autos-data.json corrupto - vehiculos vacío');
-              process.exit(1);
-            }
-            if (!d.estadisticas) {
-              console.error('ERROR: autos-data.json corrupto - estadisticas vacío');
-              process.exit(1);
-            }
-            console.log('✓ autos-data.json válido');
-            console.log('  Vehículos con valuación:', d.estadisticas.versionesConValuacion);
-            console.log('  Sin valuación:', d.estadisticas.versionesSinValuacion);
-            console.log('  Errores:', d.estadisticas.erroresSkipped);
-          "
-
-      - name: Validar estado
-        run: |
-          node -e "
-            const s = require('./estado-actualizacion.json');
-            if (typeof s.siguienteIndice !== 'number') {
-              console.error('ERROR: estado-actualizacion.json corrupto');
-              process.exit(1);
-            }
-            console.log('✓ estado-actualizacion.json válido');
-            console.log('  Índice actual:', s.siguienteIndice);
-            console.log('  Total versiones:', s.totalVersiones);
-            console.log('  Completado:', s.completado);
-          "
 
       - name: Guardar resultados y checkpoint
         if: always()
@@ -73,71 +41,27 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add autos-data.json catalogo-argautos.json estado-actualizacion.json
-          
           if git diff --cached --quiet; then
             echo 'Sin cambios para guardar.'
           else
-            git commit -m 'Actualizar lote de datos de vehículos [skip ci]'
+            git commit -m 'Actualizar lote de datos de vehículos'
             git push
-            echo "✓ Cambios guardados"
           fi
 
       - name: Comprobar si debe continuar
         id: continuar
         if: always()
+        shell: bash
         run: |
-          if [ ! -f estado-actualizacion.json ]; then
-            echo 'ERROR: No existe estado-actualizacion.json'
-            exit 1
+          if [ -f estado-actualizacion.json ]; then
+            COMPLETE=$(node -p "require('./estado-actualizacion.json').completado === true")
+            echo "complete=$COMPLETE" >> "$GITHUB_OUTPUT"
+          else
+            echo 'complete=false' >> "$GITHUB_OUTPUT"
           fi
-          
-          COMPLETADO=$(node -e "
-            const s = require('./estado-actualizacion.json');
-            console.log(s.completado === true ? 'true' : 'false');
-          " 2>/dev/null || echo "false")
-          
-          echo "complete=$COMPLETADO" >> "$GITHUB_OUTPUT"
-          echo "Generación completada: $COMPLETADO"
 
-      - name: Lanzar siguiente lote (si falta continuar)
+      - name: Lanzar siguiente lote
         if: steps.continuar.outputs.complete == 'false'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          echo "Iniciando siguiente lote..."
-          gh workflow run actualizar-autos.yml
-          echo "✓ Workflow lanzado"
-
-      - name: Notificar éxito
-        if: steps.continuar.outputs.complete == 'true'
-        run: |
-          echo "🎉 Generación de datos completada exitosamente"
-          node -e "
-            const d = require('./autos-data.json');
-            const s = d.estadisticas;
-            console.log('');
-            console.log('RESUMEN FINAL:');
-            console.log('  Marcas:', s.marcas);
-            console.log('  Modelos:', s.modelos);
-            console.log('  Versiones catalogadas:', s.versionesCatalogadas);
-            console.log('  Versiones con valuación:', s.versionesConValuacion);
-            console.log('  Versiones sin valuación:', s.versionesSinValuacion);
-            console.log('  Cobertura:', ((s.versionesConValuacion / s.versionesCatalogadas) * 100).toFixed(2) + '%');
-            console.log('  Actualizado:', d.actualizado);
-          "
-
-      - name: Notificar continuación pendiente
-        if: steps.continuar.outputs.complete == 'false'
-        run: |
-          echo "⏸️ Generación en progreso - siguiente lote en cola"
-          node -e "
-            const s = require('./estado-actualizacion.json');
-            const d = require('./autos-data.json');
-            const progreso = ((s.siguienteIndice / s.totalVersiones) * 100).toFixed(1);
-            console.log('');
-            console.log('PROGRESO:');
-            console.log('  Índice:', s.siguienteIndice + '/' + s.totalVersiones);
-            console.log('  Porcentaje:', progreso + '%');
-            console.log('  Con valuación:', d.estadisticas.versionesConValuacion);
-            console.log('  Próximo lote: será lanzado automáticamente');
-          "
+        run: gh workflow run actualizar-autos.yml
