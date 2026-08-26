@@ -1,369 +1,375 @@
-const fs = require('fs');
+const fs = require("fs");
+const path = require("path");
 
-const API = 'https://argautos.com/api/v1';
-const JOB_SECONDS = Number(process.env.JOB_SECONDS || 9000); // 2h30
-const RETRIES = Number(process.env.RETRIES || 6);
+const API = "https://argautos.com/api/v1";
+const MIN_YEAR = 2013;
+const MAX_YEAR = new Date().getFullYear();
 
-const MIN_YEAR_ABSOLUTE = 2013;
-const CURRENT_YEAR = new Date().getFullYear();
-const MIN_YEAR = Math.max(MIN_YEAR_ABSOLUTE, CURRENT_YEAR - 13);
-const MAX_YEAR = CURRENT_YEAR;
+// ArgAutos documenta 3 requests/minuto sin API key.
+// Usamos 20s entre requests para mantenernos dentro del límite.
+const REQUEST_INTERVAL_MS = Number(process.env.REQUEST_INTERVAL_MS || 20500);
 
-const CATALOG = 'catalogo-argautos.json';
-const DATA = 'autos-data.json';
-const STATE = 'estado-actualizacion.json';
+// Cada ejecución procesa hasta este tiempo y deja checkpoint.
+const JOB_SECONDS = Number(process.env.JOB_SECONDS || 9000);
 
-const deadline = Date.now() + JOB_SECONDS * 1000;
+// Archivos
+const ROOT = path.resolve(__dirname, "..");
+const CATALOG = path.join(ROOT, "catalogo-argautos.json");
+const DATA = path.join(ROOT, "autos-data.json");
+const STATE = path.join(ROOT, "estado-actualizacion.json");
 
-const sleep = ms => new Promise(r => setTimeout(r, ms));
-const read = (f, d) => fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : d;
-const write = (f, d) => fs.writeFileSync(f, JSON.stringify(d, null, 2));
-const timeOk = (extra = 15000) => Date.now() + extra < deadline;
-
-function defaultState() {
-  return {
-    fase: 'catalogo',
-    marcaIndex: 0,
-    modeloIndex: 0,
-    versionIndex: 0,
-    siguienteIndice: 0,
-    totalVersiones: 0,
-    completado: false
-  };
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function retryWait(attempt, retryAfter = null) {
-  if (retryAfter && Number.isFinite(Number(retryAfter))) {
-    return Math.max(1, Number(retryAfter)) * 1000;
-  }
-  return Math.min(30 * (2 ** attempt), 960) * 1000;
-}
-
-async function request(url, attempt = 0) {
-  if (!timeOk()) throw new Error('JOB_TIME_LIMIT');
-
-  console.log('GET ' + url);
-
-  let r;
+function readJson(file, fallback) {
   try {
-    r = await fetch(url, {
-      headers: {
-        Accept: 'application/json',
-        'User-Agent': 'MAUDAM-GitHub-Actions/4.0'
-      }
-    });
-  } catch (e) {
-    if (attempt >= RETRIES) throw new Error(`NETWORK_ERROR: ${e.message}`);
-    const wait = retryWait(attempt);
-    if (!timeOk(wait + 15000)) throw new Error('JOB_TIME_LIMIT');
-    console.log(`Error de red. Reintentando en ${Math.round(wait / 1000)} segundos...`);
-    await sleep(wait);
-    return request(url, attempt + 1);
+    return JSON.parse(fs.readFileSync(file, "utf8"));
+  } catch {
+    return fallback;
   }
+}
 
-  const text = await r.text();
-  let d = null;
-  try { d = JSON.parse(text); } catch {}
+function writeJsonAtomic(file, value) {
+  const tmp = `${file}.tmp`;
+  fs.writeFileSync(tmp, JSON.stringify(value, null, 2) + "\n", "utf8");
+  fs.renameSync(tmp, file);
+}
 
-  if (r.status === 429) {
-    if (attempt >= RETRIES) throw new Error('HTTP 429: demasiados reintentos');
-    const retryAfter = d?.retry_after ?? r.headers.get('retry-after') ?? null;
-    const wait = retryWait(attempt, retryAfter);
-    if (!timeOk(wait + 15000)) throw new Error('JOB_TIME_LIMIT');
-    console.log(`Rate limit. Esperando ${Math.round(wait / 1000)} segundos...`);
-    await sleep(wait);
-    return request(url, attempt + 1);
+function nowIso() {
+  return new Date().toISOString();
+}
+
+function loadCatalog() {
+  const catalog = readJson(CATALOG, null);
+  if (!catalog || !Array.isArray(catalog.versiones)) {
+    throw new Error(`No se encontró un catálogo válido en ${CATALOG}`);
   }
-
-  if ([500, 502, 503, 504].includes(r.status)) {
-    if (attempt >= RETRIES) throw new Error(`TEMPORARY_HTTP_${r.status}`);
-    const wait = retryWait(attempt);
-    if (!timeOk(wait + 15000)) throw new Error('JOB_TIME_LIMIT');
-    console.log(`HTTP ${r.status}. Reintentando en ${Math.round(wait / 1000)} segundos...`);
-    await sleep(wait);
-    return request(url, attempt + 1);
-  }
-
-  if (!r.ok) throw new Error(`HTTP ${r.status}: ${text.slice(0, 250)}`);
-  if (d === null) throw new Error(`Respuesta no JSON HTTP ${r.status}: ${text.slice(0, 200)}`);
-
-  await sleep(1000);
-  return d;
+  return catalog;
 }
 
-async function paginated(url) {
-  const out = [];
-  let next = url;
-  while (next) {
-    const d = await request(next);
-    if (Array.isArray(d.data)) out.push(...d.data);
-    next = d.links?.next || null;
-  }
-  return out;
-}
-
-function num(...xs) {
-  for (const x of xs) {
-    if (x !== undefined && x !== null && x !== '') {
-      const n = Number(String(x).replace(/[^\d.-]/g, ''));
-      if (Number.isFinite(n) && n > 0) return n;
-    }
-  }
-  return null;
-}
-
-function usd(v) {
-  return num(v.price_usd, v.priceUSD, v.usd_price, v.usd_price_value, v.usd);
-}
-
-function ars(v) {
-  return num(v.price_ars, v.priceARS, v.ars_price, v.ars_price_value, v.ars);
-}
-
-function fx(v, u, a) {
-  return num(v.exchange_rate, v.exchangeRate, v.usd_ars_rate, v.fx_rate, v.rate)
-    || (u && a ? a / u : null);
-}
-
-function ensureFiles() {
-  const state = read(STATE, defaultState());
-  const catalog = read(CATALOG, {
-    version: 2,
-    actualizado: null,
-    marcas: [],
-    modelos: [],
-    versiones: [],
-    completo: false
-  });
-  const data = read(DATA, {
-    version: 4,
-    fuente: 'Arg Autos',
+function freshData(catalog) {
+  return {
+    version: 5,
+    actualizado: nowIso(),
+    fuente: "Arg Autos",
     minYear: MIN_YEAR,
     maxYear: MAX_YEAR,
-    marcas: [],
-    vehiculos: {},
-    actualizado: null,
-    estadisticas: {}
-  });
-
-  data.minYear = MIN_YEAR;
-  data.maxYear = MAX_YEAR;
-
-  return { state, catalog, data };
+    totalVersionesCatalogadas: catalog.versiones.length,
+    versionesProcesadas: 0,
+    versionesConValuacion: 0,
+    completo: false,
+    vehiculos: {}
+  };
 }
 
-async function iniciarCatalogo(catalog, data) {
-  if (!catalog.marcas.length) {
-    const brands = (await request(`${API}/brands`)).data || [];
-    catalog.marcas = brands
-      .map(b => ({ id: String(b.id), nombre: b.name }))
-      .filter(b => b.nombre)
-      .sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
-    data.marcas = catalog.marcas.map(b => b.nombre);
-    write(CATALOG, catalog);
-    write(DATA, data);
-    console.log(`Marcas obtenidas: ${catalog.marcas.length}`);
+function loadData(catalog) {
+  const current = readJson(DATA, null);
+  if (!current || typeof current !== "object" || !current.vehiculos) {
+    return freshData(catalog);
   }
+
+  // Si el archivo viejo tiene el demo o un estado incompatible,
+  // arrancamos valuaciones desde cero, pero conservamos el catálogo.
+  const total = catalog.versiones.length;
+  const compatible =
+    current.totalVersionesCatalogadas === total &&
+    current.version >= 5 &&
+    current.vehiculos &&
+    !current.vehiculos.demo;
+
+  if (!compatible) {
+    return freshData(catalog);
+  }
+
+  current.minYear = MIN_YEAR;
+  current.maxYear = MAX_YEAR;
+  current.totalVersionesCatalogadas = total;
+  return current;
 }
 
-async function construirCatalogo(state, catalog, data) {
-  await iniciarCatalogo(catalog, data);
+function loadState(catalog) {
+  const total = catalog.versiones.length;
+  const state = readJson(STATE, null);
 
-  while (state.marcaIndex < catalog.marcas.length) {
-    const brand = catalog.marcas[state.marcaIndex];
-    console.log(`MARCA ${brand.nombre}`);
-
-    if (!catalog.modelos.some(m => m.marcaId === brand.id)) {
-      if (!timeOk(15000)) throw new Error('JOB_TIME_LIMIT');
-      const models = await paginated(`${API}/brands/${brand.id}/models`);
-      for (const m of models) {
-        catalog.modelos.push({
-          id: String(m.id), marcaId: brand.id,
-          marca: brand.nombre, nombre: m.name
-        });
-      }
-      write(CATALOG, catalog);
-      console.log(`Modelos acumulados: ${catalog.modelos.length}`);
-    }
-
-    const modelosMarca = catalog.modelos.filter(m => m.marcaId === brand.id);
-
-    while (state.modeloIndex < modelosMarca.length) {
-      const model = modelosMarca[state.modeloIndex];
-      console.log(`MODELO ${model.nombre}`);
-
-      if (!catalog.versiones.some(v => v.modeloId === model.id)) {
-        const versions = await paginated(`${API}/models/${model.id}/versions`);
-        for (const v of versions) {
-          catalog.versiones.push({
-            id: String(v.id),
-            marcaId: brand.id,
-            modeloId: model.id,
-            marca: brand.nombre,
-            modelo: model.nombre,
-            version: v.name
-          });
-        }
-        write(CATALOG, catalog);
-        console.log(`Versiones acumuladas: ${catalog.versiones.length}`);
-      }
-
-      state.modeloIndex++;
-      state.versionIndex = 0;
-      write(STATE, state);
-
-      if (!timeOk(15000)) throw new Error('JOB_TIME_LIMIT');
-    }
-
-    state.marcaIndex++;
-    state.modeloIndex = 0;
-    write(STATE, state);
-
-    if (!timeOk(15000)) throw new Error('JOB_TIME_LIMIT');
-  }
-
-  catalog.completo = true;
-  catalog.actualizado = new Date().toISOString();
-  write(CATALOG, catalog);
-
-  state.fase = 'valuaciones';
-  state.siguienteIndice = 0;
-  state.totalVersiones = catalog.versiones.length;
-  state.completado = false;
-  write(STATE, state);
-
-  console.log(`CATÁLOGO COMPLETO: ${catalog.versiones.length} versiones`);
-}
-
-async function procesarUnaVersion(item, data) {
-  const vals = await paginated(`${API}/versions/${item.id}/valuations?currency=ars`);
-  const precios = {};
-
-  for (const v of vals) {
-    const year = Number(v.year);
-    if (!Number.isInteger(year) || year < MIN_YEAR || year > MAX_YEAR) continue;
-
-    const u = usd(v);
-    const a = ars(v);
-    const rate = fx(v, u, a);
-
-    if (u !== null || a !== null) {
-      precios[year] = {
-        usd: u,
-        tipoCambio: rate,
-        ars: a,
-        actualizado: new Date().toISOString()
-      };
-    }
-  }
-
-  if (Object.keys(precios).length) {
-    data.vehiculos[item.id] = {
-      marca: item.marca,
-      modelo: item.modelo,
-      version: item.version,
-      precios
+  if (!state || state.totalVersionesCatalogadas !== total) {
+    return {
+      version: 2,
+      actualizado: nowIso(),
+      siguienteIndice: 0,
+      totalVersionesCatalogadas: total,
+      versionesProcesadas: 0,
+      versionesConValuacion: 0,
+      completo: false
     };
-  } else {
-    delete data.vehiculos[item.id];
   }
+
+  // El reset oficial usa 0. Si el estado pertenece a la ejecución vieja,
+  // no confiamos en él.
+  if (state.version < 2 || state.reinicioValuaciones !== true) {
+    return {
+      version: 2,
+      actualizado: nowIso(),
+      siguienteIndice: 0,
+      totalVersionesCatalogadas: total,
+      versionesProcesadas: 0,
+      versionesConValuacion: 0,
+      completo: false
+    };
+  }
+
+  return state;
 }
 
-async function procesarValuaciones(state, catalog, data) {
-  let i = Number(state.siguienteIndice || 0);
+let lastRequestAt = 0;
 
-  while (i < catalog.versiones.length) {
-    if (!timeOk(30000)) break;
+async function apiGet(url) {
+  const elapsed = Date.now() - lastRequestAt;
+  if (lastRequestAt && elapsed < REQUEST_INTERVAL_MS) {
+    await sleep(REQUEST_INTERVAL_MS - elapsed);
+  }
 
-    const item = catalog.versiones[i];
-    console.log(`VERSIÓN ${i + 1}/${catalog.versiones.length}: ${item.marca} ${item.modelo} ${item.version}`);
+  let attempt = 0;
+
+  while (true) {
+    attempt++;
+    const started = Date.now();
 
     try {
-      await procesarUnaVersion(item, data);
-      i++;
+      const response = await fetch(url, {
+        headers: {
+          "Accept": "application/json",
+          "User-Agent": "MAUDAM-ArgAutos-Updater/1.0"
+        }
+      });
 
-      state.siguienteIndice = i;
-      state.totalVersiones = catalog.versiones.length;
-      state.completado = false;
+      lastRequestAt = Date.now();
 
-      data.minYear = MIN_YEAR;
-      data.maxYear = MAX_YEAR;
-      data.actualizado = new Date().toISOString();
-      data.estadisticas = {
-        marcas: catalog.marcas.length,
-        modelos: catalog.modelos.length,
-        versionesCatalogadas: catalog.versiones.length,
-        versionesConValuacion: Object.keys(data.vehiculos).length,
-        siguienteIndice: i,
-        minYear: MIN_YEAR,
-        maxYear: MAX_YEAR
-      };
+      if (response.status === 429) {
+        const retryAfterHeader = response.headers.get("retry-after");
+        let waitMs = 60000;
 
-      write(DATA, data);
-      write(STATE, state);
-      console.log(`GUARDADO checkpoint ${i}/${catalog.versiones.length}`);
-    } catch (e) {
-      if (e.message === 'JOB_TIME_LIMIT') break;
+        if (retryAfterHeader) {
+          const seconds = Number(retryAfterHeader);
+          if (Number.isFinite(seconds)) {
+            waitMs = Math.max(1000, seconds * 1000);
+          }
+        }
 
-      if (
-        e.message.startsWith('TEMPORARY_HTTP_') ||
-        e.message.startsWith('NETWORK_ERROR') ||
-        e.message.startsWith('HTTP 429')
-      ) {
-        console.log(`Error recuperable en versión ${i + 1}: ${e.message}`);
-        console.log('Se conserva el checkpoint anterior y el próximo job reintentará esta versión.');
-        break;
+        console.log(`429 Rate Limit. Esperando ${Math.ceil(waitMs / 1000)}s...`);
+        await sleep(waitMs);
+        continue;
       }
 
-      throw e;
+      if (!response.ok) {
+        const body = await response.text().catch(() => "");
+        if (response.status >= 500 && attempt < 5) {
+          const waitMs = Math.min(120000, 5000 * 2 ** (attempt - 1));
+          console.log(`HTTP ${response.status}. Reintentando en ${Math.ceil(waitMs / 1000)}s...`);
+          await sleep(waitMs);
+          continue;
+        }
+        throw new Error(`HTTP ${response.status}: ${body.slice(0, 500)}`);
+      }
+
+      const json = await response.json();
+      console.log(`GET ${url} -> ${response.status} (${Date.now() - started}ms)`);
+      return json;
+    } catch (error) {
+      if (attempt >= 5) throw error;
+      const waitMs = Math.min(120000, 5000 * 2 ** (attempt - 1));
+      console.log(`Error de red: ${error.message}. Reintentando en ${Math.ceil(waitMs / 1000)}s...`);
+      await sleep(waitMs);
+    }
+  }
+}
+
+function normalizePrice(value) {
+  const n = Number(value);
+  return Number.isFinite(n) && n >= 0 ? n : null;
+}
+
+function normalizeYear(value) {
+  const n = Number(value);
+  if (!Number.isInteger(n)) return null;
+  return n;
+}
+
+function makePriceRecord(priceArs, exchangeRate) {
+  const ars = normalizePrice(priceArs);
+  const rate = normalizePrice(exchangeRate);
+
+  if (ars === null) return null;
+
+  const record = {
+    ars: ars
+  };
+
+  if (rate !== null && rate > 0) {
+    record.usd = Number((ars / rate).toFixed(2));
+    record.cotizacion = rate;
+  }
+
+  return record;
+}
+
+function parseValuations(json) {
+  if (!json || !Array.isArray(json.data)) {
+    throw new Error("Respuesta de valuaciones inválida: falta data[]");
+  }
+
+  const currency = String(json.meta?.currency || "").toUpperCase();
+  const exchangeRate = json.meta?.exchange_rate?.ars_per_usd ?? null;
+
+  const precios = {};
+
+  for (const item of json.data) {
+    const year = normalizeYear(item.year);
+    if (year === null) continue;
+
+    // ArgAutos usa year=0 para 0 km.
+    if (year !== 0 && (year < MIN_YEAR || year > MAX_YEAR)) {
+      continue;
+    }
+
+    const price = normalizePrice(item.price);
+    if (price === null) continue;
+
+    let record;
+
+    if (currency === "ARS") {
+      record = makePriceRecord(price, exchangeRate);
+    } else if (currency === "USD") {
+      const usd = price;
+      const rate = normalizePrice(exchangeRate);
+      record = { usd: usd };
+
+      if (rate !== null && rate > 0) {
+        record.ars = Number((usd * rate).toFixed(2));
+        record.cotizacion = rate;
+      }
+    } else {
+      // No guardamos una valuación cuyo currency no conocemos.
+      continue;
+    }
+
+    if (record) {
+      precios[String(year)] = record;
     }
   }
 
-  state.siguienteIndice = i;
-  state.totalVersiones = catalog.versiones.length;
-  state.completado = i >= catalog.versiones.length;
+  return precios;
+}
 
-  data.minYear = MIN_YEAR;
-  data.maxYear = MAX_YEAR;
-  data.actualizado = new Date().toISOString();
-  data.estadisticas = {
-    marcas: catalog.marcas.length,
-    modelos: catalog.modelos.length,
-    versionesCatalogadas: catalog.versiones.length,
-    versionesConValuacion: Object.keys(data.vehiculos).length,
-    siguienteIndice: i,
-    minYear: MIN_YEAR,
-    maxYear: MAX_YEAR
-  };
+function vehicleKey(versionId) {
+  return String(versionId);
+}
 
-  write(DATA, data);
-  write(STATE, state);
+function saveCheckpoint(state, data) {
+  data.actualizado = nowIso();
+  data.versionesProcesadas = state.versionesProcesadas;
+  data.versionesConValuacion = state.versionesConValuacion;
+  data.completo = state.completo;
 
-  console.log(`LOTE FINALIZADO. Siguiente índice: ${i}. Completo: ${state.completado}`);
+  state.actualizado = data.actualizado;
+
+  writeJsonAtomic(DATA, data);
+  writeJsonAtomic(STATE, state);
 }
 
 async function main() {
-  const { state, catalog, data } = ensureFiles();
+  console.log("=== GENERANDO autos-data.json ===");
+  console.log(`Rango: 0 km + ${MIN_YEAR}-${MAX_YEAR}`);
+  console.log(`Intervalo mínimo entre requests: ${REQUEST_INTERVAL_MS} ms`);
+  console.log(`Tiempo máximo del lote: ${JOB_SECONDS}s`);
 
-  try {
-    if (state.fase === 'catalogo' || !catalog.completo) {
-      await construirCatalogo(state, catalog, data);
-      if (!timeOk(30000)) return;
+  const catalog = loadCatalog();
+  const versiones = catalog.versiones;
+  const data = loadData(catalog);
+  const state = loadState(catalog);
+
+  // Si DATA quedó inconsistente con STATE, el checkpoint siempre manda
+  // solamente cuando estamos en el formato nuevo.
+  if (state.siguienteIndice < 0 || state.siguienteIndice > versiones.length) {
+    throw new Error(`Checkpoint inválido: ${state.siguienteIndice}`);
+  }
+
+  const deadline = Date.now() + JOB_SECONDS * 1000;
+
+  console.log(`Versiones: ${versiones.length}`);
+  console.log(`Comenzando en índice: ${state.siguienteIndice}`);
+
+  while (state.siguienteIndice < versiones.length) {
+    if (Date.now() >= deadline) {
+      console.log("Se alcanzó el límite de tiempo del lote.");
+      break;
     }
 
-    if (state.fase === 'valuaciones') {
-      await procesarValuaciones(state, catalog, data);
+    const index = state.siguienteIndice;
+    const version = versiones[index];
+
+    console.log(
+      `\nVERSIÓN ${index + 1}/${versiones.length}: ` +
+      `${version.marca} ${version.modelo} ${version.version} (ID ${version.id})`
+    );
+
+    const url = `${API}/versions/${encodeURIComponent(version.id)}/valuations?currency=ars`;
+
+    let precios;
+    try {
+      const response = await apiGet(url);
+      precios = parseValuations(response);
+    } catch (error) {
+      // NO avanzamos el checkpoint si la versión no pudo procesarse.
+      console.error(`ERROR en versión ${version.id}: ${error.message}`);
+      saveCheckpoint(state, data);
+      throw error;
     }
-  } catch (e) {
-    if (e.message === 'JOB_TIME_LIMIT') {
-      console.log('Tiempo disponible agotado. Estado guardado; el próximo job continuará desde el checkpoint.');
-      return;
+
+    const key = vehicleKey(version.id);
+
+    // Guardamos la versión incluso si no tiene valuaciones válidas,
+    // para distinguir "procesada sin precio" de "no procesada".
+    data.vehiculos[key] = {
+      id: String(version.id),
+      marcaId: String(version.marcaId),
+      modeloId: String(version.modeloId),
+      marca: version.marca,
+      modelo: version.modelo,
+      version: version.version,
+      precios
+    };
+
+    if (Object.keys(precios).length > 0) {
+      state.versionesConValuacion++;
     }
-    throw e;
+
+    state.siguienteIndice++;
+    state.versionesProcesadas++;
+
+    // Guardamos después de CADA versión. Si GitHub Actions se corta,
+    // la última versión confirmada queda persistida.
+    saveCheckpoint(state, data);
+
+    console.log(
+      `OK. Precios válidos: ${Object.keys(precios).length}. ` +
+      `Progreso: ${state.siguienteIndice}/${versiones.length}`
+    );
+  }
+
+  if (state.siguienteIndice >= versiones.length) {
+    state.completo = true;
+    data.completo = true;
+    saveCheckpoint(state, data);
+    console.log("\n=== CATÁLOGO DE VALUACIONES COMPLETADO ===");
+  } else {
+    console.log(
+      `\n=== LOTE TERMINADO === ${state.siguienteIndice}/${versiones.length}`
+    );
   }
 }
 
-main().catch(e => {
-  console.error(e);
+main().catch(error => {
+  console.error("\nFATAL:", error);
   process.exit(1);
 });
