@@ -2,66 +2,93 @@ name: Actualizar datos de vehículos
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 5 1 * *'
+  workflow_run:
+    workflows: ["Actualizar datos de vehículos"]
+    types: [completed]
+
+concurrency:
+  group: actualizar-autos
+  cancel-in-progress: false
 
 permissions:
   contents: write
   actions: write
 
-concurrency:
-  group: actualizacion-autos
-  cancel-in-progress: false
-
 jobs:
-  lote:
+  generar:
+    # Si este workflow fue disparado por otro workflow, solo continuar
+    # cuando el anterior haya terminado correctamente.
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'workflow_run' &&
+       github.event.workflow_run.conclusion == 'success')
+
     runs-on: ubuntu-latest
     timeout-minutes: 150
 
     steps:
-      - name: Descargar repositorio
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Configurar Node.js
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 20
 
-      - name: Procesar lote
+      - name: Ejecutar lote de valuaciones
         env:
-          JOB_SECONDS: 9000
-          RETRIES: 6
-        run: node scripts/generar-autos-data.js
-
-      - name: Guardar resultados y checkpoint
-        if: always()
+          JOB_SECONDS: "9000"
+          REQUEST_INTERVAL_MS: "20500"
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add autos-data.json catalogo-argautos.json estado-actualizacion.json
+          node scripts/generar-autos-data.js
+
+      - name: Mostrar estado
+        run: |
+          node -e "
+          const fs=require('fs');
+          const s=JSON.parse(fs.readFileSync('estado-actualizacion.json','utf8'));
+          const d=JSON.parse(fs.readFileSync('autos-data.json','utf8'));
+          console.log(JSON.stringify({
+            siguienteIndice:s.siguienteIndice,
+            total:s.totalVersionesCatalogadas,
+            versionesProcesadas:s.versionesProcesadas,
+            versionesConValuacion:s.versionesConValuacion,
+            completo:s.completo,
+            vehiculos:Object.keys(d.vehiculos||{}).length
+          }, null, 2));
+          "
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add autos-data.json estado-actualizacion.json
+
           if git diff --cached --quiet; then
-            echo 'Sin cambios para guardar.'
+            echo "No hay cambios para commitear."
           else
-            git commit -m 'Actualizar lote de datos de vehículos'
+            git commit -m "Actualizar lote de valuaciones"
             git push
           fi
 
-      - name: Comprobar si debe continuar
-        id: continuar
-        if: always()
-        shell: bash
-        run: |
-          if [ -f estado-actualizacion.json ]; then
-            COMPLETE=$(node -p "require('./estado-actualizacion.json').completado === true")
-            echo "complete=$COMPLETE" >> "$GITHUB_OUTPUT"
-          else
-            echo 'complete=false' >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Lanzar siguiente lote
-        if: steps.continuar.outputs.complete == 'false'
+      - name: Continuar automáticamente
+        if: success()
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run actualizar-autos.yml
+        run: |
+          COMPLETE=$(node -p "JSON.parse(require('fs').readFileSync('estado-actualizacion.json','utf8')).completo")
+          INDEX=$(node -p "JSON.parse(require('fs').readFileSync('estado-actualizacion.json','utf8')).siguienteIndice")
+          TOTAL=$(node -p "JSON.parse(require('fs').readFileSync('estado-actualizacion.json','utf8')).totalVersionesCatalogadas")
+
+          echo "Progreso: $INDEX/$TOTAL"
+          echo "Completo: $COMPLETE"
+
+          if [ "$COMPLETE" != "true" ]; then
+            echo "Lanzando siguiente lote..."
+            gh workflow run actualizar-autos.yml --ref main
+          else
+            echo "Todos los lotes completados."
+          fi
