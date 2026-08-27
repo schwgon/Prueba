@@ -2,9 +2,6 @@ name: Actualizar datos de vehículos
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Actualizar datos de vehículos"]
-    types: [completed]
 
 concurrency:
   group: actualizar-autos
@@ -16,13 +13,6 @@ permissions:
 
 jobs:
   generar:
-    # Si este workflow fue disparado por otro workflow, solo continuar
-    # cuando el anterior haya terminado correctamente.
-    if: >
-      github.event_name == 'workflow_dispatch' ||
-      (github.event_name == 'workflow_run' &&
-       github.event.workflow_run.conclusion == 'success')
-
     runs-on: ubuntu-latest
     timeout-minutes: 150
 
