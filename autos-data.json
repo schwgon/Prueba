@@ -1,12 +1,12 @@
 {
   "version": 5,
-  "actualizado": "2026-08-29T17:57:05.311Z",
+  "actualizado": "2026-08-29T20:00:38.420Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6139,
-  "versionesProcesadas": 348,
-  "versionesConValuacion": 213,
+  "versionesProcesadas": 697,
+  "versionesConValuacion": 506,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -5924,6 +5924,24 @@
       "version": "Sportback 2,0 Tfsi Sport Alcantara Multi",
       "precios": {}
     },
+    "296": {
+      "id": "296",
+      "marcaId": "3",
+      "modeloId": "13",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 2,0 Tfsi Sport CRO",
+      "precios": {}
+    },
+    "297": {
+      "id": "297",
+      "marcaId": "3",
+      "modeloId": "13",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 2,0 Tfsi Sport CRO Multi",
+      "precios": {}
+    },
     "298": {
       "id": "298",
       "marcaId": "3",
@@ -5941,6 +5959,36 @@
       "modelo": "A5",
       "version": "Sportback 2,0 Tfsi Plus Multi",
       "precios": {}
+    },
+    "300": {
+      "id": "300",
+      "marcaId": "3",
+      "modeloId": "13",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 2,0 Tfsi S-Tronic",
+      "precios": {
+        "2017": {
+          "ars": 49963735.29,
+          "usd": 32592.13,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 53068244.25,
+          "usd": 34617.25,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 55981542.12,
+          "usd": 36517.64,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 61253559.78,
+          "usd": 39956.66,
+          "cotizacion": 1533
+        }
+      }
     },
     "301": {
       "id": "301",
@@ -6159,6 +6207,45 @@
           "cotizacion": 1533
         }
       }
+    },
+    "314": {
+      "id": "314",
+      "marcaId": "3",
+      "modeloId": "13",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 3,0 Tfsi Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 40857393.36,
+          "usd": 26651.92,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 43903019.79,
+          "usd": 28638.63,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 45739446.48,
+          "usd": 29836.56,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 50323116.48,
+          "usd": 32826.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "315": {
+      "id": "315",
+      "marcaId": "3",
+      "modeloId": "13",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 3,2 FSI Quattro S-Tronic",
+      "precios": {}
     },
     "316": {
       "id": "316",
@@ -6649,6 +6736,7823 @@
         }
       }
     },
+    "345": {
+      "id": "345",
+      "marcaId": "3",
+      "modeloId": "14",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "4P 2,8 FSI Multi",
+      "precios": {
+        "2013": {
+          "ars": 22565805.99,
+          "usd": 14720.03,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 24578910.93,
+          "usd": 16033.21,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 26516086.38,
+          "usd": 17296.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "346": {
+      "id": "346",
+      "marcaId": "3",
+      "modeloId": "14",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "4P 3,0 Tfsi Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 32402745.06,
+          "usd": 21136.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 39008488.05,
+          "usd": 25445.85,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 43872927,
+          "usd": 28619,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 48655703.04,
+          "usd": 31738.88,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 56500922.52,
+          "usd": 36856.44,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 64508256.75,
+          "usd": 42079.75,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 76834189.95,
+          "usd": 50120.15,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 85401789.69,
+          "usd": 55708.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "347": {
+      "id": "347",
+      "marcaId": "3",
+      "modeloId": "14",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "4P 3,0 Tfsi Quattro 340CV 55",
+      "precios": {
+        "0": {
+          "ars": 153913200,
+          "usd": 100400,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 106715104.02,
+          "usd": 69611.94,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 112050863.82,
+          "usd": 73092.54,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 117653411.61,
+          "usd": 76747.17,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 127065679.02,
+          "usd": 82886.94,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 133753345.53,
+          "usd": 87249.41,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 144453624.21,
+          "usd": 94229.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "348": {
+      "id": "348",
+      "marcaId": "3",
+      "modeloId": "14",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "4P 3,0 Diesel S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "ars": 34108146.24,
+          "usd": 22249.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 40781601.84,
+          "usd": 26602.48,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 45627844.08,
+          "usd": 29763.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "349": {
+      "id": "349",
+      "marcaId": "3",
+      "modeloId": "15",
+      "marca": "AUDI",
+      "modelo": "A7",
+      "version": "Sportback 3.0 FSI V6 S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "ars": 43430319.24,
+          "usd": 28330.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 48613576.2,
+          "usd": 31711.4,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 50983072.98,
+          "usd": 33257.06,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 52773509.67,
+          "usd": 34424.99,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 57177956.64,
+          "usd": 37298.08,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 66487911.63,
+          "usd": 43371.11,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 75024100.2,
+          "usd": 48939.4,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 83389865.16,
+          "usd": 54396.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "350": {
+      "id": "350",
+      "marcaId": "3",
+      "modeloId": "15",
+      "marca": "AUDI",
+      "modelo": "A7",
+      "version": "Sportback 3.0 FSI Quattro 340CV 55",
+      "precios": {
+        "2020": {
+          "ars": 113813169.96,
+          "usd": 74242.12,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 120580445.16,
+          "usd": 78656.52,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 126609458.22,
+          "usd": 82589.34,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 136738219.17,
+          "usd": 89196.49,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 143575138.56,
+          "usd": 93656.32,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 155061141.06,
+          "usd": 101148.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "351": {
+      "id": "351",
+      "marcaId": "3",
+      "modeloId": "15",
+      "marca": "AUDI",
+      "modelo": "A7",
+      "version": "Sportback 3.0 Diesel S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "ars": 43430319.24,
+          "usd": 28330.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 48613576.2,
+          "usd": 31711.4,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 50983072.98,
+          "usd": 33257.06,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 52773509.67,
+          "usd": 34424.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "352": {
+      "id": "352",
+      "marcaId": "3",
+      "modeloId": "16",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4P 4.2 Tfsi Quattro Tipt",
+      "precios": {
+        "2013": {
+          "ars": 63442929.06,
+          "usd": 41384.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 69102673.08,
+          "usd": 45076.76,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 74548946.85,
+          "usd": 48629.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "353": {
+      "id": "353",
+      "marcaId": "3",
+      "modeloId": "16",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4P 4,0 V8 Tfsi Tronic Quattro",
+      "precios": {
+        "2013": {
+          "ars": 85075490.64,
+          "usd": 55496.08,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 92665082.37,
+          "usd": 60446.89,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 99968417.01,
+          "usd": 65210.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "354": {
+      "id": "354",
+      "marcaId": "3",
+      "modeloId": "16",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4P 4,0 V8 Tfsi Tronic Quattro L",
+      "precios": {
+        "2013": {
+          "ars": 87911341.35,
+          "usd": 57345.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 95753924.07,
+          "usd": 62461.79,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 103300699.11,
+          "usd": 67384.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "355": {
+      "id": "355",
+      "marcaId": "3",
+      "modeloId": "16",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4P 4,0 Tfsi Quattro 460CV 60",
+      "precios": {
+        "2020": {
+          "ars": 255958142.16,
+          "usd": 166965.52,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 271177275.6,
+          "usd": 176893.2,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 284736139.38,
+          "usd": 185737.86,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 307515032.37,
+          "usd": 200596.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "356": {
+      "id": "356",
+      "marcaId": "3",
+      "modeloId": "16",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4P 4,0 Tfsi Quattro 460CV 60 L",
+      "precios": {
+        "2020": {
+          "ars": 256955542.62,
+          "usd": 167616.14,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 272233972.5,
+          "usd": 177582.5,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 285845678.79,
+          "usd": 186461.63,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 308713332.48,
+          "usd": 201378.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "357": {
+      "id": "357",
+      "marcaId": "3",
+      "modeloId": "17",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "5P A 4 2,0 Tfsi Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 27461610.12,
+          "usd": 17913.64,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 29911466.76,
+          "usd": 19511.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 32268929.49,
+          "usd": 21049.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "358": {
+      "id": "358",
+      "marcaId": "3",
+      "modeloId": "17",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "5P A 4 2,0 Tfsi Quattro S-Tronic Attraction",
+      "precios": {
+        "2013": {
+          "ars": 27383979,
+          "usd": 17863,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 29826906.48,
+          "usd": 19456.56,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 32177700.66,
+          "usd": 20990.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "359": {
+      "id": "359",
+      "marcaId": "3",
+      "modeloId": "17",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "5P A 4 2,0 Tfsi Quattro S-Tronic Ambition",
+      "precios": {
+        "2013": {
+          "ars": 29604299.55,
+          "usd": 19311.35,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 32245305.96,
+          "usd": 21034.12,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 34786698.03,
+          "usd": 22691.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "360": {
+      "id": "360",
+      "marcaId": "3",
+      "modeloId": "17",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "5P A 4 2,0 Tfsi Quattro S-Tronic  2017",
+      "precios": {
+        "2017": {
+          "ars": 44603570.13,
+          "usd": 29095.61,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 50443288.35,
+          "usd": 32904.95,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 60081734.58,
+          "usd": 39192.26,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 66781312.5,
+          "usd": 43562.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "361": {
+      "id": "361",
+      "marcaId": "3",
+      "modeloId": "17",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "5P A 4 2,0 Tfsi Quattro S-Tronic Str Mh",
+      "precios": {
+        "2023": {
+          "ars": 74174986.83,
+          "usd": 48385.51,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 82446073.71,
+          "usd": 53780.87,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 89041760.22,
+          "usd": 58083.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "362": {
+      "id": "362",
+      "marcaId": "3",
+      "modeloId": "17",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "5P A 6 3,0 Tfsi S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "ars": 45701489.4,
+          "usd": 29811.8,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 49778518.23,
+          "usd": 32471.31,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 53701787.16,
+          "usd": 35030.52,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 59859909.48,
+          "usd": 39047.56,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 66585778.35,
+          "usd": 43434.95,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 73921796.55,
+          "usd": 48220.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 86400677.16,
+          "usd": 56360.52,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 99163975.26,
+          "usd": 64686.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "363": {
+      "id": "363",
+      "marcaId": "3",
+      "modeloId": "17",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "5P A 6 3,0 Tfsi Quattro 340CV 55",
+      "precios": {
+        "0": {
+          "ars": 163571100,
+          "usd": 106700,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 114265037.04,
+          "usd": 74536.88,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 119978282.76,
+          "usd": 78263.72,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 125977203.03,
+          "usd": 82176.91,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 136055374.98,
+          "usd": 88751.06,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 143216186.61,
+          "usd": 93422.17,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 154673491.35,
+          "usd": 100895.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "364": {
+      "id": "364",
+      "marcaId": "3",
+      "modeloId": "17",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "5P A 6 3,0 Diesel S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "ars": 48189962.31,
+          "usd": 31435.07,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 52488984.87,
+          "usd": 34239.39,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 56625877.35,
+          "usd": 36937.95,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 62178081.42,
+          "usd": 40559.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "365": {
+      "id": "365",
+      "marcaId": "3",
+      "modeloId": "18",
+      "marca": "AUDI",
+      "modelo": "e-tron",
+      "version": "4P 55 Quattro",
+      "precios": {
+        "2021": {
+          "ars": 152217088.8,
+          "usd": 99293.6,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 159827943.24,
+          "usd": 104258.28,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 172614190.35,
+          "usd": 112598.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "366": {
+      "id": "366",
+      "marcaId": "3",
+      "modeloId": "18",
+      "marca": "AUDI",
+      "modelo": "e-tron",
+      "version": "5P 55 Quattro Sportback",
+      "precios": {
+        "2021": {
+          "ars": 159678721.02,
+          "usd": 104160.94,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 167662646.34,
+          "usd": 109368.98,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 181075660.5,
+          "usd": 118118.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "367": {
+      "id": "367",
+      "marcaId": "3",
+      "modeloId": "19",
+      "marca": "AUDI",
+      "modelo": "Q 2",
+      "version": "5P 1,4 Tfsi Serie S-Tronic",
+      "precios": {
+        "2017": {
+          "ars": 39864162.66,
+          "usd": 26004.02,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 41185194.75,
+          "usd": 26865.75,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 40959092.58,
+          "usd": 26718.26,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 41872545.96,
+          "usd": 27314.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "368": {
+      "id": "368",
+      "marcaId": "3",
+      "modeloId": "19",
+      "marca": "AUDI",
+      "modelo": "Q 2",
+      "version": "5P 1,4 Tfsi Sport S-Tronic",
+      "precios": {
+        "2017": {
+          "ars": 43948243.29,
+          "usd": 28668.13,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 45404623.95,
+          "usd": 29618.15,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 45155342.82,
+          "usd": 29455.54,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 46162385.85,
+          "usd": 30112.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "369": {
+      "id": "369",
+      "marcaId": "3",
+      "modeloId": "19",
+      "marca": "AUDI",
+      "modelo": "Q 2",
+      "version": "5P 1,4 Tfsi Offroad Style S-Tronic",
+      "precios": {
+        "2018": {
+          "ars": 52104876.39,
+          "usd": 33988.83,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 51818803.26,
+          "usd": 33802.22,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 52974439.98,
+          "usd": 34556.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "370": {
+      "id": "370",
+      "marcaId": "3",
+      "modeloId": "19",
+      "marca": "AUDI",
+      "modelo": "Q 2",
+      "version": "5P 1,0 Tfsi Sport 30 116CV",
+      "precios": {
+        "2020": {
+          "ars": 42987650.16,
+          "usd": 28041.52,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 45137023.47,
+          "usd": 29443.59,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 47393875.41,
+          "usd": 30915.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "371": {
+      "id": "371",
+      "marcaId": "3",
+      "modeloId": "19",
+      "marca": "AUDI",
+      "modelo": "Q 2",
+      "version": "5P 1,4 Tfsi Sport S-Tronic 35 150CV",
+      "precios": {
+        "2020": {
+          "ars": 52144213.17,
+          "usd": 34014.49,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 54751416.93,
+          "usd": 35715.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "372": {
+      "id": "372",
+      "marcaId": "3",
+      "modeloId": "19",
+      "marca": "AUDI",
+      "modelo": "Q 2",
+      "version": "5P 2,0 Tfsi Quattro S-Tronic 40 190CV",
+      "precios": {
+        "2020": {
+          "ars": 59373074.67,
+          "usd": 38729.99,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 62341729.17,
+          "usd": 40666.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "373": {
+      "id": "373",
+      "marcaId": "3",
+      "modeloId": "19",
+      "marca": "AUDI",
+      "modelo": "Q 2",
+      "version": "5P 1,4 Tfsi Sport S-Tronic 35 150CV 2022",
+      "precios": {
+        "0": {
+          "ars": 80175900,
+          "usd": 52300,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 63396387.18,
+          "usd": 41354.46,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 66566201.94,
+          "usd": 43422.18,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 69894513.57,
+          "usd": 45593.29,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 75486069.75,
+          "usd": 49240.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "374": {
+      "id": "374",
+      "marcaId": "3",
+      "modeloId": "19",
+      "marca": "AUDI",
+      "modelo": "Q 2",
+      "version": "5P 2,0 Tfsi Quattro S-Tronic 40 190CV 2022",
+      "precios": {
+        "0": {
+          "ars": 89987100,
+          "usd": 58700,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 72185152.83,
+          "usd": 47087.51,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 75794417.37,
+          "usd": 49441.89,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 79584131.34,
+          "usd": 51913.98,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 85950864.3,
+          "usd": 56067.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "375": {
+      "id": "375",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 150CV",
+      "precios": {
+        "2015": {
+          "ars": 23839637.01,
+          "usd": 15550.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 24848335.68,
+          "usd": 16208.96,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 27707196.72,
+          "usd": 18073.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "376": {
+      "id": "376",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 150CV S-Tronic",
+      "precios": {
+        "2015": {
+          "ars": 25329605.7,
+          "usd": 16522.9,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 26401356.66,
+          "usd": 17222.02,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 29438904.18,
+          "usd": 19203.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "377": {
+      "id": "377",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 150CV Sport",
+      "precios": {
+        "2017": {
+          "ars": 28540060.29,
+          "usd": 18617.13,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 31992054.36,
+          "usd": 20868.92,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 37759292.34,
+          "usd": 24630.98,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 41414730.84,
+          "usd": 27015.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "378": {
+      "id": "378",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 150CV Sport S-Tronic",
+      "precios": {
+        "2017": {
+          "ars": 30225501.81,
+          "usd": 19716.57,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 33881338.89,
+          "usd": 22101.33,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 39989163.48,
+          "usd": 26085.56,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 43860479.04,
+          "usd": 28610.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "379": {
+      "id": "379",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 35 150CV",
+      "precios": {
+        "2020": {
+          "ars": 50821862.7,
+          "usd": 33151.9,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 53362963.5,
+          "usd": 34809.5,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 56031104.01,
+          "usd": 36549.97,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 60513596.01,
+          "usd": 39473.97,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 63698526.15,
+          "usd": 41551.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "380": {
+      "id": "380",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi Sportback 35 150CV",
+      "precios": {
+        "0": {
+          "ars": 86875110,
+          "usd": 56670,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 52611364.26,
+          "usd": 34319.22,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 55241930.94,
+          "usd": 36035.18,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 58004029.02,
+          "usd": 37836.94,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 62644358.7,
+          "usd": 40863.9,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 65941427.79,
+          "usd": 43014.63,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 71216741.4,
+          "usd": 46455.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "381": {
+      "id": "381",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 2,0 Tfsi Quattro 170CV",
+      "precios": {
+        "2013": {
+          "ars": 22192612.47,
+          "usd": 14476.59,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 24398338.86,
+          "usd": 15915.42,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 26569588.08,
+          "usd": 17331.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "382": {
+      "id": "382",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 2,0 Tfsi Quattro 170CV S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 23830454.34,
+          "usd": 15544.98,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 26198954.67,
+          "usd": 17089.99,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 28530448.38,
+          "usd": 18610.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "383": {
+      "id": "383",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 2,0 Tfsi Quattro 211CV S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 25058831.91,
+          "usd": 16346.27,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 27549420.36,
+          "usd": 17970.92,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 30001085.94,
+          "usd": 19570.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "384": {
+      "id": "384",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 2,0 Tfsi Quattro 220CV S-Tronic",
+      "precios": {
+        "2016": {
+          "ars": 31689240.87,
+          "usd": 20671.39,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 35335174.77,
+          "usd": 23049.69,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 39609056.13,
+          "usd": 25837.61,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 46749417.54,
+          "usd": 30495.38,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 51275186.13,
+          "usd": 33447.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "385": {
+      "id": "385",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 2,0 Tfsi Quattro 220CV S-Tronic S Line",
+      "precios": {
+        "2018": {
+          "ars": 40630402.05,
+          "usd": 26503.85,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 47954892.09,
+          "usd": 31281.73,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 52597352.64,
+          "usd": 34310.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "386": {
+      "id": "386",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 2,0 Tfsi Quattro 40 Advanced",
+      "precios": {
+        "0": {
+          "ars": 94241175,
+          "usd": 61475,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 63862127.91,
+          "usd": 41658.27,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 67055228.94,
+          "usd": 43741.18,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 70407991.92,
+          "usd": 45928.24,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 76040632.5,
+          "usd": 49602.5,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 80042774.28,
+          "usd": 52213.16,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 86446191.93,
+          "usd": 56390.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "387": {
+      "id": "387",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 2,0 Tfsi Sportback Quattro 40 S-Line",
+      "precios": {
+        "0": {
+          "ars": 107676387,
+          "usd": 70239,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 69728934.24,
+          "usd": 45485.28,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 73215374.82,
+          "usd": 47759.54,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 76876148.16,
+          "usd": 50147.52,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 83026237.56,
+          "usd": 54159.32,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 87396038.73,
+          "usd": 57009.81,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 94387729.8,
+          "usd": 61570.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "388": {
+      "id": "388",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 2,0 Diesel Quattro 177CV S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 26259830.1,
+          "usd": 17129.7,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 28869777.93,
+          "usd": 18832.21,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 31438947.96,
+          "usd": 20508.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "389": {
+      "id": "389",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro 180CV",
+      "precios": {
+        "2013": {
+          "ars": 21674811.06,
+          "usd": 14138.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 22802945.76,
+          "usd": 14874.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 24832208.52,
+          "usd": 16198.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "390": {
+      "id": "390",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro 180CV 2013",
+      "precios": {
+        "2013": {
+          "ars": 24785038.11,
+          "usd": 16167.67,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 26075042.28,
+          "usd": 17009.16,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 28395498.39,
+          "usd": 18522.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "391": {
+      "id": "391",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro 225CV 2013",
+      "precios": {
+        "2013": {
+          "ars": 26151584.97,
+          "usd": 17059.09,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 27512705.01,
+          "usd": 17946.97,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 29961120.63,
+          "usd": 19544.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "392": {
+      "id": "392",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro 180CV S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 24309210.24,
+          "usd": 15857.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 25574441.13,
+          "usd": 16682.61,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 27850363.59,
+          "usd": 18167.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "393": {
+      "id": "393",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro 225CV S-Tronic 2013",
+      "precios": {
+        "2013": {
+          "ars": 27710753.28,
+          "usd": 18076.16,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 29153030.34,
+          "usd": 19016.98,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 31747418.22,
+          "usd": 20709.34,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 35928553.08,
+          "usd": 23436.76,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 39222402.87,
+          "usd": 25585.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "394": {
+      "id": "394",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro 252CV S-Tronic 2017",
+      "precios": {
+        "2017": {
+          "ars": 43209076.68,
+          "usd": 28185.96,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 48426933.45,
+          "usd": 31589.65,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 56068386.57,
+          "usd": 36574.29,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 64136872.17,
+          "usd": 41837.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "395": {
+      "id": "395",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro 252CV S-Tronic Security",
+      "precios": {
+        "2018": {
+          "ars": 55690961.97,
+          "usd": 36328.09,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 64478639.19,
+          "usd": 42060.43,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 73757412.96,
+          "usd": 48113.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "396": {
+      "id": "396",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro Luxury",
+      "precios": {}
+    },
+    "397": {
+      "id": "397",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi Quattro Luxury S-Tronic",
+      "precios": {}
+    },
+    "398": {
+      "id": "398",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi 252CV 45 Offroad",
+      "precios": {
+        "2020": {
+          "ars": 63651815.64,
+          "usd": 41521.08,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 67436532.03,
+          "usd": 43989.91,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 81988611.18,
+          "usd": 53482.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "399": {
+      "id": "399",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi 252CV 45 Sport",
+      "precios": {
+        "2020": {
+          "ars": 71103667.32,
+          "usd": 46382.04,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 75331451.37,
+          "usd": 49139.89,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 91587184.08,
+          "usd": 59743.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "400": {
+      "id": "400",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi 200CV Quattro S-Tronic Advanced Mild-Hybrid",
+      "precios": {
+        "0": {
+          "ars": 121260300,
+          "usd": 79100,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 107406670.98,
+          "usd": 70063.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "401": {
+      "id": "401",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi 200CV Quattro S-Tronic Advanced Sportback Ild-Hybrid",
+      "precios": {
+        "0": {
+          "ars": 125246100,
+          "usd": 81700,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 111153414.96,
+          "usd": 72507.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "402": {
+      "id": "402",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi 272CV Quattro S-Tronic Advanced Plus Mild-Hybrid",
+      "precios": {
+        "0": {
+          "ars": 138429900,
+          "usd": 90300,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 127389310.65,
+          "usd": 83098.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "403": {
+      "id": "403",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Tfsi 272CV Quattro S-Tronic S-Line Mild-Hybrid",
+      "precios": {
+        "0": {
+          "ars": 145481700,
+          "usd": 94900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 133633878.84,
+          "usd": 87171.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "404": {
+      "id": "404",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 3,2 FSI V6 Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 31600986.06,
+          "usd": 20613.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 33245741.76,
+          "usd": 21686.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "405": {
+      "id": "405",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Diesel Quattro",
+      "precios": {}
+    },
+    "406": {
+      "id": "406",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Diesel Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 27149767.26,
+          "usd": 17710.22,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 28562856,
+          "usd": 18632,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "407": {
+      "id": "407",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Diesel Quattro S-Tronic 2013",
+      "precios": {
+        "2013": {
+          "ars": 31898572.02,
+          "usd": 20807.94,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 33558811.02,
+          "usd": 21890.94,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 36545263.65,
+          "usd": 23839.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "408": {
+      "id": "408",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Diesel Quattro Luxury",
+      "precios": {}
+    },
+    "409": {
+      "id": "409",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 2,0 Diesel Quattro Luxury S-Tronic",
+      "precios": {}
+    },
+    "410": {
+      "id": "410",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 3,0 Diesel V6 Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 31935639.96,
+          "usd": 20832.12,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 33597810.54,
+          "usd": 21916.38,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 36587727.75,
+          "usd": 23866.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "411": {
+      "id": "411",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 3,0 Diesel V6 Quattro S-Tronic 2013",
+      "precios": {
+        "2013": {
+          "ars": 35763280.35,
+          "usd": 23328.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 37624664.28,
+          "usd": 24543.16,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 40972950.9,
+          "usd": 26727.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "412": {
+      "id": "412",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 3,0 Tfsi 272CV Quattro Tipt",
+      "precios": {
+        "2013": {
+          "ars": 40626385.59,
+          "usd": 26501.23,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 42740898.48,
+          "usd": 27880.56,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 46277483.49,
+          "usd": 30187.53,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 53000286.36,
+          "usd": 34572.92,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 57859237.17,
+          "usd": 37742.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "413": {
+      "id": "413",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 3,0 Tfsi 354CV Quattro Tipt S 2017",
+      "precios": {
+        "2017": {
+          "ars": 68550348.51,
+          "usd": 44716.47,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 71044278.9,
+          "usd": 46343.3,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 76810367.13,
+          "usd": 50104.61,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 84139824.09,
+          "usd": 54885.73,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 88346820.66,
+          "usd": 57630.02,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 107411132.01,
+          "usd": 70065.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "414": {
+      "id": "414",
+      "marcaId": "3",
+      "modeloId": "21",
+      "marca": "AUDI",
+      "modelo": "Q 5",
+      "version": "5P 3,0 Tfsi 367CV Quatto S-Tronic Sq5 Mild-Hybird",
+      "precios": {
+        "0": {
+          "ars": 181813800,
+          "usd": 118600,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 167354574.66,
+          "usd": 109168.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "415": {
+      "id": "415",
+      "marcaId": "3",
+      "modeloId": "22",
+      "marca": "AUDI",
+      "modelo": "Q 5 SPORTBACK",
+      "version": "5P 2,0 Tfsi 245CV Quattro Offroad Mh 45",
+      "precios": {
+        "2023": {
+          "ars": 91410720.45,
+          "usd": 59628.65,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 95095669.2,
+          "usd": 62032.4,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 102703335,
+          "usd": 66995,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "416": {
+      "id": "416",
+      "marcaId": "3",
+      "modeloId": "22",
+      "marca": "AUDI",
+      "modelo": "Q 5 SPORTBACK",
+      "version": "5P 2,0 Tfsi 245CV Quattro S-Tronic Hybrid Advance 45",
+      "precios": {
+        "2024": {
+          "ars": 97473076.26,
+          "usd": 63583.22,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 105270910.71,
+          "usd": 68669.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "417": {
+      "id": "417",
+      "marcaId": "3",
+      "modeloId": "22",
+      "marca": "AUDI",
+      "modelo": "Q 5 SPORTBACK",
+      "version": "5P 2,0 Tfsi 245CV Quattro S-Tronic Hybrid S-Line 45",
+      "precios": {
+        "2024": {
+          "ars": 110447146.53,
+          "usd": 72046.41,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 119282913.96,
+          "usd": 77810.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "418": {
+      "id": "418",
+      "marcaId": "3",
+      "modeloId": "22",
+      "marca": "AUDI",
+      "modelo": "Q 5 SPORTBACK",
+      "version": "5P 2,0 Tfsi 245CV Quattro Premium Black",
+      "precios": {
+        "2025": {
+          "ars": 166013521.59,
+          "usd": 108293.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "419": {
+      "id": "419",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 3,0 Tfsi Quattro Tipt 272CV",
+      "precios": {
+        "2013": {
+          "ars": 40693745.61,
+          "usd": 26545.17,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 44738290.17,
+          "usd": 29183.49,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 48719629.14,
+          "usd": 31780.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "420": {
+      "id": "420",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 3,0 Tfsi Quattro Tipt 333CV",
+      "precios": {
+        "2013": {
+          "ars": 45537213.12,
+          "usd": 29704.64,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 50063135.01,
+          "usd": 32656.97,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 54518339.61,
+          "usd": 35563.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "421": {
+      "id": "421",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 3,0 Diesel Quattro Tipt",
+      "precios": {
+        "2013": {
+          "ars": 46466533.05,
+          "usd": 30310.85,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 51084833.52,
+          "usd": 33323.44,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 55630960.35,
+          "usd": 36288.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "422": {
+      "id": "422",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 4,2 Diesel  Quattro Tipt (ln)",
+      "precios": {
+        "2013": {
+          "ars": 52556068.95,
+          "usd": 34283.15,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 57779613.15,
+          "usd": 37690.55,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 62921525.1,
+          "usd": 41044.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "423": {
+      "id": "423",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 3,0 Tfsi Quattro 333CV 8tipt 2016",
+      "precios": {
+        "2016": {
+          "ars": 81997655.88,
+          "usd": 53488.36,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 85056312.81,
+          "usd": 55483.57,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 96235148.1,
+          "usd": 62775.7,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 113563137.66,
+          "usd": 74079.02,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 123433158.87,
+          "usd": 80517.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "424": {
+      "id": "424",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 3,0 Diesel  Quattro 249CV  8tipt 2016",
+      "precios": {
+        "2016": {
+          "ars": 84283512.18,
+          "usd": 54979.46,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 86821761.6,
+          "usd": 56635.2,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 98232616.44,
+          "usd": 64078.68,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 115920263.13,
+          "usd": 75616.61,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 125995154.46,
+          "usd": 82188.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "425": {
+      "id": "425",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 55 Tfsi Quattro 8tipt Offroad",
+      "precios": {
+        "2020": {
+          "ars": 125388040.47,
+          "usd": 81792.59,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 132843556.02,
+          "usd": 86655.94,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 139485723.09,
+          "usd": 90988.73,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 150644583.39,
+          "usd": 98267.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "426": {
+      "id": "426",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 55 Tfsi Quattro 8tipt S Line",
+      "precios": {
+        "0": {
+          "ars": 203122500,
+          "usd": 132500,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 135452630.04,
+          "usd": 88357.88,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 143506582.8,
+          "usd": 93611.6,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 150681911.94,
+          "usd": 98292.18,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 162736458.15,
+          "usd": 106155.55,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 170873284.89,
+          "usd": 111463.33,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 184543137.87,
+          "usd": 120380.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "427": {
+      "id": "427",
+      "marcaId": "3",
+      "modeloId": "23",
+      "marca": "AUDI",
+      "modelo": "Q 7",
+      "version": "5P 45 Diesel Quattro 8tipt S Line",
+      "precios": {
+        "2020": {
+          "ars": 132936486.48,
+          "usd": 86716.56,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 140840818.44,
+          "usd": 91872.68,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 147882868.56,
+          "usd": 96466.32,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 159713489.46,
+          "usd": 104183.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "428": {
+      "id": "428",
+      "marcaId": "3",
+      "modeloId": "24",
+      "marca": "AUDI",
+      "modelo": "Q 8",
+      "version": "5P 3,0 Tfsi Quattro 340CV 55",
+      "precios": {
+        "0": {
+          "ars": 216306300,
+          "usd": 141100,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 152798923.62,
+          "usd": 99673.14,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 161884263.45,
+          "usd": 105599.65,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 169978472.79,
+          "usd": 110879.63,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 183576750,
+          "usd": 119750,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 193238681.79,
+          "usd": 126052.63,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 208697775.72,
+          "usd": 136136.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "429": {
+      "id": "429",
+      "marcaId": "3",
+      "modeloId": "24",
+      "marca": "AUDI",
+      "modelo": "Q 8",
+      "version": "5P 3,0 Diesel Quattro 249CV 45",
+      "precios": {
+        "2020": {
+          "ars": 149586476.13,
+          "usd": 97577.61,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 158480804.16,
+          "usd": 103379.52,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 166404835.17,
+          "usd": 108548.49,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 179717223.21,
+          "usd": 117232.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "430": {
+      "id": "430",
+      "marcaId": "3",
+      "modeloId": "24",
+      "marca": "AUDI",
+      "modelo": "Q 8",
+      "version": "5P 55 E-Tron",
+      "precios": {
+        "0": {
+          "ars": 300376020,
+          "usd": 195940,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 248611178.34,
+          "usd": 162172.98,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 268500075.06,
+          "usd": 175146.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "431": {
+      "id": "431",
+      "marcaId": "3",
+      "modeloId": "24",
+      "marca": "AUDI",
+      "modelo": "Q 8",
+      "version": "5P 55 E-Tron Sportback",
+      "precios": {
+        "0": {
+          "ars": 313213362,
+          "usd": 204314,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 250080022.29,
+          "usd": 163131.13,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 270086423.46,
+          "usd": 176181.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "432": {
+      "id": "432",
+      "marcaId": "3",
+      "modeloId": "25",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Coupe 4,2 FSI Quattro",
+      "precios": {
+        "2013": {
+          "ars": 225045473.1,
+          "usd": 146800.7,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 234390947.7,
+          "usd": 152896.9,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 255249819.51,
+          "usd": 166503.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "433": {
+      "id": "433",
+      "marcaId": "3",
+      "modeloId": "25",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Coupe 4,2 FSI Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 242048911.23,
+          "usd": 157892.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 252100485.63,
+          "usd": 164449.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 274535358.09,
+          "usd": 179083.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "434": {
+      "id": "434",
+      "marcaId": "3",
+      "modeloId": "25",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Coupe 5,2 FSI Quattro",
+      "precios": {
+        "2013": {
+          "ars": 284057388.3,
+          "usd": 185295.1,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 295853455.38,
+          "usd": 192989.86,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 322181994.54,
+          "usd": 210164.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "435": {
+      "id": "435",
+      "marcaId": "3",
+      "modeloId": "25",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Coupe 5,2 FSI Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 284057388.3,
+          "usd": 185295.1,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 295853455.38,
+          "usd": 192989.86,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 322181994.54,
+          "usd": 210164.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "436": {
+      "id": "436",
+      "marcaId": "3",
+      "modeloId": "25",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Coupe 5,2 V10 Plus Quattro S-Tronic",
+      "precios": {
+        "2017": {
+          "ars": 436726328.85,
+          "usd": 284883.45,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 494124638.91,
+          "usd": 322325.27,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 563030091.54,
+          "usd": 367273.38,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 615992635.44,
+          "usd": 401821.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "437": {
+      "id": "437",
+      "marcaId": "3",
+      "modeloId": "25",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Spyder 5,2 FSI Quattro",
+      "precios": {
+        "2013": {
+          "ars": 322455144.48,
+          "usd": 210342.56,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 335845761.51,
+          "usd": 219077.47,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 365733282.81,
+          "usd": 238573.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "438": {
+      "id": "438",
+      "marcaId": "3",
+      "modeloId": "25",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Spyder 5,2 FSI Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 322455144.48,
+          "usd": 210342.56,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 335845761.51,
+          "usd": 219077.47,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 365733282.81,
+          "usd": 238573.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "439": {
+      "id": "439",
+      "marcaId": "3",
+      "modeloId": "25",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Spyder 5,2 V10 Plus Quattro S-Tronic",
+      "precios": {
+        "2018": {
+          "ars": 543537107.4,
+          "usd": 354557.8,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 619333103.76,
+          "usd": 404000.72,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 677591902.05,
+          "usd": 442003.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "440": {
+      "id": "440",
+      "marcaId": "3",
+      "modeloId": "26",
+      "marca": "AUDI",
+      "modelo": "RS3",
+      "version": "4P 2,5 Tfsi S-Tronic Quattro 400CV",
+      "precios": {
+        "2017": {
+          "ars": 92065740.69,
+          "usd": 60055.93,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 104165801.67,
+          "usd": 67948.99,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 118691681.85,
+          "usd": 77424.45,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 129856643.49,
+          "usd": 84707.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "441": {
+      "id": "441",
+      "marcaId": "3",
+      "modeloId": "26",
+      "marca": "AUDI",
+      "modelo": "RS3",
+      "version": "4P 2,5 Tfsi S-Tronic Quattro 400CV Sportback",
+      "precios": {
+        "2018": {
+          "ars": 103209270.99,
+          "usd": 67325.03,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 117601764.84,
+          "usd": 76713.48,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 128664199.44,
+          "usd": 83929.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "442": {
+      "id": "442",
+      "marcaId": "3",
+      "modeloId": "26",
+      "marca": "AUDI",
+      "modelo": "RS3",
+      "version": "4P Tfsi S-Tronic 400CV  Sportback",
+      "precios": {
+        "0": {
+          "ars": 169089900,
+          "usd": 110300,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 171809993.88,
+          "usd": 112074.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "443": {
+      "id": "443",
+      "marcaId": "3",
+      "modeloId": "26",
+      "marca": "AUDI",
+      "modelo": "RS3",
+      "version": "4P Tfsi S-Tronic 400CV",
+      "precios": {
+        "0": {
+          "ars": 169856400,
+          "usd": 110800,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 172630869.39,
+          "usd": 112609.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "444": {
+      "id": "444",
+      "marcaId": "3",
+      "modeloId": "27",
+      "marca": "AUDI",
+      "modelo": "RS5",
+      "version": "4P 4,2 FSI V8 S-Tronic  Quattro",
+      "precios": {
+        "2013": {
+          "ars": 84189048.72,
+          "usd": 54917.84,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 92556561.3,
+          "usd": 60376.1,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 100793339.64,
+          "usd": 65749.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "445": {
+      "id": "445",
+      "marcaId": "3",
+      "modeloId": "27",
+      "marca": "AUDI",
+      "modelo": "RS5",
+      "version": "Coupe 2,9 Tfsi 450CV Tipt Quattro",
+      "precios": {
+        "2018": {
+          "ars": 179838897.42,
+          "usd": 117311.74,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 191040835.02,
+          "usd": 124618.94,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 209011473.51,
+          "usd": 136341.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "446": {
+      "id": "446",
+      "marcaId": "3",
+      "modeloId": "28",
+      "marca": "AUDI",
+      "modelo": "RS7",
+      "version": "Sportback 4,0 Tfsi V8 Bt Tipt Quattro",
+      "precios": {
+        "2015": {
+          "ars": 120426026.07,
+          "usd": 78555.79,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 126345659.58,
+          "usd": 82417.26,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 140482985.58,
+          "usd": 91639.26,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 158946468.24,
+          "usd": 103683.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "447": {
+      "id": "447",
+      "marcaId": "3",
+      "modeloId": "29",
+      "marca": "AUDI",
+      "modelo": "RS E-TRON",
+      "version": "4P Gt Quattro",
+      "precios": {
+        "0": {
+          "ars": 496133988,
+          "usd": 323636,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 375586318.38,
+          "usd": 245000.86,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 394365629.7,
+          "usd": 257250.9,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 425914877.01,
+          "usd": 277830.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "448": {
+      "id": "448",
+      "marcaId": "3",
+      "modeloId": "30",
+      "marca": "AUDI",
+      "modelo": "RS Q3",
+      "version": "5P 2,5 Tfsi Quattro Sportback",
+      "precios": {
+        "2024": {
+          "ars": 208021799.37,
+          "usd": 135695.89,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 224663541.48,
+          "usd": 146551.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "449": {
+      "id": "449",
+      "marcaId": "3",
+      "modeloId": "31",
+      "marca": "AUDI",
+      "modelo": "RS Q8",
+      "version": "5P 4,0 Tfsi Quattro 8tipt 600CV",
+      "precios": {
+        "2020": {
+          "ars": 280486770.69,
+          "usd": 182965.93,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 297164369.67,
+          "usd": 193844.99,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 320937520.47,
+          "usd": 209352.59,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 336984381.93,
+          "usd": 219820.21,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 353833615.59,
+          "usd": 230811.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "450": {
+      "id": "450",
+      "marcaId": "3",
+      "modeloId": "31",
+      "marca": "AUDI",
+      "modelo": "RS Q8",
+      "version": "5P 4,0 Tfsi Quattro 8tipt 640CV",
+      "precios": {
+        "0": {
+          "ars": 384016500,
+          "usd": 250500,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 440527295.04,
+          "usd": 287362.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "451": {
+      "id": "451",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "3P 2,0 3 Tfsi Quattro",
+      "precios": {
+        "2013": {
+          "ars": 32304418.44,
+          "usd": 21072.68,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 35397843.81,
+          "usd": 23090.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "452": {
+      "id": "452",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "3P 2,0 3 Tfsi Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 34164453.33,
+          "usd": 22286.01,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 37435982.64,
+          "usd": 24420.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "453": {
+      "id": "453",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "5P 2,0 3 Tfsi Quattro Sportback",
+      "precios": {
+        "2013": {
+          "ars": 33625603.83,
+          "usd": 21934.51,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36845547.69,
+          "usd": 24034.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "454": {
+      "id": "454",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "5P 2,0 3 Tfsi Quattro Sportback S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 36407876.19,
+          "usd": 23749.43,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 39894255.45,
+          "usd": 26023.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "455": {
+      "id": "455",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "5P 2,0 3 Tfsi Quattro Sportback S-Tronic 2017",
+      "precios": {
+        "2017": {
+          "ars": 65395235.22,
+          "usd": 42658.34,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 73556727.93,
+          "usd": 47982.21,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 81507356.49,
+          "usd": 53168.53,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 86577202.11,
+          "usd": 56475.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "456": {
+      "id": "456",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "4P 2,0 3 Tfsi S-Tronic Quattro 2017",
+      "precios": {
+        "2016": {
+          "ars": 62287767.57,
+          "usd": 40631.29,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 65946318.06,
+          "usd": 43017.82,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 74176581.15,
+          "usd": 48386.55,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 82194217.14,
+          "usd": 53616.58,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 87306787.47,
+          "usd": 56951.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "457": {
+      "id": "457",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "Sportback 2,0 3 Tfsi S-Tronic Quattro 2025",
+      "precios": {
+        "0": {
+          "ars": 122180100,
+          "usd": 79700,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 137747960.28,
+          "usd": 89855.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "458": {
+      "id": "458",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "4P 2,0 3 Tfsi S-Tronic Quattro 2025",
+      "precios": {
+        "0": {
+          "ars": 122180100,
+          "usd": 79700,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 137747960.28,
+          "usd": 89855.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "459": {
+      "id": "459",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "4P 3,0 Tfsi 4 Quattro",
+      "precios": {}
+    },
+    "460": {
+      "id": "460",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "4P 3,0 Tfsi 4 Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 51366154.35,
+          "usd": 33506.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 56963198.67,
+          "usd": 37157.99,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 60340321.02,
+          "usd": 39360.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "461": {
+      "id": "461",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "4P 3,0 Tfsi 4 Quattro S-Tronic 354CV",
+      "precios": {
+        "2017": {
+          "ars": 92722738.5,
+          "usd": 60484.5,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 104949348.63,
+          "usd": 68460.11,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 111486505.2,
+          "usd": 72724.4,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 118421076.69,
+          "usd": 77247.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "462": {
+      "id": "462",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "Coupe 3,0 Tfsi 5 Quattro Trip",
+      "precios": {
+        "2017": {
+          "ars": 98263935.63,
+          "usd": 64099.11,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 111221219.55,
+          "usd": 72551.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 118149045.84,
+          "usd": 77070.48,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 125498033.22,
+          "usd": 81864.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "463": {
+      "id": "463",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "Sportback 3,0 Tfsi 5 Quattro Trip",
+      "precios": {
+        "2017": {
+          "ars": 98263935.63,
+          "usd": 64099.11,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 111221219.55,
+          "usd": 72551.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 118149045.84,
+          "usd": 77070.48,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 125498033.22,
+          "usd": 81864.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "464": {
+      "id": "464",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "Coupe 4,2 FSI 5 V8 Quattro",
+      "precios": {}
+    },
+    "465": {
+      "id": "465",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "Coupe 4,2 FSI 5 V8 Quattro Tipt",
+      "precios": {
+        "2013": {
+          "ars": 55172363.4,
+          "usd": 35989.8,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 62325341.4,
+          "usd": 40655.8,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 64811499.48,
+          "usd": 42277.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "466": {
+      "id": "466",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "4P 4,0 V8 Tfsi 6 S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "ars": 77806311.24,
+          "usd": 50754.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 80229861.6,
+          "usd": 52335.2,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 86631133.05,
+          "usd": 56510.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "467": {
+      "id": "467",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "5P 4,0 Tfsi 7 S-Tronic Quattro Sportback",
+      "precios": {
+        "2013": {
+          "ars": 88921496.37,
+          "usd": 58004.89,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 93868947.27,
+          "usd": 61232.19,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 99007011.39,
+          "usd": 64583.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "468": {
+      "id": "468",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 1,8 Tfsi 160CV",
+      "precios": {
+        "2013": {
+          "ars": 38716129.62,
+          "usd": 25255.14,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 42023515.8,
+          "usd": 27412.6,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 44609564.16,
+          "usd": 29099.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "469": {
+      "id": "469",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 1,8 Tfsi 160CV Premium",
+      "precios": {}
+    },
+    "470": {
+      "id": "470",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 1,8 Tfsi 160CV Sport",
+      "precios": {}
+    },
+    "471": {
+      "id": "471",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 1,8 Tfsi 160CV Premium Sport",
+      "precios": {}
+    },
+    "472": {
+      "id": "472",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi",
+      "precios": {}
+    },
+    "473": {
+      "id": "473",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi S-Tronic",
+      "precios": {}
+    },
+    "474": {
+      "id": "474",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 211CV",
+      "precios": {
+        "2013": {
+          "ars": 47062762.74,
+          "usd": 30699.78,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 50468000.31,
+          "usd": 32921.07,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 53573720.34,
+          "usd": 34946.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "475": {
+      "id": "475",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 211CV S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 49760014.92,
+          "usd": 32459.24,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 53360418.72,
+          "usd": 34807.84,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 56644135.38,
+          "usd": 36949.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "476": {
+      "id": "476",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 211CV Premium",
+      "precios": {}
+    },
+    "477": {
+      "id": "477",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 211CV Premium S-Tronic",
+      "precios": {}
+    },
+    "478": {
+      "id": "478",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 211CV Sport",
+      "precios": {}
+    },
+    "479": {
+      "id": "479",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 211CV Sport S-Tronic",
+      "precios": {}
+    },
+    "480": {
+      "id": "480",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 211CV Premium Sport",
+      "precios": {}
+    },
+    "481": {
+      "id": "481",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 211CV Premium Sport S-Tronic",
+      "precios": {}
+    },
+    "482": {
+      "id": "482",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi 230CV S-Tronic",
+      "precios": {
+        "2017": {
+          "ars": 73350493.44,
+          "usd": 47847.68,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 82990840.59,
+          "usd": 54136.23,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 94563886.83,
+          "usd": 61685.51,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 103459226.64,
+          "usd": 67488.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "483": {
+      "id": "483",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,0 Tfsi S 310CV Quattro S-Tronic",
+      "precios": {
+        "2017": {
+          "ars": 105854401.17,
+          "usd": 69050.49,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 119766698.1,
+          "usd": 78125.7,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 136468119.9,
+          "usd": 89020.3,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 149305262.61,
+          "usd": 97394.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "484": {
+      "id": "484",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,5 Tfsi Rs 400CV Quattro S-Tronic",
+      "precios": {
+        "2017": {
+          "ars": 135107934.99,
+          "usd": 88133.03,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 152864965.26,
+          "usd": 99716.22,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 174181928.13,
+          "usd": 113621.61,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 190566693.45,
+          "usd": 124309.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "485": {
+      "id": "485",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,5 Tfsi 340 Rs Quattro",
+      "precios": {
+        "2013": {
+          "ars": 71003899.68,
+          "usd": 46316.96,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 76141411.92,
+          "usd": 49668.24,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 80827026.42,
+          "usd": 52724.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "486": {
+      "id": "486",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 2,5 Tfsi 340 Rs Quattro S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 73944009.72,
+          "usd": 48234.84,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 79294271.7,
+          "usd": 51724.9,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 84173902.68,
+          "usd": 54907.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "487": {
+      "id": "487",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 3,2 Quattro",
+      "precios": {}
+    },
+    "488": {
+      "id": "488",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Coupe 3,2 Quattro S-Tronic",
+      "precios": {}
+    },
+    "489": {
+      "id": "489",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 200CV",
+      "precios": {}
+    },
+    "490": {
+      "id": "490",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 200CV S-Tronic",
+      "precios": {}
+    },
+    "491": {
+      "id": "491",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 211CV",
+      "precios": {
+        "2013": {
+          "ars": 51328043.97,
+          "usd": 33482.09,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 55041905.1,
+          "usd": 35904.7,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 58429099.26,
+          "usd": 38114.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "492": {
+      "id": "492",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 211CV S-Tronic",
+      "precios": {
+        "2013": {
+          "ars": 54050651.97,
+          "usd": 35258.09,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 57961518.93,
+          "usd": 37809.21,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 61528365.36,
+          "usd": 40135.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "493": {
+      "id": "493",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 211CV Premium",
+      "precios": {}
+    },
+    "494": {
+      "id": "494",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 211CV Premium S-Tronic",
+      "precios": {}
+    },
+    "495": {
+      "id": "495",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 211CV Sport",
+      "precios": {}
+    },
+    "496": {
+      "id": "496",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 211CV Sport S-Tronic",
+      "precios": {}
+    },
+    "497": {
+      "id": "497",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 211CV Premium Sport",
+      "precios": {}
+    },
+    "498": {
+      "id": "498",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 211CV Premium Sport S-Tronic",
+      "precios": {}
+    },
+    "499": {
+      "id": "499",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 2,0 Tfsi 310CV Quattro S-Tronic",
+      "precios": {
+        "2018": {
+          "ars": 126699981.87,
+          "usd": 82648.39,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 144368236.11,
+          "usd": 94173.67,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 157948515.9,
+          "usd": 103032.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "500": {
+      "id": "500",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 3,2 Quattro",
+      "precios": {}
+    },
+    "501": {
+      "id": "501",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 3,2 Quattro S-Tronic",
+      "precios": {}
+    },
+    "502": {
+      "id": "502",
+      "marcaId": "3",
+      "modeloId": "33",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Roadster 3,2 V6 DSG Quattro 250CV",
+      "precios": {
+        "2021": {
+          "ars": 161015481.69,
+          "usd": 105032.93,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 169066261.14,
+          "usd": 110284.58,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 182591552.22,
+          "usd": 119107.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "503": {
+      "id": "503",
+      "marcaId": "4",
+      "modeloId": "34",
+      "marca": "BAIC",
+      "modelo": "BJ30",
+      "version": "5P 1,5 AT Hybrid 4X2",
+      "precios": {
+        "0": {
+          "ars": 54881400,
+          "usd": 35800,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 50124822.93,
+          "usd": 32697.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "504": {
+      "id": "504",
+      "marcaId": "4",
+      "modeloId": "34",
+      "marca": "BAIC",
+      "modelo": "BJ30",
+      "version": "5P 1,5 AT Hybrid 4X4",
+      "precios": {
+        "0": {
+          "ars": 65152500,
+          "usd": 42500,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 60786853.26,
+          "usd": 39652.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "505": {
+      "id": "505",
+      "marcaId": "4",
+      "modeloId": "35",
+      "marca": "BAIC",
+      "modelo": "BJ40",
+      "version": "3P 2,0 T 8AT 4X4",
+      "precios": {
+        "0": {
+          "ars": 93972900,
+          "usd": 61300,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 85828270.29,
+          "usd": 55987.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "506": {
+      "id": "506",
+      "marcaId": "4",
+      "modeloId": "35",
+      "marca": "BAIC",
+      "modelo": "BJ40",
+      "version": "5P 2,0 T 8AT 4X4 Plus",
+      "precios": {
+        "0": {
+          "ars": 97958700,
+          "usd": 63900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 80521760.13,
+          "usd": 52525.61,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 89468624.07,
+          "usd": 58361.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "507": {
+      "id": "507",
+      "marcaId": "4",
+      "modeloId": "36",
+      "marca": "BAIC",
+      "modelo": "BJ60",
+      "version": "5P 2,0 4WD Hybrid",
+      "precios": {
+        "0": {
+          "ars": 120493800,
+          "usd": 78600,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 110050605.42,
+          "usd": 71787.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "508": {
+      "id": "508",
+      "marcaId": "4",
+      "modeloId": "37",
+      "marca": "BAIC",
+      "modelo": "D20",
+      "version": "5P 1,3 MT",
+      "precios": {
+        "2018": {
+          "ars": 15240534.12,
+          "usd": 9941.64,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16459775.01,
+          "usd": 10736.97,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17776545.36,
+          "usd": 11595.92,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16968531.72,
+          "usd": 11068.84,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 17816955.24,
+          "usd": 11622.28,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 19242307.98,
+          "usd": 12552.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "509": {
+      "id": "509",
+      "marcaId": "4",
+      "modeloId": "38",
+      "marca": "BAIC",
+      "modelo": "EX 260 CROSSOVER ELECTRIC",
+      "version": "5P AT",
+      "precios": {
+        "2017": {
+          "ars": 24191138.58,
+          "usd": 15780.26,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 25167674.91,
+          "usd": 16417.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "510": {
+      "id": "510",
+      "marcaId": "4",
+      "modeloId": "39",
+      "marca": "BAIC",
+      "modelo": "EU5",
+      "version": "4P 1,5 CVT",
+      "precios": {
+        "0": {
+          "ars": 39244800,
+          "usd": 25600,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 30466933.98,
+          "usd": 19874.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "511": {
+      "id": "511",
+      "marcaId": "4",
+      "modeloId": "39",
+      "marca": "BAIC",
+      "modelo": "EU5",
+      "version": "4P 100% Electrico",
+      "precios": {
+        "0": {
+          "ars": 44303700,
+          "usd": 28900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 34394311.35,
+          "usd": 22435.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "512": {
+      "id": "512",
+      "marcaId": "4",
+      "modeloId": "39",
+      "marca": "BAIC",
+      "modelo": "EU5",
+      "version": "4P 100% Electrico Plus",
+      "precios": {
+        "2025": {
+          "ars": 41875075.41,
+          "usd": 27315.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "513": {
+      "id": "513",
+      "marcaId": "4",
+      "modeloId": "40",
+      "marca": "BAIC",
+      "modelo": "SENOVA ELITE",
+      "version": "5P 1,5 MT",
+      "precios": {
+        "2018": {
+          "ars": 17949130.5,
+          "usd": 11708.5,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19385060.94,
+          "usd": 12645.18,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20935874.4,
+          "usd": 13656.8,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19984233.99,
+          "usd": 13036.03,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20983443.39,
+          "usd": 13687.83,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22662124.38,
+          "usd": 14782.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "514": {
+      "id": "514",
+      "marcaId": "4",
+      "modeloId": "40",
+      "marca": "BAIC",
+      "modelo": "SENOVA ELITE",
+      "version": "5P 1,5 AT",
+      "precios": {
+        "2018": {
+          "ars": 19519964.94,
+          "usd": 12733.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21081570.72,
+          "usd": 13751.84,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22768085.34,
+          "usd": 14851.98,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21733172.37,
+          "usd": 14176.89,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22819839.42,
+          "usd": 14885.74,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 24645427.8,
+          "usd": 16076.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "515": {
+      "id": "515",
+      "marcaId": "4",
+      "modeloId": "41",
+      "marca": "BAIC",
+      "modelo": "X25 CROSSOVER",
+      "version": "5P 1,5 MT",
+      "precios": {
+        "2017": {
+          "ars": 17672102.07,
+          "usd": 11527.79,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18385468.29,
+          "usd": 11993.13,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19304747.07,
+          "usd": 12592.79,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20269985.19,
+          "usd": 13222.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "516": {
+      "id": "516",
+      "marcaId": "4",
+      "modeloId": "41",
+      "marca": "BAIC",
+      "modelo": "X25 CROSSOVER",
+      "version": "5P 1,5 AT",
+      "precios": {
+        "2017": {
+          "ars": 20091498,
+          "usd": 13106,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20902531.65,
+          "usd": 13635.05,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21947654.4,
+          "usd": 14316.8,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23045052.45,
+          "usd": 15032.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "517": {
+      "id": "517",
+      "marcaId": "4",
+      "modeloId": "42",
+      "marca": "BAIC",
+      "modelo": "X35 CROSSOVER",
+      "version": "5P 1,5 MT",
+      "precios": {
+        "2017": {
+          "ars": 20302975.35,
+          "usd": 13243.95,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21122547.81,
+          "usd": 13778.57,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22812343.05,
+          "usd": 14880.85,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24637333.56,
+          "usd": 16071.32,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23517446.4,
+          "usd": 15340.8,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 24693318.72,
+          "usd": 16107.84,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26668788.51,
+          "usd": 17396.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "518": {
+      "id": "518",
+      "marcaId": "4",
+      "modeloId": "42",
+      "marca": "BAIC",
+      "modelo": "X35 CROSSOVER",
+      "version": "5P 1,5 AT",
+      "precios": {
+        "2017": {
+          "ars": 22419864.39,
+          "usd": 14624.83,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23324886.27,
+          "usd": 15215.19,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25190884.53,
+          "usd": 16432.41,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27206151,
+          "usd": 17747,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25969510.56,
+          "usd": 16940.32,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27267976.89,
+          "usd": 17787.33,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29449420.56,
+          "usd": 19210.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "519": {
+      "id": "519",
+      "marcaId": "4",
+      "modeloId": "42",
+      "marca": "BAIC",
+      "modelo": "X35 CROSSOVER",
+      "version": "5P 1,5 T CVT Fashion",
+      "precios": {
+        "2024": {
+          "ars": 32133090.36,
+          "usd": 20960.92,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 35703447.36,
+          "usd": 23289.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "520": {
+      "id": "520",
+      "marcaId": "4",
+      "modeloId": "42",
+      "marca": "BAIC",
+      "modelo": "X35 CROSSOVER",
+      "version": "5P 1,5 T CVT Fashion Plus",
+      "precios": {
+        "2024": {
+          "ars": 34275304.56,
+          "usd": 22358.32,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 38083675.14,
+          "usd": 24842.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "521": {
+      "id": "521",
+      "marcaId": "4",
+      "modeloId": "42",
+      "marca": "BAIC",
+      "modelo": "X35 CROSSOVER",
+      "version": "5P 1,5 T CVT Luxury",
+      "precios": {
+        "0": {
+          "ars": 43230600,
+          "usd": 28200,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 35535430.56,
+          "usd": 23180.32,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 39483810.03,
+          "usd": 25755.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "522": {
+      "id": "522",
+      "marcaId": "4",
+      "modeloId": "43",
+      "marca": "BAIC",
+      "modelo": "X55 CROSSOVER",
+      "version": "5P 1,5 T AT",
+      "precios": {
+        "2017": {
+          "ars": 26836835.97,
+          "usd": 17506.09,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 28252546.14,
+          "usd": 18429.58,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 29087479.26,
+          "usd": 18974.22,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 31414465.95,
+          "usd": 20492.15,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29986537.77,
+          "usd": 19560.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "523": {
+      "id": "523",
+      "marcaId": "4",
+      "modeloId": "43",
+      "marca": "BAIC",
+      "modelo": "X55 CROSSOVER",
+      "version": "5P 1,5 T AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 30917252.73,
+          "usd": 20167.81,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 33390640.92,
+          "usd": 21781.24,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 31872878.94,
+          "usd": 20791.18,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 33466524.42,
+          "usd": 21830.74,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 36143847.6,
+          "usd": 23577.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "524": {
+      "id": "524",
+      "marcaId": "4",
+      "modeloId": "43",
+      "marca": "BAIC",
+      "modelo": "X55 CROSSOVER",
+      "version": "5P 1,5 T AT Ii 2023",
+      "precios": {
+        "2023": {
+          "ars": 39035361.54,
+          "usd": 25463.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "525": {
+      "id": "525",
+      "marcaId": "4",
+      "modeloId": "43",
+      "marca": "BAIC",
+      "modelo": "X55 CROSSOVER",
+      "version": "5P 1,5 T Ii Luxury",
+      "precios": {
+        "0": {
+          "ars": 56567700,
+          "usd": 36900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 55585353.6,
+          "usd": 36259.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "526": {
+      "id": "526",
+      "marcaId": "4",
+      "modeloId": "43",
+      "marca": "BAIC",
+      "modelo": "X55 CROSSOVER",
+      "version": "5P 1,5 T Ii Plus",
+      "precios": {
+        "0": {
+          "ars": 65152500,
+          "usd": 42500,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 61269901.56,
+          "usd": 39967.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "527": {
+      "id": "527",
+      "marcaId": "4",
+      "modeloId": "44",
+      "marca": "BAIC",
+      "modelo": "X65 CROSSOVER",
+      "version": "5P 2,0 T AT",
+      "precios": {
+        "2019": {
+          "ars": 34468845.81,
+          "usd": 22484.57,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 37226360.22,
+          "usd": 24283.34,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 35534250.15,
+          "usd": 23179.55,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 37310966.49,
+          "usd": 24338.53,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 40295840.13,
+          "usd": 26285.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "528": {
+      "id": "528",
+      "marcaId": "5",
+      "modeloId": "45",
+      "marca": "BMW",
+      "modelo": "116",
+      "version": "3P 1,6 I Active",
+      "precios": {}
+    },
+    "529": {
+      "id": "529",
+      "marcaId": "5",
+      "modeloId": "45",
+      "marca": "BMW",
+      "modelo": "116",
+      "version": "5P 1,6 I",
+      "precios": {
+        "2013": {
+          "ars": 28521281.04,
+          "usd": 18604.88,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 30009088.2,
+          "usd": 19575.4,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 31771915.56,
+          "usd": 20725.32,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 33464868.78,
+          "usd": 21829.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "530": {
+      "id": "530",
+      "marcaId": "5",
+      "modeloId": "45",
+      "marca": "BMW",
+      "modelo": "116",
+      "version": "5P 1,6 I AT",
+      "precios": {}
+    },
+    "531": {
+      "id": "531",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "3P 1,8 I Active",
+      "precios": {}
+    },
+    "532": {
+      "id": "532",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "3P 1,8 D Active",
+      "precios": {}
+    },
+    "533": {
+      "id": "533",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "3P 1,8 I Active 2017",
+      "precios": {
+        "2017": {
+          "ars": 37267321.98,
+          "usd": 24310.06,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 41785701.51,
+          "usd": 27257.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "534": {
+      "id": "534",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,8 I Active",
+      "precios": {
+        "2016": {
+          "ars": 33071838.24,
+          "usd": 21573.28,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 36284009.79,
+          "usd": 23668.63,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 40683183.24,
+          "usd": 26538.28,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 47020114.68,
+          "usd": 30671.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "535": {
+      "id": "535",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,8 I Sport/urban",
+      "precios": {}
+    },
+    "536": {
+      "id": "536",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,8 I Sport/urban AT",
+      "precios": {
+        "2013": {
+          "ars": 31791829.23,
+          "usd": 20738.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 33450228.63,
+          "usd": 21820.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 36251755.47,
+          "usd": 23647.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "537": {
+      "id": "537",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,8 D Sport/urban",
+      "precios": {}
+    },
+    "538": {
+      "id": "538",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,8 I Sport Line",
+      "precios": {
+        "2016": {
+          "ars": 37553119.17,
+          "usd": 24496.49,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 41200540.08,
+          "usd": 26875.76,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 46195805.25,
+          "usd": 30134.25,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 53391415.98,
+          "usd": 34828.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "539": {
+      "id": "539",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,5 T 7AT Advantage",
+      "precios": {
+        "2019": {
+          "ars": 54101670.21,
+          "usd": 35291.37,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 58457383.11,
+          "usd": 38132.67,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 61380262.23,
+          "usd": 40039.31,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 64449266.91,
+          "usd": 42041.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "540": {
+      "id": "540",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,5 T 7AT Sportline",
+      "precios": {
+        "2020": {
+          "ars": 63310002.63,
+          "usd": 41298.11,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 66475494.33,
+          "usd": 43363.01,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 69799268.28,
+          "usd": 45531.16,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 75383205.45,
+          "usd": 49173.65,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 79350747.42,
+          "usd": 51761.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "541": {
+      "id": "541",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,5 T 7AT Advantage 2025",
+      "precios": {
+        "0": {
+          "ars": 73430700,
+          "usd": 47900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 74420220.84,
+          "usd": 48545.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "542": {
+      "id": "542",
+      "marcaId": "5",
+      "modeloId": "46",
+      "marca": "BMW",
+      "modelo": "118",
+      "version": "5P 1,5 T 7AT Sportline 2025",
+      "precios": {
+        "0": {
+          "ars": 85694700,
+          "usd": 55900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 85073421.09,
+          "usd": 55494.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "543": {
+      "id": "543",
+      "marcaId": "5",
+      "modeloId": "47",
+      "marca": "BMW",
+      "modelo": "120",
+      "version": "5P 2,0 I Active",
+      "precios": {}
+    },
+    "544": {
+      "id": "544",
+      "marcaId": "5",
+      "modeloId": "47",
+      "marca": "BMW",
+      "modelo": "120",
+      "version": "5P 2,0 D Active",
+      "precios": {}
+    },
+    "545": {
+      "id": "545",
+      "marcaId": "5",
+      "modeloId": "47",
+      "marca": "BMW",
+      "modelo": "120",
+      "version": "5P 2,0 I Sport",
+      "precios": {
+        "2017": {
+          "ars": 43663641.84,
+          "usd": 28482.48,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 49872629.1,
+          "usd": 32532.7,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 58738872.57,
+          "usd": 38316.29,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 62483684.97,
+          "usd": 40759.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "546": {
+      "id": "546",
+      "marcaId": "5",
+      "modeloId": "47",
+      "marca": "BMW",
+      "modelo": "120",
+      "version": "Coupe 2,0 I Active",
+      "precios": {}
+    },
+    "547": {
+      "id": "547",
+      "marcaId": "5",
+      "modeloId": "47",
+      "marca": "BMW",
+      "modelo": "120",
+      "version": "Coupe 2,0 I Executive",
+      "precios": {
+        "2013": {
+          "ars": 33224739.66,
+          "usd": 21673.02,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 35565860.61,
+          "usd": 23200.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "548": {
+      "id": "548",
+      "marcaId": "5",
+      "modeloId": "47",
+      "marca": "BMW",
+      "modelo": "120",
+      "version": "Conv 2,0 I Active",
+      "precios": {
+        "2013": {
+          "ars": 52434226.11,
+          "usd": 34203.67,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 56128909.41,
+          "usd": 36613.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "549": {
+      "id": "549",
+      "marcaId": "5",
+      "modeloId": "48",
+      "marca": "BMW",
+      "modelo": "125",
+      "version": "3P 1,6 I AT",
+      "precios": {
+        "2013": {
+          "ars": 37084695.69,
+          "usd": 24190.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 39697786.17,
+          "usd": 25895.49,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 41087159.4,
+          "usd": 26801.8,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 43203220.62,
+          "usd": 28182.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "550": {
+      "id": "550",
+      "marcaId": "5",
+      "modeloId": "48",
+      "marca": "BMW",
+      "modelo": "125",
+      "version": "5P 2,0 D Sport Line",
+      "precios": {
+        "2013": {
+          "ars": 38428308.87,
+          "usd": 25067.39,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 41136077.43,
+          "usd": 26833.71,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 42784972.23,
+          "usd": 27909.31,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 44988475.77,
+          "usd": 29346.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "551": {
+      "id": "551",
+      "marcaId": "5",
+      "modeloId": "48",
+      "marca": "BMW",
+      "modelo": "125",
+      "version": "Coupe 3,0 Executive",
+      "precios": {
+        "2013": {
+          "ars": 39606633.99,
+          "usd": 25836.03,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 42397445.16,
+          "usd": 27656.52,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 42460466.79,
+          "usd": 27697.63,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 44647260.63,
+          "usd": 29124.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "552": {
+      "id": "552",
+      "marcaId": "5",
+      "modeloId": "49",
+      "marca": "BMW",
+      "modelo": "130",
+      "version": "3P 3,0 I Limited Edition",
+      "precios": {}
+    },
+    "553": {
+      "id": "553",
+      "marcaId": "5",
+      "modeloId": "50",
+      "marca": "BMW",
+      "modelo": "135",
+      "version": "Coupe 3,0 I Sportive",
+      "precios": {
+        "2013": {
+          "ars": 56187883.92,
+          "usd": 36652.24,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 60147055.71,
+          "usd": 39234.87,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 65435231.19,
+          "usd": 42684.43,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 70209437.76,
+          "usd": 45798.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "554": {
+      "id": "554",
+      "marcaId": "5",
+      "modeloId": "50",
+      "marca": "BMW",
+      "modelo": "135",
+      "version": "3P 3,0 I M",
+      "precios": {
+        "2013": {
+          "ars": 58292922.87,
+          "usd": 38025.39,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 62400412.41,
+          "usd": 40704.77,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 67935937.44,
+          "usd": 44315.68,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 72892601.67,
+          "usd": 47548.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "555": {
+      "id": "555",
+      "marcaId": "5",
+      "modeloId": "51",
+      "marca": "BMW",
+      "modelo": "218 i",
+      "version": "4P 1,5 T 7sept Gran Coupe Advantage",
+      "precios": {
+        "2020": {
+          "ars": 65252160.33,
+          "usd": 42565.01,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 68514767.58,
+          "usd": 44693.26,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 71940501.36,
+          "usd": 46927.92,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 77695735.95,
+          "usd": 50682.15,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 81580526.58,
+          "usd": 53216.26,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 84394102.8,
+          "usd": 55051.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "556": {
+      "id": "556",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T Sport Line",
+      "precios": {
+        "2015": {
+          "ars": 45400408.2,
+          "usd": 29615.4,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 46596393.48,
+          "usd": 30395.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "557": {
+      "id": "557",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T Sport 2017",
+      "precios": {
+        "2017": {
+          "ars": 48883506.84,
+          "usd": 31887.48,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 52234798.14,
+          "usd": 34073.58,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 59808370.02,
+          "usd": 39013.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "558": {
+      "id": "558",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Conv 2,0 T Sport 2017",
+      "precios": {
+        "2017": {
+          "ars": 56138950.56,
+          "usd": 36620.32,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 59987654.37,
+          "usd": 39130.89,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 68685313.83,
+          "usd": 44804.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "559": {
+      "id": "559",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T Sport Lci 8AT",
+      "precios": {
+        "2019": {
+          "ars": 66453756.39,
+          "usd": 43348.83,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 69393360.54,
+          "usd": 45266.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "560": {
+      "id": "560",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Conv 2,0 T Sport Lci 8AT",
+      "precios": {
+        "2019": {
+          "ars": 76317017.07,
+          "usd": 49782.79,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 79692928.35,
+          "usd": 51984.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "561": {
+      "id": "561",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T 8AT Sportline Lci 2020",
+      "precios": {
+        "2019": {
+          "ars": 67774665.84,
+          "usd": 44210.48,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 70772692.62,
+          "usd": 46166.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "562": {
+      "id": "562",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T 8AT M Sport Lcii 2021",
+      "precios": {
+        "2021": {
+          "ars": 73206667.38,
+          "usd": 47753.86,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 76867011.48,
+          "usd": 50141.56,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 83016365.04,
+          "usd": 54152.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "563": {
+      "id": "563",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T 8AT Advantage 2023",
+      "precios": {
+        "0": {
+          "ars": 91826700,
+          "usd": 59900,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 84394102.8,
+          "usd": 55051.6,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 87484906.74,
+          "usd": 57067.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 91160964.09,
+          "usd": 59465.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "564": {
+      "id": "564",
+      "marcaId": "5",
+      "modeloId": "53",
+      "marca": "BMW",
+      "modelo": "235 i",
+      "version": "Coupe 3,0 T M Package",
+      "precios": {
+        "2015": {
+          "ars": 77396279.73,
+          "usd": 50486.81,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 80816586.69,
+          "usd": 52717.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "565": {
+      "id": "565",
+      "marcaId": "5",
+      "modeloId": "54",
+      "marca": "BMW",
+      "modelo": "318",
+      "version": "4P 1,8 I Executive",
+      "precios": {
+        "2013": {
+          "ars": 25200373.8,
+          "usd": 16438.6,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 26976078.36,
+          "usd": 17596.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "566": {
+      "id": "566",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 I Executive",
+      "precios": {}
+    },
+    "567": {
+      "id": "567",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 D Executive",
+      "precios": {}
+    },
+    "568": {
+      "id": "568",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "Coupe 2,0 I Executive",
+      "precios": {}
+    },
+    "569": {
+      "id": "569",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 D Sport/luxyry",
+      "precios": {}
+    },
+    "570": {
+      "id": "570",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 D Sport/luxyry 2013",
+      "precios": {
+        "2013": {
+          "ars": 41225650.62,
+          "usd": 26892.14,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 44130532.32,
+          "usd": 28787.04,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 48691222.65,
+          "usd": 31762.05,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 52243766.19,
+          "usd": 34079.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "571": {
+      "id": "571",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 I 2013",
+      "precios": {
+        "2013": {
+          "ars": 34238251.95,
+          "usd": 22334.15,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36650780.04,
+          "usd": 23907.88,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 39838270.29,
+          "usd": 25987.13,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 42744899.61,
+          "usd": 27883.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "572": {
+      "id": "572",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Executive",
+      "precios": {
+        "2016": {
+          "ars": 44042292.84,
+          "usd": 28729.48,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 47691829.29,
+          "usd": 31110.13,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 53474106,
+          "usd": 34882,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "573": {
+      "id": "573",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Sportline",
+      "precios": {
+        "2016": {
+          "ars": 47357298.03,
+          "usd": 30891.91,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 51281548.08,
+          "usd": 33451.76,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 54611775.96,
+          "usd": 35624.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "574": {
+      "id": "574",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Sportline 2019",
+      "precios": {
+        "2019": {
+          "ars": 68355105.63,
+          "usd": 44589.11,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 69216115.08,
+          "usd": 45150.76,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 72676908.57,
+          "usd": 47408.29,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 76310762.43,
+          "usd": 49778.71,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 80126292.12,
+          "usd": 52267.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "575": {
+      "id": "575",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Sportline Ii",
+      "precios": {
+        "0": {
+          "ars": 94126200,
+          "usd": 61400,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 80327115.12,
+          "usd": 52398.64,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 84343467.81,
+          "usd": 55018.57,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 91090951.98,
+          "usd": 59420.06,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 94204735.59,
+          "usd": 61451.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "576": {
+      "id": "576",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "Coupe 2,5 I Executive",
+      "precios": {
+        "2013": {
+          "ars": 38080823.76,
+          "usd": 24840.72,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 41156083.08,
+          "usd": 26846.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "577": {
+      "id": "577",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "Coupe 2,5 I Executive Tronic",
+      "precios": {
+        "2013": {
+          "ars": 40033804.44,
+          "usd": 26114.68,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 43266763.47,
+          "usd": 28223.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "578": {
+      "id": "578",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "4P 2,5 I Executive",
+      "precios": {}
+    },
+    "579": {
+      "id": "579",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "Conv 3,0 I Executive",
+      "precios": {
+        "2013": {
+          "ars": 51705667.86,
+          "usd": 33728.42,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 55881207.27,
+          "usd": 36452.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "580": {
+      "id": "580",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "Coupe 3,0 I Sportive",
+      "precios": {
+        "2013": {
+          "ars": 45734954.79,
+          "usd": 29833.63,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 49428319.71,
+          "usd": 32242.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "581": {
+      "id": "581",
+      "marcaId": "5",
+      "modeloId": "58",
+      "marca": "BMW",
+      "modelo": "328",
+      "version": "4P 2,0 I Sport/luxury",
+      "precios": {
+        "2013": {
+          "ars": 40129402.32,
+          "usd": 26177.04,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 42957036.15,
+          "usd": 28021.55,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 47480627.88,
+          "usd": 30972.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "582": {
+      "id": "582",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 3,0 I Executive",
+      "precios": {}
+    },
+    "583": {
+      "id": "583",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 3,0 I Executive Tronic",
+      "precios": {}
+    },
+    "584": {
+      "id": "584",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 2,0 T Sportline 8AT",
+      "precios": {
+        "0": {
+          "ars": 113288700,
+          "usd": 73900,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 79825502.19,
+          "usd": 52071.43,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 84914678.94,
+          "usd": 55391.18,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 89160414.42,
+          "usd": 58160.74,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 93618424.41,
+          "usd": 61068.77,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 101107911.24,
+          "usd": 65954.28,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 107133858.3,
+          "usd": 69885.1,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 119277793.74,
+          "usd": 77806.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "585": {
+      "id": "585",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 2,0 T Sportline 8AT Shadow",
+      "precios": {
+        "2019": {
+          "ars": 83816775,
+          "usd": 54675,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 89160414.42,
+          "usd": 58160.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "586": {
+      "id": "586",
+      "marcaId": "5",
+      "modeloId": "60",
+      "marca": "BMW",
+      "modelo": "330e",
+      "version": "4P 2,0 T Sportline",
+      "precios": {
+        "2023": {
+          "ars": 101784040.89,
+          "usd": 66395.33,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 107141094.06,
+          "usd": 69889.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "587": {
+      "id": "587",
+      "marcaId": "5",
+      "modeloId": "61",
+      "marca": "BMW",
+      "modelo": "335",
+      "version": "4P 3,0 I 2013",
+      "precios": {
+        "2013": {
+          "ars": 52199508.48,
+          "usd": 34050.56,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 55788108.18,
+          "usd": 36391.46,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 59717739.06,
+          "usd": 38954.82,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 63236893.86,
+          "usd": 41250.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "588": {
+      "id": "588",
+      "marcaId": "5",
+      "modeloId": "61",
+      "marca": "BMW",
+      "modelo": "335",
+      "version": "Coupe 3,0 Sportive Bt",
+      "precios": {
+        "2013": {
+          "ars": 52425993.9,
+          "usd": 34198.3,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 56030153.55,
+          "usd": 36549.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "589": {
+      "id": "589",
+      "marcaId": "5",
+      "modeloId": "61",
+      "marca": "BMW",
+      "modelo": "335",
+      "version": "Coupe 3,0 Sportive Bt AT",
+      "precios": {}
+    },
+    "590": {
+      "id": "590",
+      "marcaId": "5",
+      "modeloId": "62",
+      "marca": "BMW",
+      "modelo": "428 i",
+      "version": "Coupe 2,0 T Sport Line",
+      "precios": {
+        "2015": {
+          "ars": 53376085.98,
+          "usd": 34818.06,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 55991154.03,
+          "usd": 36523.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "591": {
+      "id": "591",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Coupe 2,0 T Sport",
+      "precios": {
+        "2016": {
+          "ars": 51692330.76,
+          "usd": 33719.72,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 58086703.71,
+          "usd": 37890.87,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 67575299.19,
+          "usd": 44080.43,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 72756072.69,
+          "usd": 47459.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "592": {
+      "id": "592",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Coupe 2,0 T Sportline Lci 8AT",
+      "precios": {
+        "2019": {
+          "ars": 82432629.3,
+          "usd": 53772.1,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 89374313.91,
+          "usd": 58300.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "593": {
+      "id": "593",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Coupe 2,0 T M Sportpackage 8AT",
+      "precios": {
+        "0": {
+          "ars": 114821700,
+          "usd": 74900,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 92323683.27,
+          "usd": 60224.19,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 96939868.2,
+          "usd": 63235.4,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 104695069.92,
+          "usd": 68294.24,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 110205331.11,
+          "usd": 71888.67,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 116060915.88,
+          "usd": 75708.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "594": {
+      "id": "594",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Gran Coupe 2,0 T Sport",
+      "precios": {
+        "2016": {
+          "ars": 55992503.07,
+          "usd": 36524.79,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 62918811.69,
+          "usd": 41042.93,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 73196748.87,
+          "usd": 47747.39,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 78808494.66,
+          "usd": 51408.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "595": {
+      "id": "595",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Gran Coupe 2,0 T Sportline Lci 8AT",
+      "precios": {
+        "2019": {
+          "ars": 89290014.24,
+          "usd": 58245.28,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 96809179.95,
+          "usd": 63150.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "596": {
+      "id": "596",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Gran Coupe 2,0 T Sportline 8AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 107674179.48,
+          "usd": 70237.56,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 113341251.24,
+          "usd": 73934.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "597": {
+      "id": "597",
+      "marcaId": "5",
+      "modeloId": "64",
+      "marca": "BMW",
+      "modelo": "435 i",
+      "version": "Coupe 3,0 T V6  M Package",
+      "precios": {
+        "2015": {
+          "ars": 69329158.5,
+          "usd": 45224.5,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 75601535.31,
+          "usd": 49316.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "598": {
+      "id": "598",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Coupe 3,0 T M Package",
+      "precios": {
+        "2016": {
+          "ars": 61239655.47,
+          "usd": 39947.59,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 70219432.92,
+          "usd": 45805.24,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 81689936.79,
+          "usd": 53287.63,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 93126515.37,
+          "usd": 60747.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "599": {
+      "id": "599",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Gran Coupe 3,0 T M Package",
+      "precios": {
+        "2016": {
+          "ars": 62412829.71,
+          "usd": 40712.87,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 71564625.09,
+          "usd": 46682.73,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 83254869.18,
+          "usd": 54308.46,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 94910559.45,
+          "usd": 61911.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "600": {
+      "id": "600",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Cabrio 3,0 T Sport Line",
+      "precios": {
+        "2016": {
+          "ars": 72000594.96,
+          "usd": 46967.12,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 82558273.98,
+          "usd": 53854.06,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 96044350.92,
+          "usd": 62651.24,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 109490569.86,
+          "usd": 71422.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "601": {
+      "id": "601",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Coupe 3,0 T M Sport Lci 8AT",
+      "precios": {
+        "2019": {
+          "ars": 115778598.6,
+          "usd": 75524.2,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 125528371.29,
+          "usd": 81884.13,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 131804795.22,
+          "usd": 85978.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "602": {
+      "id": "602",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Gran Coupe 3,0 T Msport Lci 8AT",
+      "precios": {
+        "2019": {
+          "ars": 117996573.66,
+          "usd": 76971.02,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 127933127.07,
+          "usd": 83452.79,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 134329784.19,
+          "usd": 87625.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "603": {
+      "id": "603",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Cabrio 3,0 T M Package 8AT",
+      "precios": {
+        "2019": {
+          "ars": 136123026.27,
+          "usd": 88795.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 147586018.44,
+          "usd": 96272.68,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 154965313.23,
+          "usd": 101086.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "604": {
+      "id": "604",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Cabrio 3,0 T M Sport Lci 8AT",
+      "precios": {
+        "2019": {
+          "ars": 136123026.27,
+          "usd": 88795.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 147586018.44,
+          "usd": 96272.68,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 154965313.23,
+          "usd": 101086.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "605": {
+      "id": "605",
+      "marcaId": "5",
+      "modeloId": "66",
+      "marca": "BMW",
+      "modelo": "525",
+      "version": "4P 2,0 D Executive",
+      "precios": {
+        "2013": {
+          "ars": 45505648.65,
+          "usd": 29684.05,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 49551971.49,
+          "usd": 32323.53,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 55281405.69,
+          "usd": 36060.93,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 59868325.65,
+          "usd": 39053.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "606": {
+      "id": "606",
+      "marcaId": "5",
+      "modeloId": "67",
+      "marca": "BMW",
+      "modelo": "528",
+      "version": "4P 2,8 I Executive",
+      "precios": {}
+    },
+    "607": {
+      "id": "607",
+      "marcaId": "5",
+      "modeloId": "68",
+      "marca": "BMW",
+      "modelo": "530",
+      "version": "4P 3,0 I Executive",
+      "precios": {
+        "2013": {
+          "ars": 42373239.09,
+          "usd": 27640.73,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 46141031.16,
+          "usd": 30098.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "608": {
+      "id": "608",
+      "marcaId": "5",
+      "modeloId": "68",
+      "marca": "BMW",
+      "modelo": "530",
+      "version": "4P 3,0 D Executive",
+      "precios": {
+        "2013": {
+          "ars": 47227544.91,
+          "usd": 30807.27,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 51426983.79,
+          "usd": 33546.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "609": {
+      "id": "609",
+      "marcaId": "5",
+      "modeloId": "69",
+      "marca": "BMW",
+      "modelo": "530 i",
+      "version": "4P Sportline",
+      "precios": {
+        "2019": {
+          "ars": 79433667.39,
+          "usd": 51815.83,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 86122820.91,
+          "usd": 56179.27,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 90655595.31,
+          "usd": 59136.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "610": {
+      "id": "610",
+      "marcaId": "5",
+      "modeloId": "70",
+      "marca": "BMW",
+      "modelo": "535",
+      "version": "4P 3,0 I Executive",
+      "precios": {
+        "2013": {
+          "ars": 42013520.64,
+          "usd": 27406.08,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 45749334.33,
+          "usd": 29843.01,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 50993941.95,
+          "usd": 33264.15,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 62764377.27,
+          "usd": 40942.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "611": {
+      "id": "611",
+      "marcaId": "5",
+      "modeloId": "70",
+      "marca": "BMW",
+      "modelo": "535",
+      "version": "5P 3,0 Gran Turismo",
+      "precios": {
+        "2013": {
+          "ars": 47130582.66,
+          "usd": 30744.02,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 51321390.75,
+          "usd": 33477.75,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 56766836.7,
+          "usd": 37029.9,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 69869770.95,
+          "usd": 45577.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "612": {
+      "id": "612",
+      "marcaId": "5",
+      "modeloId": "71",
+      "marca": "BMW",
+      "modelo": "535 i",
+      "version": "4P 3,0 T M Package",
+      "precios": {
+        "2016": {
+          "ars": 76479882.99,
+          "usd": 49889.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "613": {
+      "id": "613",
+      "marcaId": "5",
+      "modeloId": "72",
+      "marca": "BMW",
+      "modelo": "540 i",
+      "version": "4P 3,0 T M Package",
+      "precios": {
+        "2017": {
+          "ars": 80964183.93,
+          "usd": 52814.21,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 94189850.16,
+          "usd": 61441.52,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 105007602.63,
+          "usd": 68498.11,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 113850360.54,
+          "usd": 74266.38,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 126500400.6,
+          "usd": 82518.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "614": {
+      "id": "614",
+      "marcaId": "5",
+      "modeloId": "73",
+      "marca": "BMW",
+      "modelo": "550",
+      "version": "4P 4,4 I Premium",
+      "precios": {
+        "2013": {
+          "ars": 37698186.96,
+          "usd": 24591.12,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 41050290.75,
+          "usd": 26777.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "615": {
+      "id": "615",
+      "marcaId": "5",
+      "modeloId": "74",
+      "marca": "BMW",
+      "modelo": "550e",
+      "version": "4P 3,0 8AT Xdrive M Sport Pro",
+      "precios": {
+        "0": {
+          "ars": 214466700,
+          "usd": 139900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 205875262.11,
+          "usd": 134295.67,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 219622945.5,
+          "usd": 143263.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "616": {
+      "id": "616",
+      "marcaId": "5",
+      "modeloId": "75",
+      "marca": "BMW",
+      "modelo": "640",
+      "version": "Coupe 3,0 I Sportive",
+      "precios": {
+        "2013": {
+          "ars": 71473426.92,
+          "usd": 46623.24,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 77828800.35,
+          "usd": 50768.95,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 86081951.13,
+          "usd": 56152.61,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 93341978.52,
+          "usd": 60888.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "617": {
+      "id": "617",
+      "marcaId": "5",
+      "modeloId": "75",
+      "marca": "BMW",
+      "modelo": "640",
+      "version": "Conv Sportive",
+      "precios": {
+        "2013": {
+          "ars": 77688515.52,
+          "usd": 50677.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 84596520.12,
+          "usd": 55183.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "618": {
+      "id": "618",
+      "marcaId": "5",
+      "modeloId": "75",
+      "marca": "BMW",
+      "modelo": "640",
+      "version": "4P Gran Coupe 3,0 I",
+      "precios": {
+        "2013": {
+          "ars": 70371107.94,
+          "usd": 45904.18,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 76628461.35,
+          "usd": 49985.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "619": {
+      "id": "619",
+      "marcaId": "5",
+      "modeloId": "76",
+      "marca": "BMW",
+      "modelo": "640 i",
+      "version": "Coupe 3,0 T Sportive",
+      "precios": {
+        "2016": {
+          "ars": 98462397.81,
+          "usd": 64228.57,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 112603449,
+          "usd": 73453,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 130997471.43,
+          "usd": 85451.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "620": {
+      "id": "620",
+      "marcaId": "5",
+      "modeloId": "77",
+      "marca": "BMW",
+      "modelo": "650",
+      "version": "Coupe 4,8 Ci Premium",
+      "precios": {}
+    },
+    "621": {
+      "id": "621",
+      "marcaId": "5",
+      "modeloId": "77",
+      "marca": "BMW",
+      "modelo": "650",
+      "version": "Coupe 4,8 Ci Premium Tronic",
+      "precios": {}
+    },
+    "622": {
+      "id": "622",
+      "marcaId": "5",
+      "modeloId": "78",
+      "marca": "BMW",
+      "modelo": "650 i",
+      "version": "Coupe 4,4 Bt 8AT M Sport",
+      "precios": {
+        "2017": {
+          "ars": 80881325.28,
+          "usd": 52760.16,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 94093470.45,
+          "usd": 61378.65,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 112912164.54,
+          "usd": 73654.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "623": {
+      "id": "623",
+      "marcaId": "5",
+      "modeloId": "78",
+      "marca": "BMW",
+      "modelo": "650 i",
+      "version": "Coupe Gran 4,4 Bt 8AT M Sport",
+      "precios": {
+        "2017": {
+          "ars": 83193549.18,
+          "usd": 54268.46,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 96783394.89,
+          "usd": 63133.33,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 116140080,
+          "usd": 75760,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "624": {
+      "id": "624",
+      "marcaId": "5",
+      "modeloId": "78",
+      "marca": "BMW",
+      "modelo": "650 i",
+      "version": "Coupe Gran 4,4 V8 Bt 8AT M Sport 2019",
+      "precios": {
+        "2019": {
+          "ars": 121945137.09,
+          "usd": 79546.73,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 132214198.2,
+          "usd": 86245.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "625": {
+      "id": "625",
+      "marcaId": "5",
+      "modeloId": "78",
+      "marca": "BMW",
+      "modelo": "650 i",
+      "version": "Coupe Gran 4,4 V8 Bt 8AT M Sport M6 2019",
+      "precios": {
+        "2019": {
+          "ars": 125431286.4,
+          "usd": 81820.8,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 135993917.01,
+          "usd": 88710.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "626": {
+      "id": "626",
+      "marcaId": "5",
+      "modeloId": "79",
+      "marca": "BMW",
+      "modelo": "750",
+      "version": "4P 4,8 I Premium Tronic",
+      "precios": {
+        "2013": {
+          "ars": 64703913.54,
+          "usd": 42207.38,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 70457339.19,
+          "usd": 45960.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "627": {
+      "id": "627",
+      "marcaId": "5",
+      "modeloId": "79",
+      "marca": "BMW",
+      "modelo": "750",
+      "version": "4P 4,8 Ia Individual Tronic",
+      "precios": {}
+    },
+    "628": {
+      "id": "628",
+      "marcaId": "5",
+      "modeloId": "80",
+      "marca": "BMW",
+      "modelo": "750 i",
+      "version": "4P 4,4 Bt 8AT M Sport Excellence",
+      "precios": {
+        "2017": {
+          "ars": 145862819.13,
+          "usd": 95148.61,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 169689824.22,
+          "usd": 110691.34,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 203627792.13,
+          "usd": 132829.61,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 220490378.22,
+          "usd": 143829.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "629": {
+      "id": "629",
+      "marcaId": "5",
+      "modeloId": "80",
+      "marca": "BMW",
+      "modelo": "750 i",
+      "version": "4P Li Xdrive M Sport Pure Exc",
+      "precios": {
+        "2021": {
+          "ars": 237451168.29,
+          "usd": 154893.13,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 249323732.07,
+          "usd": 162637.79,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 269269625.73,
+          "usd": 175648.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "630": {
+      "id": "630",
+      "marcaId": "5",
+      "modeloId": "81",
+      "marca": "BMW",
+      "modelo": "760 i",
+      "version": "4P 4,4 Bt V8 8AT Mildhybrid Xdrive Msport Pro",
+      "precios": {
+        "0": {
+          "ars": 349370700,
+          "usd": 227900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 343238117.46,
+          "usd": 223899.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "631": {
+      "id": "631",
+      "marcaId": "5",
+      "modeloId": "82",
+      "marca": "BMW",
+      "modelo": "M1",
+      "version": "Coupe",
+      "precios": {
+        "2013": {
+          "ars": 67724138.16,
+          "usd": 44177.52,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 73746114.75,
+          "usd": 48105.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "632": {
+      "id": "632",
+      "marcaId": "5",
+      "modeloId": "83",
+      "marca": "BMW",
+      "modelo": "M2",
+      "version": "Coupe 3,0 T",
+      "precios": {
+        "2017": {
+          "ars": 108500037.24,
+          "usd": 70776.28,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 126223770.75,
+          "usd": 82337.75,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 151468524.9,
+          "usd": 98805.3,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 164223759.42,
+          "usd": 107125.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "633": {
+      "id": "633",
+      "marcaId": "5",
+      "modeloId": "83",
+      "marca": "BMW",
+      "modelo": "M2",
+      "version": "Coupe 3,0 Bt 8AT 2025",
+      "precios": {
+        "0": {
+          "ars": 196070700,
+          "usd": 127900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 192152919.21,
+          "usd": 125344.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "634": {
+      "id": "634",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "Coupe 4,0 M Sport",
+      "precios": {
+        "2013": {
+          "ars": 89516882.91,
+          "usd": 58393.27,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 98461263.39,
+          "usd": 64227.83,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 109330126.08,
+          "usd": 71317.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "635": {
+      "id": "635",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "4P 3,0 Bt",
+      "precios": {
+        "2016": {
+          "ars": 148145854.71,
+          "usd": 96637.87,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 159433762.95,
+          "usd": 104001.15,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 171707681.46,
+          "usd": 112007.62,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 186638794.86,
+          "usd": 121747.42,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 202355739.39,
+          "usd": 131999.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "636": {
+      "id": "636",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "4P Competition Mrace Track 510CV",
+      "precios": {
+        "2024": {
+          "ars": 236857544.7,
+          "usd": 154505.9,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 248700429.6,
+          "usd": 162231.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "637": {
+      "id": "637",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe 3,0 Bt",
+      "precios": {
+        "2016": {
+          "ars": 173378513.49,
+          "usd": 113097.53,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 180696733.56,
+          "usd": 117871.32,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 188462068.41,
+          "usd": 122936.77,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 198381114.96,
+          "usd": 129407.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "638": {
+      "id": "638",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe 3,0 Bt F82 Lci",
+      "precios": {
+        "2018": {
+          "ars": 188242220.88,
+          "usd": 122793.36,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 202193578.65,
+          "usd": 131894.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "639": {
+      "id": "639",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe 3,0 Bt Lci 2019",
+      "precios": {
+        "2019": {
+          "ars": 206319985.41,
+          "usd": 134585.77,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 223694286.9,
+          "usd": 145919.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "640": {
+      "id": "640",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe Competition Mrace Track 510CV",
+      "precios": {
+        "2024": {
+          "ars": 249323732.07,
+          "usd": 162637.79,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 261789919.44,
+          "usd": 170769.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "641": {
+      "id": "641",
+      "marcaId": "5",
+      "modeloId": "86",
+      "marca": "BMW",
+      "modelo": "M5",
+      "version": "4P 5,0 Sport 7 Vel",
+      "precios": {
+        "2013": {
+          "ars": 117185049.45,
+          "usd": 76441.65,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 123738241.2,
+          "usd": 80716.4,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 135315564.51,
+          "usd": 88268.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "642": {
+      "id": "642",
+      "marcaId": "5",
+      "modeloId": "86",
+      "marca": "BMW",
+      "modelo": "M5",
+      "version": "4P 4,4 V8 Bt",
+      "precios": {
+        "2016": {
+          "ars": 146079723.3,
+          "usd": 95290.1,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 160703761.47,
+          "usd": 104829.59,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 176921583.09,
+          "usd": 115408.73,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 202196092.77,
+          "usd": 131895.69,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 219577216.11,
+          "usd": 143233.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "643": {
+      "id": "643",
+      "marcaId": "5",
+      "modeloId": "86",
+      "marca": "BMW",
+      "modelo": "M5",
+      "version": "4P 35 J",
+      "precios": {
+        "2020": {
+          "ars": 251723520.93,
+          "usd": 164203.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "644": {
+      "id": "644",
+      "marcaId": "5",
+      "modeloId": "86",
+      "marca": "BMW",
+      "modelo": "M5",
+      "version": "4P 4,4 Bt 8step Mxdrive Plug-In Hybrid",
+      "precios": {
+        "0": {
+          "ars": 306446700,
+          "usd": 199900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 315768091.17,
+          "usd": 205980.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "645": {
+      "id": "645",
+      "marcaId": "5",
+      "modeloId": "87",
+      "marca": "BMW",
+      "modelo": "M6",
+      "version": "Coupe 5,0 V10 Sport",
+      "precios": {}
+    },
+    "646": {
+      "id": "646",
+      "marcaId": "5",
+      "modeloId": "87",
+      "marca": "BMW",
+      "modelo": "M6",
+      "version": "Coupe Gran",
+      "precios": {
+        "2014": {
+          "ars": 144441697.47,
+          "usd": 94221.59,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 159813257.1,
+          "usd": 104248.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "647": {
+      "id": "647",
+      "marcaId": "5",
+      "modeloId": "87",
+      "marca": "BMW",
+      "modelo": "M6",
+      "version": "Coupe Gran 4,4 Bt 2017",
+      "precios": {
+        "2017": {
+          "ars": 166364287.32,
+          "usd": 108522.04,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 195745136.79,
+          "usd": 127687.63,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 227452267.77,
+          "usd": 148370.69,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 246606152.31,
+          "usd": 160865.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "648": {
+      "id": "648",
+      "marcaId": "5",
+      "modeloId": "87",
+      "marca": "BMW",
+      "modelo": "M6",
+      "version": "Coupe Gran 4,4 V8 Bt 8AT M Sport M6 2019",
+      "precios": {
+        "2019": {
+          "ars": 238824889.59,
+          "usd": 155789.23,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 258936454.56,
+          "usd": 168908.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "649": {
+      "id": "649",
+      "marcaId": "5",
+      "modeloId": "88",
+      "marca": "BMW",
+      "modelo": "M135",
+      "version": "5P 2,0 8AT Xdrive M Package",
+      "precios": {
+        "2019": {
+          "ars": 82841664.36,
+          "usd": 54038.92,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 93160547.97,
+          "usd": 60770.09,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 97818583.8,
+          "usd": 63808.6,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 102709512.99,
+          "usd": 66999.03,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 110926270.35,
+          "usd": 72358.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "650": {
+      "id": "650",
+      "marcaId": "5",
+      "modeloId": "88",
+      "marca": "BMW",
+      "modelo": "M135",
+      "version": "5P Xdrive M Performance",
+      "precios": {
+        "2022": {
+          "ars": 107844986.34,
+          "usd": 70348.98,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 116472587.7,
+          "usd": 75976.9,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 122602717.44,
+          "usd": 79975.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "651": {
+      "id": "651",
+      "marcaId": "5",
+      "modeloId": "88",
+      "marca": "BMW",
+      "modelo": "M135",
+      "version": "5P 2,0 T Xdrive 8AT 2025",
+      "precios": {
+        "0": {
+          "ars": 110222700,
+          "usd": 71900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 121598679.09,
+          "usd": 79320.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "652": {
+      "id": "652",
+      "marcaId": "5",
+      "modeloId": "89",
+      "marca": "BMW",
+      "modelo": "M140i",
+      "version": "3P 3,0 M Package",
+      "precios": {
+        "2017": {
+          "ars": 65398147.92,
+          "usd": 42660.24,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 72458164.8,
+          "usd": 47265.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "653": {
+      "id": "653",
+      "marcaId": "5",
+      "modeloId": "89",
+      "marca": "BMW",
+      "modelo": "M140i",
+      "version": "5P 3,0 M Package",
+      "precios": {
+        "2017": {
+          "ars": 66368444.94,
+          "usd": 43293.18,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 73533211.71,
+          "usd": 47966.87,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 88239863.25,
+          "usd": 57560.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "654": {
+      "id": "654",
+      "marcaId": "5",
+      "modeloId": "90",
+      "marca": "BMW",
+      "modelo": "M235i",
+      "version": "4P Gran Coupe 2,0 T 8sept  Xdrive",
+      "precios": {
+        "2022": {
+          "ars": 102831447.81,
+          "usd": 67078.57,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 111057955.05,
+          "usd": 72444.85,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 116903115.42,
+          "usd": 76257.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "655": {
+      "id": "655",
+      "marcaId": "5",
+      "modeloId": "91",
+      "marca": "BMW",
+      "modelo": "M240i",
+      "version": "Coupe 3,0 T 8AT",
+      "precios": {
+        "2017": {
+          "ars": 74023863.69,
+          "usd": 48286.93,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 78142942.71,
+          "usd": 50973.87,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 82646513.46,
+          "usd": 53911.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "656": {
+      "id": "656",
+      "marcaId": "5",
+      "modeloId": "91",
+      "marca": "BMW",
+      "modelo": "M240i",
+      "version": "Coupe 3,0 T 8AT M Performance Lci 2020",
+      "precios": {
+        "2019": {
+          "ars": 91848391.95,
+          "usd": 59914.15,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 94340850.66,
+          "usd": 61540.02,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 99057891.66,
+          "usd": 64617.02,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 104010784.71,
+          "usd": 67847.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "657": {
+      "id": "657",
+      "marcaId": "5",
+      "modeloId": "91",
+      "marca": "BMW",
+      "modelo": "M240i",
+      "version": "Coupe 3,0 T 8AT 388CV Xdrive 2022",
+      "precios": {
+        "0": {
+          "ars": 128005500,
+          "usd": 83500,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 109211318.58,
+          "usd": 71240.26,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 117948222.84,
+          "usd": 76939.48,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 124156029.69,
+          "usd": 80988.93,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 133773765.09,
+          "usd": 87262.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "658": {
+      "id": "658",
+      "marcaId": "5",
+      "modeloId": "91",
+      "marca": "BMW",
+      "modelo": "M240i",
+      "version": "Conv 3,0 T M Package 8AT",
+      "precios": {
+        "2017": {
+          "ars": 82655082.93,
+          "usd": 53917.21,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 94392620.07,
+          "usd": 61573.79,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 105860885.76,
+          "usd": 69054.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "659": {
+      "id": "659",
+      "marcaId": "5",
+      "modeloId": "92",
+      "marca": "BMW",
+      "modelo": "M340i",
+      "version": "4P 3,0 T Xdrive 8AT",
+      "precios": {
+        "2020": {
+          "ars": 114904819.26,
+          "usd": 74954.22,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 120650074.02,
+          "usd": 78701.94,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 126682566.99,
+          "usd": 82637.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "660": {
+      "id": "660",
+      "marcaId": "5",
+      "modeloId": "92",
+      "marca": "BMW",
+      "modelo": "M340i",
+      "version": "4P 3,0 T Xdrive 8AT Performance Ii",
+      "precios": {
+        "0": {
+          "ars": 134750700,
+          "usd": 87900,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 133016693.04,
+          "usd": 86768.88,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 143658027.87,
+          "usd": 93710.39,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 151218983.16,
+          "usd": 98642.52,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 159645822.84,
+          "usd": 104139.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "661": {
+      "id": "661",
+      "marcaId": "5",
+      "modeloId": "93",
+      "marca": "BMW",
+      "modelo": "M440i",
+      "version": "Coupe 3,0 T Xdrive M Performance 8AT",
+      "precios": {
+        "2021": {
+          "ars": 140526660.75,
+          "usd": 91667.75,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 147552997.62,
+          "usd": 96251.14,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 159357235.59,
+          "usd": 103951.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "662": {
+      "id": "662",
+      "marcaId": "5",
+      "modeloId": "94",
+      "marca": "BMW",
+      "modelo": "M850i",
+      "version": "Coupe 4,4 8AT Mpa",
+      "precios": {
+        "2019": {
+          "ars": 170097096.33,
+          "usd": 110957.01,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 190598319.24,
+          "usd": 124330.28,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 200128229.07,
+          "usd": 130546.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "663": {
+      "id": "663",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I Sdrive Active 4X2",
+      "precios": {
+        "2013": {
+          "ars": 24157719.18,
+          "usd": 15758.46,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 26305804.77,
+          "usd": 17159.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "664": {
+      "id": "664",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I Sdrive Active 4X2",
+      "precios": {
+        "2013": {
+          "ars": 27268559.43,
+          "usd": 17787.71,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 29693259.54,
+          "usd": 19369.38,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 32692604.7,
+          "usd": 21325.9,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 33148595.55,
+          "usd": 21623.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "665": {
+      "id": "665",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 D Sdrive Active 4X2",
+      "precios": {
+        "2013": {
+          "ars": 29861230.35,
+          "usd": 19478.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 32516478.33,
+          "usd": 21211.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "666": {
+      "id": "666",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 D Xdrive Active 4X4",
+      "precios": {
+        "2013": {
+          "ars": 32522135.1,
+          "usd": 21214.7,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 35413970.97,
+          "usd": 23101.09,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 38468289.51,
+          "usd": 25093.47,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 39004839.51,
+          "usd": 25443.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "667": {
+      "id": "667",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 D Xdrive Active 4X4 AT",
+      "precios": {
+        "2013": {
+          "ars": 34493174.52,
+          "usd": 22500.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 37560278.28,
+          "usd": 24501.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "669": {
+      "id": "669",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I Sdrive Sport Line",
+      "precios": {
+        "2016": {
+          "ars": 39562974.15,
+          "usd": 25807.55,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 42305373.18,
+          "usd": 27596.46,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 47076222.48,
+          "usd": 30708.56,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 56491463.91,
+          "usd": 36850.27,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 62565807.78,
+          "usd": 40812.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "672": {
+      "id": "672",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I  1,5 T 7AT Sdrive Advantage Lci 2020",
+      "precios": {
+        "2020": {
+          "ars": 63559283.76,
+          "usd": 41460.72,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 66737254.08,
+          "usd": 43533.76,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 70074119.85,
+          "usd": 45710.45,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 79283847.3,
+          "usd": 51718.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "673": {
+      "id": "673",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I  2,0 T 7AT Sdrive Sportline Lci 2020",
+      "precios": {
+        "2020": {
+          "ars": 68365284.75,
+          "usd": 44595.75,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 71783537.49,
+          "usd": 46825.53,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 75372719.73,
+          "usd": 49166.81,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 85278858.42,
+          "usd": 55628.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "674": {
+      "id": "674",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I Sdrive Xline",
+      "precios": {
+        "0": {
+          "ars": 94892700,
+          "usd": 61900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 83456688.63,
+          "usd": 54440.11,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 90940288.74,
+          "usd": 59321.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "676": {
+      "id": "676",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I Sdrive Black Edition",
+      "precios": {
+        "0": {
+          "ars": 119420700,
+          "usd": 77900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 98968349.13,
+          "usd": 64558.61,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 112627149.18,
+          "usd": 73468.46,
+          "cotizacion": 1533
+        }
+      }
+    },
     "6326": {
       "id": "6326",
       "marcaId": "65",
@@ -6734,6 +14638,141 @@
         }
       }
     },
+    "6331": {
+      "id": "6331",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 150CV S-Tronic Advance",
+      "precios": {
+        "0": {
+          "ars": 90293700,
+          "usd": 58900,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6332": {
+      "id": "6332",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 150CV S-Tronic Advance Sportback",
+      "precios": {
+        "0": {
+          "ars": 93513000,
+          "usd": 61000,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6333": {
+      "id": "6333",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 150CV S-Tronic Advance Plus",
+      "precios": {
+        "0": {
+          "ars": 99798300,
+          "usd": 65100,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6334": {
+      "id": "6334",
+      "marcaId": "3",
+      "modeloId": "20",
+      "marca": "AUDI",
+      "modelo": "Q 3",
+      "version": "5P 1,4 Tfsi 150CV S-Tronic Advance Sportback Plus",
+      "precios": {
+        "0": {
+          "ars": 102557700,
+          "usd": 66900,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6335": {
+      "id": "6335",
+      "marcaId": "3",
+      "modeloId": "640",
+      "marca": "AUDI",
+      "modelo": "Q 6",
+      "version": "5P 50 E-Tron Performance",
+      "precios": {
+        "0": {
+          "ars": 196530600,
+          "usd": 128200,
+          "cotizacion": 1533
+        },
+        "2013": {
+          "ars": 40693745.61,
+          "usd": 26545.17,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 44738290.17,
+          "usd": 29183.49,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 48719629.14,
+          "usd": 31780.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6336": {
+      "id": "6336",
+      "marcaId": "4",
+      "modeloId": "35",
+      "marca": "BAIC",
+      "modelo": "BJ40",
+      "version": "5P 2,0 T 8AT 4X4 Pro",
+      "precios": {
+        "0": {
+          "ars": 83548500,
+          "usd": 54500,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6337": {
+      "id": "6337",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I Sdrive Xline Black Edition",
+      "precios": {
+        "0": {
+          "ars": 84161700,
+          "usd": 54900,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6338": {
+      "id": "6338",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 D Sdrive",
+      "precios": {
+        "0": {
+          "ars": 68831700,
+          "usd": 44900,
+          "cotizacion": 1533
+        }
+      }
+    },
     "6490": {
       "id": "6490",
       "marcaId": "2",
@@ -6774,6 +14813,66 @@
         }
       }
     },
+    "6492": {
+      "id": "6492",
+      "marcaId": "3",
+      "modeloId": "32",
+      "marca": "AUDI",
+      "modelo": "S",
+      "version": "Avant 3,0 T 5 S-Tronic Quattro  Mildhybrid",
+      "precios": {
+        "0": {
+          "ars": 167403600,
+          "usd": 109200,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6493": {
+      "id": "6493",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Sportline 50 Jahre",
+      "precios": {
+        "0": {
+          "ars": 98725200,
+          "usd": 64400,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6494": {
+      "id": "6494",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 2,0 T Msport AT 50 Jahre",
+      "precios": {
+        "0": {
+          "ars": 117887700,
+          "usd": 76900,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6495": {
+      "id": "6495",
+      "marcaId": "5",
+      "modeloId": "92",
+      "marca": "BMW",
+      "modelo": "M340i",
+      "version": "4P 3,0 T Xdrive 8AT Performance 50 Jahre",
+      "precios": {
+        "0": {
+          "ars": 145481700,
+          "usd": 94900,
+          "cotizacion": 1533
+        }
+      }
+    },
     "6589": {
       "id": "6589",
       "marcaId": "3",
@@ -6800,6 +14899,66 @@
         "0": {
           "ars": 96119100,
           "usd": 62700,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6591": {
+      "id": "6591",
+      "marcaId": "4",
+      "modeloId": "43",
+      "marca": "BAIC",
+      "modelo": "X55 CROSSOVER",
+      "version": "5P 1,5 Ii Hybrid",
+      "precios": {
+        "0": {
+          "ars": 56567700,
+          "usd": 36900,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6592": {
+      "id": "6592",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "4P 3,0 T Competition Xdrive",
+      "precios": {
+        "0": {
+          "ars": 272720700,
+          "usd": 177900,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6593": {
+      "id": "6593",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "Touring 3,0 T Competition Xdrive",
+      "precios": {
+        "0": {
+          "ars": 278852700,
+          "usd": 181900,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6594": {
+      "id": "6594",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe 3,0 Bt 530CV Competition Xdrive",
+      "precios": {
+        "0": {
+          "ars": 275786700,
+          "usd": 179900,
           "cotizacion": 1533
         }
       }
