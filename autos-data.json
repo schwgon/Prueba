@@ -1,12 +1,12 @@
 {
   "version": 5,
-  "actualizado": "2026-08-30T12:27:39.254Z",
+  "actualizado": "2026-08-30T14:31:05.839Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6139,
-  "versionesProcesadas": 3494,
-  "versionesConValuacion": 3162,
+  "versionesProcesadas": 3843,
+  "versionesConValuacion": 3481,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -79761,6 +79761,246 @@
         }
       }
     },
+    "3330": {
+      "id": "3330",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 One",
+      "precios": {
+        "2013": {
+          "ars": 24722522.37,
+          "usd": 16126.89,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 27959543.85,
+          "usd": 18238.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3331": {
+      "id": "3331",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 Cooper",
+      "precios": {
+        "2013": {
+          "ars": 26788469.82,
+          "usd": 17474.54,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 30296004.48,
+          "usd": 19762.56,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 34673623.95,
+          "usd": 22618.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3332": {
+      "id": "3332",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 Cooper S AT",
+      "precios": {
+        "2013": {
+          "ars": 29427989.22,
+          "usd": 19196.34,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 33281123.4,
+          "usd": 21709.8,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 38090083.08,
+          "usd": 24846.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3333": {
+      "id": "3333",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 Pepper",
+      "precios": {
+        "2013": {
+          "ars": 26945970.24,
+          "usd": 17577.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 30474123.75,
+          "usd": 19878.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3334": {
+      "id": "3334",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 Pepper S AT",
+      "precios": {
+        "2013": {
+          "ars": 29717726.22,
+          "usd": 19385.34,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 33608786.82,
+          "usd": 21923.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3335": {
+      "id": "3335",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 Pepper Sd",
+      "precios": {
+        "2013": {
+          "ars": 31875117.12,
+          "usd": 20792.64,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36048663.63,
+          "usd": 23515.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3336": {
+      "id": "3336",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 Chili S AT",
+      "precios": {
+        "2013": {
+          "ars": 32276778.45,
+          "usd": 21054.65,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36502906.86,
+          "usd": 23811.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3337": {
+      "id": "3337",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 Chili Sd",
+      "precios": {
+        "2013": {
+          "ars": 34393054.29,
+          "usd": 22435.13,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 38896287.78,
+          "usd": 25372.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3338": {
+      "id": "3338",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 S All 4 AT Chili",
+      "precios": {
+        "2013": {
+          "ars": 34884779.37,
+          "usd": 22755.89,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 38624900.79,
+          "usd": 25195.63,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 44423687.91,
+          "usd": 28978.27,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 45882383.4,
+          "usd": 29929.8,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 47819052.96,
+          "usd": 31193.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3339": {
+      "id": "3339",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 1,6 John Cooper Works",
+      "precios": {
+        "2013": {
+          "ars": 38849408.64,
+          "usd": 25342.08,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 43014600.3,
+          "usd": 28059.1,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 49472408.79,
+          "usd": 32271.63,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 51096898.23,
+          "usd": 33331.31,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 53253660.6,
+          "usd": 34738.2,
+          "cotizacion": 1533
+        }
+      }
+    },
     "3340": {
       "id": "3340",
       "marcaId": "46",
@@ -79831,6 +80071,76 @@
         }
       }
     },
+    "3342": {
+      "id": "3342",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 2,0 T Chili S AT",
+      "precios": {
+        "2017": {
+          "ars": 59026478.7,
+          "usd": 38503.9,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 63748593.93,
+          "usd": 41584.21,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 68216844.36,
+          "usd": 44498.92,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 71142314.25,
+          "usd": 46407.25,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 81401441.52,
+          "usd": 53099.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3343": {
+      "id": "3343",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 2,0 T Chili S AT All 4",
+      "precios": {
+        "2017": {
+          "ars": 62393084.67,
+          "usd": 40699.99,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 67384532.67,
+          "usd": 43955.99,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 72107629.02,
+          "usd": 47036.94,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 75199965.96,
+          "usd": 49054.12,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 86044208.67,
+          "usd": 56127.99,
+          "cotizacion": 1533
+        }
+      }
+    },
     "3344": {
       "id": "3344",
       "marcaId": "46",
@@ -79861,6 +80171,66 @@
         }
       }
     },
+    "3345": {
+      "id": "3345",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 2,0 T 192CV Classic Confort S 7AT",
+      "precios": {
+        "2021": {
+          "ars": 87566370.36,
+          "usd": 57120.92,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 91077277.62,
+          "usd": 59411.14,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 95414303.25,
+          "usd": 62240.25,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 100436104.65,
+          "usd": 65516.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3346": {
+      "id": "3346",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 2,0 T 306CV John Cooper Works 8AT 4X4",
+      "precios": {
+        "2021": {
+          "ars": 96615316.77,
+          "usd": 63023.69,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 100489054.47,
+          "usd": 65550.59,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 105274237.32,
+          "usd": 68672.04,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 110814989.88,
+          "usd": 72286.36,
+          "cotizacion": 1533
+        }
+      }
+    },
     "3347": {
       "id": "3347",
       "marcaId": "46",
@@ -79882,6 +80252,7991 @@
         "2025": {
           "ars": 88826005.8,
           "usd": 57942.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3348": {
+      "id": "3348",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 204CV S All4 Classic Conford",
+      "precios": {
+        "0": {
+          "ars": 91826700,
+          "usd": 59900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 102444825.21,
+          "usd": 66826.37,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 107567068.77,
+          "usd": 70167.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3349": {
+      "id": "3349",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 204CV S All4 Favoured",
+      "precios": {
+        "0": {
+          "ars": 101024700,
+          "usd": 65900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 113031293.97,
+          "usd": 73732.09,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 118682851.77,
+          "usd": 77418.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3350": {
+      "id": "3350",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 Salt",
+      "precios": {
+        "2013": {
+          "ars": 25996736.64,
+          "usd": 16958.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3351": {
+      "id": "3351",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 Chili",
+      "precios": {
+        "2013": {
+          "ars": 29282001.63,
+          "usd": 19101.11,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 31539068.19,
+          "usd": 20573.43,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 33088287.33,
+          "usd": 21584.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3352": {
+      "id": "3352",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 Chili S",
+      "precios": {
+        "2013": {
+          "ars": 31657431.12,
+          "usd": 20650.64,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 34097599.2,
+          "usd": 22242.4,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 35772478.35,
+          "usd": 23334.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3353": {
+      "id": "3353",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 Chili S AT",
+      "precios": {
+        "2013": {
+          "ars": 33844056.33,
+          "usd": 22077.01,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36452762.43,
+          "usd": 23778.71,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 38243337.09,
+          "usd": 24946.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3354": {
+      "id": "3354",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 S Hot",
+      "precios": {
+        "2013": {
+          "ars": 36879503.64,
+          "usd": 24057.08,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 39722191.53,
+          "usd": 25911.41,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 41673363.27,
+          "usd": 27184.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3355": {
+      "id": "3355",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 S Hot AT",
+      "precios": {
+        "2013": {
+          "ars": 38544617.58,
+          "usd": 25143.26,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 41515648.23,
+          "usd": 27081.31,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 43554921.48,
+          "usd": 28411.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3356": {
+      "id": "3356",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 S John Cooper Works",
+      "precios": {
+        "2013": {
+          "ars": 40113781.05,
+          "usd": 26166.85,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 43167992.28,
+          "usd": 28159.16,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 45288422.55,
+          "usd": 29542.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3357": {
+      "id": "3357",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 S Clubman",
+      "precios": {
+        "2013": {
+          "ars": 34925250.57,
+          "usd": 22782.29,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 37617290.55,
+          "usd": 24538.35,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 39465076.77,
+          "usd": 25743.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3358": {
+      "id": "3358",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 Pepper",
+      "precios": {
+        "2013": {
+          "ars": 29393190.12,
+          "usd": 19173.64,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 31658826.15,
+          "usd": 20651.55,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 33213916.68,
+          "usd": 21665.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3359": {
+      "id": "3359",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,6 S Pepper",
+      "precios": {
+        "2013": {
+          "ars": 33279881.67,
+          "usd": 21708.99,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 35845111.89,
+          "usd": 23382.33,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 37605839.04,
+          "usd": 24530.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3360": {
+      "id": "3360",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,5 T Pepper 2015",
+      "precios": {
+        "2015": {
+          "ars": 36789485.88,
+          "usd": 23998.36,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 37997505.21,
+          "usd": 24786.37,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 39601360.47,
+          "usd": 25832.59,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 43161844.95,
+          "usd": 28155.15,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 46614789.48,
+          "usd": 30407.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3361": {
+      "id": "3361",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,5 T Pepper AT",
+      "precios": {
+        "2017": {
+          "ars": 44971244.85,
+          "usd": 29335.45,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 49014532.35,
+          "usd": 31972.95,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 52935701.07,
+          "usd": 34530.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3362": {
+      "id": "3362",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 1,5 T Pepper",
+      "precios": {
+        "2015": {
+          "ars": 42385288.47,
+          "usd": 27648.59,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 43777053.18,
+          "usd": 28556.46,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 45624870.06,
+          "usd": 29761.82,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 49726917.45,
+          "usd": 32437.65,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 53705067.78,
+          "usd": 35032.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3363": {
+      "id": "3363",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 1,5 T Pepper AT",
+      "precios": {
+        "2017": {
+          "ars": 48572537.79,
+          "usd": 31684.63,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 52939610.22,
+          "usd": 34533.34,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 57174783.33,
+          "usd": 37296.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3364": {
+      "id": "3364",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,5 T Pepper Wired 2015",
+      "precios": {
+        "2016": {
+          "ars": 47466141.03,
+          "usd": 30962.91,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 49469664.72,
+          "usd": 32269.84,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 53917388.28,
+          "usd": 35171.16,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 58230775.05,
+          "usd": 37984.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3365": {
+      "id": "3365",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 1,5 T Pepper Wired",
+      "precios": {
+        "2016": {
+          "ars": 51770069.19,
+          "usd": 33770.43,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 53955253.38,
+          "usd": 35195.86,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 58806278.58,
+          "usd": 38360.26,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 63510779.64,
+          "usd": 41429.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3366": {
+      "id": "3366",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T Chili S 2015",
+      "precios": {
+        "2015": {
+          "ars": 50671858.65,
+          "usd": 33054.05,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 52335715.53,
+          "usd": 34139.41,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 54544783.86,
+          "usd": 35580.42,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 59448804.87,
+          "usd": 38779.39,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 64204722.75,
+          "usd": 41881.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3367": {
+      "id": "3367",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 2,0 T Chili S",
+      "precios": {
+        "2015": {
+          "ars": 52481565.15,
+          "usd": 34234.55,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 54204856.44,
+          "usd": 35358.68,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 56492812.95,
+          "usd": 36851.15,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 61571979.21,
+          "usd": 40164.37,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 66497738.16,
+          "usd": 43377.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3368": {
+      "id": "3368",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P S Look Jcw",
+      "precios": {
+        "2016": {
+          "ars": 59394153.42,
+          "usd": 38743.74,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 61901160.3,
+          "usd": 40379.1,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 67466578.83,
+          "usd": 44009.51,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 72863903.91,
+          "usd": 47530.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3369": {
+      "id": "3369",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P S Look Jcw",
+      "precios": {
+        "2016": {
+          "ars": 60869788.56,
+          "usd": 39706.32,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 63439065.9,
+          "usd": 41382.3,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 69142761.03,
+          "usd": 45102.91,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 74674192.95,
+          "usd": 48711.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3370": {
+      "id": "3370",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P John Cooper Works",
+      "precios": {
+        "2017": {
+          "ars": 71384972.82,
+          "usd": 46565.54,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 77803076.61,
+          "usd": 50752.17,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 84027317.22,
+          "usd": 54812.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3371": {
+      "id": "3371",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,5 T 136CV Pepper 6AT 2019",
+      "precios": {
+        "2019": {
+          "ars": 51659049.33,
+          "usd": 33698.01,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 54377947.47,
+          "usd": 35471.59,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 57096845.61,
+          "usd": 37245.17,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 59951690.19,
+          "usd": 39107.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3372": {
+      "id": "3372",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 1,5 T 136CV Pepper 6AT 2019",
+      "precios": {
+        "2019": {
+          "ars": 54619456.29,
+          "usd": 35629.13,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 57494168.55,
+          "usd": 37504.35,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 60368880.81,
+          "usd": 39379.57,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 63387311.82,
+          "usd": 41348.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3373": {
+      "id": "3373",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T 192CV Chili S  7AT Sport 2019",
+      "precios": {
+        "2019": {
+          "ars": 69421475.76,
+          "usd": 45284.72,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 73075243.29,
+          "usd": 47668.13,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 76729010.82,
+          "usd": 50051.54,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 80565450.63,
+          "usd": 52554.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3374": {
+      "id": "3374",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 2,0 T 192CV Chili S  7AT Sport 2019",
+      "precios": {
+        "2019": {
+          "ars": 72381882.72,
+          "usd": 47215.84,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 76191449.04,
+          "usd": 49700.88,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 80001030.69,
+          "usd": 52185.93,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 84001087.59,
+          "usd": 54795.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3375": {
+      "id": "3375",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T 192CV Look Jcw S  7AT Sport 2019",
+      "precios": {
+        "2019": {
+          "ars": 73164279.93,
+          "usd": 47726.21,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 77015022.63,
+          "usd": 50238.11,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 80865780.66,
+          "usd": 52750.02,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 84909068.16,
+          "usd": 55387.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3376": {
+      "id": "3376",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 2,0 T 192CV Look Jcw S 7AT Sport 2019",
+      "precios": {
+        "2019": {
+          "ars": 75983712.21,
+          "usd": 49565.37,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 79982849.31,
+          "usd": 52174.07,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 83981986.41,
+          "usd": 54782.77,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 88181088.03,
+          "usd": 57521.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3377": {
+      "id": "3377",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T 192CV 60 Years Edition 7AT",
+      "precios": {
+        "2019": {
+          "ars": 71754563.79,
+          "usd": 46806.63,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 75531109.29,
+          "usd": 49270.13,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 79307670.12,
+          "usd": 51733.64,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 83273050.56,
+          "usd": 54320.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3378": {
+      "id": "3378",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T 231CV John Cooper Works 7AT Sport 2019",
+      "precios": {
+        "2019": {
+          "ars": 76492438.26,
+          "usd": 49897.22,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 79484838.93,
+          "usd": 51849.21,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 83459080.11,
+          "usd": 54441.67,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 87632044.08,
+          "usd": 57163.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3379": {
+      "id": "3379",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T 306CV John Cooper Works Gp 8AT",
+      "precios": {
+        "2020": {
+          "ars": 88088264.88,
+          "usd": 57461.36,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 92492665.86,
+          "usd": 60334.42,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 97117297.62,
+          "usd": 63351.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3380": {
+      "id": "3380",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 1,5 T 136CV Classic",
+      "precios": {
+        "2022": {
+          "ars": 65328074.49,
+          "usd": 42614.53,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 71860877.34,
+          "usd": 46875.98,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 75643033.62,
+          "usd": 49343.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3381": {
+      "id": "3381",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 1,5 T 136CV Classic",
+      "precios": {
+        "2022": {
+          "ars": 66637256.49,
+          "usd": 43468.53,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 73300977.54,
+          "usd": 47815.38,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 77158925.34,
+          "usd": 50331.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3382": {
+      "id": "3382",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T 192CV Classic Confort S 7AT",
+      "precios": {
+        "2022": {
+          "ars": 71219378.16,
+          "usd": 46457.52,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 78341312.91,
+          "usd": 51103.27,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 82464546.36,
+          "usd": 53792.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3383": {
+      "id": "3383",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 2,0 T 192CV Classic Confort S 7AT",
+      "precios": {
+        "2022": {
+          "ars": 72528560.16,
+          "usd": 47311.52,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 79781413.11,
+          "usd": 52042.67,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 83980438.08,
+          "usd": 54781.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3384": {
+      "id": "3384",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T 231CV John Cooper Works 8AT",
+      "precios": {
+        "2022": {
+          "ars": 103294291.17,
+          "usd": 67380.49,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 113623721.82,
+          "usd": 74118.54,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 119603908.83,
+          "usd": 78019.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3385": {
+      "id": "3385",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 156CV C Classic",
+      "precios": {
+        "0": {
+          "ars": 67298700,
+          "usd": 43900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 76399461.81,
+          "usd": 49836.57,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 80219437.2,
+          "usd": 52328.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3386": {
+      "id": "3386",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 156CV C Classic",
+      "precios": {
+        "0": {
+          "ars": 68831700,
+          "usd": 44900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 77930514.9,
+          "usd": 50835.3,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 81827032.98,
+          "usd": 53377.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3387": {
+      "id": "3387",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 204CV S Classic",
+      "precios": {
+        "0": {
+          "ars": 78029700,
+          "usd": 50900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 83289193.05,
+          "usd": 54330.85,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 87453648.87,
+          "usd": 57047.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3388": {
+      "id": "3388",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "5P 204CV S Classic",
+      "precios": {
+        "0": {
+          "ars": 81095700,
+          "usd": 52900,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 84820246.14,
+          "usd": 55329.58,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 89061259.98,
+          "usd": 58096.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3389": {
+      "id": "3389",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "3P 2,0 T 231CV 7AT Jcw",
+      "precios": {
+        "0": {
+          "ars": 88760700,
+          "usd": 57900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 97050274.86,
+          "usd": 63307.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3390": {
+      "id": "3390",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Coupe 1,6",
+      "precios": {
+        "2013": {
+          "ars": 28841279.46,
+          "usd": 18813.62,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 31064374.74,
+          "usd": 20263.78,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 32590276.95,
+          "usd": 21259.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3391": {
+      "id": "3391",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Coupe 1,6 S",
+      "precios": {
+        "2013": {
+          "ars": 33746266.26,
+          "usd": 22013.22,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36347430,
+          "usd": 23710,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 38132838.45,
+          "usd": 24874.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3392": {
+      "id": "3392",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Coupe 1,6 S John Cooper Works",
+      "precios": {
+        "2013": {
+          "ars": 46470794.79,
+          "usd": 30313.63,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 50052771.93,
+          "usd": 32650.21,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 52511397.33,
+          "usd": 34254.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3393": {
+      "id": "3393",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Coupe S 2016",
+      "precios": {
+        "2016": {
+          "ars": 55779385.41,
+          "usd": 36385.77,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 58133797.47,
+          "usd": 37921.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3394": {
+      "id": "3394",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Coupe 1,6 Jcw 2016",
+      "precios": {
+        "2016": {
+          "ars": 65779665.63,
+          "usd": 42909.11,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 68556204.57,
+          "usd": 44720.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3395": {
+      "id": "3395",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Roadster 1,6 S",
+      "precios": {
+        "2013": {
+          "ars": 43081209.15,
+          "usd": 28102.55,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 46473523.53,
+          "usd": 30315.41,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 48756329.16,
+          "usd": 31804.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3396": {
+      "id": "3396",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Roadster S 2016",
+      "precios": {
+        "2016": {
+          "ars": 59260966.38,
+          "usd": 38656.86,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 61762347.15,
+          "usd": 40288.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3397": {
+      "id": "3397",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Conv 1,6",
+      "precios": {
+        "2013": {
+          "ars": 34251558.39,
+          "usd": 22342.83,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36891675.66,
+          "usd": 24065.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3398": {
+      "id": "3398",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Conv 1,6 S",
+      "precios": {
+        "2013": {
+          "ars": 43968310.26,
+          "usd": 28681.22,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 47357405.34,
+          "usd": 30891.98,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 49683625.53,
+          "usd": 32409.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3399": {
+      "id": "3399",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Conv 1,6 S AT",
+      "precios": {
+        "2013": {
+          "ars": 46052607.72,
+          "usd": 30040.84,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 49602361.2,
+          "usd": 32356.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3400": {
+      "id": "3400",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Conv S 2016",
+      "precios": {
+        "2016": {
+          "ars": 74068795.92,
+          "usd": 48316.24,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 77195211.45,
+          "usd": 50355.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3401": {
+      "id": "3401",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Conv S Chili 2017",
+      "precios": {
+        "2017": {
+          "ars": 64720669.23,
+          "usd": 42218.31,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 70539584.64,
+          "usd": 46014.08,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 76182756.93,
+          "usd": 49695.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3402": {
+      "id": "3402",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Conv 2,0 T 192CV S Chili 7AT Sport 2019",
+      "precios": {
+        "2019": {
+          "ars": 83106137.52,
+          "usd": 54211.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 87480139.11,
+          "usd": 57064.67,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 91854140.7,
+          "usd": 59917.9,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 96446855.4,
+          "usd": 62913.8,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 101269198.17,
+          "usd": 66059.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3403": {
+      "id": "3403",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Conv Classic Conf Plus",
+      "precios": {
+        "2024": {
+          "ars": 113630727.63,
+          "usd": 74123.11,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 119312255.58,
+          "usd": 77829.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3404": {
+      "id": "3404",
+      "marcaId": "46",
+      "modeloId": "454",
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "version": "Conv 2,0 T 204CV 7AT S",
+      "precios": {
+        "0": {
+          "ars": 91826700,
+          "usd": 59900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 107290990.8,
+          "usd": 69987.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3405": {
+      "id": "3405",
+      "marcaId": "46",
+      "modeloId": "455",
+      "marca": "MINI COOPER",
+      "modelo": "PACEMAN",
+      "version": "3P 1,6 S",
+      "precios": {
+        "2013": {
+          "ars": 34959237.18,
+          "usd": 22804.46,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36864142.98,
+          "usd": 24047.06,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 38865367.17,
+          "usd": 25352.49,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 40141559.01,
+          "usd": 26184.97,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 42526201.83,
+          "usd": 27740.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3406": {
+      "id": "3406",
+      "marcaId": "46",
+      "modeloId": "455",
+      "marca": "MINI COOPER",
+      "modelo": "PACEMAN",
+      "version": "3P 1,6 S All 4",
+      "precios": {
+        "2013": {
+          "ars": 40712662.83,
+          "usd": 26557.51,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 42931067.13,
+          "usd": 28004.61,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 45261641.04,
+          "usd": 29524.88,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 46747869.21,
+          "usd": 30494.37,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 49524960.03,
+          "usd": 32305.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3407": {
+      "id": "3407",
+      "marcaId": "47",
+      "modeloId": "456",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "4P 2,0 Gls",
+      "precios": {
+        "2013": {
+          "ars": 21908026.35,
+          "usd": 14290.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3408": {
+      "id": "3408",
+      "marcaId": "47",
+      "modeloId": "456",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "4P 2,0 Gls AT",
+      "precios": {
+        "2013": {
+          "ars": 22857980.46,
+          "usd": 14910.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3409": {
+      "id": "3409",
+      "marcaId": "47",
+      "modeloId": "456",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "4P 2,0 Gls 2013",
+      "precios": {
+        "2013": {
+          "ars": 24115653.66,
+          "usd": 15731.02,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 25541573.61,
+          "usd": 16661.17,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 27076673.82,
+          "usd": 17662.54,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28692885.06,
+          "usd": 18716.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3410": {
+      "id": "3410",
+      "marcaId": "47",
+      "modeloId": "456",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "4P 2,0 Gls AT 2013",
+      "precios": {
+        "2013": {
+          "ars": 25375427.07,
+          "usd": 16552.79,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 26875835.49,
+          "usd": 17531.53,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 28274330.07,
+          "usd": 18443.79,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 29962025.1,
+          "usd": 19544.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3411": {
+      "id": "3411",
+      "marcaId": "47",
+      "modeloId": "456",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "4P 2,0 Gt AT CRO",
+      "precios": {
+        "2013": {
+          "ars": 26830274.73,
+          "usd": 17501.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3412": {
+      "id": "3412",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 3,2 Cr 4WD CRO",
+      "precios": {
+        "2013": {
+          "ars": 33525989.49,
+          "usd": 21869.53,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 34521994.92,
+          "usd": 22519.24,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 35859905.34,
+          "usd": 23391.98,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 35892006.36,
+          "usd": 23412.92,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 37295881.77,
+          "usd": 24328.69,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 38713416.21,
+          "usd": 25253.37,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 41810490.12,
+          "usd": 27273.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3413": {
+      "id": "3413",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 3,2 Cr 4WD CRO AT",
+      "precios": {
+        "2013": {
+          "ars": 34747330.59,
+          "usd": 22666.23,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 35779637.46,
+          "usd": 23339.62,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 37166281.95,
+          "usd": 24244.15,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 37199548.05,
+          "usd": 24265.85,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 38654564.34,
+          "usd": 25214.98,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 40123745.55,
+          "usd": 26173.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 43333632.93,
+          "usd": 28267.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3414": {
+      "id": "3414",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 3,2 Gls 4WD",
+      "precios": {
+        "2013": {
+          "ars": 30155949.6,
+          "usd": 19671.2,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 31051850.13,
+          "usd": 20255.61,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 32255270.46,
+          "usd": 21040.62,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 32284136.85,
+          "usd": 21059.45,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 33546884.28,
+          "usd": 21883.16,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 34821941.7,
+          "usd": 22714.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3415": {
+      "id": "3415",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 3,2 Glx 4WD",
+      "precios": {
+        "2018": {
+          "ars": 35996602.95,
+          "usd": 23481.15,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 38876343.45,
+          "usd": 25359.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3416": {
+      "id": "3416",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,5 Hp Di-D 4WD",
+      "precios": {
+        "2014": {
+          "ars": 32529171.57,
+          "usd": 21219.29,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 33789849.45,
+          "usd": 22041.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3417": {
+      "id": "3417",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,5 Hp Di-D 4WD CRO T/c",
+      "precios": {
+        "2014": {
+          "ars": 36960675.99,
+          "usd": 24110.03,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 38393095.86,
+          "usd": 25044.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3418": {
+      "id": "3418",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,5 Hp Di-D 4WD CRO AT T/c",
+      "precios": {
+        "2013": {
+          "ars": 37190028.12,
+          "usd": 24259.64,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 38294891.88,
+          "usd": 24980.36,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 39779035.17,
+          "usd": 25948.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3419": {
+      "id": "3419",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,4 Di-D High-Power 4WD 6MT",
+      "precios": {
+        "2016": {
+          "ars": 40418142.87,
+          "usd": 26365.39,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 42791487.48,
+          "usd": 27913.56,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 44417893.17,
+          "usd": 28974.49,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 47971325.85,
+          "usd": 31292.45,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 50849610,
+          "usd": 33170,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3420": {
+      "id": "3420",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,4 Di-D High-Power 4WD 5at",
+      "precios": {
+        "2016": {
+          "ars": 41975686.2,
+          "usd": 27381.4,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 44440489.59,
+          "usd": 28989.23,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 46129564.32,
+          "usd": 30091.04,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 49819939.89,
+          "usd": 32498.33,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 52809136.59,
+          "usd": 34448.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3421": {
+      "id": "3421",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,4 Diesel Gls 6MT Full 2020",
+      "precios": {
+        "2019": {
+          "ars": 55694472.54,
+          "usd": 36330.38,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 59492832.63,
+          "usd": 38808.11,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 62467481.16,
+          "usd": 40748.52,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 65590846.02,
+          "usd": 42785.94,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 70838121.06,
+          "usd": 46208.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3422": {
+      "id": "3422",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,4 Diesel Gls 6AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 54063759.12,
+          "usd": 35266.64,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 57750915.39,
+          "usd": 37671.83,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 60638458.86,
+          "usd": 39555.42,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 63670380.27,
+          "usd": 41533.19,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 68764018.05,
+          "usd": 44855.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3423": {
+      "id": "3423",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,4 Diesel Gls 6AT Full 2020",
+      "precios": {
+        "2019": {
+          "ars": 57262286.97,
+          "usd": 37353.09,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 61167573.81,
+          "usd": 39900.57,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 64225954.8,
+          "usd": 41895.6,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 67437252.54,
+          "usd": 43990.38,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 72832232.13,
+          "usd": 47509.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3424": {
+      "id": "3424",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,4 Diesel Gls 6AT Full 2023",
+      "precios": {
+        "2023": {
+          "ars": 73567918.83,
+          "usd": 47989.51,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 77439908.91,
+          "usd": 50515.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3425": {
+      "id": "3425",
+      "marcaId": "47",
+      "modeloId": "457",
+      "marca": "MITSUBISHI",
+      "modelo": "L 200 PICK - UP",
+      "version": "D/C 2,4 Diesel Gls 6AT 4WD Full 2025",
+      "precios": {
+        "0": {
+          "ars": 76496700,
+          "usd": 49900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 80625360.27,
+          "usd": 52593.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3426": {
+      "id": "3426",
+      "marcaId": "47",
+      "modeloId": "458",
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO",
+      "version": "5P 3,2 Di-D Gls AT",
+      "precios": {}
+    },
+    "3427": {
+      "id": "3427",
+      "marcaId": "47",
+      "modeloId": "458",
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO",
+      "version": "5P 3,2 Di-D Gls Sport",
+      "precios": {}
+    },
+    "3428": {
+      "id": "3428",
+      "marcaId": "47",
+      "modeloId": "458",
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO",
+      "version": "5P 3,2 Di-D Gls Sport AT",
+      "precios": {}
+    },
+    "3429": {
+      "id": "3429",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 2,0 Gls Sport 2wd",
+      "precios": {
+        "2013": {
+          "ars": 25745769.21,
+          "usd": 16794.37,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 28021032.48,
+          "usd": 18278.56,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 29934768.36,
+          "usd": 19526.92,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 31999826.67,
+          "usd": 20873.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3430": {
+      "id": "3430",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 2,0 Gls Sport 4WD",
+      "precios": {
+        "2013": {
+          "ars": 29133530.58,
+          "usd": 19004.26,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 31708188.75,
+          "usd": 20683.75,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 33873735.21,
+          "usd": 22096.37,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 36210533.1,
+          "usd": 23620.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3431": {
+      "id": "3431",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 2,0 Gls Sport 4WD AT",
+      "precios": {
+        "2013": {
+          "ars": 31237496.43,
+          "usd": 20376.71,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 33998076.84,
+          "usd": 22177.48,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 36320019.96,
+          "usd": 23692.12,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 38825570.49,
+          "usd": 25326.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3432": {
+      "id": "3432",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 2,4 Gls AT T/c Full CRO",
+      "precios": {
+        "2013": {
+          "ars": 30797571.42,
+          "usd": 20089.74,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 33519274.95,
+          "usd": 21865.15,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 35808519.18,
+          "usd": 23358.46,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 38278780.05,
+          "usd": 24969.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3433": {
+      "id": "3433",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 3,0 Gls AT T/c Full CRO",
+      "precios": {}
+    },
+    "3434": {
+      "id": "3434",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 2,0 Glx 2wd AT",
+      "precios": {
+        "2016": {
+          "ars": 40096090.23,
+          "usd": 26155.31,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 42017537.1,
+          "usd": 27408.7,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 43794759.33,
+          "usd": 28568.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3435": {
+      "id": "3435",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 2,4 Gls 4WD AT T/c",
+      "precios": {
+        "2016": {
+          "ars": 47107434.36,
+          "usd": 30728.92,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 49364853.51,
+          "usd": 32201.47,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 51452845.5,
+          "usd": 33563.5,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 55014280.44,
+          "usd": 35886.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3436": {
+      "id": "3436",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 2,4 Gls 4WD 6cvt Ct 7a 2019",
+      "precios": {
+        "2019": {
+          "ars": 63417527.25,
+          "usd": 41368.25,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 67205003.04,
+          "usd": 43838.88,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 70565247.06,
+          "usd": 46030.82,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 74093507.88,
+          "usd": 48332.36,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 77295423.66,
+          "usd": 50421.02,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 80020990.35,
+          "usd": 52198.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3437": {
+      "id": "3437",
+      "marcaId": "47",
+      "modeloId": "459",
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "version": "5P 2,5 4WD 6cvt",
+      "precios": {
+        "0": {
+          "ars": 78949500,
+          "usd": 51500,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 84868796.25,
+          "usd": 55361.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3438": {
+      "id": "3438",
+      "marcaId": "48",
+      "modeloId": "460",
+      "marca": "NISSAN",
+      "modelo": "ALTIMA",
+      "version": "4P 2,5 Advance Pure",
+      "precios": {
+        "2014": {
+          "ars": 13983428.13,
+          "usd": 9121.61,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14902783.56,
+          "usd": 9721.32,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15792337.47,
+          "usd": 10301.59,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16458916.53,
+          "usd": 10736.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3439": {
+      "id": "3439",
+      "marcaId": "48",
+      "modeloId": "460",
+      "marca": "NISSAN",
+      "modelo": "ALTIMA",
+      "version": "4P 2,5 Advance Media Tech",
+      "precios": {
+        "2014": {
+          "ars": 14050021.65,
+          "usd": 9165.05,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14973746.13,
+          "usd": 9767.61,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15867531.12,
+          "usd": 10350.64,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16537298.82,
+          "usd": 10787.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3440": {
+      "id": "3440",
+      "marcaId": "48",
+      "modeloId": "461",
+      "marca": "NISSAN",
+      "modelo": "COUPE",
+      "version": "Coupe 3,7 V6 370 Z",
+      "precios": {
+        "2013": {
+          "ars": 54713613.15,
+          "usd": 35690.55,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 59021895.03,
+          "usd": 38500.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3441": {
+      "id": "3441",
+      "marcaId": "48",
+      "modeloId": "461",
+      "marca": "NISSAN",
+      "modelo": "COUPE",
+      "version": "Coupe 3,7 V6 370 Z AT",
+      "precios": {
+        "2013": {
+          "ars": 56513401.14,
+          "usd": 36864.58,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 60963393.54,
+          "usd": 39767.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3442": {
+      "id": "3442",
+      "marcaId": "48",
+      "modeloId": "461",
+      "marca": "NISSAN",
+      "modelo": "COUPE",
+      "version": "Coupe 3,7 V6 370 Z AT Roadster",
+      "precios": {
+        "2013": {
+          "ars": 59393064.99,
+          "usd": 38743.03,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 64069818.75,
+          "usd": 41793.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3443": {
+      "id": "3443",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,5 Diesel 4X4 Le",
+      "precios": {
+        "2013": {
+          "ars": 17002916.91,
+          "usd": 11091.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3444": {
+      "id": "3444",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,5 Diesel 4X4 Le CRO",
+      "precios": {
+        "2013": {
+          "ars": 17712849.21,
+          "usd": 11554.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3445": {
+      "id": "3445",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,5 Diesel 4X4 Le CRO AT",
+      "precios": {
+        "2013": {
+          "ars": 18422781.51,
+          "usd": 12017.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3446": {
+      "id": "3446",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,5 Diesel 4X4 Le 6MT",
+      "precios": {
+        "2013": {
+          "ars": 17556513.87,
+          "usd": 11452.39,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 18594615.48,
+          "usd": 12129.56,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 20281022.79,
+          "usd": 13229.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3447": {
+      "id": "3447",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,5 Diesel 4X4 Le 6MT Pack Premium",
+      "precios": {
+        "2013": {
+          "ars": 18202474.08,
+          "usd": 11873.76,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 19278762.72,
+          "usd": 12575.84,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 21027210.54,
+          "usd": 13716.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3448": {
+      "id": "3448",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,5 Diesel 4X4 Le AT Attack",
+      "precios": {
+        "2013": {
+          "ars": 18932028.78,
+          "usd": 12349.66,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 20051456.04,
+          "usd": 13079.88,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 21869992.62,
+          "usd": 14266.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3449": {
+      "id": "3449",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 Se Plus MT",
+      "precios": {
+        "2018": {
+          "ars": 20485570.98,
+          "usd": 13363.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3450": {
+      "id": "3450",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 S MT",
+      "precios": {
+        "2019": {
+          "ars": 20470992.15,
+          "usd": 13353.55,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21500187.03,
+          "usd": 14024.91,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22575187.95,
+          "usd": 14726.15,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 23252452.02,
+          "usd": 15167.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3451": {
+      "id": "3451",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 S MT",
+      "precios": {
+        "2019": {
+          "ars": 23827863.57,
+          "usd": 15543.29,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25025811.09,
+          "usd": 16324.73,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26277107.01,
+          "usd": 17140.97,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27065421.6,
+          "usd": 17655.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3452": {
+      "id": "3452",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 Se MT",
+      "precios": {
+        "2019": {
+          "ars": 22935136.35,
+          "usd": 14960.95,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24088212.96,
+          "usd": 15713.12,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25292614.41,
+          "usd": 16498.77,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 26051403.42,
+          "usd": 16993.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3453": {
+      "id": "3453",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 Se MT",
+      "precios": {
+        "2019": {
+          "ars": 26529469.47,
+          "usd": 17305.59,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27863256.12,
+          "usd": 18175.64,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29256415.86,
+          "usd": 19084.42,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 30134104.35,
+          "usd": 19656.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3454": {
+      "id": "3454",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 Xe MT",
+      "precios": {
+        "2018": {
+          "ars": 22721267.52,
+          "usd": 14821.44,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24315894.12,
+          "usd": 15861.64,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25538369.64,
+          "usd": 16659.08,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26815297.32,
+          "usd": 17492.04,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27619754.4,
+          "usd": 18016.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3455": {
+      "id": "3455",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 Xe MT",
+      "precios": {
+        "2018": {
+          "ars": 26395224.66,
+          "usd": 17218.02,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 28247686.53,
+          "usd": 18426.41,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 29667842.4,
+          "usd": 19352.8,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 31151234.52,
+          "usd": 20320.44,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 32085766.65,
+          "usd": 20930.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3456": {
+      "id": "3456",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 Le MT",
+      "precios": {
+        "2018": {
+          "ars": 26847275.7,
+          "usd": 17512.9,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 28731455.34,
+          "usd": 18741.98,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 30175939.92,
+          "usd": 19684.24,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 31684733.85,
+          "usd": 20668.45,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 32635285.83,
+          "usd": 21288.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3457": {
+      "id": "3457",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 Le MT",
+      "precios": {
+        "2018": {
+          "ars": 29820253.26,
+          "usd": 19452.22,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 31913089.53,
+          "usd": 20817.41,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 33517527.33,
+          "usd": 21864.01,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 35193402.93,
+          "usd": 22957.21,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 36249210.69,
+          "usd": 23645.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3458": {
+      "id": "3458",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 Le AT",
+      "precios": {
+        "2018": {
+          "ars": 32802045.57,
+          "usd": 21397.29,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 35104151.67,
+          "usd": 22898.99,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 36869033.25,
+          "usd": 24050.25,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 38712481.08,
+          "usd": 25252.76,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 39873851.22,
+          "usd": 26010.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3459": {
+      "id": "3459",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 X-Gear 7AT",
+      "precios": {
+        "2020": {
+          "ars": 25764057.9,
+          "usd": 16806.3,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27052268.46,
+          "usd": 17646.62,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27863838.66,
+          "usd": 18176.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3460": {
+      "id": "3460",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 X-Gear 7AT",
+      "precios": {
+        "2020": {
+          "ars": 29521318.26,
+          "usd": 19257.22,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 30813959.19,
+          "usd": 20100.43,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 31738373.52,
+          "usd": 20703.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3461": {
+      "id": "3461",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 X-Gear Plus 7AT",
+      "precios": {
+        "2021": {
+          "ars": 39145139.67,
+          "usd": 25534.99,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 40319478.99,
+          "usd": 26301.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3462": {
+      "id": "3462",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 S MT 160CV",
+      "precios": {
+        "0": {
+          "ars": 47863678.59,
+          "usd": 31222.23,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 24199662.06,
+          "usd": 15785.82,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26835686.22,
+          "usd": 17505.34,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 28248100.44,
+          "usd": 18426.68,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 29734834.5,
+          "usd": 19396.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3463": {
+      "id": "3463",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 S MT 160CV",
+      "precios": {
+        "0": {
+          "ars": 53437697.25,
+          "usd": 34858.25,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27119628.48,
+          "usd": 17690.56,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 30073734.81,
+          "usd": 19617.57,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 31656557.31,
+          "usd": 20650.07,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 33322683.03,
+          "usd": 21736.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3464": {
+      "id": "3464",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 S AT 190CV",
+      "precios": {
+        "0": {
+          "ars": 50822583.21,
+          "usd": 33152.37,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 25642445.01,
+          "usd": 16726.97,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 28435632.33,
+          "usd": 18549.01,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 29932238.91,
+          "usd": 19525.27,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 31507626.36,
+          "usd": 20552.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3465": {
+      "id": "3465",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 X-Gear AT 190CV",
+      "precios": {
+        "0": {
+          "ars": 59525715.48,
+          "usd": 38829.56,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 34870307.85,
+          "usd": 22746.45,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 38668667.94,
+          "usd": 25224.18,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 40703863.41,
+          "usd": 26551.77,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 42846169.59,
+          "usd": 27949.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3466": {
+      "id": "3466",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 X-Gear AT 190CV 2024",
+      "precios": {
+        "0": {
+          "ars": 61403533.17,
+          "usd": 40054.49,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 39933898.83,
+          "usd": 26049.51,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 42035672.49,
+          "usd": 27420.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3467": {
+      "id": "3467",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 Xe MT 160CV",
+      "precios": {
+        "0": {
+          "ars": 61664925,
+          "usd": 40225,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 31959631.41,
+          "usd": 20847.77,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 35440936.44,
+          "usd": 23118.68,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 37306260.18,
+          "usd": 24335.46,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 39269741.91,
+          "usd": 25616.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3468": {
+      "id": "3468",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 Xe AT 190CV",
+      "precios": {
+        "0": {
+          "ars": 65443524.72,
+          "usd": 42689.84,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 34210673.28,
+          "usd": 22316.16,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 37937196.99,
+          "usd": 24747.03,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 39933898.83,
+          "usd": 26049.51,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 42035672.49,
+          "usd": 27420.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3469": {
+      "id": "3469",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 Xe MT 190CV",
+      "precios": {
+        "0": {
+          "ars": 61342044.54,
+          "usd": 40014.38,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 35902584.06,
+          "usd": 23419.82,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 39813389.7,
+          "usd": 25970.9,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 41908832.07,
+          "usd": 27337.79,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 44114558.46,
+          "usd": 28776.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3470": {
+      "id": "3470",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X2 Platinum AT 190CV",
+      "precios": {
+        "0": {
+          "ars": 66287793.81,
+          "usd": 43240.57,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 38711745.24,
+          "usd": 25252.28,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 42928568.34,
+          "usd": 28002.98,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 45187965.06,
+          "usd": 29476.82,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 47566276.59,
+          "usd": 31028.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3471": {
+      "id": "3471",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 Platinum AT 190CV",
+      "precios": {
+        "0": {
+          "ars": 71839553.31,
+          "usd": 46862.07,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 40819758.21,
+          "usd": 26627.37,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 45266194.05,
+          "usd": 29527.85,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 47648629.35,
+          "usd": 31081.95,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 50156448.72,
+          "usd": 32717.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3472": {
+      "id": "3472",
+      "marcaId": "48",
+      "modeloId": "462",
+      "marca": "NISSAN",
+      "modelo": "FRONTIER PICK - UP",
+      "version": "D/C 2,3 Td 4X4 Pro-4x AT 190CV",
+      "precios": {
+        "0": {
+          "ars": 73916890.95,
+          "usd": 48217.15,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 43171717.47,
+          "usd": 28161.59,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 47874348.27,
+          "usd": 31229.19,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 50394048.39,
+          "usd": 32872.83,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 53046368.34,
+          "usd": 34602.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3473": {
+      "id": "3473",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance",
+      "precios": {
+        "2017": {
+          "ars": 17065815.9,
+          "usd": 11132.3,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17759391.09,
+          "usd": 11584.73,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18447386.16,
+          "usd": 12033.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3474": {
+      "id": "3474",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance CVT",
+      "precios": {
+        "2017": {
+          "ars": 17804599.26,
+          "usd": 11614.22,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18528205.92,
+          "usd": 12086.24,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19245971.85,
+          "usd": 12554.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3475": {
+      "id": "3475",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Exclusive CVT",
+      "precios": {
+        "2017": {
+          "ars": 19500097.26,
+          "usd": 12720.22,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20292612.27,
+          "usd": 13237.19,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21078734.67,
+          "usd": 13749.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3476": {
+      "id": "3476",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Exclusive CVT Tbt",
+      "precios": {
+        "2018": {
+          "ars": 20521473.84,
+          "usd": 13386.48,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21316456.98,
+          "usd": 13905.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3477": {
+      "id": "3477",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Sense",
+      "precios": {
+        "2018": {
+          "ars": 16095273.6,
+          "usd": 10499.2,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16718790.69,
+          "usd": 10905.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3478": {
+      "id": "3478",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Special Edition CVT",
+      "precios": {
+        "2017": {
+          "ars": 20042150.73,
+          "usd": 13073.81,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20856694.95,
+          "usd": 13605.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3479": {
+      "id": "3479",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Ucl Limited Edition CVT",
+      "precios": {
+        "2019": {
+          "ars": 20432943.09,
+          "usd": 13328.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3480": {
+      "id": "3480",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Sense 2019",
+      "precios": {
+        "2019": {
+          "ars": 17553938.43,
+          "usd": 11450.71,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19206619.74,
+          "usd": 12528.78,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20590750.11,
+          "usd": 13431.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3481": {
+      "id": "3481",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance 2019",
+      "precios": {
+        "2019": {
+          "ars": 19369761.6,
+          "usd": 12635.2,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21193387.74,
+          "usd": 13824.78,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22720715.64,
+          "usd": 14821.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3482": {
+      "id": "3482",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance CVT 2019",
+      "precios": {
+        "2019": {
+          "ars": 21165640.44,
+          "usd": 13806.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22110857.58,
+          "usd": 14423.26,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23704288.44,
+          "usd": 15462.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3483": {
+      "id": "3483",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance CVT Ucl 2020",
+      "precios": {
+        "2019": {
+          "ars": 21168215.88,
+          "usd": 13808.36,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22110857.58,
+          "usd": 14423.26,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23704288.44,
+          "usd": 15462.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3484": {
+      "id": "3484",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Exclusive CVT 2019",
+      "precios": {
+        "2019": {
+          "ars": 22012270.35,
+          "usd": 14358.95,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22995291.27,
+          "usd": 15000.19,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24652464.27,
+          "usd": 16081.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3485": {
+      "id": "3485",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Exclusive CVT Tbt 2019",
+      "precios": {
+        "2019": {
+          "ars": 24340483.44,
+          "usd": 15877.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25427487.75,
+          "usd": 16586.75,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27259928.64,
+          "usd": 17782.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3486": {
+      "id": "3486",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Edition CVT 2019",
+      "precios": {
+        "2019": {
+          "ars": 24340483.44,
+          "usd": 15877.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25427487.75,
+          "usd": 16586.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3487": {
+      "id": "3487",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Sense 2021",
+      "precios": {
+        "2021": {
+          "ars": 21670733.28,
+          "usd": 14136.16,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22533352.38,
+          "usd": 14698.86,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 24097441.62,
+          "usd": 15719.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3488": {
+      "id": "3488",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance 2021",
+      "precios": {
+        "2021": {
+          "ars": 23034413.43,
+          "usd": 15025.71,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 23951316.06,
+          "usd": 15623.82,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 25613823.9,
+          "usd": 16708.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3489": {
+      "id": "3489",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance CVT 2021",
+      "precios": {
+        "2021": {
+          "ars": 23955792.42,
+          "usd": 15626.74,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 24909364.41,
+          "usd": 16248.77,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26638373.79,
+          "usd": 17376.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3490": {
+      "id": "3490",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance CVT Plus 2021",
+      "precios": {
+        "2021": {
+          "ars": 24914024.73,
+          "usd": 16251.81,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 25905753.09,
+          "usd": 16898.73,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 27703916.1,
+          "usd": 18071.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3491": {
+      "id": "3491",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Exclusive CVT 2021",
+      "precios": {
+        "2021": {
+          "ars": 25910582.04,
+          "usd": 16901.88,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 26941969.11,
+          "usd": 17574.67,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 28812060.48,
+          "usd": 18794.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3492": {
+      "id": "3492",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Exclusive CVT Tbt 2021",
+      "precios": {
+        "2021": {
+          "ars": 28575334.62,
+          "usd": 18640.14,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 29712789.96,
+          "usd": 19382.12,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 31775211.51,
+          "usd": 20727.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3493": {
+      "id": "3493",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 X-Play",
+      "precios": {
+        "2021": {
+          "ars": 26892207.93,
+          "usd": 17542.21,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27962671.17,
+          "usd": 18240.49,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29903602.47,
+          "usd": 19506.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3494": {
+      "id": "3494",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Sense 2023",
+      "precios": {
+        "2023": {
+          "ars": 25302302.97,
+          "usd": 16505.09,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 26634004.74,
+          "usd": 17373.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 28035795.27,
+          "usd": 18288.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3495": {
+      "id": "3495",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance CVT 2023",
+      "precios": {
+        "2023": {
+          "ars": 26894507.43,
+          "usd": 17543.71,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 28310018.31,
+          "usd": 18467.07,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 29800017.66,
+          "usd": 19439.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3496": {
+      "id": "3496",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Advance CVT Plus 2023",
+      "precios": {
+        "2023": {
+          "ars": 27970290.18,
+          "usd": 18245.46,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 29442414.75,
+          "usd": 19205.75,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 30992017.14,
+          "usd": 20216.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3497": {
+      "id": "3497",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 X-Play 2023",
+      "precios": {
+        "2023": {
+          "ars": 31398783.36,
+          "usd": 20481.92,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 33051357.36,
+          "usd": 21559.92,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 34790898.45,
+          "usd": 22694.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3498": {
+      "id": "3498",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 Exclusive CVT 2023",
+      "precios": {
+        "2023": {
+          "ars": 31793699.49,
+          "usd": 20739.53,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 33467060.97,
+          "usd": 21831.09,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 35228477.97,
+          "usd": 22980.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3499": {
+      "id": "3499",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,6 X-Play-Iii 2024",
+      "precios": {
+        "2024": {
+          "ars": 33051357.36,
+          "usd": 21559.92,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 34790898.45,
+          "usd": 22694.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3500": {
+      "id": "3500",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,0 Tce 6AT Sense",
+      "precios": {
+        "0": {
+          "ars": 53584221.39,
+          "usd": 34953.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3501": {
+      "id": "3501",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,0 Tce 6AT Advance",
+      "precios": {
+        "0": {
+          "ars": 58640285.34,
+          "usd": 38251.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3502": {
+      "id": "3502",
+      "marcaId": "48",
+      "modeloId": "463",
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "version": "5P 1,0 Tce 6AT Exclusive",
+      "precios": {
+        "0": {
+          "ars": 60662710.92,
+          "usd": 39571.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3503": {
+      "id": "3503",
+      "marcaId": "48",
+      "modeloId": "464",
+      "marca": "NISSAN",
+      "modelo": "KICKS PLAY",
+      "version": "5P 1,6 Sense",
+      "precios": {
+        "0": {
+          "ars": 39266323.32,
+          "usd": 25614.04,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 29305211.25,
+          "usd": 19116.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3504": {
+      "id": "3504",
+      "marcaId": "48",
+      "modeloId": "464",
+      "marca": "NISSAN",
+      "modelo": "KICKS PLAY",
+      "version": "5P 1,6 Advance CVT",
+      "precios": {
+        "0": {
+          "ars": 45590561.52,
+          "usd": 29739.44,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 34838452.11,
+          "usd": 22725.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3505": {
+      "id": "3505",
+      "marcaId": "48",
+      "modeloId": "464",
+      "marca": "NISSAN",
+      "modelo": "KICKS PLAY",
+      "version": "5P 1,6 Advance CVT Plus",
+      "precios": {
+        "0": {
+          "ars": 47743966.62,
+          "usd": 31144.14,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 36484004.97,
+          "usd": 23799.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3506": {
+      "id": "3506",
+      "marcaId": "48",
+      "modeloId": "464",
+      "marca": "NISSAN",
+      "modelo": "KICKS PLAY",
+      "version": "5P 1,6 Exclusive CVT",
+      "precios": {
+        "0": {
+          "ars": 50138788.56,
+          "usd": 32706.32,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 38314039.05,
+          "usd": 24992.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3507": {
+      "id": "3507",
+      "marcaId": "48",
+      "modeloId": "465",
+      "marca": "NISSAN",
+      "modelo": "LEAF",
+      "version": "5P",
+      "precios": {
+        "2019": {
+          "ars": 27052682.37,
+          "usd": 17646.89,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 28228891.95,
+          "usd": 18414.15,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29405086.2,
+          "usd": 19181.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3508": {
+      "id": "3508",
+      "marcaId": "48",
+      "modeloId": "465",
+      "marca": "NISSAN",
+      "modelo": "LEAF",
+      "version": "5P Tekna",
+      "precios": {
+        "2022": {
+          "ars": 30952726.35,
+          "usd": 20190.95,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 33428935.26,
+          "usd": 21806.22,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 35188359.36,
+          "usd": 22953.92,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 38003422.59,
+          "usd": 24790.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3509": {
+      "id": "3509",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Visia",
+      "precios": {
+        "2013": {
+          "ars": 10626771.33,
+          "usd": 6932.01,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11255117.37,
+          "usd": 7341.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3510": {
+      "id": "3510",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Visia Plus",
+      "precios": {
+        "2013": {
+          "ars": 11121041.19,
+          "usd": 7254.43,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11778606.21,
+          "usd": 7683.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3511": {
+      "id": "3511",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Acenta ABS",
+      "precios": {
+        "2013": {
+          "ars": 11553515.82,
+          "usd": 7536.54,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12236666.61,
+          "usd": 7982.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3512": {
+      "id": "3512",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Sr",
+      "precios": {
+        "2013": {
+          "ars": 12351764.25,
+          "usd": 8057.25,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13082116.11,
+          "usd": 8533.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3513": {
+      "id": "3513",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Active",
+      "precios": {
+        "2014": {
+          "ars": 10120145.49,
+          "usd": 6601.53,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10444911.54,
+          "usd": 6813.38,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11327275.68,
+          "usd": 7388.96,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11805387.72,
+          "usd": 7700.84,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12515871.9,
+          "usd": 8164.3,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13517150.85,
+          "usd": 8817.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3514": {
+      "id": "3514",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Active 2019",
+      "precios": {
+        "2019": {
+          "ars": 14193004.56,
+          "usd": 9258.32,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15328451.67,
+          "usd": 9998.99,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16094875.02,
+          "usd": 10498.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3515": {
+      "id": "3515",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Sense",
+      "precios": {
+        "2014": {
+          "ars": 10935916.11,
+          "usd": 7133.67,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11286850.47,
+          "usd": 7362.59,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12240345.81,
+          "usd": 7984.57,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12757012.8,
+          "usd": 8321.6,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13524769.86,
+          "usd": 8822.42,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14606745.93,
+          "usd": 9528.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3516": {
+      "id": "3516",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Sense 2019",
+      "precios": {
+        "2019": {
+          "ars": 15337082.46,
+          "usd": 10004.62,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16564049.67,
+          "usd": 10804.99,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17392252.92,
+          "usd": 11345.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3517": {
+      "id": "3517",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Sense AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 16027223.73,
+          "usd": 10454.81,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17309409.6,
+          "usd": 11291.2,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18174880.08,
+          "usd": 11855.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3518": {
+      "id": "3518",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Advance",
+      "precios": {
+        "2014": {
+          "ars": 11889626.07,
+          "usd": 7755.79,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12271174.44,
+          "usd": 8004.68,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13307819.7,
+          "usd": 8680.9,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13869541.56,
+          "usd": 9047.32,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14704260.06,
+          "usd": 9591.82,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15880592.28,
+          "usd": 10359.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3519": {
+      "id": "3519",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Advance 2019",
+      "precios": {
+        "2019": {
+          "ars": 16674624.96,
+          "usd": 10877.12,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18008595.57,
+          "usd": 11747.29,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18909018.45,
+          "usd": 12334.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3520": {
+      "id": "3520",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Advance AT",
+      "precios": {
+        "2018": {
+          "ars": 15793027.32,
+          "usd": 10302.04,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17056464.6,
+          "usd": 11126.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3521": {
+      "id": "3521",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Advance AT 2019",
+      "precios": {
+        "2019": {
+          "ars": 17909287.83,
+          "usd": 11682.51,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19342044.96,
+          "usd": 12617.12,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20309138.01,
+          "usd": 13247.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3522": {
+      "id": "3522",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Media Tech",
+      "precios": {
+        "2014": {
+          "ars": 12525437.82,
+          "usd": 8170.54,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12927390.42,
+          "usd": 8432.74,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14019468.96,
+          "usd": 9145.12,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14611222.29,
+          "usd": 9531.13,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15490581.75,
+          "usd": 10104.75,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16729828.29,
+          "usd": 10913.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3523": {
+      "id": "3523",
+      "marcaId": "48",
+      "modeloId": "466",
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "version": "5P 1,6 Media Tech AT",
+      "precios": {
+        "2016": {
+          "ars": 14925701.91,
+          "usd": 9736.27,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15555703.59,
+          "usd": 10147.23,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16491906.69,
+          "usd": 10757.93,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17811252.48,
+          "usd": 11618.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3524": {
+      "id": "3524",
+      "marcaId": "48",
+      "modeloId": "467",
+      "marca": "NISSAN",
+      "modelo": "MURANO",
+      "version": "5P 3,5 Xtronic CVT",
+      "precios": {
+        "2013": {
+          "ars": 20799789.99,
+          "usd": 13568.03,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 22327025.91,
+          "usd": 14564.27,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 24246740.49,
+          "usd": 15816.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3525": {
+      "id": "3525",
+      "marcaId": "48",
+      "modeloId": "467",
+      "marca": "NISSAN",
+      "modelo": "MURANO",
+      "version": "5P 3,5 V6 Exclusive CVT",
+      "precios": {
+        "2017": {
+          "ars": 37349536.77,
+          "usd": 24363.69,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 39597374.67,
+          "usd": 25829.99,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 42765150.54,
+          "usd": 27896.38,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 46186377.3,
+          "usd": 30128.1,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 48495688.5,
+          "usd": 31634.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3526": {
+      "id": "3526",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sense",
+      "precios": {
+        "2015": {
+          "ars": 12775853.37,
+          "usd": 8333.89,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13855131.36,
+          "usd": 9037.92,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14417849.67,
+          "usd": 9404.99,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15285558.33,
+          "usd": 9971.01,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16508401.77,
+          "usd": 10768.69,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17829081.27,
+          "usd": 11630.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3527": {
+      "id": "3527",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sense Pure Drive",
+      "precios": {
+        "2019": {
+          "ars": 16820566.56,
+          "usd": 10972.32,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18166218.63,
+          "usd": 11850.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3528": {
+      "id": "3528",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sense CVT",
+      "precios": {
+        "2018": {
+          "ars": 15645736.68,
+          "usd": 10205.96,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16897400.52,
+          "usd": 11022.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18249184.59,
+          "usd": 11904.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3529": {
+      "id": "3529",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Advance",
+      "precios": {
+        "2015": {
+          "ars": 13379104.2,
+          "usd": 8727.4,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14509339.11,
+          "usd": 9464.67,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15098624.31,
+          "usd": 9849.07,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16007310.06,
+          "usd": 10441.82,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17287901.61,
+          "usd": 11277.17,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18670928.22,
+          "usd": 12179.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3530": {
+      "id": "3530",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Advance CVT",
+      "precios": {
+        "2018": {
+          "ars": 17142281.94,
+          "usd": 11182.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18513673.08,
+          "usd": 12076.76,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19994765.7,
+          "usd": 13042.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3531": {
+      "id": "3531",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Exclusive CVT",
+      "precios": {
+        "2015": {
+          "ars": 15874950.84,
+          "usd": 10355.48,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 17216034.57,
+          "usd": 11230.29,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17915251.2,
+          "usd": 11686.4,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18993440.76,
+          "usd": 12389.72,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20512919.7,
+          "usd": 13380.9,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22153950.21,
+          "usd": 14451.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3532": {
+      "id": "3532",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Exclusive Pure Drive CVT",
+      "precios": {
+        "2019": {
+          "ars": 20685259.56,
+          "usd": 13493.32,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22340087.07,
+          "usd": 14572.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3533": {
+      "id": "3533",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sr",
+      "precios": {
+        "2017": {
+          "ars": 18768825.6,
+          "usd": 12243.2,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19898385.99,
+          "usd": 12980.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3534": {
+      "id": "3534",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sr CVT 2018",
+      "precios": {
+        "2018": {
+          "ars": 20407479.96,
+          "usd": 13312.12,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22040078.97,
+          "usd": 14377.09,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23803289.58,
+          "usd": 15527.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3535": {
+      "id": "3535",
+      "marcaId": "48",
+      "modeloId": "469",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP",
+      "version": "D/C 2,5 Td 4X2",
+      "precios": {
+        "2013": {
+          "ars": 15636431.37,
+          "usd": 10199.89,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 16701575.1,
+          "usd": 10894.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3536": {
+      "id": "3536",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Le 4X2 6v",
+      "precios": {
+        "2016": {
+          "ars": 24357821.67,
+          "usd": 15888.99,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 25159289.4,
+          "usd": 16411.8,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 26186123.46,
+          "usd": 17081.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3537": {
+      "id": "3537",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Le 4X4 6v",
+      "precios": {
+        "2016": {
+          "ars": 28631381.1,
+          "usd": 18676.7,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 29573470.92,
+          "usd": 19291.24,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 30780463.14,
+          "usd": 20078.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3538": {
+      "id": "3538",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Le 4X4 AT",
+      "precios": {
+        "2016": {
+          "ars": 31035263.07,
+          "usd": 20244.79,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 32056455.69,
+          "usd": 20910.93,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 33364779.21,
+          "usd": 21764.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3539": {
+      "id": "3539",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Se 4X2 6v",
+      "precios": {
+        "2017": {
+          "ars": 20131631.94,
+          "usd": 13132.18,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20953273.95,
+          "usd": 13668.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3540": {
+      "id": "3540",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Se 4X2 6v Plus",
+      "precios": {
+        "2017": {
+          "ars": 20321877.24,
+          "usd": 13256.28,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21151291.56,
+          "usd": 13797.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3541": {
+      "id": "3541",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Xe 4X4 6v",
+      "precios": {
+        "2017": {
+          "ars": 26347134.45,
+          "usd": 17186.65,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 27422457.3,
+          "usd": 17888.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3542": {
+      "id": "3542",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Acenta",
+      "precios": {
+        "2013": {
+          "ars": 9834455.61,
+          "usd": 6415.17,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10327683.03,
+          "usd": 6736.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3543": {
+      "id": "3543",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Acenta AT",
+      "precios": {
+        "2013": {
+          "ars": 10511321.1,
+          "usd": 6856.7,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11038489.14,
+          "usd": 7200.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3544": {
+      "id": "3544",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Tekna AT",
+      "precios": {
+        "2013": {
+          "ars": 11904864.09,
+          "usd": 7765.73,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12501936.93,
+          "usd": 8155.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3545": {
+      "id": "3545",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sense",
+      "precios": {
+        "2014": {
+          "ars": 10949866.41,
+          "usd": 7142.77,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11512431.42,
+          "usd": 7509.74,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11803011.57,
+          "usd": 7699.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3546": {
+      "id": "3546",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Advance",
+      "precios": {
+        "2014": {
+          "ars": 11806368.84,
+          "usd": 7701.48,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12395194.14,
+          "usd": 8085.58,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12688886.28,
+          "usd": 8277.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3547": {
+      "id": "3547",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sr CVT",
+      "precios": {
+        "2014": {
+          "ars": 12813105.27,
+          "usd": 8358.19,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13452151.65,
+          "usd": 8775.05,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13770893.01,
+          "usd": 8982.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3548": {
+      "id": "3548",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Exclusive CVT",
+      "precios": {
+        "2015": {
+          "ars": 14048151.39,
+          "usd": 9163.83,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14381011.68,
+          "usd": 9380.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3549": {
+      "id": "3549",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sense 2016",
+      "precios": {
+        "2016": {
+          "ars": 12626999.07,
+          "usd": 8236.79,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13136859.54,
+          "usd": 8569.38,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13805308.86,
+          "usd": 9005.42,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14777798.07,
+          "usd": 9639.79,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15817524.66,
+          "usd": 10318.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3550": {
+      "id": "3550",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Advance 2016",
+      "precios": {
+        "2016": {
+          "ars": 14375753.49,
+          "usd": 9377.53,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14815126.62,
+          "usd": 9664.14,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15568979.37,
+          "usd": 10155.89,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16665687.57,
+          "usd": 10871.29,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17838248.61,
+          "usd": 11636.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3551": {
+      "id": "3551",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sr CVT 2016",
+      "precios": {
+        "2016": {
+          "ars": 16534094.85,
+          "usd": 10785.45,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17039448.3,
+          "usd": 11115.1,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17906467.11,
+          "usd": 11680.67,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19167850.17,
+          "usd": 12503.49,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20516445.6,
+          "usd": 13383.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3552": {
+      "id": "3552",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Exclusive CVT 2016",
+      "precios": {
+        "2016": {
+          "ars": 17974470.99,
+          "usd": 11725.03,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 18523836.87,
+          "usd": 12083.39,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19466401.92,
+          "usd": 12698.24,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20837655.09,
+          "usd": 13592.73,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22303739.64,
+          "usd": 14549.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3553": {
+      "id": "3553",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Advance Safety Pack 2019",
+      "precios": {
+        "2019": {
+          "ars": 15959066.55,
+          "usd": 10410.35,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17081897.07,
+          "usd": 11142.79,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20184183.18,
+          "usd": 13166.46,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21000720.3,
+          "usd": 13699.1,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22472691.57,
+          "usd": 14659.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3554": {
+      "id": "3554",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Advance Safety Pack CVT 2020",
+      "precios": {
+        "2020": {
+          "ars": 20700129.66,
+          "usd": 13503.02,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24459520.89,
+          "usd": 15955.33,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 25449011.07,
+          "usd": 16600.79,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 27232779.21,
+          "usd": 17764.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3555": {
+      "id": "3555",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sr CVT Safety Pack 2019",
+      "precios": {
+        "2019": {
+          "ars": 23431782.36,
+          "usd": 15284.92,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25080370.56,
+          "usd": 16360.32,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29635266.15,
+          "usd": 19331.55,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 30834148.8,
+          "usd": 20113.6,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32995356.87,
+          "usd": 21523.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3556": {
+      "id": "3556",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Exclusive CVT Safety Pack 2019",
+      "precios": {
+        "2019": {
+          "ars": 24260046.93,
+          "usd": 15825.21,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25966904.46,
+          "usd": 16938.62,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 30682811.04,
+          "usd": 20014.88,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 31924065.81,
+          "usd": 20824.57,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 34161678.6,
+          "usd": 22284.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3557": {
+      "id": "3557",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Advance CVT",
+      "precios": {
+        "0": {
+          "ars": 44483290.95,
+          "usd": 29017.15,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32321097.48,
+          "usd": 21083.56,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 33012189.21,
+          "usd": 21534.37,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 34749676.08,
+          "usd": 22667.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3558": {
+      "id": "3558",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Sr CVT",
+      "precios": {
+        "0": {
+          "ars": 50550567.69,
+          "usd": 32974.93,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 33476979.48,
+          "usd": 21837.56,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 34192798.5,
+          "usd": 22304.5,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 35992417.86,
+          "usd": 23478.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3559": {
+      "id": "3559",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Sr CVT Nightfall",
+      "precios": {
+        "0": {
+          "ars": 50550567.69,
+          "usd": 32974.93,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 36234723.84,
+          "usd": 23636.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3560": {
+      "id": "3560",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Exclusive CVT",
+      "precios": {
+        "0": {
+          "ars": 49539354.9,
+          "usd": 32315.3,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 33476979.48,
+          "usd": 21837.56,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 34192798.5,
+          "usd": 22304.5,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 35992417.86,
+          "usd": 23478.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3561": {
+      "id": "3561",
+      "marcaId": "48",
+      "modeloId": "472",
+      "marca": "NISSAN",
+      "modelo": "TEANA",
+      "version": "4P 250 Xv",
+      "precios": {}
+    },
+    "3562": {
+      "id": "3562",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "5P 1,8 Acenta Hatchback",
+      "precios": {
+        "2013": {
+          "ars": 11887878.45,
+          "usd": 7754.65,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12823958.91,
+          "usd": 8365.27,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13579620.6,
+          "usd": 8858.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3563": {
+      "id": "3563",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "4P 1,8 Acenta Sedan",
+      "precios": {}
+    },
+    "3564": {
+      "id": "3564",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "5P 1,8 Tekna Hatchback",
+      "precios": {
+        "2013": {
+          "ars": 12309913.35,
+          "usd": 8029.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13279229.25,
+          "usd": 8662.25,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14061703.11,
+          "usd": 9172.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3565": {
+      "id": "3565",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "4P 1,8 Tekna Sedan",
+      "precios": {}
+    },
+    "3566": {
+      "id": "3566",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "5P 1,8 Visia Hatchback",
+      "precios": {
+        "2013": {
+          "ars": 11083651.32,
+          "usd": 7230.04,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11956403.55,
+          "usd": 7799.35,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12660939.69,
+          "usd": 8258.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3567": {
+      "id": "3567",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "4P 1,8 Visia Sedan",
+      "precios": {}
+    },
+    "3568": {
+      "id": "3568",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Visia MT",
+      "precios": {
+        "2013": {
+          "ars": 9353185.59,
+          "usd": 6101.23,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10191583.29,
+          "usd": 6648.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3569": {
+      "id": "3569",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Acenta MT",
+      "precios": {
+        "2013": {
+          "ars": 10126369.47,
+          "usd": 6605.59,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11034089.43,
+          "usd": 7197.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3570": {
+      "id": "3570",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Acenta AT",
+      "precios": {
+        "2013": {
+          "ars": 10849684.86,
+          "usd": 7077.42,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11822235.39,
+          "usd": 7711.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3571": {
+      "id": "3571",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Exclusive AT",
+      "precios": {
+        "2014": {
+          "ars": 13248293.31,
+          "usd": 8642.07,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13673440.2,
+          "usd": 8919.4,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14828540.37,
+          "usd": 9672.89,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15430794.75,
+          "usd": 10065.75,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16359470.82,
+          "usd": 10671.54,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17668238.91,
+          "usd": 11525.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3572": {
+      "id": "3572",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Exclusive AT 2019",
+      "precios": {
+        "2019": {
+          "ars": 19479233.13,
+          "usd": 12706.61,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21037558.29,
+          "usd": 13723.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3573": {
+      "id": "3573",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Exclusive CVT 2020",
+      "precios": {
+        "2020": {
+          "ars": 23839269.09,
+          "usd": 15550.73,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25031237.91,
+          "usd": 16328.27,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 26282794.44,
+          "usd": 17144.68,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 28385426.58,
+          "usd": 18516.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3574": {
+      "id": "3574",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Exclusive CVT 2023",
+      "precios": {
+        "0": {
+          "ars": 41444700.99,
+          "usd": 27035.03,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29236977.42,
+          "usd": 19071.74,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 30698830.89,
+          "usd": 20025.33,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 32233777.8,
+          "usd": 21026.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3575": {
+      "id": "3575",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense",
+      "precios": {
+        "2014": {
+          "ars": 9811108.02,
+          "usd": 6399.94,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10125955.56,
+          "usd": 6605.32,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10981369.56,
+          "usd": 7163.32,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11427365.25,
+          "usd": 7454.25,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12115099.71,
+          "usd": 7902.87,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13084308.3,
+          "usd": 8535.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3576": {
+      "id": "3576",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense 2019",
+      "precios": {
+        "2019": {
+          "ars": 14425453.35,
+          "usd": 9409.95,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15579495.75,
+          "usd": 10162.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3577": {
+      "id": "3577",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense 2020",
+      "precios": {
+        "2020": {
+          "ars": 18292353.87,
+          "usd": 11932.39,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19206972.33,
+          "usd": 12529.01,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20167320.18,
+          "usd": 13155.46,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21780710.7,
+          "usd": 14207.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3578": {
+      "id": "3578",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense 2023",
+      "precios": {
+        "0": {
+          "ars": 34343753.01,
+          "usd": 22402.97,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22434136.62,
+          "usd": 14634.14,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 23555832.72,
+          "usd": 15365.84,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24733621.29,
+          "usd": 16134.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3579": {
+      "id": "3579",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense AT",
+      "precios": {
+        "2018": {
+          "ars": 12661261.62,
+          "usd": 8259.14,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14357863.38,
+          "usd": 9365.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3580": {
+      "id": "3580",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense AT 2019",
+      "precios": {
+        "2019": {
+          "ars": 15075751.95,
+          "usd": 9834.15,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16281824.37,
+          "usd": 10620.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3581": {
+      "id": "3581",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense CVT 2020",
+      "precios": {
+        "2020": {
+          "ars": 19455747.57,
+          "usd": 12691.29,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20428543.38,
+          "usd": 13325.86,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21449965.95,
+          "usd": 13992.15,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23165960.16,
+          "usd": 15111.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3582": {
+      "id": "3582",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance",
+      "precios": {
+        "2014": {
+          "ars": 10637303.04,
+          "usd": 6938.88,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10978656.15,
+          "usd": 7161.55,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11906121.15,
+          "usd": 7766.55,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12389675.34,
+          "usd": 8081.98,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13135326.54,
+          "usd": 8568.38,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14895455.82,
+          "usd": 9716.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3583": {
+      "id": "3583",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance 2019",
+      "precios": {
+        "2019": {
+          "ars": 15640233.21,
+          "usd": 10202.37,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16891452.48,
+          "usd": 11018.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3584": {
+      "id": "3584",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance 2020",
+      "precios": {
+        "2020": {
+          "ars": 19792041.78,
+          "usd": 12910.66,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20781654.6,
+          "usd": 13556.2,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21820737.33,
+          "usd": 14234.01,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23566395.09,
+          "usd": 15372.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3585": {
+      "id": "3585",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance 2023",
+      "precios": {
+        "0": {
+          "ars": 38878091.07,
+          "usd": 25360.79,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 24273384.03,
+          "usd": 15833.91,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25487060.13,
+          "usd": 16625.61,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26761412.37,
+          "usd": 17456.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3586": {
+      "id": "3586",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance AT",
+      "precios": {
+        "2014": {
+          "ars": 11226695.55,
+          "usd": 7323.35,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11531793.21,
+          "usd": 7522.37,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12420718.59,
+          "usd": 8102.23,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12925167.57,
+          "usd": 8431.29,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13703057.76,
+          "usd": 8938.72,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15539254.5,
+          "usd": 10136.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3587": {
+      "id": "3587",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance AT 2019",
+      "precios": {
+        "2019": {
+          "ars": 16316224.89,
+          "usd": 10643.33,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17621528.4,
+          "usd": 11494.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3588": {
+      "id": "3588",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance CVT 2020",
+      "precios": {
+        "2020": {
+          "ars": 20606172.09,
+          "usd": 13441.73,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21636470.73,
+          "usd": 14113.81,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22718293.5,
+          "usd": 14819.5,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 24535756.98,
+          "usd": 16005.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3589": {
+      "id": "3589",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance CVT 2023",
+      "precios": {
+        "0": {
+          "ars": 39872962.08,
+          "usd": 26009.76,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 25271842.26,
+          "usd": 16485.22,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 26535432.84,
+          "usd": 17309.48,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 27862198.35,
+          "usd": 18174.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3590": {
+      "id": "3590",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sr CVT 2024",
+      "precios": {
+        "0": {
+          "ars": 40647556.32,
+          "usd": 26515.04,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 26776650.39,
+          "usd": 17466.83,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 28115480.61,
+          "usd": 18340.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3591": {
+      "id": "3591",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P V-Drive MT",
+      "precios": {
+        "2020": {
+          "ars": 14480150.79,
+          "usd": 9445.63,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 15204156.03,
+          "usd": 9917.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3592": {
+      "id": "3592",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P V-Drive Plus AT",
+      "precios": {
+        "2020": {
+          "ars": 16793969.01,
+          "usd": 10954.97,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17633654.43,
+          "usd": 11502.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3593": {
+      "id": "3593",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 Acenta 6MT",
+      "precios": {
+        "2013": {
+          "ars": 18884076.54,
+          "usd": 12318.38,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 20371055.88,
+          "usd": 13288.36,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 21152870.55,
+          "usd": 13798.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3594": {
+      "id": "3594",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 Tekna CVT",
+      "precios": {
+        "2013": {
+          "ars": 21437165.4,
+          "usd": 13983.8,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 23125182.36,
+          "usd": 15084.92,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 24381460.53,
+          "usd": 15904.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3595": {
+      "id": "3595",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X4 Exclusive 7cvt 2018",
+      "precios": {
+        "2018": {
+          "ars": 33918621.45,
+          "usd": 22125.65,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 35703815.28,
+          "usd": 23290.16,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 36924221.25,
+          "usd": 24086.25,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 38628411.36,
+          "usd": 25197.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3596": {
+      "id": "3596",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X4 Advance 7cvt 2021",
+      "precios": {
+        "2021": {
+          "ars": 35220015.81,
+          "usd": 22974.57,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 37685417.07,
+          "usd": 24582.79,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 40700260.86,
+          "usd": 26549.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3597": {
+      "id": "3597",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X4 Exclusive 7cvt 2023",
+      "precios": {
+        "2022": {
+          "ars": 40494624.24,
+          "usd": 26415.28,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 43734190.5,
+          "usd": 28528.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3598": {
+      "id": "3598",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X2 Advance CVT",
+      "precios": {
+        "0": {
+          "ars": 57629072.55,
+          "usd": 37592.35,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 45051512.73,
+          "usd": 29387.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3599": {
+      "id": "3599",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X4 Exclusive CVT 2023",
+      "precios": {
+        "0": {
+          "ars": 70774854.15,
+          "usd": 46167.55,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 46035990,
+          "usd": 30030,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 51151105.11,
+          "usd": 33366.67,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 53708655,
+          "usd": 35035,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3600": {
+      "id": "3600",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 1,5 4X4 E-Power CVT 2023",
+      "precios": {
+        "0": {
+          "ars": 83920620.42,
+          "usd": 54742.74,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 55243188,
+          "usd": 36036,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 61381320,
+          "usd": 40040,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 64450386,
+          "usd": 42042,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3601": {
+      "id": "3601",
+      "marcaId": "49",
+      "modeloId": "476",
+      "marca": "PEUGEOT",
+      "modelo": "206",
+      "version": "5P 1,4 Generation",
+      "precios": {}
+    },
+    "3602": {
+      "id": "3602",
+      "marcaId": "49",
+      "modeloId": "476",
+      "marca": "PEUGEOT",
+      "modelo": "206",
+      "version": "5P 1,4 Generation Plus",
+      "precios": {}
+    },
+    "3603": {
+      "id": "3603",
+      "marcaId": "49",
+      "modeloId": "476",
+      "marca": "PEUGEOT",
+      "modelo": "206",
+      "version": "5P 1,4 Active Seg",
+      "precios": {
+        "2013": {
+          "ars": 7145343.66,
+          "usd": 4661.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3604": {
+      "id": "3604",
+      "marcaId": "49",
+      "modeloId": "476",
+      "marca": "PEUGEOT",
+      "modelo": "206",
+      "version": "5P 1,4 Allure Seg",
+      "precios": {
+        "2013": {
+          "ars": 7786030.35,
+          "usd": 5078.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3605": {
+      "id": "3605",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,4 Xr Compact",
+      "precios": {}
+    },
+    "3606": {
+      "id": "3606",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,6 Xt Compact",
+      "precios": {}
+    },
+    "3607": {
+      "id": "3607",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,6 Xt Compact Premium",
+      "precios": {}
+    },
+    "3608": {
+      "id": "3608",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,4 Active Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 9699904.2,
+          "usd": 6327.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3609": {
+      "id": "3609",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,6 Feline Compact",
+      "precios": {
+        "2013": {
+          "ars": 10313824.71,
+          "usd": 6727.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3610": {
+      "id": "3610",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,6 Griffe Compact",
+      "precios": {
+        "2013": {
+          "ars": 10620777.3,
+          "usd": 6928.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3611": {
+      "id": "3611",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Xr Compact",
+      "precios": {}
+    },
+    "3612": {
+      "id": "3612",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Xs Compact",
+      "precios": {}
+    },
+    "3613": {
+      "id": "3613",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,6 Xt Compact",
+      "precios": {}
+    },
+    "3614": {
+      "id": "3614",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,6 Xt Compact Tipt",
+      "precios": {}
+    },
+    "3615": {
+      "id": "3615",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Xr",
+      "precios": {}
+    },
+    "3616": {
+      "id": "3616",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Xs",
+      "precios": {}
+    },
+    "3617": {
+      "id": "3617",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Xt",
+      "precios": {}
+    },
+    "3618": {
+      "id": "3618",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Active Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 9413401.83,
+          "usd": 6140.51,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9632866.11,
+          "usd": 6283.67,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10035201.96,
+          "usd": 6546.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3619": {
+      "id": "3619",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Active Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 9652948.41,
+          "usd": 6296.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3620": {
+      "id": "3620",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 9647276.31,
+          "usd": 6293.07,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9862218.24,
+          "usd": 6433.28,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10264569.42,
+          "usd": 6695.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3621": {
+      "id": "3621",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 9954612.15,
+          "usd": 6493.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3622": {
+      "id": "3622",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,6 Feline Compact",
+      "precios": {
+        "2013": {
+          "ars": 9939619.41,
+          "usd": 6483.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3623": {
+      "id": "3623",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Feline Compact",
+      "precios": {
+        "2013": {
+          "ars": 10557924.3,
+          "usd": 6887.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3624": {
+      "id": "3624",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Xr Compact",
+      "precios": {}
+    },
+    "3625": {
+      "id": "3625",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Xs Compact",
+      "precios": {}
+    },
+    "3626": {
+      "id": "3626",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Quiksilver",
+      "precios": {}
+    },
+    "3627": {
+      "id": "3627",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Xs Compact",
+      "precios": {}
+    },
+    "3628": {
+      "id": "3628",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Xt Compact",
+      "precios": {}
+    },
+    "3629": {
+      "id": "3629",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Xt Compact Premium",
+      "precios": {}
+    },
+    "3630": {
+      "id": "3630",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Xt Compact Tipt",
+      "precios": {}
+    },
+    "3631": {
+      "id": "3631",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Diesel Xs",
+      "precios": {}
+    },
+    "3632": {
+      "id": "3632",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Diesel Xt",
+      "precios": {}
+    },
+    "3633": {
+      "id": "3633",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Active Compact",
+      "precios": {
+        "2013": {
+          "ars": 9296464.59,
+          "usd": 6064.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3634": {
+      "id": "3634",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Active Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 9588807.69,
+          "usd": 6254.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9804884.04,
+          "usd": 6395.88,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10207235.22,
+          "usd": 6658.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3635": {
+      "id": "3635",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 9881150.79,
+          "usd": 6445.63,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10091570.37,
+          "usd": 6582.89,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10493952.21,
+          "usd": 6845.37,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10682679.84,
+          "usd": 6968.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3636": {
+      "id": "3636",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 9998088.03,
+          "usd": 6521.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3637": {
+      "id": "3637",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Diesel Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "ars": 10115025.27,
+          "usd": 6598.19,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10320922.5,
+          "usd": 6732.5,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10723319.67,
+          "usd": 6994.99,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10914914.01,
+          "usd": 7119.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3638": {
+      "id": "3638",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Feline Compact",
+      "precios": {
+        "2013": {
+          "ars": 10290431.13,
+          "usd": 6712.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3639": {
+      "id": "3639",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Feline Compact Tipt",
+      "precios": {
+        "2013": {
+          "ars": 10582774.23,
+          "usd": 6903.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3640": {
+      "id": "3640",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Diesel Feline Compact",
+      "precios": {
+        "2013": {
+          "ars": 10919911.59,
+          "usd": 7123.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3641": {
+      "id": "3641",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Griffe Compact",
+      "precios": {
+        "2013": {
+          "ars": 11067156.24,
+          "usd": 7219.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3642": {
+      "id": "3642",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P Gti",
+      "precios": {
+        "2013": {
+          "ars": 16179128.7,
+          "usd": 10553.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3643": {
+      "id": "3643",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P Gti",
+      "precios": {
+        "2013": {
+          "ars": 16522658.67,
+          "usd": 10777.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3644": {
+      "id": "3644",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "Cabrio 1,6 Cc 156hp",
+      "precios": {
+        "2013": {
+          "ars": 23815936.83,
+          "usd": 15535.51,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 25224150.63,
+          "usd": 16454.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 27244705.95,
+          "usd": 17772.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3645": {
+      "id": "3645",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "Sw 1,6 Xs Compact",
+      "precios": {}
+    },
+    "3646": {
+      "id": "3646",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "Sw 1,6 Xt Compact",
+      "precios": {
+        "2013": {
+          "ars": 10362390.15,
+          "usd": 6759.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3647": {
+      "id": "3647",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,2 Like 2020",
+      "precios": {
+        "2020": {
+          "ars": 14769611.85,
+          "usd": 9634.45,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 15508088.61,
+          "usd": 10116.17,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 16120660.08,
+          "usd": 10515.76,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 16755720.66,
+          "usd": 10930.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3648": {
+      "id": "3648",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,2 Like New 2023",
+      "precios": {
+        "2023": {
+          "ars": 17593505.16,
+          "usd": 11476.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3649": {
+      "id": "3649",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,2 T Gt 6tipt",
+      "precios": {
+        "2021": {
+          "ars": 26842952.64,
+          "usd": 17510.08,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27903236.76,
+          "usd": 18201.72,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29002459.08,
+          "usd": 18918.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3709": {
+      "id": "3709",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "3P Xy",
+      "precios": {
+        "2014": {
+          "ars": 13993607.25,
+          "usd": 9128.25,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14455300.86,
+          "usd": 9429.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3710": {
+      "id": "3710",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "3P Gti",
+      "precios": {
+        "2014": {
+          "ars": 15460350.99,
+          "usd": 10085.03,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15900827.88,
+          "usd": 10372.36,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 18819721.2,
+          "usd": 12276.4,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20138837.04,
+          "usd": 13136.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3803": {
+      "id": "3803",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Active",
+      "precios": {
+        "2016": {
+          "ars": 11397717.03,
+          "usd": 7434.91,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11878803.09,
+          "usd": 7748.73,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12834827.88,
+          "usd": 8372.36,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13994894.97,
+          "usd": 9129.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3804": {
+      "id": "3804",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Allure",
+      "precios": {
+        "2016": {
+          "ars": 12307107.96,
+          "usd": 8028.12,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12826580.34,
+          "usd": 8366.98,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13858871.88,
+          "usd": 9040.36,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15111501.51,
+          "usd": 9857.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3805": {
+      "id": "3805",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Allure Tipt6",
+      "precios": {
+        "2016": {
+          "ars": 13022497.74,
+          "usd": 8494.78,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13572170.22,
+          "usd": 8853.34,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14664463.38,
+          "usd": 9565.86,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15989910.51,
+          "usd": 10430.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3806": {
+      "id": "3806",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Crossway",
+      "precios": {
+        "2018": {
+          "ars": 14116967.76,
+          "usd": 9208.72,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15392929.65,
+          "usd": 10041.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3807": {
+      "id": "3807",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline",
+      "precios": {
+        "2016": {
+          "ars": 13559032.41,
+          "usd": 8844.77,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14131347.3,
+          "usd": 9218.1,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15268664.67,
+          "usd": 9959.99,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16648717.26,
+          "usd": 10860.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3808": {
+      "id": "3808",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline Tipt6",
+      "precios": {
+        "2016": {
+          "ars": 13883384.55,
+          "usd": 9056.35,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14469389.13,
+          "usd": 9438.61,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15633901.92,
+          "usd": 10198.24,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17046975.33,
+          "usd": 11120.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3809": {
+      "id": "3809",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline Tipt6 T/c",
+      "precios": {
+        "2016": {
+          "ars": 14452664.1,
+          "usd": 9427.7,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15062706.12,
+          "usd": 9825.64,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16274971.86,
+          "usd": 10616.42,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17745977.34,
+          "usd": 11575.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3810": {
+      "id": "3810",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP Sport",
+      "precios": {
+        "2016": {
+          "ars": 14343989.73,
+          "usd": 9356.81,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14949448.08,
+          "usd": 9751.76,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16152592.47,
+          "usd": 10536.59,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17612529.69,
+          "usd": 11488.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3811": {
+      "id": "3811",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Active 2020",
+      "precios": {
+        "2019": {
+          "ars": 14358752.52,
+          "usd": 9366.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14796286.05,
+          "usd": 9651.85,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 15201994.5,
+          "usd": 9916.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3812": {
+      "id": "3812",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Allure 2020",
+      "precios": {
+        "2019": {
+          "ars": 15504409.41,
+          "usd": 10113.77,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15976834.02,
+          "usd": 10421.94,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16414919.43,
+          "usd": 10707.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3813": {
+      "id": "3813",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline 2020",
+      "precios": {
+        "2019": {
+          "ars": 17081575.14,
+          "usd": 11142.58,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17602074.63,
+          "usd": 11482.11,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18084709.02,
+          "usd": 11796.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3814": {
+      "id": "3814",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline Tipt6 2020",
+      "precios": {
+        "2019": {
+          "ars": 18364696.14,
+          "usd": 11979.58,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18924287.13,
+          "usd": 12344.61,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19443176.97,
+          "usd": 12683.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3815": {
+      "id": "3815",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP Sport 2020",
+      "precios": {
+        "2019": {
+          "ars": 20194622.91,
+          "usd": 13173.27,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20809969.11,
+          "usd": 13574.67,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21380567.04,
+          "usd": 13946.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3816": {
+      "id": "3816",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP Sport Tipt6 2020",
+      "precios": {
+        "2019": {
+          "ars": 21287575.26,
+          "usd": 13886.22,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21699875.61,
+          "usd": 14155.17,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22294863.57,
+          "usd": 14543.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3817": {
+      "id": "3817",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 In Concert 2020",
+      "precios": {
+        "2020": {
+          "ars": 18741139.62,
+          "usd": 12225.14,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19255001.22,
+          "usd": 12560.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3818": {
+      "id": "3818",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 In Concert Tipt 2020",
+      "precios": {
+        "2020": {
+          "ars": 19628869.26,
+          "usd": 12804.22,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20167090.23,
+          "usd": 13155.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3819": {
+      "id": "3819",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP In Concert Tipt 2020",
+      "precios": {
+        "2020": {
+          "ars": 17844426.6,
+          "usd": 11640.2,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18333714.21,
+          "usd": 11959.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3820": {
+      "id": "3820",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Allure 2022",
+      "precios": {
+        "2021": {
+          "ars": 15668777.67,
+          "usd": 10220.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3821": {
+      "id": "3821",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline 2022",
+      "precios": {
+        "2021": {
+          "ars": 18609163.65,
+          "usd": 12139.05,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 18780277.11,
+          "usd": 12250.67,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 20094885.93,
+          "usd": 13108.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3822": {
+      "id": "3822",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline Tipt6 2022",
+      "precios": {
+        "2021": {
+          "ars": 20007029.7,
+          "usd": 13050.9,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20190989.7,
+          "usd": 13170.9,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21604369.71,
+          "usd": 14092.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3823": {
+      "id": "3823",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP Sport Tipt6 2022",
+      "precios": {
+        "2021": {
+          "ars": 20855836.47,
+          "usd": 13604.59,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21047599.44,
+          "usd": 13729.68,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22520935.08,
+          "usd": 14690.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3824": {
+      "id": "3824",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Active 2024",
+      "precios": {
+        "2024": {
+          "ars": 24831733.29,
+          "usd": 16198.13,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26138661.78,
+          "usd": 17050.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3825": {
+      "id": "3825",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Allure 2024",
+      "precios": {
+        "2024": {
+          "ars": 26863479.51,
+          "usd": 17523.47,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 28277350.08,
+          "usd": 18445.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3826": {
+      "id": "3826",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Gt 2024",
+      "precios": {
+        "2024": {
+          "ars": 30018056.25,
+          "usd": 19581.25,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 31597950.72,
+          "usd": 20611.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3827": {
+      "id": "3827",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Active 2026",
+      "precios": {
+        "0": {
+          "ars": 49205666.79,
+          "usd": 32097.63,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 28962509.1,
+          "usd": 18892.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3828": {
+      "id": "3828",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Allure 2026",
+      "precios": {
+        "0": {
+          "ars": 53371854.9,
+          "usd": 34815.3,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 31332251.16,
+          "usd": 20438.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "3829": {
+      "id": "3829",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Gt 2026",
+      "precios": {
+        "0": {
+          "ars": 57103238.22,
+          "usd": 37249.34,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 35011573.8,
+          "usd": 22838.6,
           "cotizacion": 1533
         }
       }
@@ -81697,6 +90052,21 @@
         }
       }
     },
+    "6395": {
+      "id": "6395",
+      "marcaId": "46",
+      "modeloId": "453",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "5P 2,0 Td Mildhybrid D Essential",
+      "precios": {
+        "0": {
+          "ars": 66685500,
+          "usd": 43500,
+          "cotizacion": 1533
+        }
+      }
+    },
     "6490": {
       "id": "6490",
       "marcaId": "2",
@@ -82088,6 +90458,51 @@
         "0": {
           "ars": 96885600,
           "usd": 63200,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6512": {
+      "id": "6512",
+      "marcaId": "48",
+      "modeloId": "679",
+      "marca": "NISSAN",
+      "modelo": "KAIT",
+      "version": "5P 1,6 Sense CVT",
+      "precios": {
+        "0": {
+          "ars": 36909305.16,
+          "usd": 24076.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6513": {
+      "id": "6513",
+      "marcaId": "48",
+      "modeloId": "679",
+      "marca": "NISSAN",
+      "modelo": "KAIT",
+      "version": "5P 1,6 Advance CVT",
+      "precios": {
+        "0": {
+          "ars": 41965369.11,
+          "usd": 27374.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6514": {
+      "id": "6514",
+      "marcaId": "48",
+      "modeloId": "679",
+      "marca": "NISSAN",
+      "modelo": "KAIT",
+      "version": "5P 1,6 Exclusive CVT",
+      "precios": {
+        "0": {
+          "ars": 47021433.06,
+          "usd": 30672.82,
           "cotizacion": 1533
         }
       }
