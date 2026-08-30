@@ -1,12 +1,12 @@
 {
   "version": 5,
-  "actualizado": "2026-08-30T02:10:36.256Z",
+  "actualizado": "2026-08-30T04:14:03.816Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6139,
-  "versionesProcesadas": 1747,
-  "versionesConValuacion": 1533,
+  "versionesProcesadas": 2096,
+  "versionesConValuacion": 1841,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -39310,6 +39310,126 @@
         }
       }
     },
+    "1695": {
+      "id": "1695",
+      "marcaId": "18",
+      "modeloId": "209",
+      "marca": "FIAT",
+      "modelo": "LINEA",
+      "version": "4P 1,9 16V Essence",
+      "precios": {
+        "2013": {
+          "ars": 7654713.57,
+          "usd": 4993.29,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8107331.82,
+          "usd": 5288.54,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8585060.61,
+          "usd": 5600.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1696": {
+      "id": "1696",
+      "marcaId": "18",
+      "modeloId": "209",
+      "marca": "FIAT",
+      "modelo": "LINEA",
+      "version": "4P 1,9 16V Essence Dualogic",
+      "precios": {
+        "2013": {
+          "ars": 8004942.75,
+          "usd": 5221.75,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8478256.5,
+          "usd": 5530.5,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8977845.87,
+          "usd": 5856.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1697": {
+      "id": "1697",
+      "marcaId": "18",
+      "modeloId": "209",
+      "marca": "FIAT",
+      "modelo": "LINEA",
+      "version": "4P 1,9 16V Absolute",
+      "precios": {
+        "2013": {
+          "ars": 8306330.55,
+          "usd": 5418.35,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8797488.42,
+          "usd": 5738.74,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9315872.37,
+          "usd": 6076.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1698": {
+      "id": "1698",
+      "marcaId": "18",
+      "modeloId": "209",
+      "marca": "FIAT",
+      "modelo": "LINEA",
+      "version": "4P 1,9 16V Absolute Dualogic",
+      "precios": {
+        "2013": {
+          "ars": 8628766.44,
+          "usd": 5628.68,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9138979.5,
+          "usd": 5961.5,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9677491.74,
+          "usd": 6312.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1699": {
+      "id": "1699",
+      "marcaId": "18",
+      "modeloId": "209",
+      "marca": "FIAT",
+      "modelo": "LINEA",
+      "version": "4P 1,8 16V Essence 2015",
+      "precios": {
+        "2014": {
+          "ars": 9075896.55,
+          "usd": 5920.35,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9610698.93,
+          "usd": 6269.21,
+          "cotizacion": 1533
+        }
+      }
+    },
     "1700": {
       "id": "1700",
       "marcaId": "18",
@@ -39350,6 +39470,36 @@
         }
       }
     },
+    "1702": {
+      "id": "1702",
+      "marcaId": "18",
+      "modeloId": "209",
+      "marca": "FIAT",
+      "modelo": "LINEA",
+      "version": "4P 1,8 16V Essence Uconnect 2016",
+      "precios": {
+        "2015": {
+          "ars": 10078125.96,
+          "usd": 6574.12,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10691540.58,
+          "usd": 6974.26,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11432546.79,
+          "usd": 7457.63,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12004171.83,
+          "usd": 7830.51,
+          "cotizacion": 1533
+        }
+      }
+    },
     "1703": {
       "id": "1703",
       "marcaId": "18",
@@ -39376,6 +39526,7474 @@
         "2018": {
           "ars": 13232503.41,
           "usd": 8631.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1704": {
+      "id": "1704",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,0 Easy",
+      "precios": {
+        "2016": {
+          "ars": 10016284.74,
+          "usd": 6533.78,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 10550121.33,
+          "usd": 6882.01,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 11289609.87,
+          "usd": 7364.39,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12192776.82,
+          "usd": 7953.54,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 12802404.93,
+          "usd": 8351.21,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 13442524.41,
+          "usd": 8768.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1705": {
+      "id": "1705",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,0 Easy Top",
+      "precios": {
+        "2016": {
+          "ars": 10609402.44,
+          "usd": 6920.68,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11174849.49,
+          "usd": 7289.53,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 11958105.18,
+          "usd": 7800.46,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12914758.5,
+          "usd": 8424.5,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13560504.09,
+          "usd": 8845.73,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 14238519.33,
+          "usd": 9288.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1706": {
+      "id": "1706",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,0 Easy Top Live On",
+      "precios": {
+        "2017": {
+          "ars": 11296416.39,
+          "usd": 7368.83,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12088210.89,
+          "usd": 7885.33,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13055257.95,
+          "usd": 8516.15,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13708024.68,
+          "usd": 8941.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1707": {
+      "id": "1707",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,0 Way",
+      "precios": {
+        "2016": {
+          "ars": 11066772.99,
+          "usd": 7219.03,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11656594.74,
+          "usd": 7603.78,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12473622.42,
+          "usd": 8136.74,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13471513.44,
+          "usd": 8787.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14145082.98,
+          "usd": 9227.06,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 14852347.86,
+          "usd": 9688.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1708": {
+      "id": "1708",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,0 Way Live On",
+      "precios": {
+        "2017": {
+          "ars": 11778161.64,
+          "usd": 7683.08,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12603712.8,
+          "usd": 8221.6,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13612012.89,
+          "usd": 8879.33,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14292618.9,
+          "usd": 9323.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1709": {
+      "id": "1709",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,0 Like",
+      "precios": {
+        "2021": {
+          "ars": 14592305.07,
+          "usd": 9518.79,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 15220191.21,
+          "usd": 9928.37,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 15981203.07,
+          "usd": 10424.79,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 16780263.99,
+          "usd": 10946.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1710": {
+      "id": "1710",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,0 Trekking",
+      "precios": {
+        "0": {
+          "ars": 29942034.78,
+          "usd": 19531.66,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 17173693.11,
+          "usd": 11202.67,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 18032372.4,
+          "usd": 11762.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1711": {
+      "id": "1711",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Palio",
+      "precios": {
+        "0": {
+          "ars": 23175802.02,
+          "usd": 15117.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1712": {
+      "id": "1712",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "3P 1,4 Fire",
+      "precios": {
+        "2013": {
+          "ars": 7537852.98,
+          "usd": 4917.06,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8062598.88,
+          "usd": 5259.36,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8623063.68,
+          "usd": 5624.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1713": {
+      "id": "1713",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,4 Fire",
+      "precios": {
+        "2013": {
+          "ars": 7797773.13,
+          "usd": 5086.61,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8340623.76,
+          "usd": 5440.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8920419.69,
+          "usd": 5818.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1714": {
+      "id": "1714",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "3P 1,4 Fire Confort",
+      "precios": {
+        "2013": {
+          "ars": 8093136.24,
+          "usd": 5279.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8656544.4,
+          "usd": 5646.8,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9258308.22,
+          "usd": 6039.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1715": {
+      "id": "1715",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,4 Fire Confort",
+      "precios": {
+        "2013": {
+          "ars": 8353071.72,
+          "usd": 5448.84,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8934569.28,
+          "usd": 5828.16,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9555648.9,
+          "usd": 6233.3,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10032273.93,
+          "usd": 6544.21,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 10528919.94,
+          "usd": 6868.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1716": {
+      "id": "1716",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "3P 1,4 Fire Top",
+      "precios": {
+        "2013": {
+          "ars": 8329432.86,
+          "usd": 5433.42,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8909290.11,
+          "usd": 5811.67,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9528622.11,
+          "usd": 6215.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1717": {
+      "id": "1717",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,4 Fire Top",
+      "precios": {
+        "2013": {
+          "ars": 8589368.34,
+          "usd": 5602.98,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9187314.99,
+          "usd": 5993.03,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9825962.79,
+          "usd": 6409.63,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10316062.89,
+          "usd": 6729.33,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 10826766.51,
+          "usd": 7062.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1718": {
+      "id": "1718",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "3P 1,4 Attractive",
+      "precios": {}
+    },
+    "1719": {
+      "id": "1719",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "3P 1,4 Attractive Active",
+      "precios": {}
+    },
+    "1720": {
+      "id": "1720",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,4 Attractive",
+      "precios": {
+        "2013": {
+          "ars": 8948366.28,
+          "usd": 5837.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1721": {
+      "id": "1721",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,4 Attractive Active",
+      "precios": {}
+    },
+    "1722": {
+      "id": "1722",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,6 Elx Essence Active",
+      "precios": {}
+    },
+    "1723": {
+      "id": "1723",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,4 Active",
+      "precios": {
+        "2017": {
+          "ars": 10808263.2,
+          "usd": 7050.4,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 11565841.14,
+          "usd": 7544.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1724": {
+      "id": "1724",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,4 Attractive Pack Seg",
+      "precios": {
+        "2014": {
+          "ars": 9759568.56,
+          "usd": 6366.32,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10437997.71,
+          "usd": 6808.87,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10958635.17,
+          "usd": 7148.49,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11718144.69,
+          "usd": 7643.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1725": {
+      "id": "1725",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,4 Attractive Pack Seg Top",
+      "precios": {
+        "2015": {
+          "ars": 10647819.42,
+          "usd": 6945.74,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11178911.94,
+          "usd": 7292.18,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11830329.63,
+          "usd": 7717.11,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12659544.66,
+          "usd": 8258.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1726": {
+      "id": "1726",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,6 Essence",
+      "precios": {
+        "2013": {
+          "ars": 9512571.6,
+          "usd": 6205.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1727": {
+      "id": "1727",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,6 Essence Pack Seg",
+      "precios": {
+        "2014": {
+          "ars": 10042269.09,
+          "usd": 6550.73,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10740351.3,
+          "usd": 7006.1,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11276058.15,
+          "usd": 7355.55,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11954594.61,
+          "usd": 7798.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1728": {
+      "id": "1728",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,6 Essence Dualogic",
+      "precios": {
+        "2013": {
+          "ars": 10118551.17,
+          "usd": 6600.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1729": {
+      "id": "1729",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,6 Essence Dualogic Pack Seg",
+      "precios": {
+        "2014": {
+          "ars": 10533794.88,
+          "usd": 6871.36,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11266032.33,
+          "usd": 7349.01,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11827968.81,
+          "usd": 7715.57,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12413513.49,
+          "usd": 8097.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1730": {
+      "id": "1730",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,6 Sporting",
+      "precios": {
+        "2013": {
+          "ars": 9718376.85,
+          "usd": 6339.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1731": {
+      "id": "1731",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "5P 1,6 Sporting Pack Seg",
+      "precios": {
+        "2014": {
+          "ars": 10550811.18,
+          "usd": 6882.46,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11284244.37,
+          "usd": 7360.89,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11847085.32,
+          "usd": 7728.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1732": {
+      "id": "1732",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,4 Attractive",
+      "precios": {
+        "2013": {
+          "ars": 9352495.74,
+          "usd": 6100.78,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10003576.17,
+          "usd": 6525.49,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10698960.3,
+          "usd": 6979.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1733": {
+      "id": "1733",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,4 Attractive Active",
+      "precios": {
+        "2013": {
+          "ars": 9622595.01,
+          "usd": 6276.97,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10292485.35,
+          "usd": 6713.95,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11007951.78,
+          "usd": 7180.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1734": {
+      "id": "1734",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,4 Attractive Seg",
+      "precios": {
+        "2013": {
+          "ars": 9753467.22,
+          "usd": 6362.34,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10432463.58,
+          "usd": 6805.26,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11157664.56,
+          "usd": 7278.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1735": {
+      "id": "1735",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,4 Trekking",
+      "precios": {
+        "2013": {
+          "ars": 10005247.14,
+          "usd": 6526.58,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10701765.69,
+          "usd": 6980.93,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11445699.93,
+          "usd": 7466.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1736": {
+      "id": "1736",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,4 Trekking Seg",
+      "precios": {
+        "2013": {
+          "ars": 10264109.52,
+          "usd": 6695.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10978640.82,
+          "usd": 7161.54,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11741829.54,
+          "usd": 7659.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1737": {
+      "id": "1737",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,6 Adventure",
+      "precios": {
+        "2013": {
+          "ars": 10941174.3,
+          "usd": 7137.1,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11941686.75,
+          "usd": 7789.75,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12771806.25,
+          "usd": 8331.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1738": {
+      "id": "1738",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,6 Adventure Seg",
+      "precios": {
+        "2013": {
+          "ars": 11176321.17,
+          "usd": 7290.49,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12198341.61,
+          "usd": 7957.17,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13046305.23,
+          "usd": 8510.31,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13697017.74,
+          "usd": 8934.78,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14646312.66,
+          "usd": 9554.02,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15672901.44,
+          "usd": 10223.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1739": {
+      "id": "1739",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,6 Adventure Seg Xtreme",
+      "precios": {
+        "2013": {
+          "ars": 11518134.18,
+          "usd": 7513.46,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12571397.16,
+          "usd": 8200.52,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13445283.81,
+          "usd": 8770.57,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14115909.99,
+          "usd": 9208.03,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15094239.93,
+          "usd": 9846.21,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16152224.55,
+          "usd": 10536.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1740": {
+      "id": "1740",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,6 Adventure Locker",
+      "precios": {
+        "2013": {
+          "ars": 11233456.08,
+          "usd": 7327.76,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12260688.72,
+          "usd": 7997.84,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13112990.73,
+          "usd": 8553.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1741": {
+      "id": "1741",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,6 Adventure Locker Seg",
+      "precios": {
+        "2013": {
+          "ars": 11345794.32,
+          "usd": 7401.04,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12383298.06,
+          "usd": 8077.82,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13244123.55,
+          "usd": 8639.35,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13904708.58,
+          "usd": 9070.26,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14868398.37,
+          "usd": 9698.89,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15910547.1,
+          "usd": 10378.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1742": {
+      "id": "1742",
+      "marcaId": "18",
+      "modeloId": "210",
+      "marca": "FIAT",
+      "modelo": "MOBI",
+      "version": "Weekend 1,6 Adventure Locker Seg Xtreme",
+      "precios": {
+        "2013": {
+          "ars": 11588544.87,
+          "usd": 7559.39,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12678323.91,
+          "usd": 8270.27,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13487870.55,
+          "usd": 8798.35,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14160612.27,
+          "usd": 9237.19,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15142038.87,
+          "usd": 9877.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1743": {
+      "id": "1743",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 1,3 Drive Gse MT",
+      "precios": {
+        "2022": {
+          "ars": 19121768.19,
+          "usd": 12473.43,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 20077854.3,
+          "usd": 13097.1,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 21134581.86,
+          "usd": 13786.42,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 22191309.42,
+          "usd": 14475.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1744": {
+      "id": "1744",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 1,3 Drive Gse CVT",
+      "precios": {
+        "2022": {
+          "ars": 19872646.92,
+          "usd": 12963.24,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 20866276.2,
+          "usd": 13611.4,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 21964502.07,
+          "usd": 14327.79,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 23062727.94,
+          "usd": 15044.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1745": {
+      "id": "1745",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 1,0 T Audace CVT",
+      "precios": {
+        "2023": {
+          "ars": 22301424.81,
+          "usd": 14547.57,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 23475196.92,
+          "usd": 15313.24,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24648953.7,
+          "usd": 16078.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1746": {
+      "id": "1746",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 1,0 T Impetus CVT",
+      "precios": {
+        "2022": {
+          "ars": 23321268.39,
+          "usd": 15212.83,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 24487329.51,
+          "usd": 15973.47,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25776137.94,
+          "usd": 16814.18,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 27064946.37,
+          "usd": 17654.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1747": {
+      "id": "1747",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 270 Turbo Abarth 6AT",
+      "precios": {
+        "2023": {
+          "ars": 26739659.1,
+          "usd": 17442.7,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 28147014.42,
+          "usd": 18360.74,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 29554369.74,
+          "usd": 19278.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1748": {
+      "id": "1748",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 1,3 Drive Gse MT 2026",
+      "precios": {
+        "0": {
+          "ars": 40559776.74,
+          "usd": 26457.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 23940523.74,
+          "usd": 15616.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1749": {
+      "id": "1749",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 1,3 Drive Gse CVT 2026",
+      "precios": {
+        "0": {
+          "ars": 41136169.41,
+          "usd": 26833.77,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24791798.64,
+          "usd": 16172.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1750": {
+      "id": "1750",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 1,0 T Audace CVT 2026",
+      "precios": {
+        "0": {
+          "ars": 43997912.49,
+          "usd": 28700.53,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26789972.16,
+          "usd": 17475.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1751": {
+      "id": "1751",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 1,0 T Impetus CVT 2026",
+      "precios": {
+        "0": {
+          "ars": 45524841.81,
+          "usd": 29696.57,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 27713650.65,
+          "usd": 18078.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1752": {
+      "id": "1752",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 270 Turbo Abarth 6AT 2026",
+      "precios": {
+        "0": {
+          "ars": 47749516.08,
+          "usd": 31147.76,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 30518228.16,
+          "usd": 19907.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1753": {
+      "id": "1753",
+      "marcaId": "18",
+      "modeloId": "211",
+      "marca": "FIAT",
+      "modelo": "PULSE",
+      "version": "5P 270 Turbo Abarth Stranger Things 6AT 2026",
+      "precios": {
+        "0": {
+          "ars": 45383269.26,
+          "usd": 29604.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1754": {
+      "id": "1754",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,4 Attractive",
+      "precios": {
+        "2013": {
+          "ars": 9262845.9,
+          "usd": 6042.3,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9352955.64,
+          "usd": 6101.08,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9904084.47,
+          "usd": 6460.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1755": {
+      "id": "1755",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,4 Attractive Top",
+      "precios": {
+        "2013": {
+          "ars": 9668830.29,
+          "usd": 6307.13,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9762895.17,
+          "usd": 6368.49,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10338168.75,
+          "usd": 6743.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1756": {
+      "id": "1756",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,4 Attractive Top T/c",
+      "precios": {
+        "2013": {
+          "ars": 10331224.26,
+          "usd": 6739.22,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10431727.74,
+          "usd": 6804.78,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11046430.08,
+          "usd": 7205.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1757": {
+      "id": "1757",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,4 Attractive Top Uconnect 2016",
+      "precios": {
+        "2015": {
+          "ars": 10917796.05,
+          "usd": 7121.85,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11462348.31,
+          "usd": 7477.07,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12275298.21,
+          "usd": 8007.37,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12770809.8,
+          "usd": 8330.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1758": {
+      "id": "1758",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Blackmotion",
+      "precios": {
+        "2016": {
+          "ars": 13377371.91,
+          "usd": 8726.27,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14326130.28,
+          "usd": 9345.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1759": {
+      "id": "1759",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence",
+      "precios": {
+        "2013": {
+          "ars": 10299169.23,
+          "usd": 6718.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10399366.11,
+          "usd": 6783.67,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11012152.2,
+          "usd": 7183.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1760": {
+      "id": "1760",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence T/c",
+      "precios": {
+        "2013": {
+          "ars": 10993618.23,
+          "usd": 7171.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11100575.64,
+          "usd": 7241.08,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11754676.08,
+          "usd": 7667.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1761": {
+      "id": "1761",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Dualogic",
+      "precios": {
+        "2013": {
+          "ars": 10876098.45,
+          "usd": 7094.65,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10981906.11,
+          "usd": 7163.67,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11629016.07,
+          "usd": 7585.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1762": {
+      "id": "1762",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Dualogig T/c",
+      "precios": {
+        "2013": {
+          "ars": 11463697.35,
+          "usd": 7477.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11575223.1,
+          "usd": 7550.7,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12257300.79,
+          "usd": 7995.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1763": {
+      "id": "1763",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Emotion",
+      "precios": {
+        "2013": {
+          "ars": 11020491.72,
+          "usd": 7188.84,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11127709.74,
+          "usd": 7258.78,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11783404.5,
+          "usd": 7686.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1764": {
+      "id": "1764",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Emotion T/c",
+      "precios": {
+        "2013": {
+          "ars": 11342314.41,
+          "usd": 7398.77,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11452659.75,
+          "usd": 7470.75,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12127517.01,
+          "usd": 7910.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1765": {
+      "id": "1765",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Uconnect Nav 2016",
+      "precios": {
+        "2015": {
+          "ars": 11626854.54,
+          "usd": 7584.38,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12206788.44,
+          "usd": 7962.68,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13072534.86,
+          "usd": 8527.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1766": {
+      "id": "1766",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Uconnect Nav T/c 2016",
+      "precios": {
+        "2015": {
+          "ars": 12022721.13,
+          "usd": 7842.61,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12622384.74,
+          "usd": 8233.78,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13517610.75,
+          "usd": 8817.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1767": {
+      "id": "1767",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Uconnect Nav Dualogic 2016",
+      "precios": {
+        "2015": {
+          "ars": 12100674.18,
+          "usd": 7893.46,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12704231.61,
+          "usd": 8287.17,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13605252.36,
+          "usd": 8874.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1768": {
+      "id": "1768",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Uconnect Nav Dualogic T/c 2016",
+      "precios": {
+        "2015": {
+          "ars": 12496525.44,
+          "usd": 8151.68,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13119827.91,
+          "usd": 8558.27,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14050328.25,
+          "usd": 9165.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1769": {
+      "id": "1769",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Uconnect Nav Emotion 2016",
+      "precios": {
+        "2015": {
+          "ars": 11983736.94,
+          "usd": 7817.18,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12581468.97,
+          "usd": 8207.09,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13473782.28,
+          "usd": 8789.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1770": {
+      "id": "1770",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Essence Uconnect Nav Emotion T/c 2016",
+      "precios": {
+        "2015": {
+          "ars": 12379603.53,
+          "usd": 8075.41,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12997065.27,
+          "usd": 8478.19,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13918873.5,
+          "usd": 9079.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1771": {
+      "id": "1771",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Sporting",
+      "precios": {
+        "2013": {
+          "ars": 10764618.69,
+          "usd": 7021.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10869353.25,
+          "usd": 7090.25,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11509825.32,
+          "usd": 7508.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1772": {
+      "id": "1772",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Sporting Tech",
+      "precios": {
+        "2013": {
+          "ars": 11221529.34,
+          "usd": 7319.98,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11330694.27,
+          "usd": 7391.19,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11998361.76,
+          "usd": 7826.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1773": {
+      "id": "1773",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Sporting T/c",
+      "precios": {
+        "2013": {
+          "ars": 11331184.83,
+          "usd": 7391.51,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11441422.86,
+          "usd": 7463.42,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12115605.6,
+          "usd": 7903.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1774": {
+      "id": "1774",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Sporting T/c CRO",
+      "precios": {
+        "2013": {
+          "ars": 11632741.26,
+          "usd": 7588.22,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11745907.32,
+          "usd": 7662.04,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12438041.49,
+          "usd": 8113.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1775": {
+      "id": "1775",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Sporting Uconnect Nav 2016",
+      "precios": {
+        "2015": {
+          "ars": 11814693.03,
+          "usd": 7706.91,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12403993.56,
+          "usd": 8091.32,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13283720.94,
+          "usd": 8665.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1776": {
+      "id": "1776",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Sporting Uconnect Nav Tech Ii 2016",
+      "precios": {
+        "2015": {
+          "ars": 12034463.91,
+          "usd": 7850.27,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12634710.06,
+          "usd": 8241.82,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13530809.88,
+          "usd": 8826.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1777": {
+      "id": "1777",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Sporting Uconnect Nav T/c 2016",
+      "precios": {
+        "2015": {
+          "ars": 12210559.62,
+          "usd": 7965.14,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12819589.86,
+          "usd": 8362.42,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13728796.83,
+          "usd": 8955.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1778": {
+      "id": "1778",
+      "marcaId": "18",
+      "modeloId": "212",
+      "marca": "FIAT",
+      "modelo": "PUNTO",
+      "version": "5P 1,6 16V Sporting Uconnect Nav T/c CRO 2016",
+      "precios": {
+        "2015": {
+          "ars": 12430315.17,
+          "usd": 8108.49,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13050321.69,
+          "usd": 8512.93,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13975885.77,
+          "usd": 9116.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1779": {
+      "id": "1779",
+      "marcaId": "18",
+      "modeloId": "213",
+      "marca": "FIAT",
+      "modelo": "QUBO",
+      "version": "1,4 Active",
+      "precios": {
+        "2013": {
+          "ars": 7862925.63,
+          "usd": 5129.11,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8250743.97,
+          "usd": 5382.09,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8736919.59,
+          "usd": 5699.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1780": {
+      "id": "1780",
+      "marcaId": "18",
+      "modeloId": "213",
+      "marca": "FIAT",
+      "modelo": "QUBO",
+      "version": "1,4 Active Confort",
+      "precios": {
+        "2013": {
+          "ars": 7915246.92,
+          "usd": 5163.24,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8305640.7,
+          "usd": 5417.9,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8795050.95,
+          "usd": 5737.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1781": {
+      "id": "1781",
+      "marcaId": "18",
+      "modeloId": "213",
+      "marca": "FIAT",
+      "modelo": "QUBO",
+      "version": "1,4 Dynamic",
+      "precios": {
+        "2013": {
+          "ars": 8518743.03,
+          "usd": 5556.91,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8938907.67,
+          "usd": 5830.99,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9465631.14,
+          "usd": 6174.58,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10030633.62,
+          "usd": 6543.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1782": {
+      "id": "1782",
+      "marcaId": "18",
+      "modeloId": "213",
+      "marca": "FIAT",
+      "modelo": "QUBO",
+      "version": "1,4 Trekking",
+      "precios": {
+        "2014": {
+          "ars": 9111584.79,
+          "usd": 5943.63,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9648487.38,
+          "usd": 6293.86,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10224404.82,
+          "usd": 6669.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1783": {
+      "id": "1783",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 Fire",
+      "precios": {
+        "2013": {
+          "ars": 6688172.4,
+          "usd": 4362.8,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 6775645.38,
+          "usd": 4419.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1784": {
+      "id": "1784",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 Fire A/c",
+      "precios": {
+        "2013": {
+          "ars": 7457002.56,
+          "usd": 4864.32,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7554547.35,
+          "usd": 4927.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1785": {
+      "id": "1785",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 Fire Way",
+      "precios": {
+        "2013": {
+          "ars": 7457002.56,
+          "usd": 4864.32,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7554547.35,
+          "usd": 4927.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1786": {
+      "id": "1786",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 Fire Pack Top",
+      "precios": {
+        "2013": {
+          "ars": 7638279.81,
+          "usd": 4982.57,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7738185.42,
+          "usd": 5047.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1787": {
+      "id": "1787",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 El Flp",
+      "precios": {
+        "2013": {
+          "ars": 7815509.94,
+          "usd": 5098.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1788": {
+      "id": "1788",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 Attractive Active",
+      "precios": {
+        "2013": {
+          "ars": 7328506.5,
+          "usd": 4780.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1789": {
+      "id": "1789",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 Attractive Emotion",
+      "precios": {
+        "2013": {
+          "ars": 7673048.25,
+          "usd": 5005.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1790": {
+      "id": "1790",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 El 2014",
+      "precios": {
+        "2014": {
+          "ars": 7577005.8,
+          "usd": 4942.6,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8023476.72,
+          "usd": 5233.84,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 8423681.7,
+          "usd": 5494.9,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 9007494.09,
+          "usd": 5875.73,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 9983677.83,
+          "usd": 6512.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1791": {
+      "id": "1791",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,4 El Attractive 2014",
+      "precios": {
+        "2014": {
+          "ars": 7973316.96,
+          "usd": 5201.12,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8443135.47,
+          "usd": 5507.59,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 8864265.9,
+          "usd": 5782.3,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 9478630.98,
+          "usd": 6183.06,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 10505863.62,
+          "usd": 6853.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1792": {
+      "id": "1792",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,6 16V Essence Emotion",
+      "precios": {
+        "2013": {
+          "ars": 7989643.41,
+          "usd": 5211.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1793": {
+      "id": "1793",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,6 16V Essence Emotion High Tech",
+      "precios": {
+        "2013": {
+          "ars": 8511124.02,
+          "usd": 5551.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1794": {
+      "id": "1794",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,6 El 2014",
+      "precios": {
+        "2014": {
+          "ars": 7678475.07,
+          "usd": 5008.79,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8126954.22,
+          "usd": 5301.34,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 8561161.14,
+          "usd": 5584.58,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 9154508.79,
+          "usd": 5971.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1795": {
+      "id": "1795",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,6 El Confort Ii 2014",
+      "precios": {
+        "2014": {
+          "ars": 8267744.94,
+          "usd": 5393.18,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8754932.34,
+          "usd": 5710.98,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 9191607.39,
+          "usd": 5995.83,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 9828645.54,
+          "usd": 6411.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1796": {
+      "id": "1796",
+      "marcaId": "18",
+      "modeloId": "214",
+      "marca": "FIAT",
+      "modelo": "SIENA",
+      "version": "4P 1,6 16V Npm El 2017",
+      "precios": {
+        "2017": {
+          "ars": 9454210.29,
+          "usd": 6167.13,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 10478790.84,
+          "usd": 6835.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1797": {
+      "id": "1797",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,6 16V Adventure",
+      "precios": {}
+    },
+    "1798": {
+      "id": "1798",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,6 16V Adventure Pack Seg",
+      "precios": {}
+    },
+    "1799": {
+      "id": "1799",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,6 16V Adventure Locker",
+      "precios": {}
+    },
+    "1800": {
+      "id": "1800",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,6 16V Adventure Locker Seg",
+      "precios": {}
+    },
+    "1801": {
+      "id": "1801",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,6 16V Adventure",
+      "precios": {}
+    },
+    "1802": {
+      "id": "1802",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,6 16V Adventure Pack Seg",
+      "precios": {}
+    },
+    "1803": {
+      "id": "1803",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,6 16V Adventure Locker",
+      "precios": {}
+    },
+    "1804": {
+      "id": "1804",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,6 16V Adventure Locker Seg",
+      "precios": {}
+    },
+    "1805": {
+      "id": "1805",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,4 Working",
+      "precios": {}
+    },
+    "1806": {
+      "id": "1806",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,4 Working A/c",
+      "precios": {}
+    },
+    "1807": {
+      "id": "1807",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,4 Trekking",
+      "precios": {}
+    },
+    "1808": {
+      "id": "1808",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,4 Trekking Pack Seg",
+      "precios": {}
+    },
+    "1809": {
+      "id": "1809",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,7 Td Adventure",
+      "precios": {}
+    },
+    "1810": {
+      "id": "1810",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,7 Td Adventure Xtreme",
+      "precios": {}
+    },
+    "1811": {
+      "id": "1811",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,3 Multijet Trekking",
+      "precios": {}
+    },
+    "1812": {
+      "id": "1812",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,3 Multijet Trekking A/c",
+      "precios": {
+        "2013": {
+          "ars": 9099244.14,
+          "usd": 5935.58,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9637265.82,
+          "usd": 6286.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1813": {
+      "id": "1813",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,3 Multijet Trekking Seg A/c",
+      "precios": {}
+    },
+    "1814": {
+      "id": "1814",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,3 Multijet Trekking A/c",
+      "precios": {
+        "2013": {
+          "ars": 9449580.63,
+          "usd": 6164.11,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10008313.14,
+          "usd": 6528.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1815": {
+      "id": "1815",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,3 Multijet Trekking Seg A/c",
+      "precios": {}
+    },
+    "1816": {
+      "id": "1816",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,4 8V Working 2012",
+      "precios": {
+        "2013": {
+          "ars": 7525435.68,
+          "usd": 4908.96,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7970419.59,
+          "usd": 5199.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1817": {
+      "id": "1817",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,4 8V Working 2012",
+      "precios": {
+        "2013": {
+          "ars": 8206470.93,
+          "usd": 5353.21,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8691711.42,
+          "usd": 5669.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1818": {
+      "id": "1818",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,4 8V Trekking 2012",
+      "precios": {
+        "2013": {
+          "ars": 8365381.71,
+          "usd": 5456.87,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8860019.49,
+          "usd": 5779.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1819": {
+      "id": "1819",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,6 16V Adventure 2012",
+      "precios": {
+        "2013": {
+          "ars": 9693404.28,
+          "usd": 6323.16,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10266562.32,
+          "usd": 6697.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1820": {
+      "id": "1820",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,6 16V Adventure 2012",
+      "precios": {
+        "2013": {
+          "ars": 10136073.36,
+          "usd": 6611.92,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10735415.04,
+          "usd": 7002.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1821": {
+      "id": "1821",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,4 8V Working",
+      "precios": {
+        "2014": {
+          "ars": 8720608.47,
+          "usd": 5688.59,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9234485.4,
+          "usd": 6023.8,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10179825.18,
+          "usd": 6640.46,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11403711.06,
+          "usd": 7438.82,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12090035.16,
+          "usd": 7886.52,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13057235.52,
+          "usd": 8517.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13744448.76,
+          "usd": 8965.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1822": {
+      "id": "1822",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 3P 1,4 8V Working",
+      "precios": {
+        "2014": {
+          "ars": 9531396.84,
+          "usd": 6217.48,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10093026.72,
+          "usd": 6583.84,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11126268.72,
+          "usd": 7257.84,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12337231.41,
+          "usd": 8047.77,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13214061.42,
+          "usd": 8619.74,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14271187.56,
+          "usd": 9309.32,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15022311.57,
+          "usd": 9799.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1823": {
+      "id": "1823",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,6 16V Adventure Top",
+      "precios": {
+        "2014": {
+          "ars": 11082716.19,
+          "usd": 7229.43,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11735774.19,
+          "usd": 7655.43,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12937186.29,
+          "usd": 8439.13,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14492568.09,
+          "usd": 9453.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1824": {
+      "id": "1824",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,6 16V Adventure Top T/c",
+      "precios": {
+        "2015": {
+          "ars": 12190523.31,
+          "usd": 7952.07,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13438477.29,
+          "usd": 8766.13,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15054136.65,
+          "usd": 9820.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1825": {
+      "id": "1825",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/exten. 1,6 16V Adventure Top Extreme",
+      "precios": {
+        "2015": {
+          "ars": 12131058.24,
+          "usd": 7913.28,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13372926.21,
+          "usd": 8723.37,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14980705.95,
+          "usd": 9772.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1826": {
+      "id": "1826",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 3P 1,6 16V Adventure Top",
+      "precios": {
+        "2014": {
+          "ars": 11701971.54,
+          "usd": 7633.38,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12391514.94,
+          "usd": 8083.18,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13660057.11,
+          "usd": 8910.67,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15302344.68,
+          "usd": 9981.96,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16223294.43,
+          "usd": 10582.71,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17521162.89,
+          "usd": 11429.33,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18443323.71,
+          "usd": 12030.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1827": {
+      "id": "1827",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 3P 1,6 16V Adventure Top T/c",
+      "precios": {
+        "2015": {
+          "ars": 12606778.8,
+          "usd": 8223.6,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13897365.51,
+          "usd": 9065.47,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15568182.21,
+          "usd": 10155.37,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16505136.48,
+          "usd": 10766.56,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17825540.04,
+          "usd": 11627.88,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18763736.04,
+          "usd": 12239.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1828": {
+      "id": "1828",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 3P 1,6 16V Adventure Top Xtreme",
+      "precios": {
+        "2015": {
+          "ars": 12487848.66,
+          "usd": 8146.02,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13766248.02,
+          "usd": 8979.94,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15421320.81,
+          "usd": 10059.57,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16349429.67,
+          "usd": 10664.99,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17657385.27,
+          "usd": 11518.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18586720.53,
+          "usd": 12124.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1829": {
+      "id": "1829",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 3P 1,3 Jtd Multijet Trekking Top",
+      "precios": {
+        "2015": {
+          "ars": 12131058.24,
+          "usd": 7913.28,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13372926.21,
+          "usd": 8723.37,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14980705.95,
+          "usd": 9772.15,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15882293.91,
+          "usd": 10360.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1830": {
+      "id": "1830",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/plus 1,4 Fire Endurance",
+      "precios": {
+        "2020": {
+          "ars": 14688209.55,
+          "usd": 9581.35,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 15422623.86,
+          "usd": 10060.42,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 16193753.52,
+          "usd": 10563.44,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 17003438.13,
+          "usd": 11091.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1831": {
+      "id": "1831",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,4 Fire Endurance",
+      "precios": {
+        "2020": {
+          "ars": 16039610.37,
+          "usd": 10462.89,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16841599.32,
+          "usd": 10986.04,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 17683676.22,
+          "usd": 11535.34,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 18567864.63,
+          "usd": 12112.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1832": {
+      "id": "1832",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,4 Fire Freedom",
+      "precios": {
+        "2020": {
+          "ars": 18295174.59,
+          "usd": 11934.23,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19209931.02,
+          "usd": 12530.94,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20170432.17,
+          "usd": 13157.49,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21178946.88,
+          "usd": 13815.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1833": {
+      "id": "1833",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,4 Fire Freedom Tech",
+      "precios": {
+        "2023": {
+          "ars": 21877044.42,
+          "usd": 14270.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1834": {
+      "id": "1834",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Fly Gse Volcano",
+      "precios": {
+        "2020": {
+          "ars": 19248485.97,
+          "usd": 12556.09,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20210903.37,
+          "usd": 13183.89,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21221456.97,
+          "usd": 13843.09,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22282522.92,
+          "usd": 14535.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1835": {
+      "id": "1835",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Fly Gse Volcano CVT",
+      "precios": {
+        "2023": {
+          "ars": 22760956.89,
+          "usd": 14847.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1836": {
+      "id": "1836",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Ranch CVT",
+      "precios": {
+        "2023": {
+          "ars": 23086106.19,
+          "usd": 15059.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1837": {
+      "id": "1837",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/plus 1,4 Fire Endurance 2023",
+      "precios": {
+        "2023": {
+          "ars": 19638971.73,
+          "usd": 12810.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1838": {
+      "id": "1838",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "C/S 1,3 Fire Freedom 2025",
+      "precios": {
+        "0": {
+          "ars": 35261023.56,
+          "usd": 23001.32,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 21300912.36,
+          "usd": 13894.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1839": {
+      "id": "1839",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Endurance 2023",
+      "precios": {
+        "2023": {
+          "ars": 21445872.84,
+          "usd": 13989.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1840": {
+      "id": "1840",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Freedom 2023",
+      "precios": {
+        "2023": {
+          "ars": 21570751.02,
+          "usd": 14070.94,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22237897.29,
+          "usd": 14506.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1841": {
+      "id": "1841",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Freedom 2024",
+      "precios": {
+        "0": {
+          "ars": 40863142.11,
+          "usd": 26655.67,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22460274.27,
+          "usd": 14651.19,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24310513.29,
+          "usd": 15858.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1842": {
+      "id": "1842",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Freedom Tech 2023",
+      "precios": {
+        "2023": {
+          "ars": 22970901.24,
+          "usd": 14984.28,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 23681339.43,
+          "usd": 15447.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1843": {
+      "id": "1843",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Volcano 2023",
+      "precios": {
+        "2023": {
+          "ars": 24120252.66,
+          "usd": 15734.02,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24866241.12,
+          "usd": 16220.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1844": {
+      "id": "1844",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Volcano CVT 2023",
+      "precios": {
+        "2023": {
+          "ars": 24638146.05,
+          "usd": 16071.85,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25400154.36,
+          "usd": 16568.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1845": {
+      "id": "1845",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Volcano CVT 2024",
+      "precios": {
+        "0": {
+          "ars": 44928228.87,
+          "usd": 29307.39,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25654141.8,
+          "usd": 16734.6,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 27150809.7,
+          "usd": 17710.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1846": {
+      "id": "1846",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C 1,3 Fire Ranch CVT 2023",
+      "precios": {
+        "2023": {
+          "ars": 24990122.85,
+          "usd": 16301.45,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25763000.13,
+          "usd": 16805.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1847": {
+      "id": "1847",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C T200 Ranch CVT 2024",
+      "precios": {
+        "0": {
+          "ars": 48568597.98,
+          "usd": 31682.06,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 27321662.55,
+          "usd": 17822.35,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 29345759.1,
+          "usd": 19142.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1848": {
+      "id": "1848",
+      "marcaId": "18",
+      "modeloId": "215",
+      "marca": "FIAT",
+      "modelo": "STRADA PICK - UP",
+      "version": "D/C T200 Ultra CVT 2025",
+      "precios": {
+        "0": {
+          "ars": 48710170.53,
+          "usd": 31774.41,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 27594889.14,
+          "usd": 18000.58,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 29430748.62,
+          "usd": 19198.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1849": {
+      "id": "1849",
+      "marcaId": "18",
+      "modeloId": "216",
+      "marca": "FIAT",
+      "modelo": "TIPO",
+      "version": "4P 1,6 Pop 6AT",
+      "precios": {
+        "2017": {
+          "ars": 10532859.75,
+          "usd": 6870.75,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 11166755.25,
+          "usd": 7284.25,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12060095.67,
+          "usd": 7866.99,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 12904303.44,
+          "usd": 8417.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1850": {
+      "id": "1850",
+      "marcaId": "18",
+      "modeloId": "216",
+      "marca": "FIAT",
+      "modelo": "TIPO",
+      "version": "4P 1,6 Easy 6AT",
+      "precios": {
+        "2017": {
+          "ars": 11175094.77,
+          "usd": 7289.69,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 11847652.53,
+          "usd": 7728.41,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12795475.77,
+          "usd": 8346.69,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13691146.35,
+          "usd": 8930.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1851": {
+      "id": "1851",
+      "marcaId": "18",
+      "modeloId": "217",
+      "marca": "FIAT",
+      "modelo": "TITANO PICK UP",
+      "version": "D/C 2,2 Endurence MT",
+      "precios": {
+        "0": {
+          "ars": 51814587.51,
+          "usd": 33799.47,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 30402839.25,
+          "usd": 19832.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1852": {
+      "id": "1852",
+      "marcaId": "18",
+      "modeloId": "217",
+      "marca": "FIAT",
+      "modelo": "TITANO PICK UP",
+      "version": "D/C 2,2 Endurence MT 4WD",
+      "precios": {
+        "0": {
+          "ars": 54838123.41,
+          "usd": 35771.77,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 32177562.69,
+          "usd": 20989.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1853": {
+      "id": "1853",
+      "marcaId": "18",
+      "modeloId": "217",
+      "marca": "FIAT",
+      "modelo": "TITANO PICK UP",
+      "version": "D/C 2,2 Freedom MT 4WD",
+      "precios": {
+        "0": {
+          "ars": 60389683.62,
+          "usd": 39393.14,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 35432688.9,
+          "usd": 23113.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1854": {
+      "id": "1854",
+      "marcaId": "18",
+      "modeloId": "217",
+      "marca": "FIAT",
+      "modelo": "TITANO PICK UP",
+      "version": "D/C 2,2 Freedom 8AT AWD Plus",
+      "precios": {
+        "0": {
+          "ars": 66305285.34,
+          "usd": 43251.98,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 38909027.01,
+          "usd": 25380.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1855": {
+      "id": "1855",
+      "marcaId": "18",
+      "modeloId": "217",
+      "marca": "FIAT",
+      "modelo": "TITANO PICK UP",
+      "version": "D/C 2,2 Ranch 8AT AWD",
+      "precios": {
+        "0": {
+          "ars": 71593936.05,
+          "usd": 46701.85,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 42016050.09,
+          "usd": 27407.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1856": {
+      "id": "1856",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 1,8 Freedom 4X2 6AT Pack Seg",
+      "precios": {
+        "2018": {
+          "ars": 16121441.91,
+          "usd": 10516.27,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16969942.08,
+          "usd": 11069.76,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18327536.22,
+          "usd": 11955.34,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19292130.48,
+          "usd": 12584.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1857": {
+      "id": "1857",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 1,8 Freedom 4X2 6AT Pack Seg Chrome",
+      "precios": {
+        "2019": {
+          "ars": 18696452.67,
+          "usd": 12195.99,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20192170.11,
+          "usd": 13171.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1858": {
+      "id": "1858",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Freedom 4X2 6MT",
+      "precios": {
+        "2016": {
+          "ars": 15463784.91,
+          "usd": 10087.27,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16463101.62,
+          "usd": 10739.14,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17539850.16,
+          "usd": 11441.52,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18463007.43,
+          "usd": 12043.71,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19940037.6,
+          "usd": 13007.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1859": {
+      "id": "1859",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Freedom 4X4 6MT",
+      "precios": {
+        "2016": {
+          "ars": 17177924.19,
+          "usd": 11205.43,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 18288000.15,
+          "usd": 11929.55,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19484108.07,
+          "usd": 12709.79,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20509593.09,
+          "usd": 13378.73,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22150362.99,
+          "usd": 14449.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1860": {
+      "id": "1860",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Freedom 4X4 6MT Pack Xtreme",
+      "precios": {
+        "2017": {
+          "ars": 18889549.35,
+          "usd": 12321.95,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20125009.38,
+          "usd": 13127.86,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21184220.4,
+          "usd": 13818.8,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22878951.9,
+          "usd": 14924.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1861": {
+      "id": "1861",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Freedom 4X4 9AT",
+      "precios": {
+        "2018": {
+          "ars": 20841962.82,
+          "usd": 13595.54,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21938916.3,
+          "usd": 14311.1,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23694017.34,
+          "usd": 15455.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1862": {
+      "id": "1862",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Freedom 4X4 9AT Pack Seg",
+      "precios": {
+        "2018": {
+          "ars": 21687596.28,
+          "usd": 14147.16,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22829052.75,
+          "usd": 14891.75,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24655376.97,
+          "usd": 16083.09,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25953015.48,
+          "usd": 16929.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1863": {
+      "id": "1863",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Freedom 4X4 9AT New Hollan",
+      "precios": {
+        "2019": {
+          "ars": 21938916.3,
+          "usd": 14311.1,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23694017.34,
+          "usd": 15455.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1864": {
+      "id": "1864",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Volcano 4X4 9AT",
+      "precios": {
+        "2016": {
+          "ars": 20493174.66,
+          "usd": 13368.02,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 21817487.37,
+          "usd": 14231.89,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23244449.76,
+          "usd": 15162.72,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24467829.75,
+          "usd": 15960.75,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26425256.13,
+          "usd": 17237.61,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27816070.38,
+          "usd": 18144.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1865": {
+      "id": "1865",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Blackjack 4X4 9AT",
+      "precios": {
+        "2017": {
+          "ars": 22363342.68,
+          "usd": 14587.96,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23825993.31,
+          "usd": 15542.07,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25080002.64,
+          "usd": 16360.08,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27086393.04,
+          "usd": 17668.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1866": {
+      "id": "1866",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Volcano 4X4 9AT Pack Premium",
+      "precios": {
+        "2018": {
+          "ars": 24767669.22,
+          "usd": 16156.34,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26071225.11,
+          "usd": 17006.67,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27802840.59,
+          "usd": 18136.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1867": {
+      "id": "1867",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Ranch 4X4 9AT",
+      "precios": {
+        "2020": {
+          "ars": 27804021,
+          "usd": 18137,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29267392.14,
+          "usd": 19091.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1868": {
+      "id": "1868",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 1,8 Freedom 4X2 6AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 19971847.35,
+          "usd": 13027.95,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20970443.55,
+          "usd": 13679.35,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22018969.56,
+          "usd": 14363.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1869": {
+      "id": "1869",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 1,8 Freedom 4X2 6AT S-Design",
+      "precios": {
+        "2023": {
+          "ars": 24479802.48,
+          "usd": 15968.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1870": {
+      "id": "1870",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 1,3 T Volcano 4X2 6AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 27257920.41,
+          "usd": 17780.77,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 28620818.73,
+          "usd": 18669.81,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 30051858.9,
+          "usd": 19603.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1871": {
+      "id": "1871",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Freedom 4X4 9AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 27543334.35,
+          "usd": 17966.95,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 28920489.57,
+          "usd": 18865.29,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 30366522.48,
+          "usd": 19808.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1872": {
+      "id": "1872",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 Td Volcano 4X4 9AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 30454363.38,
+          "usd": 19865.86,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 31977076.95,
+          "usd": 20859.15,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 33575934.63,
+          "usd": 21902.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1873": {
+      "id": "1873",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 16V Td Multijet Ultra 4X4 9AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 33281767.26,
+          "usd": 21710.22,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 34945854.09,
+          "usd": 22795.73,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 36693152.16,
+          "usd": 23935.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1874": {
+      "id": "1874",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 1,8 Freedom 4X2 6AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 22899724.05,
+          "usd": 14937.85,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24104968.65,
+          "usd": 15724.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1875": {
+      "id": "1875",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 1,8 Freedom 4X2 6AT S-Design 2023",
+      "precios": {
+        "2023": {
+          "ars": 25459006.23,
+          "usd": 16607.31,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 26798955.54,
+          "usd": 17481.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1876": {
+      "id": "1876",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 1,3 T Volcano 4X2 6AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 31253930.19,
+          "usd": 20387.43,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 32898869.85,
+          "usd": 21460.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1877": {
+      "id": "1877",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 16V Td Freedom 4X4 9AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 31581179.7,
+          "usd": 20600.9,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 33243350.28,
+          "usd": 21685.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1878": {
+      "id": "1878",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 16V Td Volcano 4X4 9AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 34918965.27,
+          "usd": 22778.19,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 36756817.65,
+          "usd": 23977.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1879": {
+      "id": "1879",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 16V Td Multijet Ultra 4X4 9AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 36252843.9,
+          "usd": 23648.3,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 38160877.02,
+          "usd": 24892.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1880": {
+      "id": "1880",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C 2,0 16V Td Multijet Ranch 4X4 9AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 37378449.15,
+          "usd": 24382.55,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 39345732.72,
+          "usd": 25665.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1881": {
+      "id": "1881",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C T270 6AT 4X2 Freedom",
+      "precios": {
+        "0": {
+          "ars": 51460663.8,
+          "usd": 33568.6,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 30478661.43,
+          "usd": 19881.71,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 32002586.07,
+          "usd": 20875.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1882": {
+      "id": "1882",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C T270 6AT 4X2 Volcano",
+      "precios": {
+        "0": {
+          "ars": 56617859.76,
+          "usd": 36932.72,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 34624874.55,
+          "usd": 22586.35,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 36356122.11,
+          "usd": 23715.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1883": {
+      "id": "1883",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C Td350 9AT 4X4 Volcano",
+      "precios": {
+        "0": {
+          "ars": 61016634.63,
+          "usd": 39802.11,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 38686128.81,
+          "usd": 25235.57,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 40620437.55,
+          "usd": 26497.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1884": {
+      "id": "1884",
+      "marcaId": "18",
+      "modeloId": "218",
+      "marca": "FIAT",
+      "modelo": "TORO PICK UP",
+      "version": "D/C Td350 9AT 4X4  Ultra",
+      "precios": {
+        "0": {
+          "ars": 69383825.28,
+          "usd": 45260.16,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 42240297.33,
+          "usd": 27554.01,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 44352311.43,
+          "usd": 28931.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1885": {
+      "id": "1885",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "3P 1,3 Fire",
+      "precios": {
+        "2013": {
+          "ars": 7175099.19,
+          "usd": 4680.43,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7359212.49,
+          "usd": 4800.53,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 7532088.9,
+          "usd": 4913.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1886": {
+      "id": "1886",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "3P 1,3 Fire Dh",
+      "precios": {
+        "2013": {
+          "ars": 7306753.23,
+          "usd": 4766.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7488321.75,
+          "usd": 4884.75,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 7658684.04,
+          "usd": 4995.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1887": {
+      "id": "1887",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "3P 1,3 Fire Confort",
+      "precios": {
+        "2013": {
+          "ars": 7570061.31,
+          "usd": 4938.07,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7746540.27,
+          "usd": 5053.19,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 7890994.86,
+          "usd": 5147.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1888": {
+      "id": "1888",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "3P 1,3 Fire Confort Dh",
+      "precios": {
+        "2013": {
+          "ars": 7701715.35,
+          "usd": 5023.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7875649.53,
+          "usd": 5137.41,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8038454.13,
+          "usd": 5243.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1889": {
+      "id": "1889",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,3 Fire",
+      "precios": {
+        "2013": {
+          "ars": 7306753.23,
+          "usd": 4766.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7488321.75,
+          "usd": 4884.75,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 7658684.04,
+          "usd": 4995.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1890": {
+      "id": "1890",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,3 Fire Dh",
+      "precios": {
+        "2013": {
+          "ars": 7438407.27,
+          "usd": 4852.19,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7617431.01,
+          "usd": 4968.97,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 7796500.74,
+          "usd": 5085.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1891": {
+      "id": "1891",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,3 Fire Confort",
+      "precios": {
+        "2013": {
+          "ars": 7701715.35,
+          "usd": 5023.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7875649.53,
+          "usd": 5137.41,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8038454.13,
+          "usd": 5243.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1892": {
+      "id": "1892",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,3 Fire Confort Dh",
+      "precios": {
+        "2013": {
+          "ars": 7833369.39,
+          "usd": 5109.83,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8004758.79,
+          "usd": 5221.63,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8165033.94,
+          "usd": 5326.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1893": {
+      "id": "1893",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "3P 1,4 Fire Evo Attractive (ln)",
+      "precios": {
+        "2013": {
+          "ars": 8881941.39,
+          "usd": 5793.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1894": {
+      "id": "1894",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "3P 1,4 Fire Evo Attractive Pack Seg (ln)",
+      "precios": {
+        "2014": {
+          "ars": 10165506.96,
+          "usd": 6631.12,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10464288.66,
+          "usd": 6826.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1895": {
+      "id": "1895",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Attractive (ln)",
+      "precios": {
+        "2013": {
+          "ars": 9219247.38,
+          "usd": 6013.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1896": {
+      "id": "1896",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Attractive Pack Seg (ln)",
+      "precios": {
+        "2013": {
+          "ars": 9704472.54,
+          "usd": 6330.38,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9856822.08,
+          "usd": 6429.76,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10131045.12,
+          "usd": 6608.64,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10463706.12,
+          "usd": 6825.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1897": {
+      "id": "1897",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Attractive Top (ln)",
+      "precios": {
+        "2013": {
+          "ars": 10051053.18,
+          "usd": 6556.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1898": {
+      "id": "1898",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Attractive Top Pack Seg (ln)",
+      "precios": {
+        "2014": {
+          "ars": 10196703.51,
+          "usd": 6651.47,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10464288.66,
+          "usd": 6826.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1899": {
+      "id": "1899",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Way (ln)",
+      "precios": {
+        "2013": {
+          "ars": 9357876.57,
+          "usd": 6104.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1900": {
+      "id": "1900",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Way Pack Seg (ln)",
+      "precios": {
+        "2013": {
+          "ars": 9843101.73,
+          "usd": 6420.81,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10060757.07,
+          "usd": 6562.79,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10330994.31,
+          "usd": 6739.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1901": {
+      "id": "1901",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Way Top (ln)",
+      "precios": {
+        "2013": {
+          "ars": 10051053.18,
+          "usd": 6556.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1902": {
+      "id": "1902",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Way Top Pack Seg (ln)",
+      "precios": {
+        "2014": {
+          "ars": 10536600.27,
+          "usd": 6873.19,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10864202.37,
+          "usd": 7086.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1903": {
+      "id": "1903",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Sporting (ln)",
+      "precios": {
+        "2013": {
+          "ars": 10138403.52,
+          "usd": 6613.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1904": {
+      "id": "1904",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,4 Fire Evo Sporting Pack Seg",
+      "precios": {
+        "2013": {
+          "ars": 10605600.6,
+          "usd": 6918.2,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10876497.03,
+          "usd": 7094.91,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11330770.92,
+          "usd": 7391.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1905": {
+      "id": "1905",
+      "marcaId": "18",
+      "modeloId": "219",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "5P 1,3 Way 2018",
+      "precios": {
+        "2018": {
+          "ars": 12060202.98,
+          "usd": 7867.06,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12921641.67,
+          "usd": 8428.99,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13688816.19,
+          "usd": 8929.43,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 14494039.77,
+          "usd": 9454.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1906": {
+      "id": "1906",
+      "marcaId": "18",
+      "modeloId": "220",
+      "marca": "FIAT",
+      "modelo": "UNO CARGO",
+      "version": "3P 1,3 Van Fire",
+      "precios": {
+        "2013": {
+          "ars": 5726766.78,
+          "usd": 3735.66,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 6065375.82,
+          "usd": 3956.54,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 6422779.44,
+          "usd": 4189.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1907": {
+      "id": "1907",
+      "marcaId": "18",
+      "modeloId": "220",
+      "marca": "FIAT",
+      "modelo": "UNO CARGO",
+      "version": "3P 1,3 Van Fire Dh",
+      "precios": {
+        "2013": {
+          "ars": 5940620.28,
+          "usd": 3875.16,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 6291891.9,
+          "usd": 4104.3,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 6662632.62,
+          "usd": 4346.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1908": {
+      "id": "1908",
+      "marcaId": "18",
+      "modeloId": "220",
+      "marca": "FIAT",
+      "modelo": "UNO CARGO",
+      "version": "3P 1,3 Van Fire A/c",
+      "precios": {
+        "2013": {
+          "ars": 6059443.11,
+          "usd": 3952.67,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 6417720.54,
+          "usd": 4186.38,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 6795896.31,
+          "usd": 4433.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1909": {
+      "id": "1909",
+      "marcaId": "18",
+      "modeloId": "220",
+      "marca": "FIAT",
+      "modelo": "UNO CARGO",
+      "version": "3P 1,3 Van Fire Dh A/c",
+      "precios": {
+        "2013": {
+          "ars": 6285177.36,
+          "usd": 4099.92,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 6656822.55,
+          "usd": 4342.35,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 7049071.26,
+          "usd": 4598.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1910": {
+      "id": "1910",
+      "marcaId": "18",
+      "modeloId": "220",
+      "marca": "FIAT",
+      "modelo": "UNO CARGO",
+      "version": "3P 1,4 Evo",
+      "precios": {
+        "2015": {
+          "ars": 7695629.34,
+          "usd": 5019.98,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 8079461.88,
+          "usd": 5270.36,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 8639420.79,
+          "usd": 5635.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1911": {
+      "id": "1911",
+      "marcaId": "18",
+      "modeloId": "220",
+      "marca": "FIAT",
+      "modelo": "UNO CARGO",
+      "version": "3P 1,4 Evo Pack Top",
+      "precios": {
+        "2015": {
+          "ars": 7875695.52,
+          "usd": 5137.44,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 8268511.44,
+          "usd": 5393.68,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 8841577.5,
+          "usd": 5767.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1912": {
+      "id": "1912",
+      "marcaId": "19",
+      "modeloId": "221",
+      "marca": "FORD",
+      "modelo": "BRONCO SPORT",
+      "version": "5P 1,5 4WD 8AT Big Bend",
+      "precios": {
+        "2021": {
+          "ars": 32376392.79,
+          "usd": 21119.63,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 34080414.27,
+          "usd": 22231.19,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 35874116.25,
+          "usd": 23401.25,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 37762220.37,
+          "usd": 24632.89,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 39650339.82,
+          "usd": 25864.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1913": {
+      "id": "1913",
+      "marcaId": "19",
+      "modeloId": "221",
+      "marca": "FORD",
+      "modelo": "BRONCO SPORT",
+      "version": "5P 1,5 4WD 8AT Big Bend 2025",
+      "precios": {
+        "0": {
+          "ars": 58743072.99,
+          "usd": 38319.03,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 45630879.42,
+          "usd": 29765.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1914": {
+      "id": "1914",
+      "marcaId": "19",
+      "modeloId": "221",
+      "marca": "FORD",
+      "modelo": "BRONCO SPORT",
+      "version": "5P 2,0 T 4WD 8AT Badlands 2025",
+      "precios": {
+        "0": {
+          "ars": 69663781.74,
+          "usd": 45442.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 52895521.14,
+          "usd": 34504.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1915": {
+      "id": "1915",
+      "marcaId": "19",
+      "modeloId": "221",
+      "marca": "FORD",
+      "modelo": "BRONCO SPORT",
+      "version": "5P 2,0 T 4WD 8AT Wildtrak",
+      "precios": {
+        "2021": {
+          "ars": 39329912.16,
+          "usd": 25655.52,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 41296413.9,
+          "usd": 26938.3,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 43469916.63,
+          "usd": 28356.11,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 45757796.49,
+          "usd": 29848.53,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 48045691.68,
+          "usd": 31340.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1916": {
+      "id": "1916",
+      "marcaId": "19",
+      "modeloId": "221",
+      "marca": "FORD",
+      "modelo": "BRONCO SPORT",
+      "version": "5P 2,7 Bt 4WD 10at Wildtrak",
+      "precios": {
+        "2024": {
+          "ars": 79852712.94,
+          "usd": 52089.18,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 83845350.12,
+          "usd": 54693.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1917": {
+      "id": "1917",
+      "marcaId": "19",
+      "modeloId": "221",
+      "marca": "FORD",
+      "modelo": "BRONCO SPORT",
+      "version": "5P 2,7 Bt 4WD 10at Badlands",
+      "precios": {
+        "0": {
+          "ars": 118918734.48,
+          "usd": 77572.56,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 93716352.45,
+          "usd": 61132.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1918": {
+      "id": "1918",
+      "marcaId": "19",
+      "modeloId": "222",
+      "marca": "FORD",
+      "modelo": "ECOSPORT",
+      "version": "5P 1,6 Xl Plus",
+      "precios": {}
+    },
+    "1919": {
+      "id": "1919",
+      "marcaId": "19",
+      "modeloId": "222",
+      "marca": "FORD",
+      "modelo": "ECOSPORT",
+      "version": "5P 1,6 Xls",
+      "precios": {}
+    },
+    "1920": {
+      "id": "1920",
+      "marcaId": "19",
+      "modeloId": "222",
+      "marca": "FORD",
+      "modelo": "ECOSPORT",
+      "version": "5P 2,0 Xls",
+      "precios": {}
+    },
+    "1921": {
+      "id": "1921",
+      "marcaId": "19",
+      "modeloId": "222",
+      "marca": "FORD",
+      "modelo": "ECOSPORT",
+      "version": "5P 2,0 Xlt Plus CRO",
+      "precios": {}
+    },
+    "1922": {
+      "id": "1922",
+      "marcaId": "19",
+      "modeloId": "222",
+      "marca": "FORD",
+      "modelo": "ECOSPORT",
+      "version": "5P 2,0 Xlt Plus CRO AT",
+      "precios": {}
+    },
+    "1923": {
+      "id": "1923",
+      "marcaId": "19",
+      "modeloId": "222",
+      "marca": "FORD",
+      "modelo": "ECOSPORT",
+      "version": "5P 1,4 Diesel Xl Plus",
+      "precios": {}
+    },
+    "1924": {
+      "id": "1924",
+      "marcaId": "19",
+      "modeloId": "222",
+      "marca": "FORD",
+      "modelo": "ECOSPORT",
+      "version": "5P 1,4 Diesel Xls",
+      "precios": {}
+    },
+    "1925": {
+      "id": "1925",
+      "marcaId": "19",
+      "modeloId": "222",
+      "marca": "FORD",
+      "modelo": "ECOSPORT",
+      "version": "5P 2,0 Xlt 4X4 Plus CRO",
+      "precios": {}
+    },
+    "1926": {
+      "id": "1926",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 S",
+      "precios": {
+        "2013": {
+          "ars": 11713836.96,
+          "usd": 7641.12,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12330363.57,
+          "usd": 8043.29,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13358669.31,
+          "usd": 8714.07,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14453078.01,
+          "usd": 9427.97,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15454770.87,
+          "usd": 10081.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1927": {
+      "id": "1927",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se",
+      "precios": {
+        "2013": {
+          "ars": 12128498.13,
+          "usd": 7911.61,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12766839.33,
+          "usd": 8328.01,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13803959.82,
+          "usd": 9004.54,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14902982.85,
+          "usd": 9721.45,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15935856.93,
+          "usd": 10395.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1928": {
+      "id": "1928",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Freestyle",
+      "precios": {
+        "2013": {
+          "ars": 12530052.15,
+          "usd": 8173.55,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13189533.42,
+          "usd": 8603.74,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14212504.32,
+          "usd": 9271.04,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15287903.82,
+          "usd": 9972.54,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16347467.43,
+          "usd": 10663.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1929": {
+      "id": "1929",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Titanium",
+      "precios": {
+        "2013": {
+          "ars": 13536497.31,
+          "usd": 8830.07,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14248943.73,
+          "usd": 9294.81,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15293299.98,
+          "usd": 9976.06,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16379905.71,
+          "usd": 10684.87,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17515138.2,
+          "usd": 11425.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1930": {
+      "id": "1930",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se",
+      "precios": {
+        "2013": {
+          "ars": 12781663.44,
+          "usd": 8337.68,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13454389.83,
+          "usd": 8776.51,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14482695.57,
+          "usd": 9447.29,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15560900.46,
+          "usd": 10150.62,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16639381.29,
+          "usd": 10854.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1931": {
+      "id": "1931",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Titanium",
+      "precios": {
+        "2013": {
+          "ars": 13815779.25,
+          "usd": 9012.25,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14542927.14,
+          "usd": 9486.58,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15555396.99,
+          "usd": 10147.03,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16598296.89,
+          "usd": 10827.33,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17748675.42,
+          "usd": 11577.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1932": {
+      "id": "1932",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Titanium AT",
+      "precios": {
+        "2013": {
+          "ars": 14054804.61,
+          "usd": 9168.17,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14794523.1,
+          "usd": 9650.7,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15812082.51,
+          "usd": 10314.47,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16857649.83,
+          "usd": 10996.51,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 18025995.12,
+          "usd": 11758.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1933": {
+      "id": "1933",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Freestyle 4WD",
+      "precios": {
+        "2013": {
+          "ars": 14817640.74,
+          "usd": 9665.78,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 15597523.83,
+          "usd": 10174.51,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 16674395.01,
+          "usd": 10876.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 17772191.64,
+          "usd": 11593.08,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 19003926.48,
+          "usd": 12396.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1934": {
+      "id": "1934",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 Diesel S",
+      "precios": {
+        "2013": {
+          "ars": 11941303.5,
+          "usd": 7789.5,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12569787.51,
+          "usd": 8199.47,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13618052.91,
+          "usd": 8883.27,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14733724.32,
+          "usd": 9611.04,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15754870.95,
+          "usd": 10277.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1935": {
+      "id": "1935",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 Diesel Se",
+      "precios": {
+        "2013": {
+          "ars": 12363997.59,
+          "usd": 8065.23,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13014740.76,
+          "usd": 8489.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14071989.54,
+          "usd": 9179.38,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15192351.93,
+          "usd": 9910.21,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16245292.98,
+          "usd": 10597.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1936": {
+      "id": "1936",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 S 2017",
+      "precios": {
+        "2017": {
+          "ars": 15698027.31,
+          "usd": 10240.07,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16642784.55,
+          "usd": 10856.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17621773.68,
+          "usd": 11494.96,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18679083.78,
+          "usd": 12184.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1937": {
+      "id": "1937",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 Se 2017",
+      "precios": {
+        "2017": {
+          "ars": 16507635.27,
+          "usd": 10768.19,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17501126.58,
+          "usd": 11416.26,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18530597.4,
+          "usd": 12087.8,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19642436.31,
+          "usd": 12813.07,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20624552.76,
+          "usd": 13453.72,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21655786.53,
+          "usd": 14126.41,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23388245.16,
+          "usd": 15256.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1938": {
+      "id": "1938",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 Se AT 2017",
+      "precios": {
+        "2017": {
+          "ars": 17313088.8,
+          "usd": 11293.6,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18355053.57,
+          "usd": 11973.29,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19434760.8,
+          "usd": 12677.6,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20600837.25,
+          "usd": 13438.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1939": {
+      "id": "1939",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 Freestyle 2017",
+      "precios": {
+        "2017": {
+          "ars": 17819607.33,
+          "usd": 11624.01,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18892048.14,
+          "usd": 12323.58,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20003350.5,
+          "usd": 13048.5,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21203551.53,
+          "usd": 13831.41,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22263728.34,
+          "usd": 14522.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1940": {
+      "id": "1940",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 Titanium 2017",
+      "precios": {
+        "2017": {
+          "ars": 18261770.52,
+          "usd": 11912.44,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19360839.54,
+          "usd": 12629.38,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20499705.24,
+          "usd": 13372.28,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21729692.46,
+          "usd": 14174.62,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22816175.55,
+          "usd": 14883.35,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 23956988.16,
+          "usd": 15627.52,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 25873544.76,
+          "usd": 16877.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1941": {
+      "id": "1941",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 Titanium AT 2017",
+      "precios": {
+        "2017": {
+          "ars": 18457810.56,
+          "usd": 12040.32,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19568653.02,
+          "usd": 12764.94,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20719752.06,
+          "usd": 13515.82,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21962938.41,
+          "usd": 14326.77,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23061087.63,
+          "usd": 15043.11,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 24214148.91,
+          "usd": 15795.27,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26151278.37,
+          "usd": 17058.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1942": {
+      "id": "1942",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se AT 2017",
+      "precios": {
+        "2017": {
+          "ars": 18160055.97,
+          "usd": 11846.09,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19252992.99,
+          "usd": 12559.03,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20385527.4,
+          "usd": 13297.8,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21608646.78,
+          "usd": 14095.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1943": {
+      "id": "1943",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Freestyle AT 4WD 2017",
+      "precios": {
+        "2017": {
+          "ars": 20710109.49,
+          "usd": 13509.53,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21956515.14,
+          "usd": 14322.58,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23248067.64,
+          "usd": 15165.08,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24525255.93,
+          "usd": 15998.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1944": {
+      "id": "1944",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Titanium AT 2017",
+      "precios": {
+        "2017": {
+          "ars": 19792731.63,
+          "usd": 12911.11,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20983918.62,
+          "usd": 13688.14,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22218274.89,
+          "usd": 14493.33,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23551371.69,
+          "usd": 15362.93,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24728945.64,
+          "usd": 16131.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1945": {
+      "id": "1945",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Storm 6AT AWD",
+      "precios": {
+        "2018": {
+          "ars": 23391939.69,
+          "usd": 15258.93,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23691871.14,
+          "usd": 15454.58,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24525255.93,
+          "usd": 15998.21,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25751517.96,
+          "usd": 16798.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1946": {
+      "id": "1946",
+      "marcaId": "19",
+      "modeloId": "223",
+      "marca": "FORD",
+      "modelo": "ECOSPORT KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,5 Diesel Se 2017",
+      "precios": {
+        "2017": {
+          "ars": 17653537.44,
+          "usd": 11515.68,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18715983.09,
+          "usd": 12208.73,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19816922.37,
+          "usd": 12926.89,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21005947.83,
+          "usd": 13702.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1947": {
+      "id": "1947",
+      "marcaId": "19",
+      "modeloId": "224",
+      "marca": "FORD",
+      "modelo": "EVEREST",
+      "version": "5P 2,3 T 10at 4X4 Titanium",
+      "precios": {
+        "0": {
+          "ars": 90564811.05,
+          "usd": 59076.85,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 62880701.31,
+          "usd": 41018.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1948": {
+      "id": "1948",
+      "marcaId": "19",
+      "modeloId": "225",
+      "marca": "FORD",
+      "modelo": "F-100 PICK - UP",
+      "version": "C/S 3,9 Diesel Cummins 203CV Xl Plus",
+      "precios": {}
+    },
+    "1949": {
+      "id": "1949",
+      "marcaId": "19",
+      "modeloId": "225",
+      "marca": "FORD",
+      "modelo": "F-100 PICK - UP",
+      "version": "C/S 3,9 Diesel Cummins 203CV Xl Plus 4X4",
+      "precios": {}
+    },
+    "1950": {
+      "id": "1950",
+      "marcaId": "19",
+      "modeloId": "225",
+      "marca": "FORD",
+      "modelo": "F-100 PICK - UP",
+      "version": "D/C 3,9 Diesel Cummins 203CV Xl Plus",
+      "precios": {}
+    },
+    "1951": {
+      "id": "1951",
+      "marcaId": "19",
+      "modeloId": "225",
+      "marca": "FORD",
+      "modelo": "F-100 PICK - UP",
+      "version": "D/C 3,9 Diesel Cummins 203CV Xl Plus 4X4",
+      "precios": {}
+    },
+    "1952": {
+      "id": "1952",
+      "marcaId": "19",
+      "modeloId": "225",
+      "marca": "FORD",
+      "modelo": "F-100 PICK - UP",
+      "version": "C/S 3,9 Diesel Cummins 203CV Xlt",
+      "precios": {}
+    },
+    "1953": {
+      "id": "1953",
+      "marcaId": "19",
+      "modeloId": "225",
+      "marca": "FORD",
+      "modelo": "F-100 PICK - UP",
+      "version": "C/S 3,9 Diesel Cummins 203CV Xlt 4X4",
+      "precios": {}
+    },
+    "1954": {
+      "id": "1954",
+      "marcaId": "19",
+      "modeloId": "225",
+      "marca": "FORD",
+      "modelo": "F-100 PICK - UP",
+      "version": "D/C 3,9 Diesel Cummins 203CV Xlt",
+      "precios": {}
+    },
+    "1955": {
+      "id": "1955",
+      "marcaId": "19",
+      "modeloId": "225",
+      "marca": "FORD",
+      "modelo": "F-100 PICK - UP",
+      "version": "D/C 3,9 Diesel Cummins 203CV Xlt 4X4",
+      "precios": {}
+    },
+    "1956": {
+      "id": "1956",
+      "marcaId": "19",
+      "modeloId": "226",
+      "marca": "FORD",
+      "modelo": "F-150 PICK - UP",
+      "version": "D/C 5,0 V8 10at 4X4 Lariat Luxury",
+      "precios": {
+        "2019": {
+          "ars": 56188144.53,
+          "usd": 36652.41,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 60099961.95,
+          "usd": 39204.15,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 63104963.88,
+          "usd": 41164.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1957": {
+      "id": "1957",
+      "marcaId": "19",
+      "modeloId": "226",
+      "marca": "FORD",
+      "modelo": "F-150 PICK - UP",
+      "version": "D/C 5,0 V8 10at 4X4 Lariat Luxury 2021",
+      "precios": {
+        "2021": {
+          "ars": 68510536.5,
+          "usd": 44690.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1958": {
+      "id": "1958",
+      "marcaId": "19",
+      "modeloId": "226",
+      "marca": "FORD",
+      "modelo": "F-150 PICK - UP",
+      "version": "D/C 3,5 T V6 10at 4X4  Raptor",
+      "precios": {
+        "2019": {
+          "ars": 71507076.27,
+          "usd": 46645.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 75082415.52,
+          "usd": 48977.44,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 78836548.56,
+          "usd": 51426.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1959": {
+      "id": "1959",
+      "marcaId": "19",
+      "modeloId": "226",
+      "marca": "FORD",
+      "modelo": "F-150 PICK - UP",
+      "version": "D/C 3,5 T V6 10at 4X4  Raptor 2021",
+      "precios": {
+        "0": {
+          "ars": 156080831.34,
+          "usd": 101813.98,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 84282715.02,
+          "usd": 54978.94,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 88677289.47,
+          "usd": 57845.59,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 95771476.92,
+          "usd": 62473.24,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 100812072.9,
+          "usd": 65761.3,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 105852684.21,
+          "usd": 69049.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1960": {
+      "id": "1960",
+      "marcaId": "19",
+      "modeloId": "226",
+      "marca": "FORD",
+      "modelo": "F-150 PICK - UP",
+      "version": "D/C 3,5 T V6 10at 4X4  Larait Luxury Hibrida",
+      "precios": {
+        "2022": {
+          "ars": 71796522,
+          "usd": 46834,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 77540243.76,
+          "usd": 50580.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1961": {
+      "id": "1961",
+      "marcaId": "19",
+      "modeloId": "226",
+      "marca": "FORD",
+      "modelo": "F-150 PICK - UP",
+      "version": "D/C 5,0 V8 AT 4X4 Larait Luxury",
+      "precios": {
+        "2022": {
+          "ars": 70299884.76,
+          "usd": 45857.72,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 75923863.89,
+          "usd": 49526.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1962": {
+      "id": "1962",
+      "marcaId": "19",
+      "modeloId": "226",
+      "marca": "FORD",
+      "modelo": "F-150 PICK - UP",
+      "version": "D/C 3,5 T V6 10at 4X4  Larait Powerboost Hibrida",
+      "precios": {
+        "0": {
+          "ars": 121891696.71,
+          "usd": 79511.87,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 81775462.86,
+          "usd": 53343.42,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 85864234.47,
+          "usd": 56010.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1963": {
+      "id": "1963",
+      "marcaId": "19",
+      "modeloId": "226",
+      "marca": "FORD",
+      "modelo": "F-150 PICK - UP",
+      "version": "D/C 5,0 V8 10at 4X4 Tremor",
+      "precios": {
+        "0": {
+          "ars": 121891696.71,
+          "usd": 79511.87,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 84091580.58,
+          "usd": 54854.26,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 88296155.01,
+          "usd": 57596.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1964": {
+      "id": "1964",
+      "marcaId": "19",
+      "modeloId": "227",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "5P 1,6 Ambiente One",
+      "precios": {
+        "2013": {
+          "ars": 7704949.98,
+          "usd": 5026.06,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8004130.26,
+          "usd": 5221.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1965": {
+      "id": "1965",
+      "marcaId": "19",
+      "modeloId": "227",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "5P 1,6 Ambiente Plus ABG One",
+      "precios": {
+        "2013": {
+          "ars": 8239767.69,
+          "usd": 5374.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8559720.12,
+          "usd": 5583.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1966": {
+      "id": "1966",
+      "marcaId": "19",
+      "modeloId": "227",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "5P 1,6 Edge Plus ABS One",
+      "precios": {
+        "2013": {
+          "ars": 8918273.49,
+          "usd": 5817.53,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9264562.86,
+          "usd": 6043.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1967": {
+      "id": "1967",
+      "marcaId": "19",
+      "modeloId": "227",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "4P 1,6 Max Ambiente One",
+      "precios": {
+        "2013": {
+          "ars": 8245163.85,
+          "usd": 5378.45,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8565315.57,
+          "usd": 5587.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1968": {
+      "id": "1968",
+      "marcaId": "19",
+      "modeloId": "227",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "4P 1,6 Max Ambiente Plus One",
+      "precios": {
+        "2013": {
+          "ars": 8413425.93,
+          "usd": 5488.21,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8740108.23,
+          "usd": 5701.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1969": {
+      "id": "1969",
+      "marcaId": "19",
+      "modeloId": "227",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "4P 1,6 Max Edge Plus One",
+      "precios": {
+        "2013": {
+          "ars": 9056657.4,
+          "usd": 5907.8,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9408327.6,
+          "usd": 6137.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1970": {
+      "id": "1970",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Titanium",
+      "precios": {
+        "2013": {
+          "ars": 11790486.96,
+          "usd": 7691.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1971": {
+      "id": "1971",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 S",
+      "precios": {
+        "2014": {
+          "ars": 9787561.14,
+          "usd": 6384.58,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10388052.57,
+          "usd": 6776.29,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10804614.66,
+          "usd": 7048.02,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11003291.46,
+          "usd": 7177.62,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 11665501.47,
+          "usd": 7609.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1972": {
+      "id": "1972",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 S Plus",
+      "precios": {
+        "2014": {
+          "ars": 10366682.55,
+          "usd": 6762.35,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11002693.59,
+          "usd": 7177.23,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11443906.32,
+          "usd": 7465.04,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11654325.9,
+          "usd": 7602.3,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12355734.72,
+          "usd": 8059.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1973": {
+      "id": "1973",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se",
+      "precios": {
+        "2014": {
+          "ars": 10693502.82,
+          "usd": 6975.54,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11349565.5,
+          "usd": 7403.5,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11804697.87,
+          "usd": 7700.39,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12021755.34,
+          "usd": 7841.98,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12745270.02,
+          "usd": 8313.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1974": {
+      "id": "1974",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se Powershift",
+      "precios": {
+        "2015": {
+          "ars": 11602295.88,
+          "usd": 7568.36,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12067561.38,
+          "usd": 7871.86,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12289447.8,
+          "usd": 8016.6,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13029074.31,
+          "usd": 8499.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1975": {
+      "id": "1975",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se Plus 2013",
+      "precios": {
+        "2013": {
+          "ars": 10539252.36,
+          "usd": 6874.92,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10951522.05,
+          "usd": 7143.85,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11623420.62,
+          "usd": 7582.14,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12089529.27,
+          "usd": 7886.19,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12311814.27,
+          "usd": 8031.19,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13052789.82,
+          "usd": 8514.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1976": {
+      "id": "1976",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se Plus Powershift 2013",
+      "precios": {
+        "2013": {
+          "ars": 10631876.22,
+          "usd": 6935.34,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11237349.9,
+          "usd": 7330.3,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11926785.99,
+          "usd": 7780.03,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12405051.33,
+          "usd": 8092.01,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12633146.4,
+          "usd": 8240.8,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13393453.08,
+          "usd": 8736.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1977": {
+      "id": "1977",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Titanium 2013",
+      "precios": {
+        "2013": {
+          "ars": 11923903.95,
+          "usd": 7778.15,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12602961.63,
+          "usd": 8221.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13376176.17,
+          "usd": 8725.49,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13912572.87,
+          "usd": 9075.39,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14168384.58,
+          "usd": 9242.26,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15021100.5,
+          "usd": 9798.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1978": {
+      "id": "1978",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Titanium Powershift 2013",
+      "precios": {
+        "2013": {
+          "ars": 11952586.38,
+          "usd": 7796.86,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12633284.37,
+          "usd": 8240.89,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13408353.84,
+          "usd": 8746.48,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13946038.26,
+          "usd": 9097.22,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14202463.17,
+          "usd": 9264.49,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15057217.98,
+          "usd": 9822.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1979": {
+      "id": "1979",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 S Plus 2018",
+      "precios": {
+        "2018": {
+          "ars": 13158290.88,
+          "usd": 8583.36,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13850838.96,
+          "usd": 9035.12,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14543371.71,
+          "usd": 9486.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1980": {
+      "id": "1980",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se 2018",
+      "precios": {
+        "2018": {
+          "ars": 14094831.24,
+          "usd": 9194.28,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14836665.27,
+          "usd": 9678.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15578499.3,
+          "usd": 10162.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1981": {
+      "id": "1981",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se AT 2018",
+      "precios": {
+        "2018": {
+          "ars": 14482971.51,
+          "usd": 9447.47,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15245225.1,
+          "usd": 9944.7,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16007494.02,
+          "usd": 10441.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1982": {
+      "id": "1982",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se Plus 2018",
+      "precios": {
+        "2018": {
+          "ars": 14788023.18,
+          "usd": 9646.46,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15566342.61,
+          "usd": 10154.17,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16344662.04,
+          "usd": 10661.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1983": {
+      "id": "1983",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Se Plus Powershift 2018",
+      "precios": {
+        "2018": {
+          "ars": 15176531.37,
+          "usd": 9899.89,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15975285.69,
+          "usd": 10420.93,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16774055.34,
+          "usd": 10941.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1984": {
+      "id": "1984",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Titanium 2018",
+      "precios": {
+        "2018": {
+          "ars": 16038997.17,
+          "usd": 10462.49,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16883158.95,
+          "usd": 11013.15,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17727320.73,
+          "usd": 11563.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1985": {
+      "id": "1985",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 Titanium Powershift 2018",
+      "precios": {
+        "2018": {
+          "ars": 15987411.72,
+          "usd": 10428.84,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16828844.76,
+          "usd": 10977.72,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17670293.13,
+          "usd": 11526.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1986": {
+      "id": "1986",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 Trend",
+      "precios": {
+        "2013": {
+          "ars": 9289152.18,
+          "usd": 6059.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1987": {
+      "id": "1987",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 Trend Plus",
+      "precios": {
+        "2013": {
+          "ars": 9612262.59,
+          "usd": 6270.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1988": {
+      "id": "1988",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 S 2013",
+      "precios": {
+        "2013": {
+          "ars": 9541330.68,
+          "usd": 6223.96,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10084717.86,
+          "usd": 6578.42,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10703421.33,
+          "usd": 6982.01,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11132646,
+          "usd": 7262,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11337347.49,
+          "usd": 7395.53,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12019655.13,
+          "usd": 7840.61,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12652278.24,
+          "usd": 8253.28,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13284886.02,
+          "usd": 8665.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1989": {
+      "id": "1989",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 S Plus 2013",
+      "precios": {
+        "2013": {
+          "ars": 9823218.72,
+          "usd": 6407.84,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10382641.08,
+          "usd": 6772.76,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11019633.24,
+          "usd": 7188.28,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11461535.82,
+          "usd": 7476.54,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11672277.33,
+          "usd": 7614.01,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12374759.25,
+          "usd": 8072.25,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13026054.3,
+          "usd": 8497.1,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13677364.68,
+          "usd": 8921.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1990": {
+      "id": "1990",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 Se Plus 2013",
+      "precios": {
+        "2013": {
+          "ars": 10339103.88,
+          "usd": 6744.36,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10927913.85,
+          "usd": 7128.45,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11598356.07,
+          "usd": 7565.79,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12063468.27,
+          "usd": 7869.19,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12285278.04,
+          "usd": 8013.88,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13024643.94,
+          "usd": 8496.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13710155.55,
+          "usd": 8943.35,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14395667.16,
+          "usd": 9390.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1991": {
+      "id": "1991",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 Se Plus Powershift 2013",
+      "precios": {
+        "2013": {
+          "ars": 10782140.88,
+          "usd": 7033.36,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11396168.7,
+          "usd": 7433.9,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12095339.34,
+          "usd": 7889.98,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12580380.54,
+          "usd": 8206.38,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12811694.91,
+          "usd": 8357.27,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13582747.92,
+          "usd": 8860.24,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14297631.81,
+          "usd": 9326.57,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15012515.7,
+          "usd": 9792.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1992": {
+      "id": "1992",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 Titanium 2013",
+      "precios": {
+        "2013": {
+          "ars": 11411529.36,
+          "usd": 7443.92,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12061398.72,
+          "usd": 7867.84,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12801393.15,
+          "usd": 8350.55,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13314733.53,
+          "usd": 8685.41,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13559553.63,
+          "usd": 8845.11,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14375615.52,
+          "usd": 9377.44,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15132227.67,
+          "usd": 9870.99,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15888839.82,
+          "usd": 10364.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1993": {
+      "id": "1993",
+      "marcaId": "19",
+      "modeloId": "230",
+      "marca": "FORD",
+      "modelo": "FIESTA KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 Titanium Powershift 2013",
+      "precios": {
+        "2013": {
+          "ars": 11698614.27,
+          "usd": 7631.19,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12364840.74,
+          "usd": 8065.78,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13123445.79,
+          "usd": 8560.63,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13649709.36,
+          "usd": 8903.92,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13900692.12,
+          "usd": 9067.64,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14737280.88,
+          "usd": 9613.36,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15512932.89,
+          "usd": 10119.33,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16288584.9,
+          "usd": 10625.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1994": {
+      "id": "1994",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "5P 1,6 Style",
+      "precios": {
+        "2013": {
+          "ars": 9209114.25,
+          "usd": 6007.25,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9482693.43,
+          "usd": 6185.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1995": {
+      "id": "1995",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "5P 1,6 Trend",
+      "precios": {
+        "2013": {
+          "ars": 9741433.17,
+          "usd": 6354.49,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10030832.91,
+          "usd": 6543.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1996": {
+      "id": "1996",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "5P 2,0 Trend",
+      "precios": {
+        "2013": {
+          "ars": 10359293.49,
+          "usd": 6757.53,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10667043.24,
+          "usd": 6958.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1997": {
+      "id": "1997",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "5P 2,0 Trend Plus",
+      "precios": {
+        "2013": {
+          "ars": 11268224.52,
+          "usd": 7350.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11602985.73,
+          "usd": 7568.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1998": {
+      "id": "1998",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "5P 2,0 Ghia",
+      "precios": {
+        "2013": {
+          "ars": 12320613.69,
+          "usd": 8036.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12686648.1,
+          "usd": 8275.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1999": {
+      "id": "1999",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "5P 2,0 Ghia AT",
+      "precios": {
+        "2013": {
+          "ars": 12567028.11,
+          "usd": 8197.67,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12940374.93,
+          "usd": 8441.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2000": {
+      "id": "2000",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "5P 1,8 Diesel Trend Plus",
+      "precios": {
+        "2013": {
+          "ars": 11051105.73,
+          "usd": 7208.81,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11379413.01,
+          "usd": 7422.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2001": {
+      "id": "2001",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "5P 1,8 Diesel Ghia",
+      "precios": {
+        "2013": {
+          "ars": 12311323.71,
+          "usd": 8030.87,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12677066.85,
+          "usd": 8269.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2002": {
+      "id": "2002",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "4P 1,6 Style Exe",
+      "precios": {
+        "2013": {
+          "ars": 9242227.05,
+          "usd": 6028.85,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9516802.68,
+          "usd": 6207.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2003": {
+      "id": "2003",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "4P 1,6 Trend Exe",
+      "precios": {
+        "2013": {
+          "ars": 9860654.58,
+          "usd": 6432.26,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10153595.55,
+          "usd": 6623.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2004": {
+      "id": "2004",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "4P 2,0 Trend Exe",
+      "precios": {
+        "2013": {
+          "ars": 10359293.49,
+          "usd": 6757.53,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10667043.24,
+          "usd": 6958.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2005": {
+      "id": "2005",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "4P 2,0 Trend Plus Exe",
+      "precios": {
+        "2013": {
+          "ars": 11268224.52,
+          "usd": 7350.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11602985.73,
+          "usd": 7568.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2006": {
+      "id": "2006",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "4P 2,0 Ghia Exe",
+      "precios": {
+        "2013": {
+          "ars": 12320613.69,
+          "usd": 8036.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12686648.1,
+          "usd": 8275.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2007": {
+      "id": "2007",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "4P 2,0 Ghia AT Exe",
+      "precios": {
+        "2013": {
+          "ars": 12567028.11,
+          "usd": 8197.67,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12940374.93,
+          "usd": 8441.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2008": {
+      "id": "2008",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "4P 1,8 Diesel Trend Plus Exe",
+      "precios": {
+        "2013": {
+          "ars": 11051105.73,
+          "usd": 7208.81,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11379413.01,
+          "usd": 7422.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2009": {
+      "id": "2009",
+      "marcaId": "19",
+      "modeloId": "231",
+      "marca": "FORD",
+      "modelo": "FOCUS",
+      "version": "4P 1,8 Diesel Ghia Exe",
+      "precios": {
+        "2013": {
+          "ars": 11952739.68,
+          "usd": 7796.96,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12307843.8,
+          "usd": 8028.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2023": {
+      "id": "2023",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 S 2013",
+      "precios": {
+        "2013": {
+          "ars": 10446950.43,
+          "usd": 6814.71,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10846649.52,
+          "usd": 7075.44,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11168104.29,
+          "usd": 7285.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2029": {
+      "id": "2029",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 1,6 S 2016",
+      "precios": {
+        "2015": {
+          "ars": 12113674.02,
+          "usd": 7901.94,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12644536.59,
+          "usd": 8248.23,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13577060.49,
+          "usd": 8856.53,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14819281.05,
+          "usd": 9666.85,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16098968.13,
+          "usd": 10501.61,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17386872.09,
+          "usd": 11341.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2265": {
+      "id": "2265",
+      "marcaId": "19",
+      "modeloId": "243",
+      "marca": "FORD",
+      "modelo": "E-TRANSIT",
+      "version": "Chasis Cabina",
+      "precios": {
+        "2024": {
+          "ars": 67104530.22,
+          "usd": 43773.34,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 70459761.33,
+          "usd": 45962.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2266": {
+      "id": "2266",
+      "marcaId": "19",
+      "modeloId": "243",
+      "marca": "FORD",
+      "modelo": "E-TRANSIT",
+      "version": "Van Mediana",
+      "precios": {
+        "2024": {
+          "ars": 64794651.81,
+          "usd": 42266.57,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 68034386.7,
+          "usd": 44379.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2267": {
+      "id": "2267",
+      "marcaId": "19",
+      "modeloId": "243",
+      "marca": "FORD",
+      "modelo": "E-TRANSIT",
+      "version": "Van Mediana Te",
+      "precios": {
+        "2024": {
+          "ars": 67044727.89,
+          "usd": 43734.33,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 70396969.65,
+          "usd": 45921.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2268": {
+      "id": "2268",
+      "marcaId": "19",
+      "modeloId": "243",
+      "marca": "FORD",
+      "modelo": "E-TRANSIT",
+      "version": "Van Larga Te",
+      "precios": {
+        "2024": {
+          "ars": 70281550.08,
+          "usd": 45845.76,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 73795630.65,
+          "usd": 48138.05,
           "cotizacion": 1533
         }
       }
@@ -39661,6 +47279,767 @@
         "0": {
           "ars": 57184134.63,
           "usd": 37302.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6342": {
+      "id": "6342",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "3P 1,4 Fire",
+      "precios": {
+        "2013": {
+          "ars": 8184426.39,
+          "usd": 5338.83,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8754196.5,
+          "usd": 5710.5,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9362736.18,
+          "usd": 6107.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6343": {
+      "id": "6343",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,4 Fire",
+      "precios": {
+        "2013": {
+          "ars": 8466651.69,
+          "usd": 5522.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9056059.53,
+          "usd": 5907.41,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9685601.31,
+          "usd": 6318.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6344": {
+      "id": "6344",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "3P 1,4 Fire Confort",
+      "precios": {
+        "2013": {
+          "ars": 8787355.29,
+          "usd": 5732.13,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9399098.94,
+          "usd": 6131.18,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10052478.87,
+          "usd": 6557.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6345": {
+      "id": "6345",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,4 Fire Confort",
+      "precios": {
+        "2013": {
+          "ars": 9069580.59,
+          "usd": 5916.23,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9700961.97,
+          "usd": 6328.09,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10375328.67,
+          "usd": 6767.99,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10892823.48,
+          "usd": 7105.56,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11432071.56,
+          "usd": 7457.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6346": {
+      "id": "6346",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "3P 1,4 Fire Top",
+      "precios": {
+        "2013": {
+          "ars": 9043933.5,
+          "usd": 5899.5,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9673521.27,
+          "usd": 6310.19,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10345971.72,
+          "usd": 6748.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6347": {
+      "id": "6347",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,4 Fire Top",
+      "precios": {
+        "2013": {
+          "ars": 9326143.47,
+          "usd": 6083.59,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9975399.63,
+          "usd": 6507.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10668821.52,
+          "usd": 6959.44,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11200971.81,
+          "usd": 7306.57,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11755473.24,
+          "usd": 7668.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6348": {
+      "id": "6348",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "3P 1,4 Attractive",
+      "precios": {}
+    },
+    "6349": {
+      "id": "6349",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "3P 1,4 Attractive Active",
+      "precios": {}
+    },
+    "6350": {
+      "id": "6350",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,4 Attractive",
+      "precios": {
+        "2013": {
+          "ars": 9715954.71,
+          "usd": 6337.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6351": {
+      "id": "6351",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,4 Attractive Active",
+      "precios": {}
+    },
+    "6352": {
+      "id": "6352",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,6 Elx Essence Active",
+      "precios": {}
+    },
+    "6353": {
+      "id": "6353",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,4 Active",
+      "precios": {
+        "2017": {
+          "ars": 11735390.94,
+          "usd": 7655.18,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12557937.42,
+          "usd": 8191.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6354": {
+      "id": "6354",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,4 Attractive Pack Seg",
+      "precios": {
+        "2014": {
+          "ars": 10596739.86,
+          "usd": 6912.42,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11333361.69,
+          "usd": 7392.93,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11898640.11,
+          "usd": 7761.67,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12723302.13,
+          "usd": 8299.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6355": {
+      "id": "6355",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,4 Attractive Pack Seg Top",
+      "precios": {
+        "2015": {
+          "ars": 11561165.49,
+          "usd": 7541.53,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12137818.77,
+          "usd": 7917.69,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12845129.64,
+          "usd": 8379.08,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13745460.54,
+          "usd": 8966.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6356": {
+      "id": "6356",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,6 Essence",
+      "precios": {
+        "2013": {
+          "ars": 10328556.84,
+          "usd": 6737.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6357": {
+      "id": "6357",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,6 Essence Pack Seg",
+      "precios": {
+        "2014": {
+          "ars": 10903677.12,
+          "usd": 7112.64,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11661638.31,
+          "usd": 7607.07,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12243304.5,
+          "usd": 7986.5,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12980048.97,
+          "usd": 8467.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6358": {
+      "id": "6358",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,6 Essence Dualogic",
+      "precios": {
+        "2013": {
+          "ars": 10986505.11,
+          "usd": 7166.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6359": {
+      "id": "6359",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,6 Essence Dualogic Pack Seg",
+      "precios": {
+        "2014": {
+          "ars": 11437360.41,
+          "usd": 7460.77,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12232420.2,
+          "usd": 7979.4,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12842554.2,
+          "usd": 8377.4,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13478319.96,
+          "usd": 8792.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6360": {
+      "id": "6360",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,6 Sporting",
+      "precios": {
+        "2013": {
+          "ars": 10552006.92,
+          "usd": 6883.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6361": {
+      "id": "6361",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "5P 1,6 Sporting Pack Seg",
+      "precios": {
+        "2014": {
+          "ars": 11455848.39,
+          "usd": 7472.83,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12252195.9,
+          "usd": 7992.3,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12863311.02,
+          "usd": 8390.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6362": {
+      "id": "6362",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,4 Attractive",
+      "precios": {
+        "2013": {
+          "ars": 10154729.97,
+          "usd": 6624.09,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10861657.59,
+          "usd": 7085.23,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11616706.08,
+          "usd": 7577.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6363": {
+      "id": "6363",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,4 Attractive Active",
+      "precios": {
+        "2013": {
+          "ars": 10448008.2,
+          "usd": 6815.4,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11175355.38,
+          "usd": 7289.86,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11952203.13,
+          "usd": 7796.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6364": {
+      "id": "6364",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,4 Attractive Seg",
+      "precios": {
+        "2013": {
+          "ars": 10590101.97,
+          "usd": 6908.09,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11327337,
+          "usd": 7389,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12114747.12,
+          "usd": 7902.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6365": {
+      "id": "6365",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,4 Trekking",
+      "precios": {
+        "2013": {
+          "ars": 10863497.19,
+          "usd": 7086.43,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11619756.75,
+          "usd": 7579.75,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12427494.45,
+          "usd": 8106.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6366": {
+      "id": "6366",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,4 Trekking Seg",
+      "precios": {
+        "2013": {
+          "ars": 11144542.08,
+          "usd": 7269.76,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11920378.05,
+          "usd": 7775.85,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12749025.87,
+          "usd": 8316.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6367": {
+      "id": "6367",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,6 Adventure",
+      "precios": {
+        "2013": {
+          "ars": 11879692.23,
+          "usd": 7749.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12966022.02,
+          "usd": 8457.94,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13867349.37,
+          "usd": 9045.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6368": {
+      "id": "6368",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,6 Adventure Seg",
+      "precios": {
+        "2013": {
+          "ars": 12135013.38,
+          "usd": 7915.86,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13244690.76,
+          "usd": 8639.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14165395.23,
+          "usd": 9240.31,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14871939.6,
+          "usd": 9701.2,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15902667.48,
+          "usd": 10373.56,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17017311.78,
+          "usd": 11100.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6369": {
+      "id": "6369",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,6 Adventure Seg Xtreme",
+      "precios": {
+        "2013": {
+          "ars": 12506137.35,
+          "usd": 8157.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13649755.35,
+          "usd": 8903.95,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14598605.7,
+          "usd": 9522.9,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15326750.04,
+          "usd": 9997.88,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16389011.73,
+          "usd": 10690.81,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17537734.62,
+          "usd": 11440.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6370": {
+      "id": "6370",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,6 Adventure Locker",
+      "precios": {
+        "2013": {
+          "ars": 12197053.89,
+          "usd": 7956.33,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13312403.37,
+          "usd": 8683.89,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14237798.82,
+          "usd": 9287.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6371": {
+      "id": "6371",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,6 Adventure Locker Seg",
+      "precios": {
+        "2013": {
+          "ars": 12319019.37,
+          "usd": 8035.89,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13445529.09,
+          "usd": 8770.73,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14380183.86,
+          "usd": 9380.42,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15097428.57,
+          "usd": 9848.29,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16143793.05,
+          "usd": 10530.85,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17275346.34,
+          "usd": 11268.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6372": {
+      "id": "6372",
+      "marcaId": "18",
+      "modeloId": "642",
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "version": "Weekend 1,6 Adventure Locker Seg Xtreme",
+      "precios": {
+        "2013": {
+          "ars": 12582588.06,
+          "usd": 8207.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13765864.77,
+          "usd": 8979.69,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14644840.98,
+          "usd": 9553.06,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15375300.15,
+          "usd": 10029.55,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16440903.78,
+          "usd": 10724.66,
           "cotizacion": 1533
         }
       }
