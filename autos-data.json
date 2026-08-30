@@ -1,12 +1,12 @@
 {
   "version": 5,
-  "actualizado": "2026-08-30T04:14:03.816Z",
+  "actualizado": "2026-08-30T06:17:35.092Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6139,
-  "versionesProcesadas": 2096,
-  "versionesConValuacion": 1841,
+  "versionesProcesadas": 2447,
+  "versionesConValuacion": 2174,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -46853,6 +46853,426 @@
         }
       }
     },
+    "2010": {
+      "id": "2010",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 S 2013",
+      "precios": {
+        "2013": {
+          "ars": 10664927.7,
+          "usd": 6956.9,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11072966.31,
+          "usd": 7223.07,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11401135.62,
+          "usd": 7437.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2011": {
+      "id": "2011",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se 2013",
+      "precios": {
+        "2013": {
+          "ars": 11531793.21,
+          "usd": 7522.37,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11972990.61,
+          "usd": 7810.17,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12327834.12,
+          "usd": 8041.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2012": {
+      "id": "2012",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se Plus 2013",
+      "precios": {
+        "2013": {
+          "ars": 12195689.52,
+          "usd": 7955.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12662288.73,
+          "usd": 8259.81,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13037567.13,
+          "usd": 8504.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2013": {
+      "id": "2013",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se Plus AT 2013",
+      "precios": {
+        "2013": {
+          "ars": 12760477.38,
+          "usd": 8323.86,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13248691.89,
+          "usd": 8642.33,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13641339.18,
+          "usd": 8898.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2014": {
+      "id": "2014",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Titanium 2013",
+      "precios": {
+        "2013": {
+          "ars": 14230026.51,
+          "usd": 9282.47,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14774471.46,
+          "usd": 9637.62,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15212342.25,
+          "usd": 9923.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2015": {
+      "id": "2015",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Titanium AT 2013",
+      "precios": {
+        "2013": {
+          "ars": 14258341.02,
+          "usd": 9300.94,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14803859.07,
+          "usd": 9656.79,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15242603.67,
+          "usd": 9942.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2016": {
+      "id": "2016",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 1,6 S 2016",
+      "precios": {
+        "2015": {
+          "ars": 12508160.91,
+          "usd": 8159.27,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13056315.72,
+          "usd": 8516.84,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14019208.35,
+          "usd": 9144.95,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14995836.66,
+          "usd": 9782.02,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16290777.09,
+          "usd": 10626.73,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17594041.71,
+          "usd": 11476.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2017": {
+      "id": "2017",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se 2016",
+      "precios": {
+        "2015": {
+          "ars": 13289760.96,
+          "usd": 8669.12,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13872162.99,
+          "usd": 9049.03,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14895225.87,
+          "usd": 9716.39,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15932882.91,
+          "usd": 10393.27,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17308735.08,
+          "usd": 11290.76,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18693432.66,
+          "usd": 12194.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2018": {
+      "id": "2018",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se AT 2017",
+      "precios": {
+        "2017": {
+          "ars": 15629624.85,
+          "usd": 10195.45,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16718438.1,
+          "usd": 10905.7,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18162125.52,
+          "usd": 11847.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19615102.92,
+          "usd": 12795.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2019": {
+      "id": "2019",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se Plus 2016",
+      "precios": {
+        "2015": {
+          "ars": 14594650.56,
+          "usd": 9520.32,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15234233.49,
+          "usd": 9937.53,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16357753.86,
+          "usd": 10670.42,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17497294.08,
+          "usd": 11413.76,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19008234.21,
+          "usd": 12399.37,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20528893.56,
+          "usd": 13391.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2020": {
+      "id": "2020",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Se Plus AT 2016",
+      "precios": {
+        "2015": {
+          "ars": 14969867.64,
+          "usd": 9765.08,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15625914.99,
+          "usd": 10193.03,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16778301.75,
+          "usd": 10944.75,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17947152.93,
+          "usd": 11707.21,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19496939.28,
+          "usd": 12718.16,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21056690.13,
+          "usd": 13735.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2021": {
+      "id": "2021",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Titanium 2016",
+      "precios": {
+        "2015": {
+          "ars": 15547839.3,
+          "usd": 10142.1,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16229196.48,
+          "usd": 10586.56,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17426086.23,
+          "usd": 11367.31,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18640053.6,
+          "usd": 12159.2,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20249688.27,
+          "usd": 13209.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21869655.36,
+          "usd": 14265.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2022": {
+      "id": "2022",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "5P 2,0 Titanium AT 2016",
+      "precios": {
+        "2015": {
+          "ars": 15905135.61,
+          "usd": 10375.17,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16602160.05,
+          "usd": 10829.85,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17826567.15,
+          "usd": 11628.55,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19068419.79,
+          "usd": 12438.63,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20715045.75,
+          "usd": 13512.75,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22372249.41,
+          "usd": 14593.77,
+          "cotizacion": 1533
+        }
+      }
+    },
     "2023": {
       "id": "2023",
       "marcaId": "19",
@@ -46874,6 +47294,131 @@
         "2015": {
           "ars": 11168104.29,
           "usd": 7285.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2024": {
+      "id": "2024",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Se 2013",
+      "precios": {
+        "2013": {
+          "ars": 11286421.23,
+          "usd": 7362.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11718236.67,
+          "usd": 7643.99,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12065522.49,
+          "usd": 7870.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2025": {
+      "id": "2025",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Se Plus 2013",
+      "precios": {
+        "2013": {
+          "ars": 11927997.06,
+          "usd": 7780.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12384371.16,
+          "usd": 8078.52,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12751402.02,
+          "usd": 8317.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2026": {
+      "id": "2026",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Se Plus AT 2013",
+      "precios": {
+        "2013": {
+          "ars": 12474603.54,
+          "usd": 8137.38,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12951872.43,
+          "usd": 8448.71,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13335735.63,
+          "usd": 8699.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2027": {
+      "id": "2027",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Titanium 2013",
+      "precios": {
+        "2013": {
+          "ars": 14030859.15,
+          "usd": 9152.55,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14567685.09,
+          "usd": 9502.73,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14999423.88,
+          "usd": 9784.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2028": {
+      "id": "2028",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Titanium AT 2013",
+      "precios": {
+        "2013": {
+          "ars": 14049684.39,
+          "usd": 9164.83,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14587215.51,
+          "usd": 9515.47,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15019536.84,
+          "usd": 9797.48,
           "cotizacion": 1533
         }
       }
@@ -46914,6 +47459,5573 @@
         "2020": {
           "ars": 17386872.09,
           "usd": 11341.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2030": {
+      "id": "2030",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Se 2016",
+      "precios": {
+        "2015": {
+          "ars": 12880925.19,
+          "usd": 8402.43,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13445421.78,
+          "usd": 8770.66,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14436996.84,
+          "usd": 9417.48,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15757890.96,
+          "usd": 10279.12,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17118643.08,
+          "usd": 11166.76,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18488133.3,
+          "usd": 12060.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2031": {
+      "id": "2031",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Se AT 2017",
+      "precios": {
+        "2017": {
+          "ars": 15171411.15,
+          "usd": 9896.55,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16559496.66,
+          "usd": 10802.02,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17989448.4,
+          "usd": 11734.8,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19428613.47,
+          "usd": 12673.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2032": {
+      "id": "2032",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Se Plus 2016",
+      "precios": {
+        "2015": {
+          "ars": 14440630.05,
+          "usd": 9419.85,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15073483.11,
+          "usd": 9832.67,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16185138.06,
+          "usd": 10557.82,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17665970.07,
+          "usd": 11523.79,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19191473.7,
+          "usd": 12518.9,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20726803.86,
+          "usd": 13520.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2033": {
+      "id": "2033",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Se Plus AT 2016",
+      "precios": {
+        "2015": {
+          "ars": 14969867.64,
+          "usd": 9765.08,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15625914.99,
+          "usd": 10193.03,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16778301.75,
+          "usd": 10944.75,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18313417.29,
+          "usd": 11946.13,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19894829.43,
+          "usd": 12977.71,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21486420.69,
+          "usd": 14015.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2034": {
+      "id": "2034",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Titanium 2016",
+      "precios": {
+        "2015": {
+          "ars": 15453743.76,
+          "usd": 10080.72,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16130992.5,
+          "usd": 10522.5,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17320631.16,
+          "usd": 11298.52,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18905369.91,
+          "usd": 12332.27,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20537892.27,
+          "usd": 13397.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22180931.01,
+          "usd": 14468.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2035": {
+      "id": "2035",
+      "marcaId": "19",
+      "modeloId": "232",
+      "marca": "FORD",
+      "modelo": "FOCUS KINETIC DESIGN ATTRACTION",
+      "version": "4P 2,0 Titanium AT 2016",
+      "precios": {
+        "2015": {
+          "ars": 15830463.18,
+          "usd": 10326.46,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16524222.33,
+          "usd": 10779.01,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17742865.35,
+          "usd": 11573.95,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19366220.37,
+          "usd": 12632.89,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21038554.74,
+          "usd": 13723.78,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22721635.44,
+          "usd": 14821.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2036": {
+      "id": "2036",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "3P 1,0 Fly 2011",
+      "precios": {
+        "2013": {
+          "ars": 7604047.92,
+          "usd": 4960.24,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7846169.94,
+          "usd": 5118.18,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8074525.62,
+          "usd": 5267.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2037": {
+      "id": "2037",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "3P 1,0 Fly Plus A/c 2011",
+      "precios": {
+        "2013": {
+          "ars": 8384559.54,
+          "usd": 5469.38,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8623630.89,
+          "usd": 5625.33,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8848629.3,
+          "usd": 5772.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2038": {
+      "id": "2038",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "3P 1,6 Pulse 2011",
+      "precios": {
+        "2013": {
+          "ars": 9202568.34,
+          "usd": 6002.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2039": {
+      "id": "2039",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "3P 1,6 Pulse Top 2011",
+      "precios": {
+        "2013": {
+          "ars": 9543400.23,
+          "usd": 6225.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2040": {
+      "id": "2040",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "5P 1,5 16V S",
+      "precios": {
+        "2016": {
+          "ars": 10136977.83,
+          "usd": 6612.51,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 10570832.16,
+          "usd": 6895.52,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 10997542.71,
+          "usd": 7173.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2041": {
+      "id": "2041",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "5P 1,5 16V Se",
+      "precios": {
+        "2016": {
+          "ars": 11017195.77,
+          "usd": 7186.69,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11666084.01,
+          "usd": 7609.97,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12137006.28,
+          "usd": 7917.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2042": {
+      "id": "2042",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "5P 1,5 16V Sel",
+      "precios": {
+        "2016": {
+          "ars": 12041638.35,
+          "usd": 7854.95,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12802818.84,
+          "usd": 8351.48,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13319639.13,
+          "usd": 8688.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2043": {
+      "id": "2043",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "5P 1,5 12v S 2018",
+      "precios": {
+        "2018": {
+          "ars": 11321312.31,
+          "usd": 7385.07,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12227008.71,
+          "usd": 7975.87,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 12838369.11,
+          "usd": 8374.67,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 13480282.2,
+          "usd": 8793.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2044": {
+      "id": "2044",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "5P 1,5 12v Se 2018",
+      "precios": {
+        "2018": {
+          "ars": 12717384.75,
+          "usd": 8295.75,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13734775.53,
+          "usd": 8959.41,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14421513.54,
+          "usd": 9407.38,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 15142590.75,
+          "usd": 9877.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2045": {
+      "id": "2045",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "5P 1,5 12v Se AT 2018",
+      "precios": {
+        "2018": {
+          "ars": 13547151.66,
+          "usd": 8837.02,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14630936.67,
+          "usd": 9543.99,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15362484.27,
+          "usd": 10021.19,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16130609.25,
+          "usd": 10522.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2046": {
+      "id": "2046",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "5P 1,5 12v Sel 2018",
+      "precios": {
+        "2018": {
+          "ars": 13916497.35,
+          "usd": 9077.95,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15029807.94,
+          "usd": 9804.18,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15781299.87,
+          "usd": 10294.39,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16570365.63,
+          "usd": 10809.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2047": {
+      "id": "2047",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "5P 1,5 12v Sel AT 2018",
+      "precios": {
+        "2018": {
+          "ars": 14748717.06,
+          "usd": 9620.82,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15928621.17,
+          "usd": 10390.49,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16725060.66,
+          "usd": 10910.02,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17561312.16,
+          "usd": 11455.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2048": {
+      "id": "2048",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "4P 1,5 16V S",
+      "precios": {
+        "2017": {
+          "ars": 10191154.05,
+          "usd": 6647.85,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 10602534.6,
+          "usd": 6916.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2049": {
+      "id": "2049",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "4P 1,5 16V Se",
+      "precios": {
+        "2017": {
+          "ars": 11163014.73,
+          "usd": 7281.81,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 11613640.08,
+          "usd": 7575.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2050": {
+      "id": "2050",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "4P 1,5 16V Sel",
+      "precios": {
+        "2017": {
+          "ars": 12842462.22,
+          "usd": 8377.34,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13360876.83,
+          "usd": 8715.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2051": {
+      "id": "2051",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "4P 1,5 12v S 2018",
+      "precios": {
+        "2018": {
+          "ars": 11566975.56,
+          "usd": 7545.32,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12492340.35,
+          "usd": 8148.95,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13116961.2,
+          "usd": 8556.4,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 13772809.26,
+          "usd": 8984.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2052": {
+      "id": "2052",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "4P 1,5 12v Se 2018",
+      "precios": {
+        "2018": {
+          "ars": 12921886.95,
+          "usd": 8429.15,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13955634.84,
+          "usd": 9103.48,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14653425.78,
+          "usd": 9558.66,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 15386092.47,
+          "usd": 10036.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2053": {
+      "id": "2053",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "4P 1,5 12v Se AT 2018",
+      "precios": {
+        "2018": {
+          "ars": 13733395.83,
+          "usd": 8958.51,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14832066.27,
+          "usd": 9675.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15573670.35,
+          "usd": 10158.95,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16352357.7,
+          "usd": 10666.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2054": {
+      "id": "2054",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "4P 1,5 12v Sel 2018",
+      "precios": {
+        "2018": {
+          "ars": 14090078.94,
+          "usd": 9191.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15217278.51,
+          "usd": 9926.47,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15978152.4,
+          "usd": 10422.8,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16777060.02,
+          "usd": 10943.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2055": {
+      "id": "2055",
+      "marcaId": "19",
+      "modeloId": "233",
+      "marca": "FORD",
+      "modelo": "KA",
+      "version": "4P 1,5 12v Sel AT 2018",
+      "precios": {
+        "2018": {
+          "ars": 14899196.34,
+          "usd": 9718.98,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16091134.5,
+          "usd": 10496.5,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16895683.56,
+          "usd": 11021.32,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17740473.87,
+          "usd": 11572.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2056": {
+      "id": "2056",
+      "marcaId": "19",
+      "modeloId": "234",
+      "marca": "FORD",
+      "modelo": "KA FREESTYLE",
+      "version": "5P 1,5 12v Se",
+      "precios": {
+        "2019": {
+          "ars": 14145236.28,
+          "usd": 9227.16,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14852501.16,
+          "usd": 9688.52,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 15595117.02,
+          "usd": 10172.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2057": {
+      "id": "2057",
+      "marcaId": "19",
+      "modeloId": "234",
+      "marca": "FORD",
+      "modelo": "KA FREESTYLE",
+      "version": "5P 1,5 12v Sel",
+      "precios": {
+        "2018": {
+          "ars": 13996719.24,
+          "usd": 9130.28,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15116453.1,
+          "usd": 9860.7,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15872283.42,
+          "usd": 10353.74,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16665886.86,
+          "usd": 10871.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2058": {
+      "id": "2058",
+      "marcaId": "19",
+      "modeloId": "234",
+      "marca": "FORD",
+      "modelo": "KA FREESTYLE",
+      "version": "5P 1,5 12v Sel AT",
+      "precios": {
+        "2019": {
+          "ars": 16007049.45,
+          "usd": 10441.65,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16807398.09,
+          "usd": 10963.73,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17647773.36,
+          "usd": 11511.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2059": {
+      "id": "2059",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 2,5 4X4 Trend",
+      "precios": {
+        "2013": {
+          "ars": 11877622.68,
+          "usd": 7747.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2060": {
+      "id": "2060",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 2,5 4X4 Titanium L AT Full",
+      "precios": {
+        "2013": {
+          "ars": 13760821.2,
+          "usd": 8976.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2061": {
+      "id": "2061",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 1,6 4X2 Sel",
+      "precios": {
+        "2013": {
+          "ars": 12894063,
+          "usd": 8411,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13909384.23,
+          "usd": 9073.31,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15098731.62,
+          "usd": 9849.14,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16265344.62,
+          "usd": 10610.14,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17359891.29,
+          "usd": 11324.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2062": {
+      "id": "2062",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 1,6 4X4 Sel AT",
+      "precios": {
+        "2013": {
+          "ars": 14177490.6,
+          "usd": 9248.2,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 15293867.19,
+          "usd": 9976.43,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 16152132.57,
+          "usd": 10536.29,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 17400147.87,
+          "usd": 11350.39,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 18571053.27,
+          "usd": 12114.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2063": {
+      "id": "2063",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 1,6 4X4 Titanium AT",
+      "precios": {
+        "2013": {
+          "ars": 17949789.69,
+          "usd": 11708.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 19363200.36,
+          "usd": 12630.92,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 20881652.19,
+          "usd": 13621.43,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 22495088.7,
+          "usd": 14673.9,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 24008864.88,
+          "usd": 15661.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2064": {
+      "id": "2064",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 2,0 T 4X2 Sel 6AT",
+      "precios": {
+        "2017": {
+          "ars": 19375954.92,
+          "usd": 12639.24,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21118025.46,
+          "usd": 13775.62,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23187590.79,
+          "usd": 15125.63,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24407981.43,
+          "usd": 15921.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2065": {
+      "id": "2065",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 2,0 T 4X4 Sel 6AT",
+      "precios": {
+        "2017": {
+          "ars": 21191088.24,
+          "usd": 13823.28,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23096331.3,
+          "usd": 15066.1,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25359775.14,
+          "usd": 16542.58,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26694496.92,
+          "usd": 17413.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2066": {
+      "id": "2066",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 2,0 T 4X4 Titanium 6AT",
+      "precios": {
+        "2017": {
+          "ars": 26678461.74,
+          "usd": 17402.78,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 29077070.19,
+          "usd": 18967.43,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 31926625.92,
+          "usd": 20826.24,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 33606977.88,
+          "usd": 21922.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2067": {
+      "id": "2067",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 2,5 Hibrido Se CVT",
+      "precios": {
+        "2020": {
+          "ars": 33180221.34,
+          "usd": 21643.98,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 34206411.54,
+          "usd": 22313.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2068": {
+      "id": "2068",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 2,5 Hibrido Titanium CVT",
+      "precios": {
+        "2020": {
+          "ars": 42887100.69,
+          "usd": 27975.93,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 44213498.28,
+          "usd": 28841.16,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 46424176.26,
+          "usd": 30283.22,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 50138114.04,
+          "usd": 32705.88,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 52776958.92,
+          "usd": 34427.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2069": {
+      "id": "2069",
+      "marcaId": "19",
+      "modeloId": "235",
+      "marca": "FORD",
+      "modelo": "KUGA",
+      "version": "5P 2,5 Hibrido Platinum CVT",
+      "precios": {
+        "0": {
+          "ars": 91718439.54,
+          "usd": 59829.38,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 54002132.52,
+          "usd": 35226.44,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 56702236.08,
+          "usd": 36987.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2070": {
+      "id": "2070",
+      "marcaId": "19",
+      "modeloId": "236",
+      "marca": "FORD",
+      "modelo": "MAVERICK PICK - UP",
+      "version": "D/C 2,0 T Xlt AWD 8AT",
+      "precios": {
+        "2021": {
+          "ars": 31527463.38,
+          "usd": 20565.86,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 33186797.91,
+          "usd": 21648.27,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 34933467.45,
+          "usd": 22787.65,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 36772071,
+          "usd": 23987,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 38610674.55,
+          "usd": 25186.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2071": {
+      "id": "2071",
+      "marcaId": "19",
+      "modeloId": "236",
+      "marca": "FORD",
+      "modelo": "MAVERICK PICK - UP",
+      "version": "D/C 2,0 T Lariat Fx4 8AT",
+      "precios": {
+        "2021": {
+          "ars": 39232781.28,
+          "usd": 25592.16,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 41297655.63,
+          "usd": 26939.11,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 43471219.68,
+          "usd": 28356.96,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 45759176.19,
+          "usd": 29849.43,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 48047132.7,
+          "usd": 31341.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2072": {
+      "id": "2072",
+      "marcaId": "19",
+      "modeloId": "236",
+      "marca": "FORD",
+      "modelo": "MAVERICK PICK - UP",
+      "version": "D/C 2,5 Hibrida Lariat AWD Ecvt",
+      "precios": {
+        "2023": {
+          "ars": 43471219.68,
+          "usd": 28356.96,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 45759176.19,
+          "usd": 29849.43,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 48047132.7,
+          "usd": 31341.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2073": {
+      "id": "2073",
+      "marcaId": "19",
+      "modeloId": "236",
+      "marca": "FORD",
+      "modelo": "MAVERICK PICK - UP",
+      "version": "D/C 2,0 T Xlt AWD 8AT 2025",
+      "precios": {
+        "0": {
+          "ars": 60914812.77,
+          "usd": 39735.69,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 42727132.14,
+          "usd": 27871.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2074": {
+      "id": "2074",
+      "marcaId": "19",
+      "modeloId": "236",
+      "marca": "FORD",
+      "modelo": "MAVERICK PICK - UP",
+      "version": "D/C 2,0 T Tremor 4WD 8AT 2025",
+      "precios": {
+        "0": {
+          "ars": 74587425.15,
+          "usd": 48654.55,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 52155250.77,
+          "usd": 34021.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2075": {
+      "id": "2075",
+      "marcaId": "19",
+      "modeloId": "236",
+      "marca": "FORD",
+      "modelo": "MAVERICK PICK - UP",
+      "version": "D/C 2,5 Hibrida Lariat AWD Ecvt 2025",
+      "precios": {
+        "0": {
+          "ars": 72986175.99,
+          "usd": 47610.03,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 50044631.7,
+          "usd": 32644.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2076": {
+      "id": "2076",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 Diesel Ghia",
+      "precios": {
+        "2013": {
+          "ars": 10024746.9,
+          "usd": 6539.3,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11222495.13,
+          "usd": 7320.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2077": {
+      "id": "2077",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 Diesel Ghia Titanium AT",
+      "precios": {
+        "2013": {
+          "ars": 12283438.44,
+          "usd": 8012.68,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13751071.32,
+          "usd": 8970.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2078": {
+      "id": "2078",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 Ecoboost Titanium AT 2011",
+      "precios": {
+        "2013": {
+          "ars": 13222584.9,
+          "usd": 8625.3,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14802433.38,
+          "usd": 9655.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2079": {
+      "id": "2079",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,3 Ghia AT 2011",
+      "precios": {
+        "2013": {
+          "ars": 10548956.25,
+          "usd": 6881.25,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11809342.86,
+          "usd": 7703.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2080": {
+      "id": "2080",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,3 Titanium AT 2011",
+      "precios": {
+        "2013": {
+          "ars": 11631300.24,
+          "usd": 7587.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13021010.73,
+          "usd": 8493.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2081": {
+      "id": "2081",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,5 Se AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 13419606.06,
+          "usd": 8753.82,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14456496.6,
+          "usd": 9430.2,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15485062.95,
+          "usd": 10101.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2082": {
+      "id": "2082",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 Gtdi Ecoboost Se AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 14857422.09,
+          "usd": 9691.73,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16005393.81,
+          "usd": 10440.57,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17144167.53,
+          "usd": 11183.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2083": {
+      "id": "2083",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 Gtdi Ecoboost Titanium AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 17381583.24,
+          "usd": 11338.28,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 18724598.55,
+          "usd": 12214.35,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 20056836.87,
+          "usd": 13083.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2084": {
+      "id": "2084",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 T 240CV Sel 6AT 2017",
+      "precios": {
+        "2017": {
+          "ars": 18249092.61,
+          "usd": 11904.17,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19528197.15,
+          "usd": 12738.55,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21441963.69,
+          "usd": 13986.93,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23157329.37,
+          "usd": 15105.89,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23852038.98,
+          "usd": 15559.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2085": {
+      "id": "2085",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 T 240CV Titanium 6AT 2017",
+      "precios": {
+        "2017": {
+          "ars": 22001064.12,
+          "usd": 14351.64,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23543154.81,
+          "usd": 15357.57,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25850381.13,
+          "usd": 16862.61,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27918413.46,
+          "usd": 18211.62,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 28755968.01,
+          "usd": 18757.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2086": {
+      "id": "2086",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 CVT Vignale Hybrid",
+      "precios": {
+        "2019": {
+          "ars": 27953105.25,
+          "usd": 18234.25,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 30189353.67,
+          "usd": 19692.99,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 31095034.74,
+          "usd": 20283.78,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 32649788.01,
+          "usd": 21297.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2087": {
+      "id": "2087",
+      "marcaId": "19",
+      "modeloId": "237",
+      "marca": "FORD",
+      "modelo": "MONDEO",
+      "version": "4P 2,0 CVT Titanium Hybrid",
+      "precios": {
+        "2021": {
+          "ars": 29352335.67,
+          "usd": 19146.99,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 30819953.22,
+          "usd": 20104.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2088": {
+      "id": "2088",
+      "marcaId": "19",
+      "modeloId": "238",
+      "marca": "FORD",
+      "modelo": "MUSTANG",
+      "version": "Coupe 5,0 V8 Gt AT",
+      "precios": {
+        "2016": {
+          "ars": 49085510.25,
+          "usd": 32019.25,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 53714357.76,
+          "usd": 35038.72,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 58616447.19,
+          "usd": 38236.43,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 62719598.34,
+          "usd": 40912.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2089": {
+      "id": "2089",
+      "marcaId": "19",
+      "modeloId": "238",
+      "marca": "FORD",
+      "modelo": "MUSTANG",
+      "version": "Coupe 5,0 V8 Gt 10at 2020",
+      "precios": {
+        "2019": {
+          "ars": 63922834.71,
+          "usd": 41697.87,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 65279585.7,
+          "usd": 42582.9,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 67896937.92,
+          "usd": 44290.24,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 72085845.09,
+          "usd": 47022.73,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 77852715.15,
+          "usd": 50784.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2090": {
+      "id": "2090",
+      "marcaId": "19",
+      "modeloId": "238",
+      "marca": "FORD",
+      "modelo": "MUSTANG",
+      "version": "Coupe 5,0 V8 Mach 1 10at 2021",
+      "precios": {
+        "2022": {
+          "ars": 79224872.79,
+          "usd": 51679.63,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 85562862,
+          "usd": 55814,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2091": {
+      "id": "2091",
+      "marcaId": "19",
+      "modeloId": "238",
+      "marca": "FORD",
+      "modelo": "MUSTANG",
+      "version": "5P Mach-E Gt Performance AT",
+      "precios": {
+        "0": {
+          "ars": 101080930.44,
+          "usd": 65936.68,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 75880004.76,
+          "usd": 49497.72,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 79873684.38,
+          "usd": 52102.86,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 83867379.33,
+          "usd": 54708.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2092": {
+      "id": "2092",
+      "marcaId": "19",
+      "modeloId": "238",
+      "marca": "FORD",
+      "modelo": "MUSTANG",
+      "version": "Coupe 5,0 V8 Gt Performance AT",
+      "precios": {
+        "0": {
+          "ars": 104053892.67,
+          "usd": 67875.99,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 78518650.35,
+          "usd": 51218.95,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 82444586.7,
+          "usd": 53779.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2093": {
+      "id": "2093",
+      "marcaId": "19",
+      "modeloId": "238",
+      "marca": "FORD",
+      "modelo": "MUSTANG",
+      "version": "Coupe 5,0 V8 Dark Horse AT",
+      "precios": {
+        "0": {
+          "ars": 118918734.48,
+          "usd": 77572.56,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 96822486.39,
+          "usd": 63158.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2094": {
+      "id": "2094",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 3,0 D Xl 4X2 Plus",
+      "precios": {}
+    },
+    "2095": {
+      "id": "2095",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 3,0 D Xl 4X2 F-Truck",
+      "precios": {}
+    },
+    "2096": {
+      "id": "2096",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 3,0 D Xl 4X4 Plus",
+      "precios": {}
+    },
+    "2097": {
+      "id": "2097",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,3 N Xl 4X2 Plus",
+      "precios": {}
+    },
+    "2098": {
+      "id": "2098",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 D Xl 4X2",
+      "precios": {}
+    },
+    "2099": {
+      "id": "2099",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 D Xl 4X2 Plus",
+      "precios": {}
+    },
+    "2100": {
+      "id": "2100",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 D Xl 4X4 Plus",
+      "precios": {}
+    },
+    "2101": {
+      "id": "2101",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 D Xls 4X2 Plus",
+      "precios": {}
+    },
+    "2102": {
+      "id": "2102",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 D Xlt 4X2",
+      "precios": {}
+    },
+    "2103": {
+      "id": "2103",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 D Xlt 4X4",
+      "precios": {}
+    },
+    "2104": {
+      "id": "2104",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 D Xlt 4X4 Superduty",
+      "precios": {}
+    },
+    "2105": {
+      "id": "2105",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 D Xlt 4X4 Ltd",
+      "precios": {}
+    },
+    "2106": {
+      "id": "2106",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,5 Nafta Xl 4X2 2012",
+      "precios": {
+        "2013": {
+          "ars": 11456599.56,
+          "usd": 7473.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2107": {
+      "id": "2107",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Td Xl 4X2 2012",
+      "precios": {
+        "2013": {
+          "ars": 12492110.4,
+          "usd": 8148.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2108": {
+      "id": "2108",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Td Xl 4X4 Safety 2012",
+      "precios": {
+        "2013": {
+          "ars": 15176056.14,
+          "usd": 9899.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2109": {
+      "id": "2109",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xl 4X2 2012",
+      "precios": {
+        "2013": {
+          "ars": 12351381,
+          "usd": 8057,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2110": {
+      "id": "2110",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Td Xl 4X2 2012",
+      "precios": {
+        "2013": {
+          "ars": 13342281.54,
+          "usd": 8703.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2111": {
+      "id": "2111",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Td Xl 4X2 Safety 2012",
+      "precios": {
+        "2013": {
+          "ars": 13966549.8,
+          "usd": 9110.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2112": {
+      "id": "2112",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Td Xls 4X2 2012",
+      "precios": {
+        "2013": {
+          "ars": 15088506.51,
+          "usd": 9842.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2113": {
+      "id": "2113",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Td Xl 4X4 Safety 2012",
+      "precios": {
+        "2013": {
+          "ars": 15841776.72,
+          "usd": 10333.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2114": {
+      "id": "2114",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xls 4X4 2012",
+      "precios": {
+        "2013": {
+          "ars": 17620194.69,
+          "usd": 11493.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2115": {
+      "id": "2115",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 2012",
+      "precios": {
+        "2013": {
+          "ars": 16624235.25,
+          "usd": 10844.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2116": {
+      "id": "2116",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 2012",
+      "precios": {
+        "2013": {
+          "ars": 19079641.35,
+          "usd": 12445.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2117": {
+      "id": "2117",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 2012",
+      "precios": {
+        "2013": {
+          "ars": 21961574.04,
+          "usd": 14325.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2118": {
+      "id": "2118",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 AT 2012",
+      "precios": {
+        "2013": {
+          "ars": 22615873.77,
+          "usd": 14752.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2119": {
+      "id": "2119",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,5 Nafta Xl 4X2 2014",
+      "precios": {
+        "2013": {
+          "ars": 12489259.02,
+          "usd": 8146.94,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13227735.78,
+          "usd": 8628.66,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13343538.6,
+          "usd": 8704.2,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13374075.96,
+          "usd": 8724.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2120": {
+      "id": "2120",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Td Xl 4X2 Safety 2014",
+      "precios": {
+        "2013": {
+          "ars": 12915662.97,
+          "usd": 8425.09,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13679342.25,
+          "usd": 8923.25,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13613315.94,
+          "usd": 8880.18,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13753248.18,
+          "usd": 8971.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2121": {
+      "id": "2121",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Td Xl 4X4 Safety 2014",
+      "precios": {
+        "2013": {
+          "ars": 14175589.68,
+          "usd": 9246.96,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 15013772.76,
+          "usd": 9793.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15116652.39,
+          "usd": 9860.83,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15272021.94,
+          "usd": 9962.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2122": {
+      "id": "2122",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xl 4X2 Safety 2014",
+      "precios": {
+        "2013": {
+          "ars": 13362225.87,
+          "usd": 8716.39,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14152318.74,
+          "usd": 9231.78,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14708721.09,
+          "usd": 9594.73,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14859905.55,
+          "usd": 9693.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2123": {
+      "id": "2123",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Td Xl 4X2 Safety 2014",
+      "precios": {
+        "2013": {
+          "ars": 14422831.92,
+          "usd": 9408.24,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 15275639.82,
+          "usd": 9964.54,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15641796.87,
+          "usd": 10203.39,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15802577.91,
+          "usd": 10308.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2124": {
+      "id": "2124",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Td Xl 4X4 Safety 2014",
+      "precios": {
+        "2013": {
+          "ars": 15508625.16,
+          "usd": 10116.52,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 16425635.1,
+          "usd": 10714.7,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 17071411.35,
+          "usd": 11135.95,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 17246893.86,
+          "usd": 11250.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2125": {
+      "id": "2125",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 2014",
+      "precios": {
+        "2013": {
+          "ars": 16225915.86,
+          "usd": 10584.42,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 17185343.91,
+          "usd": 11210.27,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 17860998.33,
+          "usd": 11651.01,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 18044575.08,
+          "usd": 11770.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2126": {
+      "id": "2126",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 18707045.7,
+          "usd": 12202.9,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 18899329.89,
+          "usd": 12328.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2127": {
+      "id": "2127",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xls 4X4 2014",
+      "precios": {
+        "2013": {
+          "ars": 17894479.05,
+          "usd": 11672.85,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 18952570.98,
+          "usd": 12363.06,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 19697700.96,
+          "usd": 12849.12,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 19900164.27,
+          "usd": 12981.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2128": {
+      "id": "2128",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 2014",
+      "precios": {
+        "2013": {
+          "ars": 16959471.69,
+          "usd": 11062.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 17962268.31,
+          "usd": 11717.07,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 18668460.09,
+          "usd": 12177.73,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 18860345.7,
+          "usd": 12302.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2129": {
+      "id": "2129",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 19383206.01,
+          "usd": 12643.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 19582434.69,
+          "usd": 12773.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2130": {
+      "id": "2130",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 2014",
+      "precios": {
+        "2013": {
+          "ars": 18670085.07,
+          "usd": 12178.79,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 19774029.03,
+          "usd": 12898.91,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 20551459.32,
+          "usd": 13406.04,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 20762691.39,
+          "usd": 13543.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2131": {
+      "id": "2131",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 22208877.6,
+          "usd": 14487.2,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 22437156.63,
+          "usd": 14636.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2132": {
+      "id": "2132",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 2014",
+      "precios": {
+        "2013": {
+          "ars": 21343713.72,
+          "usd": 13922.84,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 22605755.97,
+          "usd": 14746.09,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 23494512.72,
+          "usd": 15325.84,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 23736006.21,
+          "usd": 15483.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2133": {
+      "id": "2133",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 AT 2014",
+      "precios": {
+        "2013": {
+          "ars": 22885589.79,
+          "usd": 14928.63,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 24238799.55,
+          "usd": 15811.35,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 25191758.34,
+          "usd": 16432.98,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25450697.37,
+          "usd": 16601.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2134": {
+      "id": "2134",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,5 Nafta Xl 4X2 2016",
+      "precios": {
+        "2016": {
+          "ars": 13846209.3,
+          "usd": 9032.1,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14301801.57,
+          "usd": 9329.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2135": {
+      "id": "2135",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Diesel Xl 4X2 2016",
+      "precios": {
+        "2016": {
+          "ars": 14304039.75,
+          "usd": 9330.75,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14774701.41,
+          "usd": 9637.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2136": {
+      "id": "2136",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Diesel Xl 4X4 2016",
+      "precios": {
+        "2016": {
+          "ars": 17418743.16,
+          "usd": 11362.52,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17991885.87,
+          "usd": 11736.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2137": {
+      "id": "2137",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xl 4X2 2016",
+      "precios": {
+        "2016": {
+          "ars": 15285619.65,
+          "usd": 9971.05,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15788581.62,
+          "usd": 10299.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2138": {
+      "id": "2138",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xl 4X2 2016",
+      "precios": {
+        "2016": {
+          "ars": 16392077.73,
+          "usd": 10692.81,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16931433.12,
+          "usd": 11044.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2139": {
+      "id": "2139",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xl 4X4 2016",
+      "precios": {
+        "2016": {
+          "ars": 19499836.65,
+          "usd": 12720.05,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 20141458.47,
+          "usd": 13138.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2140": {
+      "id": "2140",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 2016",
+      "precios": {
+        "2016": {
+          "ars": 20058262.56,
+          "usd": 13084.32,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 20718265.05,
+          "usd": 13514.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2141": {
+      "id": "2141",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 AT 2016",
+      "precios": {
+        "2016": {
+          "ars": 20835202.29,
+          "usd": 13591.13,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 21520775.22,
+          "usd": 14038.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2142": {
+      "id": "2142",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 2016",
+      "precios": {
+        "2016": {
+          "ars": 21775161.24,
+          "usd": 14204.28,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 22491654.78,
+          "usd": 14671.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2143": {
+      "id": "2143",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 AT 2016",
+      "precios": {
+        "2016": {
+          "ars": 23061976.77,
+          "usd": 15043.69,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 23820811.77,
+          "usd": 15538.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2144": {
+      "id": "2144",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 2016",
+      "precios": {
+        "2016": {
+          "ars": 24452837.01,
+          "usd": 15950.97,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 25257432.06,
+          "usd": 16475.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2145": {
+      "id": "2145",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 AT 2016",
+      "precios": {
+        "2016": {
+          "ars": 24921076.53,
+          "usd": 16256.41,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 25741093.56,
+          "usd": 16791.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2146": {
+      "id": "2146",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 2016",
+      "precios": {
+        "2016": {
+          "ars": 26537395.08,
+          "usd": 17310.76,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 27410591.88,
+          "usd": 17880.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2147": {
+      "id": "2147",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 AT 2016",
+      "precios": {
+        "2016": {
+          "ars": 28084345.38,
+          "usd": 18319.86,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 29008437.78,
+          "usd": 18922.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2148": {
+      "id": "2148",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,5 Nafta Xl 4X2 2018",
+      "precios": {
+        "2017": {
+          "ars": 15738943.08,
+          "usd": 10266.76,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16049927.46,
+          "usd": 10469.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2149": {
+      "id": "2149",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Diesel Xl 4X2 2018",
+      "precios": {
+        "2017": {
+          "ars": 16421266.05,
+          "usd": 10711.85,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16745740.83,
+          "usd": 10923.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2150": {
+      "id": "2150",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Diesel Xl 4X4 2018",
+      "precios": {
+        "2017": {
+          "ars": 19997356.47,
+          "usd": 13044.59,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20392471.89,
+          "usd": 13302.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2151": {
+      "id": "2151",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xl 4X2 2018",
+      "precios": {
+        "2017": {
+          "ars": 17369518.53,
+          "usd": 11330.41,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17712726.57,
+          "usd": 11554.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2152": {
+      "id": "2152",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xlt 4X2 2018",
+      "precios": {
+        "2017": {
+          "ars": 18384257.22,
+          "usd": 11992.34,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18747516.9,
+          "usd": 12229.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2153": {
+      "id": "2153",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xl 4X2 2018",
+      "precios": {
+        "2017": {
+          "ars": 18821652.78,
+          "usd": 12277.66,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19193543.25,
+          "usd": 12520.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2154": {
+      "id": "2154",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xl 4X4 2018",
+      "precios": {
+        "2017": {
+          "ars": 22383731.58,
+          "usd": 14601.26,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22826017.41,
+          "usd": 14889.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2155": {
+      "id": "2155",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 2018",
+      "precios": {
+        "2017": {
+          "ars": 20757847.11,
+          "usd": 13540.67,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21168001.26,
+          "usd": 13808.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2156": {
+      "id": "2156",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 AT 2018",
+      "precios": {
+        "2017": {
+          "ars": 21563683.89,
+          "usd": 14066.33,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21989765.91,
+          "usd": 14344.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2157": {
+      "id": "2157",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X4 2018",
+      "precios": {
+        "2017": {
+          "ars": 23662161.6,
+          "usd": 15435.2,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 24129711.27,
+          "usd": 15740.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2158": {
+      "id": "2158",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 2018",
+      "precios": {
+        "2017": {
+          "ars": 24752630.49,
+          "usd": 16146.53,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 25241703.48,
+          "usd": 16465.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2159": {
+      "id": "2159",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 AT 2018",
+      "precios": {
+        "2017": {
+          "ars": 26190753.12,
+          "usd": 17084.64,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 26708263.26,
+          "usd": 17422.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2160": {
+      "id": "2160",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 2018",
+      "precios": {
+        "2017": {
+          "ars": 26400344.88,
+          "usd": 17221.36,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 26921994.12,
+          "usd": 17561.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2161": {
+      "id": "2161",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 AT 2018",
+      "precios": {
+        "2017": {
+          "ars": 26908948.29,
+          "usd": 17553.13,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 27440638.68,
+          "usd": 17899.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2162": {
+      "id": "2162",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 2018",
+      "precios": {
+        "2017": {
+          "ars": 28654115.49,
+          "usd": 18691.53,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 29220298.38,
+          "usd": 19060.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2163": {
+      "id": "2163",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 AT 2018",
+      "precios": {
+        "2017": {
+          "ars": 30322847.31,
+          "usd": 19780.07,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 30921989.7,
+          "usd": 20170.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2164": {
+      "id": "2164",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,5 Nafta Xl 4X2 5MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 17046852.69,
+          "usd": 11119.93,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17609969.58,
+          "usd": 11487.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2165": {
+      "id": "2165",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Diesel Xl 4X2 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 19144073.34,
+          "usd": 12487.98,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19776466.5,
+          "usd": 12900.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2166": {
+      "id": "2166",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Diesel Xl 4X4 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 20820209.55,
+          "usd": 13581.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21507959.34,
+          "usd": 14029.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2167": {
+      "id": "2167",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xl 4X2 5MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 17897253.78,
+          "usd": 11674.66,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18488439.9,
+          "usd": 12060.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2168": {
+      "id": "2168",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xlt 4X2 5MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 20501836.11,
+          "usd": 13373.67,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21179069.52,
+          "usd": 13815.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2169": {
+      "id": "2169",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xl 4X2 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 19205699.94,
+          "usd": 12528.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19840116.66,
+          "usd": 12942.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2170": {
+      "id": "2170",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xl 4X4 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 22025960.04,
+          "usd": 14367.88,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22753537.17,
+          "usd": 14842.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2171": {
+      "id": "2171",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 21072863.28,
+          "usd": 13746.16,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21768967.92,
+          "usd": 14200.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2172": {
+      "id": "2172",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 6AT 2019",
+      "precios": {
+        "2018": {
+          "ars": 22484020.44,
+          "usd": 14666.68,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23226728.28,
+          "usd": 15151.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2173": {
+      "id": "2173",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X4 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 23893123.38,
+          "usd": 15585.86,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24682388.43,
+          "usd": 16100.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2174": {
+      "id": "2174",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 23796590.37,
+          "usd": 15522.89,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24582651.45,
+          "usd": 16035.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2175": {
+      "id": "2175",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 6AT 2019",
+      "precios": {
+        "2018": {
+          "ars": 26234780.88,
+          "usd": 17113.36,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 27101385.78,
+          "usd": 17678.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2176": {
+      "id": "2176",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 26618904.69,
+          "usd": 17363.93,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 27498187.5,
+          "usd": 17937.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2177": {
+      "id": "2177",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 6AT 2019",
+      "precios": {
+        "2018": {
+          "ars": 28030061.85,
+          "usd": 18284.45,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 28955963.19,
+          "usd": 18888.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2178": {
+      "id": "2178",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 6MT 2019",
+      "precios": {
+        "2018": {
+          "ars": 30034842.6,
+          "usd": 19592.2,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 31026984.87,
+          "usd": 20239.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2179": {
+      "id": "2179",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 6AT 2019",
+      "precios": {
+        "2018": {
+          "ars": 32750352.81,
+          "usd": 21363.57,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 33832175.58,
+          "usd": 22069.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2180": {
+      "id": "2180",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Black Edition 4X4 6AT 2019",
+      "precios": {
+        "2018": {
+          "ars": 32750352.81,
+          "usd": 21363.57,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 33832175.58,
+          "usd": 22069.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2181": {
+      "id": "2181",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,5 Nafta Xl 4X2 5MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 18419700.18,
+          "usd": 12015.46,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18615724.89,
+          "usd": 12143.33,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19354876.17,
+          "usd": 12625.49,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20322628.41,
+          "usd": 13256.77,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22604146.32,
+          "usd": 14745.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2182": {
+      "id": "2182",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Diesel Xl 4X2 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 20634854.52,
+          "usd": 13460.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20854441.44,
+          "usd": 13603.68,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21682491.39,
+          "usd": 14143.83,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22766613.66,
+          "usd": 14851.02,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 25322507.91,
+          "usd": 16518.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2183": {
+      "id": "2183",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,2 Diesel Xl 4X4 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 21986684.58,
+          "usd": 14342.26,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22220666.37,
+          "usd": 14494.89,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23102953.86,
+          "usd": 15070.42,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 24258100.02,
+          "usd": 15823.94,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26981443.86,
+          "usd": 17600.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2184": {
+      "id": "2184",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xl 4X2 5MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 19263294.75,
+          "usd": 12565.75,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19468302.84,
+          "usd": 12699.48,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20241302.76,
+          "usd": 13203.72,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21253358.7,
+          "usd": 13863.9,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23639381.22,
+          "usd": 15420.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2185": {
+      "id": "2185",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,5 Nafta Xlt 4X2 5MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 22205995.56,
+          "usd": 14485.32,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22442307.51,
+          "usd": 14639.47,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23333394.42,
+          "usd": 15220.74,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 24500068.74,
+          "usd": 15981.78,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 27250577.34,
+          "usd": 17775.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2186": {
+      "id": "2186",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xl 4X2 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 21906615.99,
+          "usd": 14290.03,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22139754.63,
+          "usd": 14442.11,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22732243.8,
+          "usd": 14828.6,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 23868855.99,
+          "usd": 15570.03,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26548494,
+          "usd": 17318,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2187": {
+      "id": "2187",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xl 4X4 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 24331791.33,
+          "usd": 15872.01,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24590730.36,
+          "usd": 16040.92,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25567128.72,
+          "usd": 16677.84,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 26845482.09,
+          "usd": 17511.73,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29859283.44,
+          "usd": 19477.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2188": {
+      "id": "2188",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,2 Diesel Xlt 4X2 6AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 27995370.06,
+          "usd": 18261.82,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 29395137.03,
+          "usd": 19174.91,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32695195.47,
+          "usd": 21327.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2189": {
+      "id": "2189",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 23924488.56,
+          "usd": 15606.32,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24179104.53,
+          "usd": 15772.41,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25139161.11,
+          "usd": 16398.67,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 26396113.8,
+          "usd": 17218.6,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29359479.45,
+          "usd": 19151.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2190": {
+      "id": "2190",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X2 6AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 24275974.8,
+          "usd": 15835.6,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24534315.96,
+          "usd": 16004.12,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25508476.14,
+          "usd": 16639.58,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 26783901.48,
+          "usd": 17471.56,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29790789,
+          "usd": 19433,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2191": {
+      "id": "2191",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel  Xls 4X4 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 25603200.21,
+          "usd": 16701.37,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25875675.63,
+          "usd": 16879.11,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26903092.23,
+          "usd": 17549.31,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 28248253.74,
+          "usd": 18426.78,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 31419540.18,
+          "usd": 20495.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2192": {
+      "id": "2192",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 26264965.65,
+          "usd": 17133.05,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26544477.54,
+          "usd": 17315.38,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27598445.7,
+          "usd": 18002.9,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 28978375.65,
+          "usd": 18903.05,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32231631.6,
+          "usd": 21025.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2193": {
+      "id": "2193",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X2 6AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 27894115.41,
+          "usd": 18195.77,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 28190980.86,
+          "usd": 18389.42,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29310316.14,
+          "usd": 19119.58,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 30775833.48,
+          "usd": 20075.56,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 34230893.55,
+          "usd": 22329.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2194": {
+      "id": "2194",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 29163562.05,
+          "usd": 19023.85,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 29473933.23,
+          "usd": 19226.31,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 30644210.1,
+          "usd": 19989.7,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 32176428.27,
+          "usd": 20989.19,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 35788712.82,
+          "usd": 23345.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2195": {
+      "id": "2195",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Xlt 4X4 6AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 30701053.74,
+          "usd": 20026.78,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 31027782.03,
+          "usd": 20239.91,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 32259762.15,
+          "usd": 21043.55,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 33872754.09,
+          "usd": 22095.73,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 37675483.23,
+          "usd": 24576.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2196": {
+      "id": "2196",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 33310725.63,
+          "usd": 21729.11,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 33665216.55,
+          "usd": 21960.35,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 35001931.23,
+          "usd": 22832.31,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 36752019.36,
+          "usd": 23973.92,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 40877996.88,
+          "usd": 26665.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2197": {
+      "id": "2197",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Limited 4X4 6AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 34790193.27,
+          "usd": 22694.19,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 35160443.43,
+          "usd": 22935.71,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 36556515.87,
+          "usd": 23846.39,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 38384342.43,
+          "usd": 25038.71,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 42693559.44,
+          "usd": 27849.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2198": {
+      "id": "2198",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Black Edition 4X4 6AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 35152226.55,
+          "usd": 22930.35,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 35526324.54,
+          "usd": 23174.38,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 36936929.82,
+          "usd": 24094.54,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 38783780.91,
+          "usd": 25299.27,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 43137838.17,
+          "usd": 28139.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2199": {
+      "id": "2199",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,2 Diesel Fx4 4X4 6AT 2022",
+      "precios": {
+        "2022": {
+          "ars": 35297386.32,
+          "usd": 23025.04,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 39260053.35,
+          "usd": 25609.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2200": {
+      "id": "2200",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 T Panther Raptor 2019",
+      "precios": {
+        "2019": {
+          "ars": 50512503.3,
+          "usd": 32950.1,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 53097309.93,
+          "usd": 34636.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2201": {
+      "id": "2201",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 T Panther Raptor 2020",
+      "precios": {
+        "2020": {
+          "ars": 53451294.96,
+          "usd": 34867.12,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 55573626.15,
+          "usd": 36251.55,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 58352311.29,
+          "usd": 38064.13,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 64903218.87,
+          "usd": 42337.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2202": {
+      "id": "2202",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 T V6 Raptor 2023",
+      "precios": {
+        "0": {
+          "ars": 121891696.71,
+          "usd": 79511.87,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 77630445.48,
+          "usd": 50639.56,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 80865044.82,
+          "usd": 52749.54,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 84908286.33,
+          "usd": 55387.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2203": {
+      "id": "2203",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Td Xl 4X2 6MT 2023",
+      "precios": {
+        "0": {
+          "ars": 47411443.59,
+          "usd": 30927.23,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29298772.65,
+          "usd": 19112.05,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 30519561.87,
+          "usd": 19908.39,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 32045540.73,
+          "usd": 20903.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2204": {
+      "id": "2204",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Td Xl 4X4 6MT 2023",
+      "precios": {
+        "0": {
+          "ars": 51138764.46,
+          "usd": 33358.62,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 31218195.96,
+          "usd": 20364.12,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 32518946.46,
+          "usd": 21212.62,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 34144907.58,
+          "usd": 22273.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2205": {
+      "id": "2205",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Td Xls 4X2 6MT 2023",
+      "precios": {
+        "0": {
+          "ars": 54749470.02,
+          "usd": 35713.94,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 33969639.69,
+          "usd": 22158.93,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 35385043.26,
+          "usd": 23082.22,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 37154293.89,
+          "usd": 24236.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2206": {
+      "id": "2206",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 Td V6 Lion Xls 4X4 10at 2023",
+      "precios": {
+        "0": {
+          "ars": 64857152.22,
+          "usd": 42307.34,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 43341113.97,
+          "usd": 28272.09,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 45147003.3,
+          "usd": 29450.1,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 47404345.8,
+          "usd": 30922.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2207": {
+      "id": "2207",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Bi Td Xlt 4X2 10at 2023",
+      "precios": {
+        "0": {
+          "ars": 68107725.42,
+          "usd": 44427.74,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 41804036.19,
+          "usd": 27269.43,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 43545861.45,
+          "usd": 28405.65,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 45723166.02,
+          "usd": 29825.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2208": {
+      "id": "2208",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Bi Td Xlt 4X4 10at 2023",
+      "precios": {
+        "0": {
+          "ars": 73023182.61,
+          "usd": 47634.17,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 47332908,
+          "usd": 30876,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 49305112.5,
+          "usd": 32162.5,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 51770375.79,
+          "usd": 33770.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2209": {
+      "id": "2209",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Bi Td Ltd 4X4 10at 2022",
+      "precios": {
+        "0": {
+          "ars": 79881579.33,
+          "usd": 52108.01,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 52639540.8,
+          "usd": 34337.6,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 54832865.22,
+          "usd": 35768.34,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 57574513.08,
+          "usd": 37556.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2210": {
+      "id": "2210",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 Td V6 Lion Xlt 4X4 10at 2026",
+      "precios": {
+        "0": {
+          "ars": 74123478.03,
+          "usd": 48351.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2211": {
+      "id": "2211",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 3,0 Td V6 Lion Ltd + 4X4 10at 2023",
+      "precios": {
+        "0": {
+          "ars": 84289812.81,
+          "usd": 54983.57,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 58463806.38,
+          "usd": 38136.86,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 60899789.37,
+          "usd": 39725.89,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 63944787.27,
+          "usd": 41712.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2212": {
+      "id": "2212",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Bi Td Black 4X4 6MT",
+      "precios": {
+        "0": {
+          "ars": 59160646.86,
+          "usd": 38591.42,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 43545861.45,
+          "usd": 28405.65,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 45723166.02,
+          "usd": 29825.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2213": {
+      "id": "2213",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 1,8 Diesel Trend",
+      "precios": {}
+    },
+    "2214": {
+      "id": "2214",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 2,0 Trend",
+      "precios": {
+        "2013": {
+          "ars": 9258292.89,
+          "usd": 6039.33,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9958015.41,
+          "usd": 6495.77,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10625207.67,
+          "usd": 6930.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2215": {
+      "id": "2215",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 2,3 Titanium AT",
+      "precios": {
+        "2013": {
+          "ars": 11647519.38,
+          "usd": 7597.86,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12593962.92,
+          "usd": 8215.24,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13640465.37,
+          "usd": 8897.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2216": {
+      "id": "2216",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 2,0 T Trend 6AT",
+      "precios": {
+        "2017": {
+          "ars": 20345930.01,
+          "usd": 13271.97,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21772018.59,
+          "usd": 14202.23,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23513782.53,
+          "usd": 15338.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2217": {
+      "id": "2217",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 2,0 T Titanium 6AT",
+      "precios": {
+        "2017": {
+          "ars": 22484327.04,
+          "usd": 14666.88,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 24060297.03,
+          "usd": 15694.91,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25985131.83,
+          "usd": 16950.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2218": {
+      "id": "2218",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,5 T CVT Sel",
+      "precios": {
+        "2020": {
+          "ars": 27377984.97,
+          "usd": 17859.09,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 28746877.32,
+          "usd": 18752.04,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 30184233.45,
+          "usd": 19689.65,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32598969.06,
+          "usd": 21264.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2219": {
+      "id": "2219",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,5 T CVT Titanium",
+      "precios": {
+        "2020": {
+          "ars": 29866887.12,
+          "usd": 19482.64,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 31360228.41,
+          "usd": 20456.77,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 32928242.13,
+          "usd": 21479.61,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 35562503.34,
+          "usd": 23197.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2220": {
+      "id": "2220",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Sel 2024",
+      "precios": {
+        "2023": {
+          "ars": 34314702.66,
+          "usd": 22384.02,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 36120729.96,
+          "usd": 23562.12,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 37926772.59,
+          "usd": 24740.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2221": {
+      "id": "2221",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Titanium 2024",
+      "precios": {
+        "2023": {
+          "ars": 37434219.69,
+          "usd": 24418.93,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 39404446.62,
+          "usd": 25704.14,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 41374658.22,
+          "usd": 26989.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2222": {
+      "id": "2222",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Sel 2025",
+      "precios": {
+        "0": {
+          "ars": 49409847.06,
+          "usd": 32230.82,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 41397530.58,
+          "usd": 27004.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2223": {
+      "id": "2223",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Titanium 2025",
+      "precios": {
+        "0": {
+          "ars": 57546167.91,
+          "usd": 37538.27,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 49907642.82,
+          "usd": 32555.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2224": {
+      "id": "2224",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,5 Gtdi Hibrida Trend",
+      "precios": {
+        "0": {
+          "ars": 55079294.97,
+          "usd": 35929.09,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 44460341.94,
+          "usd": 29002.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2225": {
+      "id": "2225",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel",
+      "precios": {
+        "2013": {
+          "ars": 16309801.62,
+          "usd": 10639.14,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 17274181.26,
+          "usd": 11268.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2226": {
+      "id": "2226",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel A/c",
+      "precios": {
+        "2013": {
+          "ars": 16929394.23,
+          "usd": 11043.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 17930412.57,
+          "usd": 11696.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2227": {
+      "id": "2227",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel 2014",
+      "precios": {
+        "2014": {
+          "ars": 18428300.31,
+          "usd": 12021.07,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 19045394.13,
+          "usd": 12423.61,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 19995332.91,
+          "usd": 13043.27,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 21381149.58,
+          "usd": 13947.26,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23644976.67,
+          "usd": 15423.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2228": {
+      "id": "2228",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel 2018",
+      "precios": {
+        "2018": {
+          "ars": 24736840.59,
+          "usd": 16136.23,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26715774.96,
+          "usd": 17427.12,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 28121873.22,
+          "usd": 18344.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2229": {
+      "id": "2229",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel 2020",
+      "precios": {
+        "2020": {
+          "ars": 28711189.08,
+          "usd": 18728.76,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29859636.03,
+          "usd": 19477.91,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 31352624.73,
+          "usd": 20451.81,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32920255.2,
+          "usd": 21474.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2230": {
+      "id": "2230",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,4 Diesel 16V T/a Corto",
+      "precios": {}
+    },
+    "2231": {
+      "id": "2231",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,4 Diesel 16V T/a Corto A/c",
+      "precios": {}
+    },
+    "2232": {
+      "id": "2232",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,4 Diesel 16V T/a Largo",
+      "precios": {}
+    },
+    "2233": {
+      "id": "2233",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,4 Diesel 16V T/a Largo A/c",
+      "precios": {}
+    },
+    "2234": {
+      "id": "2234",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Corto",
+      "precios": {
+        "2013": {
+          "ars": 14595386.4,
+          "usd": 9520.8,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 15458404.08,
+          "usd": 10083.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2235": {
+      "id": "2235",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Corto A/c",
+      "precios": {
+        "2013": {
+          "ars": 15230523.63,
+          "usd": 9935.11,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 16131084.48,
+          "usd": 10522.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2236": {
+      "id": "2236",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo",
+      "precios": {
+        "2013": {
+          "ars": 17955538.44,
+          "usd": 11712.68,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 19017232.92,
+          "usd": 12405.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2237": {
+      "id": "2237",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo A/c",
+      "precios": {
+        "2013": {
+          "ars": 18694889.01,
+          "usd": 12194.97,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 19800289.32,
+          "usd": 12916.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2238": {
+      "id": "2238",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano 2014",
+      "precios": {
+        "2014": {
+          "ars": 18165329.49,
+          "usd": 11849.53,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 18655705.53,
+          "usd": 12169.41,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 19052169.99,
+          "usd": 12428.03,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 20372619.54,
+          "usd": 13289.38,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22547869.89,
+          "usd": 14708.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2239": {
+      "id": "2239",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo 2014",
+      "precios": {
+        "2014": {
+          "ars": 19754789.88,
+          "usd": 12886.36,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 20098979.04,
+          "usd": 13110.88,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 20650951.02,
+          "usd": 13470.94,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 22082205.81,
+          "usd": 14404.57,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 24440005.8,
+          "usd": 15942.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2240": {
+      "id": "2240",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano 2018",
+      "precios": {
+        "2018": {
+          "ars": 23136480.57,
+          "usd": 15092.29,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24987394.11,
+          "usd": 16299.67,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26302524.15,
+          "usd": 17157.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2241": {
+      "id": "2241",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano Te 2018",
+      "precios": {
+        "2018": {
+          "ars": 24580597.23,
+          "usd": 16034.31,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26547037.65,
+          "usd": 17317.05,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27944259.84,
+          "usd": 18228.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2242": {
+      "id": "2242",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo Te 2018",
+      "precios": {
+        "2018": {
+          "ars": 26917809.03,
+          "usd": 17558.91,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 29071229.46,
+          "usd": 18963.62,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 30601301.43,
+          "usd": 19961.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2243": {
+      "id": "2243",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano 2020",
+      "precios": {
+        "2020": {
+          "ars": 26828573.1,
+          "usd": 17500.7,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27901703.76,
+          "usd": 18200.72,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 29296795.08,
+          "usd": 19110.76,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 30761637.9,
+          "usd": 20066.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2244": {
+      "id": "2244",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano Te 2020",
+      "precios": {
+        "2020": {
+          "ars": 28503145.65,
+          "usd": 18593.05,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29643268.41,
+          "usd": 19336.77,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 31125434.13,
+          "usd": 20303.61,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32681705.07,
+          "usd": 21318.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2245": {
+      "id": "2245",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo Te 2020",
+      "precios": {
+        "2020": {
+          "ars": 31213321.02,
+          "usd": 20360.94,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 32461857.54,
+          "usd": 21175.38,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 34084951.95,
+          "usd": 22234.15,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 35789203.38,
+          "usd": 23345.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2246": {
+      "id": "2246",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,4 Diesel 16V",
+      "precios": {}
+    },
+    "2247": {
+      "id": "2247",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Diesel A/c",
+      "precios": {
+        "2013": {
+          "ars": 20406222.9,
+          "usd": 13311.3,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 21612831.87,
+          "usd": 14098.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2248": {
+      "id": "2248",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Diesel A/c 2014",
+      "precios": {
+        "2014": {
+          "ars": 25899237.84,
+          "usd": 16894.48,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 27835570.14,
+          "usd": 18157.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2249": {
+      "id": "2249",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Diesel 2018",
+      "precios": {
+        "2018": {
+          "ars": 37010268.54,
+          "usd": 24142.38,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 37010268.54,
+          "usd": 24142.38,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 38958174.99,
+          "usd": 25413.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2250": {
+      "id": "2250",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Diesel 2020",
+      "precios": {
+        "2020": {
+          "ars": 39471454.05,
+          "usd": 25747.85,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 41050321.41,
+          "usd": 26777.77,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 43102839.78,
+          "usd": 28116.66,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 45257977.17,
+          "usd": 29522.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2251": {
+      "id": "2251",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Td 2023",
+      "precios": {
+        "2023": {
+          "ars": 33831945.63,
+          "usd": 22069.11,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 35612571.12,
+          "usd": 23230.64,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 37393196.61,
+          "usd": 24392.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2252": {
+      "id": "2252",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,2 Td Mediana",
+      "precios": {
+        "2024": {
+          "ars": 34721254.26,
+          "usd": 22649.22,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 36457315.44,
+          "usd": 23781.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2253": {
+      "id": "2253",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,2 Td Mediana  Te",
+      "precios": {
+        "2024": {
+          "ars": 35927663.94,
+          "usd": 23436.18,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 37724048.67,
+          "usd": 24607.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2254": {
+      "id": "2254",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,2 Td Larga  Te",
+      "precios": {
+        "2024": {
+          "ars": 39124720.11,
+          "usd": 25521.67,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 41080950.75,
+          "usd": 26797.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2255": {
+      "id": "2255",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,2 Td Larga Te 10at L3h3",
+      "precios": {
+        "2023": {
+          "ars": 41669530.77,
+          "usd": 27181.69,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 43862671.23,
+          "usd": 28612.31,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 46055796.36,
+          "usd": 30042.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2256": {
+      "id": "2256",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Td 6MT 17+1",
+      "precios": {
+        "2023": {
+          "ars": 49971538.26,
+          "usd": 32597.22,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 52601629.71,
+          "usd": 34312.87,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 55231705.83,
+          "usd": 36028.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2257": {
+      "id": "2257",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Td 10at 17+1",
+      "precios": {
+        "2023": {
+          "ars": 48664057.89,
+          "usd": 31744.33,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 53921389.41,
+          "usd": 35173.77,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 56617461.18,
+          "usd": 36932.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2258": {
+      "id": "2258",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,0 Td 2025",
+      "precios": {
+        "0": {
+          "ars": 76189548.12,
+          "usd": 49699.64,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 51725167.62,
+          "usd": 33741.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2259": {
+      "id": "2259",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,0 Td L2h2 6MT 2025",
+      "precios": {
+        "0": {
+          "ars": 68404667.52,
+          "usd": 44621.44,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 45970914.15,
+          "usd": 29987.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2260": {
+      "id": "2260",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,0 Td L2h3 6MT 2025",
+      "precios": {
+        "0": {
+          "ars": 72155703.9,
+          "usd": 47068.3,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 48491764.02,
+          "usd": 31631.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2261": {
+      "id": "2261",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,0 Td L3h3 6MT 2025",
+      "precios": {
+        "0": {
+          "ars": 77552231.82,
+          "usd": 50588.54,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 52118474.1,
+          "usd": 33997.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2262": {
+      "id": "2262",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,0 Td L3h3 10at 2025",
+      "precios": {
+        "0": {
+          "ars": 81828136.74,
+          "usd": 53377.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 54992067.27,
+          "usd": 35872.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2263": {
+      "id": "2263",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,0 Td 6MT 2025",
+      "precios": {
+        "0": {
+          "ars": 96287684.01,
+          "usd": 62809.97,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 67434125.22,
+          "usd": 43988.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2264": {
+      "id": "2264",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,0 Td 10at 2025",
+      "precios": {
+        "0": {
+          "ars": 101937386.88,
+          "usd": 66495.36,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 71390828.88,
+          "usd": 46569.36,
           "cotizacion": 1533
         }
       }
@@ -46998,6 +53110,1891 @@
         }
       }
     },
+    "2269": {
+      "id": "2269",
+      "marcaId": "20",
+      "modeloId": "244",
+      "marca": "FORTHING",
+      "modelo": "T5",
+      "version": "5P 1,6 MT",
+      "precios": {
+        "0": {
+          "ars": 34126113,
+          "usd": 22261,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2270": {
+      "id": "2270",
+      "marcaId": "20",
+      "modeloId": "244",
+      "marca": "FORTHING",
+      "modelo": "T5",
+      "version": "5P 1,5 T 7AT Evo Premium",
+      "precios": {
+        "0": {
+          "ars": 54567135,
+          "usd": 35595,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2271": {
+      "id": "2271",
+      "marcaId": "20",
+      "modeloId": "244",
+      "marca": "FORTHING",
+      "modelo": "T5",
+      "version": "5P 1,5 T Hev Hibrido",
+      "precios": {
+        "0": {
+          "ars": 57512028,
+          "usd": 37516,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2272": {
+      "id": "2272",
+      "marcaId": "20",
+      "modeloId": "245",
+      "marca": "FORTHING",
+      "modelo": "U-TOUR",
+      "version": "Van 1,5 T 7AT 7asientos",
+      "precios": {
+        "0": {
+          "ars": 64960875,
+          "usd": 42375,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2273": {
+      "id": "2273",
+      "marcaId": "21",
+      "modeloId": "246",
+      "marca": "FOTON",
+      "modelo": "GRATOUR T3",
+      "version": "C/S 1,2",
+      "precios": {
+        "2018": {
+          "ars": 10450813.59,
+          "usd": 6817.23,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 11286865.8,
+          "usd": 7362.6,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 12189818.13,
+          "usd": 7951.61,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 12799308.27,
+          "usd": 8349.19,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 13439274.45,
+          "usd": 8766.65,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 14514428.67,
+          "usd": 9467.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2274": {
+      "id": "2274",
+      "marcaId": "21",
+      "modeloId": "246",
+      "marca": "FOTON",
+      "modelo": "GRATOUR T3",
+      "version": "D/C 1,2",
+      "precios": {
+        "2018": {
+          "ars": 10785237.54,
+          "usd": 7035.38,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 11648055.93,
+          "usd": 7598.21,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 12579889.98,
+          "usd": 8206.06,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 13208895.21,
+          "usd": 8616.37,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 13869342.27,
+          "usd": 9047.19,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 14978881.68,
+          "usd": 9770.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2275": {
+      "id": "2275",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,8 Diesel Euv Luxury 4X4",
+      "precios": {
+        "2017": {
+          "ars": 18051887.49,
+          "usd": 11775.53,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19741912.68,
+          "usd": 12877.96,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21321270.6,
+          "usd": 13908.2,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23026978.38,
+          "usd": 15020.86,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24178322.7,
+          "usd": 15771.9,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 25387246.5,
+          "usd": 16560.5,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 27418210.89,
+          "usd": 17885.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2276": {
+      "id": "2276",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,8 Diesel Euv Standard 4X4",
+      "precios": {
+        "2017": {
+          "ars": 16780631.91,
+          "usd": 10946.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2277": {
+      "id": "2277",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,8 Diesel Euv 4X2",
+      "precios": {
+        "2017": {
+          "ars": 15255128.28,
+          "usd": 9951.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2278": {
+      "id": "2278",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 4X4",
+      "precios": {
+        "2025": {
+          "ars": 30593958.36,
+          "usd": 19956.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2279": {
+      "id": "2279",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td 8AT G7 4X4",
+      "precios": {
+        "2025": {
+          "ars": 31550013.81,
+          "usd": 20580.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2280": {
+      "id": "2280",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 Lite 4X2",
+      "precios": {
+        "0": {
+          "ars": 42974864.94,
+          "usd": 28033.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2281": {
+      "id": "2281",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 Lite 4X4",
+      "precios": {
+        "0": {
+          "ars": 46008579.96,
+          "usd": 30012.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2282": {
+      "id": "2282",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 Ulimate 4X2 AT",
+      "precios": {
+        "0": {
+          "ars": 48031051.53,
+          "usd": 31331.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2283": {
+      "id": "2283",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 Ultimate 4X4 AT",
+      "precios": {
+        "0": {
+          "ars": 52735276.65,
+          "usd": 34400.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2284": {
+      "id": "2284",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td 8AT V9 4X4 Mildhybrid",
+      "precios": {
+        "2025": {
+          "ars": 49431906.93,
+          "usd": 32245.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2285": {
+      "id": "2285",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td 8AT V9 4X4 Ultimate Mhev",
+      "precios": {
+        "0": {
+          "ars": 73462877.67,
+          "usd": 47920.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2286": {
+      "id": "2286",
+      "marcaId": "21",
+      "modeloId": "248",
+      "marca": "FOTON",
+      "modelo": "VIEW CS2",
+      "version": "Minibus 2,3 Euv 16a",
+      "precios": {
+        "2017": {
+          "ars": 21765503.34,
+          "usd": 14197.98,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22853780.04,
+          "usd": 14907.88,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23996478.24,
+          "usd": 15653.28,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25196296.02,
+          "usd": 16435.94,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26456115.42,
+          "usd": 17257.74,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27778925.79,
+          "usd": 18120.63,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 29167869.78,
+          "usd": 19026.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2287": {
+      "id": "2287",
+      "marcaId": "21",
+      "modeloId": "249",
+      "marca": "FOTON",
+      "modelo": "WONDER",
+      "version": "1,6 C/S",
+      "precios": {
+        "2025": {
+          "ars": 22520919.75,
+          "usd": 14690.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2288": {
+      "id": "2288",
+      "marcaId": "21",
+      "modeloId": "249",
+      "marca": "FOTON",
+      "modelo": "WONDER",
+      "version": "1,6 D/C",
+      "precios": {
+        "2025": {
+          "ars": 23792512.59,
+          "usd": 15520.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2289": {
+      "id": "2289",
+      "marcaId": "21",
+      "modeloId": "249",
+      "marca": "FOTON",
+      "modelo": "WONDER",
+      "version": "1,6 C/S Box",
+      "precios": {
+        "2025": {
+          "ars": 27122571.84,
+          "usd": 17692.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2290": {
+      "id": "2290",
+      "marcaId": "22",
+      "modeloId": "250",
+      "marca": "GEELY",
+      "modelo": "515",
+      "version": "5P 1,5 Hatch Gs",
+      "precios": {
+        "2017": {
+          "ars": 14174746.53,
+          "usd": 9246.41,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14746938.78,
+          "usd": 9619.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2291": {
+      "id": "2291",
+      "marcaId": "22",
+      "modeloId": "250",
+      "marca": "GEELY",
+      "modelo": "515",
+      "version": "5P 1,5 Hatch Gl",
+      "precios": {
+        "2017": {
+          "ars": 14681173.08,
+          "usd": 9576.76,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15273815.55,
+          "usd": 9963.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2292": {
+      "id": "2292",
+      "marcaId": "22",
+      "modeloId": "250",
+      "marca": "GEELY",
+      "modelo": "515",
+      "version": "4P 1,5 Sedan Gs",
+      "precios": {
+        "2017": {
+          "ars": 14681173.08,
+          "usd": 9576.76,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15273815.55,
+          "usd": 9963.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2293": {
+      "id": "2293",
+      "marcaId": "22",
+      "modeloId": "250",
+      "marca": "GEELY",
+      "modelo": "515",
+      "version": "4P 1,5 Sedan Gl",
+      "precios": {
+        "2017": {
+          "ars": 15187599.63,
+          "usd": 9907.11,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15800676.99,
+          "usd": 10307.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2294": {
+      "id": "2294",
+      "marcaId": "22",
+      "modeloId": "251",
+      "marca": "GEELY",
+      "modelo": "EMGRAND 7",
+      "version": "4P 1,8 Gs",
+      "precios": {
+        "2017": {
+          "ars": 17545629.57,
+          "usd": 11445.29,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18253906.23,
+          "usd": 11907.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2295": {
+      "id": "2295",
+      "marcaId": "22",
+      "modeloId": "251",
+      "marca": "GEELY",
+      "modelo": "EMGRAND 7",
+      "version": "4P 1,8 Gl 6AT",
+      "precios": {
+        "2017": {
+          "ars": 19627075.65,
+          "usd": 12803.05,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20419360.71,
+          "usd": 13319.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2296": {
+      "id": "2296",
+      "marcaId": "22",
+      "modeloId": "251",
+      "marca": "GEELY",
+      "modelo": "EMGRAND 7",
+      "version": "4P 1,8 Gs Drive 2019",
+      "precios": {
+        "2019": {
+          "ars": 20699930.37,
+          "usd": 13502.89,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21789387.48,
+          "usd": 14213.56,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22878859.92,
+          "usd": 14924.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2297": {
+      "id": "2297",
+      "marcaId": "22",
+      "modeloId": "251",
+      "marca": "GEELY",
+      "modelo": "EMGRAND 7",
+      "version": "4P 1,8 Gl Active 2019",
+      "precios": {
+        "2019": {
+          "ars": 23155566.42,
+          "usd": 15104.74,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24374270.76,
+          "usd": 15899.72,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25592990.43,
+          "usd": 16694.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2298": {
+      "id": "2298",
+      "marcaId": "22",
+      "modeloId": "252",
+      "marca": "GEELY",
+      "modelo": "EMGRAND FE 3",
+      "version": "4P 1,8 Gs",
+      "precios": {
+        "2018": {
+          "ars": 17528521.29,
+          "usd": 11434.13,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18404952.72,
+          "usd": 12005.84,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19281368.82,
+          "usd": 12577.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2299": {
+      "id": "2299",
+      "marcaId": "22",
+      "modeloId": "252",
+      "marca": "GEELY",
+      "modelo": "EMGRAND FE 3",
+      "version": "4P 1,8 Gl 6AT",
+      "precios": {
+        "2018": {
+          "ars": 21910647.78,
+          "usd": 14292.66,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22787079.21,
+          "usd": 14864.37,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23663510.64,
+          "usd": 15436.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2300": {
+      "id": "2300",
+      "marcaId": "22",
+      "modeloId": "252",
+      "marca": "GEELY",
+      "modelo": "EMGRAND FE 3",
+      "version": "4P 1,8 Gs MT 2020",
+      "precios": {
+        "2020": {
+          "ars": 21460604.97,
+          "usd": 13999.09,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22533643.65,
+          "usd": 14699.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2301": {
+      "id": "2301",
+      "marcaId": "22",
+      "modeloId": "252",
+      "marca": "GEELY",
+      "modelo": "EMGRAND FE 3",
+      "version": "4P 1,8 Gl AT 2020",
+      "precios": {
+        "2020": {
+          "ars": 26546056.53,
+          "usd": 17316.41,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27873358.59,
+          "usd": 18182.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2302": {
+      "id": "2302",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs",
+      "precios": {
+        "2017": {
+          "ars": 17070813.48,
+          "usd": 11135.56,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17642561.16,
+          "usd": 11508.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2303": {
+      "id": "2303",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gl",
+      "precios": {
+        "2017": {
+          "ars": 17969274.12,
+          "usd": 11721.64,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18524695.35,
+          "usd": 12083.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2304": {
+      "id": "2304",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gt AT",
+      "precios": {
+        "2017": {
+          "ars": 21563132.01,
+          "usd": 14065.97,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22053201.45,
+          "usd": 14385.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2305": {
+      "id": "2305",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs Drive",
+      "precios": {
+        "2018": {
+          "ars": 18524695.35,
+          "usd": 12083.95,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19228771.59,
+          "usd": 12543.23,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19730537.82,
+          "usd": 12870.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2306": {
+      "id": "2306",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs Drive Plus",
+      "precios": {
+        "2018": {
+          "ars": 20288948.4,
+          "usd": 13234.8,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20976851.49,
+          "usd": 13683.53,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21446225.43,
+          "usd": 13989.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2307": {
+      "id": "2307",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gl) Active",
+      "precios": {
+        "2018": {
+          "ars": 18171844.74,
+          "usd": 11853.78,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18879155.61,
+          "usd": 12315.17,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19387391.1,
+          "usd": 12646.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2308": {
+      "id": "2308",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gc) Balance",
+      "precios": {
+        "2018": {
+          "ars": 22053201.45,
+          "usd": 14385.65,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22724916.06,
+          "usd": 14823.82,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23161928.37,
+          "usd": 15108.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2309": {
+      "id": "2309",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gc) Balance AT",
+      "precios": {
+        "2019": {
+          "ars": 24472980.63,
+          "usd": 15964.11,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24877631.31,
+          "usd": 16228.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2310": {
+      "id": "2310",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gt) Executive AT",
+      "precios": {
+        "2018": {
+          "ars": 25581707.55,
+          "usd": 16687.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26221060.53,
+          "usd": 17104.41,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26593334.25,
+          "usd": 17347.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2311": {
+      "id": "2311",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs Drive 2020",
+      "precios": {
+        "2020": {
+          "ars": 27642611.43,
+          "usd": 18031.71,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 28203290.85,
+          "usd": 18397.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2312": {
+      "id": "2312",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gc) Balance 2020",
+      "precios": {
+        "2020": {
+          "ars": 29857673.79,
+          "usd": 19476.63,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 30463270.11,
+          "usd": 19871.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2313": {
+      "id": "2313",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gc) Balance AT 2020",
+      "precios": {
+        "2020": {
+          "ars": 32296722.78,
+          "usd": 21067.66,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 32951804.34,
+          "usd": 21494.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2314": {
+      "id": "2314",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs Executive 2020",
+      "precios": {
+        "2020": {
+          "ars": 34835324.79,
+          "usd": 22723.63,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 35541899.82,
+          "usd": 23184.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2315": {
+      "id": "2315",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,0 Gs Drive",
+      "precios": {
+        "2017": {
+          "ars": 24519476.52,
+          "usd": 15994.44,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 25162186.77,
+          "usd": 16413.69,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26029849.44,
+          "usd": 16979.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26897512.11,
+          "usd": 17545.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2316": {
+      "id": "2316",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,4 Gl AT Active",
+      "precios": {
+        "2017": {
+          "ars": 31525041.24,
+          "usd": 20564.28,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 32103488.13,
+          "usd": 20941.61,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 32971150.8,
+          "usd": 21507.6,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 33838813.47,
+          "usd": 22073.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2317": {
+      "id": "2317",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,4 Gt AT 4X4 Executive",
+      "precios": {
+        "2017": {
+          "ars": 33276432.42,
+          "usd": 21706.74,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 33838813.47,
+          "usd": 22073.59,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 34706476.14,
+          "usd": 22639.58,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 35574138.81,
+          "usd": 23205.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2318": {
+      "id": "2318",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,0 Gs Drive 2020",
+      "precios": {
+        "2020": {
+          "ars": 35035825.86,
+          "usd": 22854.42,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 36787630.95,
+          "usd": 23997.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2319": {
+      "id": "2319",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,4 Gl AT Active 2020",
+      "precios": {
+        "2020": {
+          "ars": 40034249.01,
+          "usd": 26114.97,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 42035963.76,
+          "usd": 27420.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2320": {
+      "id": "2320",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,4 Gt AT 4X4 Executive 2020",
+      "precios": {
+        "2020": {
+          "ars": 43114275.96,
+          "usd": 28124.12,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 45269995.89,
+          "usd": 29530.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2321": {
+      "id": "2321",
+      "marcaId": "22",
+      "modeloId": "255",
+      "marca": "GEELY",
+      "modelo": "EX5",
+      "version": "5P Pro Electrico",
+      "precios": {
+        "0": {
+          "ars": 53348400,
+          "usd": 34800,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 48195082.53,
+          "usd": 31438.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2322": {
+      "id": "2322",
+      "marcaId": "22",
+      "modeloId": "256",
+      "marca": "GEELY",
+      "modelo": "LC",
+      "version": "5P 1,3 Gb",
+      "precios": {
+        "2017": {
+          "ars": 13207193.58,
+          "usd": 8615.26,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13740340.32,
+          "usd": 8963.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2323": {
+      "id": "2323",
+      "marcaId": "22",
+      "modeloId": "256",
+      "marca": "GEELY",
+      "modelo": "LC",
+      "version": "5P 1,3 Gl",
+      "precios": {
+        "2017": {
+          "ars": 14780235.54,
+          "usd": 9641.38,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15376863.81,
+          "usd": 10030.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2324": {
+      "id": "2324",
+      "marcaId": "22",
+      "modeloId": "256",
+      "marca": "GEELY",
+      "modelo": "LC",
+      "version": "5P 1,3 Gl Cross",
+      "precios": {
+        "2017": {
+          "ars": 16227433.53,
+          "usd": 10585.41,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16882484.43,
+          "usd": 11012.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2325": {
+      "id": "2325",
+      "marcaId": "23",
+      "modeloId": "257",
+      "marca": "GREAT WALL",
+      "modelo": "JOLION",
+      "version": "5P 1,5 Dtc Deluxe",
+      "precios": {
+        "0": {
+          "ars": 45990000,
+          "usd": 30000,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 44654910.3,
+          "usd": 29129.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2326": {
+      "id": "2326",
+      "marcaId": "23",
+      "modeloId": "258",
+      "marca": "GREAT WALL",
+      "modelo": "ORA 03",
+      "version": "5P Electrico",
+      "precios": {
+        "0": {
+          "ars": 47523000,
+          "usd": 31000,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 41644420.23,
+          "usd": 27165.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2327": {
+      "id": "2327",
+      "marcaId": "23",
+      "modeloId": "259",
+      "marca": "GREAT WALL",
+      "modelo": "POER PICK -UP",
+      "version": "D/C 2,0 Td 4X4 8AT Luxury",
+      "precios": {
+        "0": {
+          "ars": 64370670,
+          "usd": 41990,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 49628054.28,
+          "usd": 32373.16,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 53598309.66,
+          "usd": 34963.02,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 56419259.61,
+          "usd": 36803.17,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 59388695.94,
+          "usd": 38740.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2328": {
+      "id": "2328",
+      "marcaId": "23",
+      "modeloId": "259",
+      "marca": "GREAT WALL",
+      "modelo": "POER PICK -UP",
+      "version": "D/C 2,0 Vgt 2wd 6MT Elite",
+      "precios": {
+        "0": {
+          "ars": 44043090,
+          "usd": 28730,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 41122249.77,
+          "usd": 26824.69,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 43286569.83,
+          "usd": 28236.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2329": {
+      "id": "2329",
+      "marcaId": "23",
+      "modeloId": "259",
+      "marca": "GREAT WALL",
+      "modelo": "POER PICK -UP",
+      "version": "D/C 2,0 Vgt 4WD 6MT Elite",
+      "precios": {
+        "0": {
+          "ars": 50124501,
+          "usd": 32697,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 44980810.77,
+          "usd": 29341.69,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 47348222.67,
+          "usd": 30885.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2330": {
+      "id": "2330",
+      "marcaId": "23",
+      "modeloId": "260",
+      "marca": "GREAT WALL",
+      "modelo": "TANK 300",
+      "version": "5P 2,0 T 8AT 4X4",
+      "precios": {
+        "0": {
+          "ars": 79562700,
+          "usd": 51900,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 69720824.67,
+          "usd": 45479.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2331": {
+      "id": "2331",
+      "marcaId": "23",
+      "modeloId": "261",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 5 PICK -UP",
+      "version": "C/S 2,0 Td 4X2 Standard",
+      "precios": {
+        "2018": {
+          "ars": 21798938.07,
+          "usd": 14219.79,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23542848.21,
+          "usd": 15357.37,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24309915.42,
+          "usd": 15857.74,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25525415.79,
+          "usd": 16650.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2332": {
+      "id": "2332",
+      "marcaId": "23",
+      "modeloId": "261",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 5 PICK -UP",
+      "version": "D/C 2,0 Td 4X2 Standard",
+      "precios": {
+        "2018": {
+          "ars": 22916832.33,
+          "usd": 14949.01,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24750177.69,
+          "usd": 16144.93,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25556581.68,
+          "usd": 16670.96,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26834413.83,
+          "usd": 17504.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2333": {
+      "id": "2333",
+      "marcaId": "23",
+      "modeloId": "261",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 5 PICK -UP",
+      "version": "D/C 2,0 Td 4X2 Luxury",
+      "precios": {
+        "2018": {
+          "ars": 24034726.59,
+          "usd": 15678.23,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25957507.17,
+          "usd": 16932.49,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26803247.94,
+          "usd": 17484.18,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 28143396.54,
+          "usd": 18358.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2334": {
+      "id": "2334",
+      "marcaId": "23",
+      "modeloId": "261",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 5 PICK -UP",
+      "version": "D/C 2,0 Td 4X4 Standard",
+      "precios": {
+        "2018": {
+          "ars": 25152620.85,
+          "usd": 16407.45,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 27164836.65,
+          "usd": 17720.05,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 28049898.87,
+          "usd": 18297.39,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29452394.58,
+          "usd": 19212.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2335": {
+      "id": "2335",
+      "marcaId": "23",
+      "modeloId": "262",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 6 PICK -UP",
+      "version": "D/C 2,0 Td 4X4 Dignity",
+      "precios": {
+        "2018": {
+          "ars": 27608287.56,
+          "usd": 18009.32,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 29579480.28,
+          "usd": 19295.16,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 30543231.39,
+          "usd": 19923.83,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 32070390.66,
+          "usd": 20920.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2336": {
+      "id": "2336",
+      "marcaId": "23",
+      "modeloId": "263",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 7 PICK -UP",
+      "version": "D/C 2,0 Td 2wd M21",
+      "precios": {
+        "2022": {
+          "ars": 29988346.71,
+          "usd": 19561.87,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32387415.06,
+          "usd": 21126.82,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 34092019.08,
+          "usd": 22238.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2337": {
+      "id": "2337",
+      "marcaId": "23",
+      "modeloId": "263",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 7 PICK -UP",
+      "version": "D/C 2,0 Td 4WD M21",
+      "precios": {
+        "2022": {
+          "ars": 32750107.53,
+          "usd": 21363.41,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 35370127.17,
+          "usd": 23072.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2338": {
+      "id": "2338",
+      "marcaId": "24",
+      "modeloId": "264",
+      "marca": "HAVAL",
+      "modelo": "H 1",
+      "version": "5P 1,5 Comfort",
+      "precios": {
+        "2018": {
+          "ars": 20713436.1,
+          "usd": 13511.7,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22370517.12,
+          "usd": 14592.64,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23099381.97,
+          "usd": 15068.09,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24254344.17,
+          "usd": 15821.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2339": {
+      "id": "2339",
+      "marcaId": "24",
+      "modeloId": "264",
+      "marca": "HAVAL",
+      "modelo": "H 1",
+      "version": "5P 1,5 Luxury",
+      "precios": {
+        "2018": {
+          "ars": 22047529.35,
+          "usd": 14381.95,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23811337.83,
+          "usd": 15532.51,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24587143.14,
+          "usd": 16038.58,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25816501.83,
+          "usd": 16840.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2340": {
+      "id": "2340",
+      "marcaId": "24",
+      "modeloId": "264",
+      "marca": "HAVAL",
+      "modelo": "H 1",
+      "version": "5P 1,5 Elite",
+      "precios": {
+        "2018": {
+          "ars": 22890112.14,
+          "usd": 14931.58,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24721311.3,
+          "usd": 16126.1,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25526780.16,
+          "usd": 16651.52,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26803109.97,
+          "usd": 17484.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2341": {
+      "id": "2341",
+      "marcaId": "24",
+      "modeloId": "265",
+      "marca": "HAVAL",
+      "modelo": "H 2",
+      "version": "5P 1,5 T Comfort MT",
+      "precios": {
+        "2018": {
+          "ars": 23513521.92,
+          "usd": 15338.24,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25394604.9,
+          "usd": 16565.3,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26221995.66,
+          "usd": 17105.02,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27533093.91,
+          "usd": 17960.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2342": {
+      "id": "2342",
+      "marcaId": "24",
+      "modeloId": "265",
+      "marca": "HAVAL",
+      "modelo": "H 2",
+      "version": "5P 1,5 T Luxury AT",
+      "precios": {
+        "2018": {
+          "ars": 25027405.41,
+          "usd": 16325.77,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 27029595.39,
+          "usd": 17631.83,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27910257.9,
+          "usd": 18206.3,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 29305778.46,
+          "usd": 19116.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2343": {
+      "id": "2343",
+      "marcaId": "24",
+      "modeloId": "265",
+      "marca": "HAVAL",
+      "modelo": "H 2",
+      "version": "5P 1,5 T Luxury AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 30113608.14,
+          "usd": 19643.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2344": {
+      "id": "2344",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T Dignity AT",
+      "precios": {
+        "2018": {
+          "ars": 28421636.04,
+          "usd": 18539.88,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 30695366.31,
+          "usd": 20023.07,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 31695464.85,
+          "usd": 20675.45,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 33280249.59,
+          "usd": 21709.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2345": {
+      "id": "2345",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T 7AT All New 2021",
+      "precios": {
+        "2021": {
+          "ars": 36551181.03,
+          "usd": 23842.91,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 38378746.98,
+          "usd": 25035.06,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 41449039.38,
+          "usd": 27037.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2346": {
+      "id": "2346",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T 7AT 2wd 3° Generacion",
+      "precios": {
+        "0": {
+          "ars": 55954500,
+          "usd": 36500,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 44764964.37,
+          "usd": 29200.89,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 47121016.74,
+          "usd": 30737.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 49601073.48,
+          "usd": 32355.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2347": {
+      "id": "2347",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T 7AT 4WD 3° Generacion",
+      "precios": {
+        "0": {
+          "ars": 61166700,
+          "usd": 39900,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 48346159.68,
+          "usd": 31536.96,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 50890694.4,
+          "usd": 33196.8,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 53569152,
+          "usd": 34944,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2348": {
+      "id": "2348",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T 7AT 4WD Gt",
+      "precios": {
+        "0": {
+          "ars": 68065200,
+          "usd": 44400,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 53112563.28,
+          "usd": 34646.16,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 55907958.12,
+          "usd": 36469.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2349": {
+      "id": "2349",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 1,5 T AT Deluxe Hybrid",
+      "precios": {
+        "0": {
+          "ars": 51355500,
+          "usd": 33500,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 42634278.33,
+          "usd": 27811.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "2350": {
+      "id": "2350",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 1,5 T AT Supreme Hybrid",
+      "precios": {
+        "0": {
+          "ars": 54421500,
+          "usd": 35500,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 45179610.21,
+          "usd": 29471.37,
+          "cotizacion": 1533
+        }
+      }
+    },
     "5847": {
       "id": "5847",
       "marcaId": "6",
@@ -47009,6 +55006,96 @@
         "0": {
           "ars": 51968700,
           "usd": 33900,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5848": {
+      "id": "5848",
+      "marcaId": "64",
+      "modeloId": "625",
+      "marca": "GAC",
+      "modelo": "AION",
+      "version": "4P Es Electrico",
+      "precios": {
+        "2025": {
+          "ars": 41940181.92,
+          "usd": 27358.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5849": {
+      "id": "5849",
+      "marcaId": "64",
+      "modeloId": "626",
+      "marca": "GAC",
+      "modelo": "EMKOO",
+      "version": "5P 2,0 Atdht Ge Hybrid",
+      "precios": {
+        "0": {
+          "ars": 51815400,
+          "usd": 33800,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5850": {
+      "id": "5850",
+      "marcaId": "64",
+      "modeloId": "627",
+      "marca": "GAC",
+      "modelo": "GS3 EMZOOM",
+      "version": "5P 1,5 T 7wdct Gb",
+      "precios": {
+        "2025": {
+          "ars": 44285687.25,
+          "usd": 28888.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5851": {
+      "id": "5851",
+      "marcaId": "64",
+      "modeloId": "627",
+      "marca": "GAC",
+      "modelo": "GS3 EMZOOM",
+      "version": "5P 1,5 T 7wdct Gl Plus",
+      "precios": {
+        "2025": {
+          "ars": 46616506.44,
+          "usd": 30408.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5852": {
+      "id": "5852",
+      "marcaId": "64",
+      "modeloId": "627",
+      "marca": "GAC",
+      "modelo": "GS3 EMZOOM",
+      "version": "5P 1,5 T 7wdct Gl R Style",
+      "precios": {
+        "2025": {
+          "ars": 49070011.62,
+          "usd": 32009.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5853": {
+      "id": "5853",
+      "marcaId": "64",
+      "modeloId": "628",
+      "marca": "GAC",
+      "modelo": "GS8",
+      "version": "5P 2,0 T 8AT",
+      "precios": {
+        "2025": {
+          "ars": 84840987.63,
+          "usd": 55343.11,
           "cotizacion": 1533
         }
       }
@@ -48044,6 +56131,111 @@
         }
       }
     },
+    "6373": {
+      "id": "6373",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,0 Td 4X2  MT 2026",
+      "precios": {
+        "0": {
+          "ars": 44867552.73,
+          "usd": 29267.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6374": {
+      "id": "6374",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/chasis  2,0 Td 4X4  MT 2026",
+      "precios": {
+        "0": {
+          "ars": 47552326.29,
+          "usd": 31019.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6375": {
+      "id": "6375",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "C/S 2,0 Td 4X4  MT 2026",
+      "precios": {
+        "0": {
+          "ars": 49953954.75,
+          "usd": 32585.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6376": {
+      "id": "6376",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Td Xl 4X2 AT 2026",
+      "precios": {
+        "0": {
+          "ars": 48338034.78,
+          "usd": 31531.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6377": {
+      "id": "6377",
+      "marcaId": "19",
+      "modeloId": "239",
+      "marca": "FORD",
+      "modelo": "RANGER PICK - UP",
+      "version": "D/C 2,0 Td Xl 4X4 AT 2026",
+      "precios": {
+        "0": {
+          "ars": 52283792.82,
+          "usd": 34105.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6378": {
+      "id": "6378",
+      "marcaId": "20",
+      "modeloId": "645",
+      "marca": "FORTHING",
+      "modelo": "FRIDAY REEV",
+      "version": "5P 1,5 Electrico",
+      "precios": {
+        "0": {
+          "ars": 58031715,
+          "usd": 37855,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6379": {
+      "id": "6379",
+      "marcaId": "20",
+      "modeloId": "646",
+      "marca": "FORTHING",
+      "modelo": "V9",
+      "version": "Van 1,5 T AT 7asientos Hibrido",
+      "precios": {
+        "0": {
+          "ars": 111755700,
+          "usd": 72900,
+          "cotizacion": 1533
+        }
+      }
+    },
     "6490": {
       "id": "6490",
       "marcaId": "2",
@@ -48600,6 +56792,51 @@
         "0": {
           "ars": 51815400,
           "usd": 33800,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6665": {
+      "id": "6665",
+      "marcaId": "20",
+      "modeloId": "245",
+      "marca": "FORTHING",
+      "modelo": "U-TOUR",
+      "version": "Van 1,5 T 7AT 7asientos Hybrid",
+      "precios": {
+        "0": {
+          "ars": 67386081,
+          "usd": 43957,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6666": {
+      "id": "6666",
+      "marcaId": "64",
+      "modeloId": "626",
+      "marca": "GAC",
+      "modelo": "EMKOO",
+      "version": "5P 2,0 Atdht Gl Hybrid",
+      "precios": {
+        "0": {
+          "ars": 55188000,
+          "usd": 36000,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6667": {
+      "id": "6667",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 1,5 T AT Pro Hev 2wd",
+      "precios": {
+        "0": {
+          "ars": 54421500,
+          "usd": 35500,
           "cotizacion": 1533
         }
       }
