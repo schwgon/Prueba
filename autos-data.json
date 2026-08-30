@@ -1,12 +1,12 @@
 {
   "version": 5,
-  "actualizado": "2026-08-29T22:04:10.301Z",
+  "actualizado": "2026-08-30T00:07:20.872Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6139,
-  "versionesProcesadas": 1048,
-  "versionesConValuacion": 847,
+  "versionesProcesadas": 1398,
+  "versionesConValuacion": 1186,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -22913,6 +22913,121 @@
         }
       }
     },
+    "1016": {
+      "id": "1016",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ls",
+      "precios": {
+        "2013": {
+          "ars": 7997569.02,
+          "usd": 5216.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1017": {
+      "id": "1017",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Lt",
+      "precios": {
+        "2013": {
+          "ars": 8283197.58,
+          "usd": 5403.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1018": {
+      "id": "1018",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Lt 2013",
+      "precios": {
+        "2013": {
+          "ars": 9345857.85,
+          "usd": 6096.45,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9486035.37,
+          "usd": 6187.89,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9660383.46,
+          "usd": 6301.62,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 9952649.91,
+          "usd": 6492.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1019": {
+      "id": "1019",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz 2013",
+      "precios": {
+        "2013": {
+          "ars": 10019749.32,
+          "usd": 6536.04,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10153641.54,
+          "usd": 6623.38,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10322532.15,
+          "usd": 6733.55,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10634834.91,
+          "usd": 6937.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1020": {
+      "id": "1020",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz AT 2014",
+      "precios": {
+        "2014": {
+          "ars": 10387608,
+          "usd": 6776,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10551930.27,
+          "usd": 6883.19,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10871162.19,
+          "usd": 7091.43,
+          "cotizacion": 1533
+        }
+      }
+    },
     "1021": {
       "id": "1021",
       "marcaId": "9",
@@ -22963,6 +23078,81 @@
         }
       }
     },
+    "1023": {
+      "id": "1023",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Lt 2016",
+      "precios": {
+        "2016": {
+          "ars": 11157204.66,
+          "usd": 7278.02,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11628142.26,
+          "usd": 7585.22,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12567610.65,
+          "usd": 8198.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1024": {
+      "id": "1024",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz 2016",
+      "precios": {
+        "2016": {
+          "ars": 12049778.58,
+          "usd": 7860.26,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12558397.32,
+          "usd": 8192.04,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13573013.37,
+          "usd": 8853.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1025": {
+      "id": "1025",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz AT 2016",
+      "precios": {
+        "2016": {
+          "ars": 12496065.54,
+          "usd": 8151.38,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13023524.85,
+          "usd": 8495.45,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14075730.06,
+          "usd": 9181.82,
+          "cotizacion": 1533
+        }
+      }
+    },
     "1026": {
       "id": "1026",
       "marcaId": "9",
@@ -22984,6 +23174,8015 @@
         "2020": {
           "ars": 13146103.53,
           "usd": 8575.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1027": {
+      "id": "1027",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Joy Ls + Lv 2019",
+      "precios": {
+        "2018": {
+          "ars": 11711353.5,
+          "usd": 7639.5,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12648261.78,
+          "usd": 8250.66,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 13313967.03,
+          "usd": 8684.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1028": {
+      "id": "1028",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Lt 2019",
+      "precios": {
+        "2018": {
+          "ars": 12513020.52,
+          "usd": 8162.44,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13514069.52,
+          "usd": 8815.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14225335.53,
+          "usd": 9279.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1029": {
+      "id": "1029",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz 2019",
+      "precios": {
+        "2018": {
+          "ars": 13614557.67,
+          "usd": 8880.99,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14703723.51,
+          "usd": 9591.47,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15477612.57,
+          "usd": 10096.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1030": {
+      "id": "1030",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz AT 2019",
+      "precios": {
+        "2018": {
+          "ars": 14387986.83,
+          "usd": 9385.51,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15539024.55,
+          "usd": 10136.35,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16356864.72,
+          "usd": 10669.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1031": {
+      "id": "1031",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td 4X2 Elec",
+      "precios": {
+        "2013": {
+          "ars": 11904204.9,
+          "usd": 7765.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1032": {
+      "id": "1032",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Std 4X2 Elec",
+      "precios": {
+        "2013": {
+          "ars": 12632977.77,
+          "usd": 8240.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1033": {
+      "id": "1033",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Dlx 4X2 Elec",
+      "precios": {
+        "2013": {
+          "ars": 15186035.97,
+          "usd": 9906.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1034": {
+      "id": "1034",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Std 4X4 A/c Elec",
+      "precios": {
+        "2013": {
+          "ars": 14650083.84,
+          "usd": 9556.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1035": {
+      "id": "1035",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Dlx 4X4 Elec",
+      "precios": {
+        "2013": {
+          "ars": 16969681.47,
+          "usd": 11069.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1036": {
+      "id": "1036",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ltd 4X4 Elec",
+      "precios": {
+        "2013": {
+          "ars": 18678654.54,
+          "usd": 12184.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1037": {
+      "id": "1037",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi Ls 4X2 Cv180",
+      "precios": {
+        "2013": {
+          "ars": 13374535.86,
+          "usd": 8724.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1038": {
+      "id": "1038",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi Ls 4X4 Cv180",
+      "precios": {
+        "2013": {
+          "ars": 15847096.23,
+          "usd": 10337.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1039": {
+      "id": "1039",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ls 4X2 Cv180 2012",
+      "precios": {
+        "2013": {
+          "ars": 15887444.79,
+          "usd": 10363.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1040": {
+      "id": "1040",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Lt 4X2 Cv180 2012",
+      "precios": {
+        "2013": {
+          "ars": 17862531.33,
+          "usd": 11652.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1041": {
+      "id": "1041",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ltz 4X2 Cv180 2012",
+      "precios": {
+        "2013": {
+          "ars": 19488799.05,
+          "usd": 12712.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1042": {
+      "id": "1042",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ls 4X4 Cv180 2012",
+      "precios": {
+        "2013": {
+          "ars": 18854888.22,
+          "usd": 12299.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1043": {
+      "id": "1043",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Lt 4X4 Cv180 2012",
+      "precios": {
+        "2013": {
+          "ars": 20244200.13,
+          "usd": 13205.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1044": {
+      "id": "1044",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ltz 4X4 AT Cv180 2012",
+      "precios": {
+        "2013": {
+          "ars": 24312874.11,
+          "usd": 15859.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1045": {
+      "id": "1045",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi 6v Ls 4X2 Cv200",
+      "precios": {
+        "2013": {
+          "ars": 13515571.86,
+          "usd": 8816.42,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13664318.85,
+          "usd": 8913.45,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13812038.73,
+          "usd": 9009.81,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14238304.71,
+          "usd": 9287.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1046": {
+      "id": "1046",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi 6v Ls 4X4 Cv200",
+      "precios": {
+        "2013": {
+          "ars": 16063264.56,
+          "usd": 10478.32,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 16240050.12,
+          "usd": 10593.64,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 16415609.28,
+          "usd": 10708.16,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16922235.12,
+          "usd": 11038.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1047": {
+      "id": "1047",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ls 4X2 Cv200 2014",
+      "precios": {
+        "2013": {
+          "ars": 15528998.73,
+          "usd": 10129.81,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 15699897.57,
+          "usd": 10241.29,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15869631.33,
+          "usd": 10352.01,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16359394.17,
+          "usd": 10671.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1048": {
+      "id": "1048",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X2 Cv200 2014",
+      "precios": {
+        "2013": {
+          "ars": 17719042.53,
+          "usd": 11558.41,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 17914040.13,
+          "usd": 11685.61,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 18107704.02,
+          "usd": 11811.94,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 18666543.84,
+          "usd": 12176.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1049": {
+      "id": "1049",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ltz 4X2 Cv200 2014",
+      "precios": {
+        "2013": {
+          "ars": 20107778.46,
+          "usd": 13116.62,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 20329067.01,
+          "usd": 13260.97,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 20548837.89,
+          "usd": 13404.33,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 21183024.66,
+          "usd": 13818.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1050": {
+      "id": "1050",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ls 4X4 Cv200 2014",
+      "precios": {
+        "2013": {
+          "ars": 18633032.46,
+          "usd": 12154.62,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 18838101.87,
+          "usd": 12288.39,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 19041745.59,
+          "usd": 12421.23,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 19629405.81,
+          "usd": 12804.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1051": {
+      "id": "1051",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X4 Cv200 2014",
+      "precios": {
+        "2013": {
+          "ars": 20597893.89,
+          "usd": 13436.33,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 20824578.6,
+          "usd": 13584.2,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 21049699.65,
+          "usd": 13731.05,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 21699339.06,
+          "usd": 14154.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1052": {
+      "id": "1052",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ltz 4X4 Cv200 2014",
+      "precios": {
+        "2014": {
+          "ars": 24020806.95,
+          "usd": 15669.15,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 24280481.82,
+          "usd": 15838.54,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25029827.55,
+          "usd": 16327.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1053": {
+      "id": "1053",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ltz 4X4 AT Cv200 2014",
+      "precios": {
+        "2013": {
+          "ars": 25061882.58,
+          "usd": 16348.26,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 25337684.61,
+          "usd": 16528.17,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 25611601.05,
+          "usd": 16706.85,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 26402031.18,
+          "usd": 17222.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1054": {
+      "id": "1054",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X2",
+      "precios": {
+        "2015": {
+          "ars": 22187476.92,
+          "usd": 14473.24,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 22872222.03,
+          "usd": 14919.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1055": {
+      "id": "1055",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X4",
+      "precios": {
+        "2015": {
+          "ars": 26110439.25,
+          "usd": 17032.25,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 26916245.37,
+          "usd": 17557.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1056": {
+      "id": "1056",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X4 AT",
+      "precios": {
+        "2015": {
+          "ars": 27503369.04,
+          "usd": 17940.88,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28352175.81,
+          "usd": 18494.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1057": {
+      "id": "1057",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi 6v Ls 4X2 Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 15123780.84,
+          "usd": 9865.48,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15730772.19,
+          "usd": 10261.43,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16440934.44,
+          "usd": 10724.68,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17322578.07,
+          "usd": 11299.79,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17852459.52,
+          "usd": 11645.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1058": {
+      "id": "1058",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi 6v Ls 4X4 Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 18320392.44,
+          "usd": 11950.68,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 19055665.23,
+          "usd": 12430.31,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20394710.07,
+          "usd": 13303.79,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21826041.51,
+          "usd": 14237.47,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22764007.56,
+          "usd": 14849.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1059": {
+      "id": "1059",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ls 4X2 Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 18069057.09,
+          "usd": 11786.73,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 18794242.74,
+          "usd": 12259.78,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20114922.24,
+          "usd": 13121.28,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21526631.28,
+          "usd": 14042.16,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22451720.13,
+          "usd": 14645.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1060": {
+      "id": "1060",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X2 Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 19739168.61,
+          "usd": 12876.17,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 20531392.35,
+          "usd": 13392.95,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21974144.64,
+          "usd": 14334.08,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23516327.31,
+          "usd": 15340.07,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24526926.9,
+          "usd": 15999.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1061": {
+      "id": "1061",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ltz 4X2 Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 21912395.4,
+          "usd": 14293.8,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 22791831.51,
+          "usd": 14867.47,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 24393417.93,
+          "usd": 15912.21,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26105395.68,
+          "usd": 17028.96,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27227260.41,
+          "usd": 17760.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1062": {
+      "id": "1062",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ls 4X4 Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 20078528.82,
+          "usd": 13097.54,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 20884380.93,
+          "usd": 13623.21,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22351921.83,
+          "usd": 14580.51,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 23920625.4,
+          "usd": 15603.8,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24948593.88,
+          "usd": 16274.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1063": {
+      "id": "1063",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X4 Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 21234993.36,
+          "usd": 13851.92,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 22087249.38,
+          "usd": 14407.86,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23639319.9,
+          "usd": 15420.3,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25298378.49,
+          "usd": 16502.53,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 26385551.43,
+          "usd": 17211.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1064": {
+      "id": "1064",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X4 AT Cv200 2020",
+      "precios": {
+        "2020": {
+          "ars": 27584449.41,
+          "usd": 17993.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1065": {
+      "id": "1065",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ltz 4X4 Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 24655944.18,
+          "usd": 16083.46,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 25645495.68,
+          "usd": 16728.96,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 27447613.83,
+          "usd": 17904.51,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 29373935.64,
+          "usd": 19161.08,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 30636269.16,
+          "usd": 19984.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1066": {
+      "id": "1066",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ltz 4X4 AT Cv200 2016",
+      "precios": {
+        "2016": {
+          "ars": 25671434.04,
+          "usd": 16745.88,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 26701748.01,
+          "usd": 17417.97,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 28578094.02,
+          "usd": 18641.94,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 30583748.58,
+          "usd": 19950.26,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 31898066.13,
+          "usd": 20807.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1067": {
+      "id": "1067",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X2 2016",
+      "precios": {
+        "2016": {
+          "ars": 25693110.66,
+          "usd": 16760.02,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 26743139.01,
+          "usd": 17444.97,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 28622382.39,
+          "usd": 18670.83,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 30631148.94,
+          "usd": 19981.18,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 31947505.38,
+          "usd": 20839.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1068": {
+      "id": "1068",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X4 2016",
+      "precios": {
+        "2016": {
+          "ars": 26106422.79,
+          "usd": 17029.63,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 27154197.63,
+          "usd": 17713.11,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 29062322.73,
+          "usd": 18957.81,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 31101963.9,
+          "usd": 20288.3,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 32438555.94,
+          "usd": 21160.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1069": {
+      "id": "1069",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X4 AT 2016",
+      "precios": {
+        "2016": {
+          "ars": 26671149.33,
+          "usd": 17398.01,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 27741581.91,
+          "usd": 18096.27,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 29690990.7,
+          "usd": 19367.9,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 31774751.61,
+          "usd": 20727.17,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 33140256.03,
+          "usd": 21617.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1070": {
+      "id": "1070",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td 100 Years  4X2",
+      "precios": {
+        "2017": {
+          "ars": 28191272.13,
+          "usd": 18389.61,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 30172276.05,
+          "usd": 19681.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1071": {
+      "id": "1071",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td 100 Years  4X4",
+      "precios": {
+        "2017": {
+          "ars": 28599831.96,
+          "usd": 18656.12,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 30609548.97,
+          "usd": 19967.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1072": {
+      "id": "1072",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Midnight 4X4",
+      "precios": {
+        "2018": {
+          "ars": 24586437.96,
+          "usd": 16038.12,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26311967.43,
+          "usd": 17163.71,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27442708.23,
+          "usd": 17901.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1073": {
+      "id": "1073",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Midnight 4X4 AT",
+      "precios": {
+        "2018": {
+          "ars": 27220714.5,
+          "usd": 17756.5,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 29131108.44,
+          "usd": 19002.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 30383002.23,
+          "usd": 19819.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1074": {
+      "id": "1074",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td Ls MT 4X2 2021",
+      "precios": {
+        "2020": {
+          "ars": 19449171,
+          "usd": 12687,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21496446.51,
+          "usd": 14022.47,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22571278.8,
+          "usd": 14723.6,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23699842.74,
+          "usd": 15459.78,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24947198.85,
+          "usd": 16273.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1075": {
+      "id": "1075",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td Ls MT 4X4 2021",
+      "precios": {
+        "2020": {
+          "ars": 23291896.11,
+          "usd": 15193.67,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 25743684.33,
+          "usd": 16793.01,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 27030867.78,
+          "usd": 17632.66,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 28382406.57,
+          "usd": 18514.29,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 29876223.09,
+          "usd": 19488.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1076": {
+      "id": "1076",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ls MT 4X2 2021",
+      "precios": {
+        "2020": {
+          "ars": 21985703.46,
+          "usd": 14341.62,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24299996.91,
+          "usd": 15851.27,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 25514991.39,
+          "usd": 16643.83,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26790738.66,
+          "usd": 17476.02,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 28200792.06,
+          "usd": 18395.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1077": {
+      "id": "1077",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Lt MT 4X2 2021",
+      "precios": {
+        "2020": {
+          "ars": 24779733.93,
+          "usd": 16164.21,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27388118.1,
+          "usd": 17865.7,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 28757531.67,
+          "usd": 18758.99,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 30195409.02,
+          "usd": 19696.94,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 31784639.46,
+          "usd": 20733.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1078": {
+      "id": "1078",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Lt MT 4X4 2021",
+      "precios": {
+        "2020": {
+          "ars": 28788207,
+          "usd": 18779,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 31818549.42,
+          "usd": 20755.74,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 33409481.49,
+          "usd": 21793.53,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 35079945.6,
+          "usd": 22883.2,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 36926260.14,
+          "usd": 24087.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1079": {
+      "id": "1079",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Lt AT 4X4 2021",
+      "precios": {
+        "2020": {
+          "ars": 29072808.45,
+          "usd": 18964.65,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 32133105.69,
+          "usd": 20960.93,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 33739751.01,
+          "usd": 22008.97,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 35426740.86,
+          "usd": 23109.42,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 37291313.43,
+          "usd": 24325.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1080": {
+      "id": "1080",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ltz MT 4X2 2021",
+      "precios": {
+        "2020": {
+          "ars": 27762277.41,
+          "usd": 18109.77,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 30684635.31,
+          "usd": 20016.07,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 32218861.71,
+          "usd": 21016.87,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 33829799.43,
+          "usd": 22067.71,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 35610317.61,
+          "usd": 23229.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1081": {
+      "id": "1081",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ltz AT 4X4 2021",
+      "precios": {
+        "2020": {
+          "ars": 33135212.46,
+          "usd": 21614.62,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 36623140.05,
+          "usd": 23889.85,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 38454293.22,
+          "usd": 25084.34,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 40377012.48,
+          "usd": 26338.56,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 42502118.4,
+          "usd": 27724.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1082": {
+      "id": "1082",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ltz AT 4X4 2025",
+      "precios": {
+        "0": {
+          "ars": 70699921.11,
+          "usd": 46118.67,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 43777175.82,
+          "usd": 28556.54,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 45966039.21,
+          "usd": 29984.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1083": {
+      "id": "1083",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc AT 4X4 2021",
+      "precios": {
+        "2020": {
+          "ars": 33804428.28,
+          "usd": 22051.16,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 37362781.89,
+          "usd": 24372.33,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 39230926.35,
+          "usd": 25590.95,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 41192476.5,
+          "usd": 26870.5,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 43360506.42,
+          "usd": 28284.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1084": {
+      "id": "1084",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc AT 4X4 2025",
+      "precios": {
+        "0": {
+          "ars": 74681060.79,
+          "usd": 48715.63,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 45090496.92,
+          "usd": 29413.24,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 47345018.7,
+          "usd": 30883.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1085": {
+      "id": "1085",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Wt MT 4X2 2025",
+      "precios": {
+        "0": {
+          "ars": 53099824.05,
+          "usd": 34637.85,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 29046808.77,
+          "usd": 18947.69,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 30499142.31,
+          "usd": 19895.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1086": {
+      "id": "1086",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Wt MT 4X4 2025",
+      "precios": {
+        "0": {
+          "ars": 60139819.95,
+          "usd": 39230.15,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 32520218.85,
+          "usd": 21213.45,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 34146241.29,
+          "usd": 22274.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1087": {
+      "id": "1087",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Wt AT 4X4 2025",
+      "precios": {
+        "0": {
+          "ars": 58609839.96,
+          "usd": 38232.12,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 35465219.16,
+          "usd": 23134.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1088": {
+      "id": "1088",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Z71 AT 4X4 2022",
+      "precios": {
+        "2022": {
+          "ars": 36162427.56,
+          "usd": 23589.32,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 37970555.07,
+          "usd": 24768.79,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 39969004.53,
+          "usd": 26072.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1089": {
+      "id": "1089",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Z71 AT 4X4 2025",
+      "precios": {
+        "0": {
+          "ars": 65354641.38,
+          "usd": 42631.86,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 41144570.25,
+          "usd": 26839.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1090": {
+      "id": "1090",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Midnight Ss AT 4X4 2024",
+      "precios": {
+        "2024": {
+          "ars": 39185304.27,
+          "usd": 25561.19,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 41144570.25,
+          "usd": 26839.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1091": {
+      "id": "1091",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td 4X2 Wt",
+      "precios": {
+        "0": {
+          "ars": 49783975.71,
+          "usd": 32474.87,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 28894934.46,
+          "usd": 18848.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1092": {
+      "id": "1092",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td 4X4 Wt",
+      "precios": {
+        "0": {
+          "ars": 53260436.46,
+          "usd": 34742.62,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 34520109.33,
+          "usd": 22518.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1093": {
+      "id": "1093",
+      "marcaId": "9",
+      "modeloId": "139",
+      "marca": "CHEVROLET",
+      "modelo": "SILVERADO",
+      "version": "D/C V8 AT 4X4 Z71 Trail Boss",
+      "precios": {
+        "0": {
+          "ars": 109368864.99,
+          "usd": 71343.03,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 69445988.43,
+          "usd": 45300.71,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 75001672.41,
+          "usd": 48924.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1094": {
+      "id": "1094",
+      "marcaId": "9",
+      "modeloId": "139",
+      "marca": "CHEVROLET",
+      "modelo": "SILVERADO",
+      "version": "D/C V8 AT 4X4 High Country",
+      "precios": {
+        "0": {
+          "ars": 142681430.22,
+          "usd": 93073.34,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 80020668.42,
+          "usd": 52198.74,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 86422307.79,
+          "usd": 56374.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1095": {
+      "id": "1095",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Lt",
+      "precios": {
+        "2013": {
+          "ars": 8828730.96,
+          "usd": 5759.12,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9441547.71,
+          "usd": 6158.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1096": {
+      "id": "1096",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Lt Mx",
+      "precios": {
+        "2015": {
+          "ars": 10381430.01,
+          "usd": 6771.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10904274.99,
+          "usd": 7113.03,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11558528.73,
+          "usd": 7539.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1097": {
+      "id": "1097",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Ltz",
+      "precios": {
+        "2013": {
+          "ars": 9456463.8,
+          "usd": 6168.6,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10112863.74,
+          "usd": 6596.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1098": {
+      "id": "1098",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Ltz Mx",
+      "precios": {
+        "2014": {
+          "ars": 10337984.79,
+          "usd": 6743.63,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10984144.29,
+          "usd": 7165.13,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11537342.67,
+          "usd": 7525.99,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12229584.15,
+          "usd": 7977.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1099": {
+      "id": "1099",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Ltz AT",
+      "precios": {
+        "2013": {
+          "ars": 10168113.06,
+          "usd": 6632.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10873906.26,
+          "usd": 7093.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1100": {
+      "id": "1100",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Ltz AT Mx",
+      "precios": {
+        "2014": {
+          "ars": 11046874.65,
+          "usd": 7206.05,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11294224.2,
+          "usd": 7367.4,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11863043.85,
+          "usd": 7738.45,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12574831.08,
+          "usd": 8202.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1101": {
+      "id": "1101",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Effect",
+      "precios": {
+        "2014": {
+          "ars": 10382411.13,
+          "usd": 6772.61,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11015678.1,
+          "usd": 7185.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1102": {
+      "id": "1102",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Lt",
+      "precios": {
+        "2013": {
+          "ars": 9007800.69,
+          "usd": 5875.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1103": {
+      "id": "1103",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz",
+      "precios": {
+        "2013": {
+          "ars": 9669290.19,
+          "usd": 6307.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1104": {
+      "id": "1104",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz AT",
+      "precios": {
+        "2013": {
+          "ars": 10291596.21,
+          "usd": 6713.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1105": {
+      "id": "1105",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Lt 2013",
+      "precios": {
+        "2013": {
+          "ars": 9353783.46,
+          "usd": 6101.62,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10003039.62,
+          "usd": 6525.14,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10761399.39,
+          "usd": 7019.83,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11303376.21,
+          "usd": 7373.37,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11981590.74,
+          "usd": 7815.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1106": {
+      "id": "1106",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz 2013",
+      "precios": {
+        "2013": {
+          "ars": 10087814.52,
+          "usd": 6580.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10788027.6,
+          "usd": 7037.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1107": {
+      "id": "1107",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz Mx 2014",
+      "precios": {
+        "2014": {
+          "ars": 11001973.08,
+          "usd": 7176.76,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11372836.44,
+          "usd": 7418.68,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11945626.56,
+          "usd": 7792.32,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12662365.38,
+          "usd": 8259.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1108": {
+      "id": "1108",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz AT 2013",
+      "precios": {
+        "2013": {
+          "ars": 10735491.69,
+          "usd": 7002.93,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11480667.66,
+          "usd": 7489.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1109": {
+      "id": "1109",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz AT Mx 2014",
+      "precios": {
+        "2014": {
+          "ars": 11566944.9,
+          "usd": 7545.3,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11748436.77,
+          "usd": 7663.69,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12340144.11,
+          "usd": 8049.67,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13080552.45,
+          "usd": 8532.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1110": {
+      "id": "1110",
+      "marcaId": "9",
+      "modeloId": "141",
+      "marca": "CHEVROLET",
+      "modelo": "SPARK",
+      "version": "5P 1,2 Lt Full",
+      "precios": {
+        "2013": {
+          "ars": 8491348.32,
+          "usd": 5539.04,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8906852.64,
+          "usd": 5810.08,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9376149.93,
+          "usd": 6116.21,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 9783008.13,
+          "usd": 6381.61,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 10369993.83,
+          "usd": 6764.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1111": {
+      "id": "1111",
+      "marcaId": "9",
+      "modeloId": "142",
+      "marca": "CHEVROLET",
+      "modelo": "SPARK EUV",
+      "version": "5P Electrico",
+      "precios": {
+        "0": {
+          "ars": 37011326.31,
+          "usd": 24143.07,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26093591.58,
+          "usd": 17021.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1112": {
+      "id": "1112",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt",
+      "precios": {
+        "2013": {
+          "ars": 8480448.69,
+          "usd": 5531.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1113": {
+      "id": "1113",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz",
+      "precios": {
+        "2013": {
+          "ars": 9394929.18,
+          "usd": 6128.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1114": {
+      "id": "1114",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a",
+      "precios": {
+        "2013": {
+          "ars": 10298418.06,
+          "usd": 6717.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1115": {
+      "id": "1115",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a AT",
+      "precios": {
+        "2013": {
+          "ars": 10873216.41,
+          "usd": 7092.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1116": {
+      "id": "1116",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,3 Diesel Ltz",
+      "precios": {
+        "2013": {
+          "ars": 9780064.77,
+          "usd": 6379.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1117": {
+      "id": "1117",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,3 Diesel Ltz 7a",
+      "precios": {
+        "2013": {
+          "ars": 10541321.91,
+          "usd": 6876.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1118": {
+      "id": "1118",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt 2014",
+      "precios": {
+        "2013": {
+          "ars": 8836043.37,
+          "usd": 5763.89,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9358505.1,
+          "usd": 6104.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1119": {
+      "id": "1119",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt My Link 2014",
+      "precios": {
+        "2014": {
+          "ars": 9638737.5,
+          "usd": 6287.5,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10195415.79,
+          "usd": 6650.63,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10922011.8,
+          "usd": 7124.6,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11462716.23,
+          "usd": 7477.31,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12501093.78,
+          "usd": 8154.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1120": {
+      "id": "1120",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 2014",
+      "precios": {
+        "2013": {
+          "ars": 9742291.65,
+          "usd": 6355.05,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10318347.06,
+          "usd": 6730.82,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10892486.22,
+          "usd": 7105.34,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11668782.09,
+          "usd": 7611.73,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12246447.15,
+          "usd": 7988.55,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13355817.93,
+          "usd": 8712.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1121": {
+      "id": "1121",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a 2014",
+      "precios": {
+        "2013": {
+          "ars": 10421993.19,
+          "usd": 6798.43,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11038228.53,
+          "usd": 7200.41,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11490632.16,
+          "usd": 7495.52,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12309545.43,
+          "usd": 8029.71,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12918928.26,
+          "usd": 8427.22,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14089235.79,
+          "usd": 9190.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1122": {
+      "id": "1122",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a AT 2014",
+      "precios": {
+        "2013": {
+          "ars": 11101694.73,
+          "usd": 7241.81,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11758125.33,
+          "usd": 7670.01,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12138248.01,
+          "usd": 7917.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13003319.91,
+          "usd": 8482.27,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13647041.94,
+          "usd": 8902.18,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14883299.13,
+          "usd": 9708.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1123": {
+      "id": "1123",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ",
+      "precios": {
+        "2015": {
+          "ars": 11666038.02,
+          "usd": 7609.94,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12497445.24,
+          "usd": 8152.28,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13116133.38,
+          "usd": 8555.86,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14304300.36,
+          "usd": 9330.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1124": {
+      "id": "1124",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ AT",
+      "precios": {
+        "2015": {
+          "ars": 12304655.16,
+          "usd": 8026.52,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13181577.15,
+          "usd": 8598.55,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13834129.26,
+          "usd": 9024.22,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15087341.43,
+          "usd": 9841.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1125": {
+      "id": "1125",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,3 Diesel Ltz 2014",
+      "precios": {
+        "2013": {
+          "ars": 10573039.68,
+          "usd": 6896.96,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11198212.41,
+          "usd": 7304.77,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11528681.22,
+          "usd": 7520.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1126": {
+      "id": "1126",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,3 Diesel Ltz 7a 2014",
+      "precios": {
+        "2013": {
+          "ars": 11139452.52,
+          "usd": 7266.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11798105.97,
+          "usd": 7696.09,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12146280.93,
+          "usd": 7923.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1127": {
+      "id": "1127",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt 2018",
+      "precios": {
+        "2018": {
+          "ars": 13571694.99,
+          "usd": 8853.03,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14942028.36,
+          "usd": 9746.92,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16137400.44,
+          "usd": 10526.68,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16636499.25,
+          "usd": 10852.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1128": {
+      "id": "1128",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 2018",
+      "precios": {
+        "2018": {
+          "ars": 14677693.17,
+          "usd": 9574.49,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16159705.59,
+          "usd": 10541.23,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17452484.49,
+          "usd": 11384.53,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17992253.79,
+          "usd": 11736.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1129": {
+      "id": "1129",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a 2018",
+      "precios": {
+        "2018": {
+          "ars": 15083769.54,
+          "usd": 9839.38,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16606789.71,
+          "usd": 10832.87,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17935333.5,
+          "usd": 11699.5,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18490034.22,
+          "usd": 12061.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1130": {
+      "id": "1130",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a AT 2018",
+      "precios": {
+        "2018": {
+          "ars": 15713188.68,
+          "usd": 10249.96,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17299767.03,
+          "usd": 11284.91,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18683744.1,
+          "usd": 12187.7,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19261593.12,
+          "usd": 12564.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1131": {
+      "id": "1131",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ 2018",
+      "precios": {
+        "2018": {
+          "ars": 15286800.06,
+          "usd": 9971.82,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16830331.77,
+          "usd": 10978.69,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18176750.34,
+          "usd": 11856.98,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18738916.77,
+          "usd": 12223.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1132": {
+      "id": "1132",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ AT 2017",
+      "precios": {
+        "2018": {
+          "ars": 15597907.08,
+          "usd": 10174.76,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17172834.63,
+          "usd": 11202.11,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18546663.24,
+          "usd": 12098.28,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19120265.85,
+          "usd": 12472.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1133": {
+      "id": "1133",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ 7a AT 2018",
+      "precios": {
+        "2018": {
+          "ars": 15995858.55,
+          "usd": 10434.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17610966.03,
+          "usd": 11487.91,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19019854.35,
+          "usd": 12406.95,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19608097.11,
+          "usd": 12790.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1134": {
+      "id": "1134",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt 2021",
+      "precios": {
+        "0": {
+          "ars": 35866635.21,
+          "usd": 23396.37,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17743263.93,
+          "usd": 11574.21,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 18630426.36,
+          "usd": 12152.92,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 19561938.48,
+          "usd": 12760.56,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 20540038.47,
+          "usd": 13398.59,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 21564496.38,
+          "usd": 14066.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1135": {
+      "id": "1135",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Premier 7a 2021",
+      "precios": {
+        "2021": {
+          "ars": 18952785.6,
+          "usd": 12363.2,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 19900424.88,
+          "usd": 12981.36,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 20895433.86,
+          "usd": 13630.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1136": {
+      "id": "1136",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Premier 7a AT 2025",
+      "precios": {
+        "0": {
+          "ars": 42052228.89,
+          "usd": 27431.33,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24064850.04,
+          "usd": 15697.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1137": {
+      "id": "1137",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Activ 7a AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 19663300.44,
+          "usd": 12826.68,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20646459.33,
+          "usd": 13468.01,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21678781.53,
+          "usd": 14141.41,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22762719.84,
+          "usd": 14848.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1138": {
+      "id": "1138",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz 4X2 Fwd",
+      "precios": {
+        "2013": {
+          "ars": 10552022.25,
+          "usd": 6883.25,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11194901.13,
+          "usd": 7302.61,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12005490.21,
+          "usd": 7831.37,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12850188.54,
+          "usd": 8382.38,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13740784.89,
+          "usd": 8963.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1139": {
+      "id": "1139",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz AT 4X4 AWD",
+      "precios": {
+        "2013": {
+          "ars": 11871030.78,
+          "usd": 7743.66,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12538284.36,
+          "usd": 8178.92,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13381495.68,
+          "usd": 8728.96,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14323018.29,
+          "usd": 9343.13,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15315697.11,
+          "usd": 9990.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1140": {
+      "id": "1140",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz + AT 4X4 AWD",
+      "precios": {
+        "2013": {
+          "ars": 13058124.66,
+          "usd": 8518.02,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13713742.77,
+          "usd": 8945.69,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14545104,
+          "usd": 9488,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15568488.81,
+          "usd": 10155.57,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16647490.86,
+          "usd": 10859.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1141": {
+      "id": "1141",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz 4X2 Fwd 2017",
+      "precios": {
+        "2017": {
+          "ars": 14500585.68,
+          "usd": 9458.96,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15657970.02,
+          "usd": 10213.94,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17218073.46,
+          "usd": 11231.62,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18078975.6,
+          "usd": 11793.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1142": {
+      "id": "1142",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz AT 4X4 AWD 2017",
+      "precios": {
+        "2017": {
+          "ars": 16293229.89,
+          "usd": 10628.33,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17593704.45,
+          "usd": 11476.65,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19346674.62,
+          "usd": 12620.14,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20314012.95,
+          "usd": 13251.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1143": {
+      "id": "1143",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz + AT 4X4 AWD 2017",
+      "precios": {
+        "2017": {
+          "ars": 16995941.76,
+          "usd": 11086.72,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18352508.79,
+          "usd": 11971.63,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20181086.52,
+          "usd": 13164.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21190137.78,
+          "usd": 13822.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1144": {
+      "id": "1144",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz 4X2 Fwd Midnight",
+      "precios": {
+        "2019": {
+          "ars": 17255984.55,
+          "usd": 11256.35,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18118787.61,
+          "usd": 11819.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1145": {
+      "id": "1145",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T MT",
+      "precios": {
+        "2020": {
+          "ars": 18554282.25,
+          "usd": 12103.25,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18789153.18,
+          "usd": 12256.46,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 19778060.82,
+          "usd": 12901.54,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 20766968.46,
+          "usd": 13546.62,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 21389979.66,
+          "usd": 13953.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1146": {
+      "id": "1146",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT",
+      "precios": {
+        "2020": {
+          "ars": 19672145.85,
+          "usd": 12832.45,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19957069.23,
+          "usd": 13018.31,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21007434.84,
+          "usd": 13703.48,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22057815.78,
+          "usd": 14388.66,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22719550.56,
+          "usd": 14820.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1147": {
+      "id": "1147",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Ltz",
+      "precios": {
+        "2020": {
+          "ars": 20689061.4,
+          "usd": 13495.8,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21021553.77,
+          "usd": 13712.69,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22127950.53,
+          "usd": 14434.41,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23234347.29,
+          "usd": 15156.13,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 23931371.73,
+          "usd": 15610.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1148": {
+      "id": "1148",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Premier",
+      "precios": {
+        "2020": {
+          "ars": 22172438.19,
+          "usd": 14463.43,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24239397.42,
+          "usd": 15811.74,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 25515160.02,
+          "usd": 16643.94,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26790922.62,
+          "usd": 17476.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1149": {
+      "id": "1149",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T MT 2024",
+      "precios": {
+        "2023": {
+          "ars": 21389979.66,
+          "usd": 13953.02,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22031678.13,
+          "usd": 14371.61,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 23191239.33,
+          "usd": 15128.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1150": {
+      "id": "1150",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT 2024",
+      "precios": {
+        "2023": {
+          "ars": 22719550.56,
+          "usd": 14820.32,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 23401137.69,
+          "usd": 15264.93,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24632765.22,
+          "usd": 16068.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1151": {
+      "id": "1151",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Ltz 2024",
+      "precios": {
+        "2023": {
+          "ars": 23991358.02,
+          "usd": 15649.94,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24711101.52,
+          "usd": 16119.44,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26011683.39,
+          "usd": 16967.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1152": {
+      "id": "1152",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Premier 2024",
+      "precios": {
+        "2023": {
+          "ars": 27588910.44,
+          "usd": 17996.68,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 28416577.14,
+          "usd": 18536.58,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 29912187.27,
+          "usd": 19512.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1153": {
+      "id": "1153",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Premier 170 2024",
+      "precios": {
+        "2024": {
+          "ars": 29269078.44,
+          "usd": 19092.68,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 30809559.48,
+          "usd": 20097.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1154": {
+      "id": "1154",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Rs",
+      "precios": {
+        "2024": {
+          "ars": 28416577.14,
+          "usd": 18536.58,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 29912187.27,
+          "usd": 19512.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1155": {
+      "id": "1155",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT 2026",
+      "precios": {
+        "0": {
+          "ars": 39995418.12,
+          "usd": 26089.64,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25112471.58,
+          "usd": 16381.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1156": {
+      "id": "1156",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Ltz 2026",
+      "precios": {
+        "0": {
+          "ars": 45661248.15,
+          "usd": 29785.55,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 30104011.56,
+          "usd": 19637.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1157": {
+      "id": "1157",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Premier 2026",
+      "precios": {
+        "0": {
+          "ars": 49683855.48,
+          "usd": 32409.56,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 32755871.61,
+          "usd": 21367.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1158": {
+      "id": "1158",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Rs 2026",
+      "precios": {
+        "0": {
+          "ars": 50105537.79,
+          "usd": 32684.63,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 33034034.46,
+          "usd": 21548.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1159": {
+      "id": "1159",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Ctdi 4X4 Lt AT",
+      "precios": {
+        "2013": {
+          "ars": 20936487.6,
+          "usd": 13657.2,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 22242879.54,
+          "usd": 14509.38,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 23486433.81,
+          "usd": 15320.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1160": {
+      "id": "1160",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Ctdi 4X4 Ltz AT",
+      "precios": {
+        "2013": {
+          "ars": 24273230.73,
+          "usd": 15833.81,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 25600686.09,
+          "usd": 16699.73,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 26862605.7,
+          "usd": 17522.9,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28085801.73,
+          "usd": 18320.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1161": {
+      "id": "1161",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Ctdi 4X4 Ltz 7a 6AT 2016",
+      "precios": {
+        "2016": {
+          "ars": 30031178.73,
+          "usd": 19589.81,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 32804191.77,
+          "usd": 21398.69,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 33826886.73,
+          "usd": 22065.81,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 35921562.6,
+          "usd": 23432.2,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 39178635.72,
+          "usd": 25556.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1162": {
+      "id": "1162",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Td 4X4 Premier 7a 6AT 2021",
+      "precios": {
+        "2021": {
+          "ars": 42610777.44,
+          "usd": 27795.68,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 44741325.51,
+          "usd": 29185.47,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 46978386.42,
+          "usd": 30644.74,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 48387734.64,
+          "usd": 31564.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1163": {
+      "id": "1163",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Ctdi 4X4 High Country 7a 8AT 2025",
+      "precios": {
+        "0": {
+          "ars": 80624977.02,
+          "usd": 52592.94,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 53615218.65,
+          "usd": 34974.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1164": {
+      "id": "1164",
+      "marcaId": "9",
+      "modeloId": "146",
+      "marca": "CHEVROLET",
+      "modelo": "VECTRA",
+      "version": "5P 2,0 Gt Gls",
+      "precios": {}
+    },
+    "1165": {
+      "id": "1165",
+      "marcaId": "10",
+      "modeloId": "147",
+      "marca": "CHRYSLER",
+      "modelo": "300",
+      "version": "4P 3,6 C",
+      "precios": {
+        "2013": {
+          "ars": 35039918.97,
+          "usd": 22857.09,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 36877112.16,
+          "usd": 24055.52,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 39033675.24,
+          "usd": 25462.28,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 41255850.72,
+          "usd": 26911.84,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 44560784.1,
+          "usd": 29067.7,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 46906074.81,
+          "usd": 30597.57,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 49374818.01,
+          "usd": 32207.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1166": {
+      "id": "1166",
+      "marcaId": "10",
+      "modeloId": "148",
+      "marca": "CHRYSLER",
+      "modelo": "TOWN & COUNTRY",
+      "version": "Van 3,6 Ltd Atx Full",
+      "precios": {
+        "2013": {
+          "ars": 19817366.94,
+          "usd": 12927.18,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 21085019.97,
+          "usd": 13754.09,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 22616241.69,
+          "usd": 14752.93,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 24009493.41,
+          "usd": 15661.77,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 25910536.05,
+          "usd": 16901.85,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 28128495.78,
+          "usd": 18348.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1167": {
+      "id": "1167",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P Vti Live Pk",
+      "precios": {
+        "0": {
+          "ars": 33783150.24,
+          "usd": 22037.28,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 20026468.14,
+          "usd": 13063.58,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 21246598.17,
+          "usd": 13859.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1168": {
+      "id": "1168",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P Vti Feel",
+      "precios": {
+        "0": {
+          "ars": 35763188.37,
+          "usd": 23328.89,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 22609864.41,
+          "usd": 14748.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1169": {
+      "id": "1169",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P T200 CVT Shine",
+      "precios": {
+        "0": {
+          "ars": 41662003.74,
+          "usd": 27176.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25452291.69,
+          "usd": 16602.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1170": {
+      "id": "1170",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P T200 CVT Shine Bitono",
+      "precios": {
+        "0": {
+          "ars": 41914810.77,
+          "usd": 27341.69,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25622699.97,
+          "usd": 16714.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1171": {
+      "id": "1171",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P T200 CVT Dark Edition",
+      "precios": {
+        "0": {
+          "ars": 42228278.61,
+          "usd": 27546.17,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25799930.1,
+          "usd": 16829.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1172": {
+      "id": "1172",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P T200 CVT Dark Edition Bitono",
+      "precios": {
+        "0": {
+          "ars": 42481085.64,
+          "usd": 27711.08,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25970338.38,
+          "usd": 16940.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1173": {
+      "id": "1173",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I",
+      "precios": {
+        "2013": {
+          "ars": 7635474.42,
+          "usd": 4980.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1174": {
+      "id": "1174",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Full",
+      "precios": {
+        "2013": {
+          "ars": 8406174.84,
+          "usd": 5483.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1175": {
+      "id": "1175",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Full Seg",
+      "precios": {
+        "2013": {
+          "ars": 8637228.6,
+          "usd": 5634.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1176": {
+      "id": "1176",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Club",
+      "precios": {
+        "2014": {
+          "ars": 9123986.76,
+          "usd": 5951.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9488181.57,
+          "usd": 6189.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1177": {
+      "id": "1177",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Business",
+      "precios": {
+        "2014": {
+          "ars": 10641733.41,
+          "usd": 6941.77,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11066512.38,
+          "usd": 7218.86,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11515604.73,
+          "usd": 7511.81,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12112754.22,
+          "usd": 7901.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1178": {
+      "id": "1178",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Business Mixto",
+      "precios": {
+        "2014": {
+          "ars": 11765851.65,
+          "usd": 7675.05,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12235516.86,
+          "usd": 7981.42,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12782322.63,
+          "usd": 8338.11,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13445161.17,
+          "usd": 8770.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1179": {
+      "id": "1179",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business 2017",
+      "precios": {
+        "2017": {
+          "ars": 13336701.42,
+          "usd": 8699.74,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14531061.72,
+          "usd": 9478.84,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15826124.79,
+          "usd": 10323.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1180": {
+      "id": "1180",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business 2020",
+      "precios": {
+        "2019": {
+          "ars": 16617428.73,
+          "usd": 10839.81,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17288223.54,
+          "usd": 11277.38,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18198135.69,
+          "usd": 11870.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1181": {
+      "id": "1181",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business 2022",
+      "precios": {
+        "2022": {
+          "ars": 19261516.47,
+          "usd": 12564.59,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 20224593.06,
+          "usd": 13192.82,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 21235821.18,
+          "usd": 13852.46,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 22297622.97,
+          "usd": 14545.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1182": {
+      "id": "1182",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business Mixto 2017",
+      "precios": {
+        "2017": {
+          "ars": 14599218.9,
+          "usd": 9523.3,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15906637.95,
+          "usd": 10376.15,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17324295.03,
+          "usd": 11300.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1183": {
+      "id": "1183",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business Mixto 2020",
+      "precios": {
+        "2019": {
+          "ars": 18190501.35,
+          "usd": 11865.95,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18924808.35,
+          "usd": 12344.95,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19920844.44,
+          "usd": 12994.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1184": {
+      "id": "1184",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel",
+      "precios": {}
+    },
+    "1185": {
+      "id": "1185",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel PLC",
+      "precios": {}
+    },
+    "1186": {
+      "id": "1186",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel PLC Full",
+      "precios": {
+        "2013": {
+          "ars": 9660168.84,
+          "usd": 6301.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1187": {
+      "id": "1187",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel PLC Full Seg",
+      "precios": {
+        "2013": {
+          "ars": 9891222.6,
+          "usd": 6452.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1188": {
+      "id": "1188",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel Business",
+      "precios": {
+        "2013": {
+          "ars": 11369877.75,
+          "usd": 7416.75,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11915733.06,
+          "usd": 7772.82,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12391376.97,
+          "usd": 8083.09,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12839902.11,
+          "usd": 8375.67,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13505730,
+          "usd": 8810,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1189": {
+      "id": "1189",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel Business Mixto",
+      "precios": {
+        "2014": {
+          "ars": 13039866.63,
+          "usd": 8506.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13560381.45,
+          "usd": 8845.65,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14049040.53,
+          "usd": 9164.41,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14777568.12,
+          "usd": 9639.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1190": {
+      "id": "1190",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business",
+      "precios": {
+        "2017": {
+          "ars": 14484443.19,
+          "usd": 9448.43,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15781591.14,
+          "usd": 10294.58,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17188103.31,
+          "usd": 11212.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1191": {
+      "id": "1191",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business 2020",
+      "precios": {
+        "2019": {
+          "ars": 18047503.11,
+          "usd": 11772.67,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18776030.7,
+          "usd": 12247.9,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19764233.16,
+          "usd": 12892.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1192": {
+      "id": "1192",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business 2022",
+      "precios": {
+        "0": {
+          "ars": 39662036.61,
+          "usd": 25872.17,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20849903.76,
+          "usd": 13600.72,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21892405.08,
+          "usd": 14280.76,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22987013.07,
+          "usd": 14994.79,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24136364.49,
+          "usd": 15744.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1193": {
+      "id": "1193",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business Mixto",
+      "precios": {
+        "2017": {
+          "ars": 15792858.69,
+          "usd": 10301.93,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17207189.16,
+          "usd": 11224.52,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18740741.04,
+          "usd": 12224.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1194": {
+      "id": "1194",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business Mixto 2020",
+      "precios": {
+        "2019": {
+          "ars": 19677787.29,
+          "usd": 12836.13,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20472111.24,
+          "usd": 13354.28,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21549595.62,
+          "usd": 14057.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1195": {
+      "id": "1195",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,4 I X",
+      "precios": {
+        "2013": {
+          "ars": 10107728.19,
+          "usd": 6593.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1196": {
+      "id": "1196",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,4 I X 2014",
+      "precios": {
+        "2013": {
+          "ars": 10193821.47,
+          "usd": 6649.59,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11331399.45,
+          "usd": 7391.65,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11783726.43,
+          "usd": 7686.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1197": {
+      "id": "1197",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Sx",
+      "precios": {
+        "2013": {
+          "ars": 10902481.38,
+          "usd": 7111.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1198": {
+      "id": "1198",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Sx Pack",
+      "precios": {
+        "2013": {
+          "ars": 11395402.2,
+          "usd": 7433.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1199": {
+      "id": "1199",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Sx 2014",
+      "precios": {
+        "2013": {
+          "ars": 11132140.11,
+          "usd": 7261.67,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12730338.6,
+          "usd": 8304.2,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13238497.44,
+          "usd": 8635.68,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13771000.32,
+          "usd": 8983.04,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14586510.33,
+          "usd": 9515.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1200": {
+      "id": "1200",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Sx Pack 2014",
+      "precios": {
+        "2013": {
+          "ars": 11630748.36,
+          "usd": 7586.92,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13084185.66,
+          "usd": 8535.02,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13606478.76,
+          "usd": 8875.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1201": {
+      "id": "1201",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 110 Xtr",
+      "precios": {
+        "2014": {
+          "ars": 13577934.3,
+          "usd": 8857.1,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14119926.45,
+          "usd": 9210.65,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14687872.29,
+          "usd": 9581.13,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15557681.16,
+          "usd": 10148.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1202": {
+      "id": "1202",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Vti 115 Xtr 2017",
+      "precios": {
+        "2017": {
+          "ars": 17295030.06,
+          "usd": 11281.82,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18843865.95,
+          "usd": 12292.15,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20523298.11,
+          "usd": 13387.67,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21351761.97,
+          "usd": 13928.09,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22475542.95,
+          "usd": 14661.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1203": {
+      "id": "1203",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Vti 115 Xtr 2021",
+      "precios": {
+        "2021": {
+          "ars": 23505044.43,
+          "usd": 15332.71,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 24680303.55,
+          "usd": 16099.35,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 25914322.56,
+          "usd": 16904.32,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 27210029.49,
+          "usd": 17749.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1204": {
+      "id": "1204",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel Sx",
+      "precios": {
+        "2013": {
+          "ars": 11310428.01,
+          "usd": 7377.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1205": {
+      "id": "1205",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel Sx Pack",
+      "precios": {
+        "2013": {
+          "ars": 11786179.23,
+          "usd": 7688.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1206": {
+      "id": "1206",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel Sx 2014",
+      "precios": {
+        "2013": {
+          "ars": 12230396.64,
+          "usd": 7978.08,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13217679.3,
+          "usd": 8622.1,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13745307.24,
+          "usd": 8966.28,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14298183.69,
+          "usd": 9326.93,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15144920.91,
+          "usd": 9879.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1207": {
+      "id": "1207",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel Sx Pack 2014",
+      "precios": {
+        "2013": {
+          "ars": 12555591.93,
+          "usd": 8190.21,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13552532.49,
+          "usd": 8840.53,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14093528.19,
+          "usd": 9193.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1208": {
+      "id": "1208",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel 92 Xtr",
+      "precios": {
+        "2014": {
+          "ars": 13878570.93,
+          "usd": 9053.21,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14432566.47,
+          "usd": 9414.59,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15013098.24,
+          "usd": 9793.28,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15902161.59,
+          "usd": 10373.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1209": {
+      "id": "1209",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel 92 Xtr 2017",
+      "precios": {
+        "2017": {
+          "ars": 17931623.64,
+          "usd": 11697.08,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19537471.8,
+          "usd": 12744.6,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21278714.52,
+          "usd": 13880.44,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22137669.75,
+          "usd": 14440.75,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23302811.07,
+          "usd": 15200.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1210": {
+      "id": "1210",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel 92 Xtr 2021",
+      "precios": {
+        "2020": {
+          "ars": 22945407.45,
+          "usd": 14967.65,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24064696.74,
+          "usd": 15697.78,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 25267933.11,
+          "usd": 16482.67,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26531324.4,
+          "usd": 17306.8,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 27857890.62,
+          "usd": 18172.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1211": {
+      "id": "1211",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,4 I Sx",
+      "precios": {
+        "2013": {
+          "ars": 8634070.62,
+          "usd": 5632.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1212": {
+      "id": "1212",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,4 I Sx Pack Seg",
+      "precios": {
+        "2013": {
+          "ars": 9162373.08,
+          "usd": 5976.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1213": {
+      "id": "1213",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,4 I Sx Pack Premium",
+      "precios": {}
+    },
+    "1214": {
+      "id": "1214",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,4 I Xtr",
+      "precios": {}
+    },
+    "1215": {
+      "id": "1215",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 I Sx",
+      "precios": {}
+    },
+    "1216": {
+      "id": "1216",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 I Exclusive",
+      "precios": {
+        "2013": {
+          "ars": 9781735.74,
+          "usd": 6380.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1217": {
+      "id": "1217",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,5 I 90 Origine",
+      "precios": {
+        "2013": {
+          "ars": 9227540.91,
+          "usd": 6019.27,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9773150.94,
+          "usd": 6375.18,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9965741.73,
+          "usd": 6500.81,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10168526.97,
+          "usd": 6633.09,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1218": {
+      "id": "1218",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,5 I 90 Origine Pack Zenith",
+      "precios": {
+        "2013": {
+          "ars": 9619498.35,
+          "usd": 6274.95,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10188287.34,
+          "usd": 6645.98,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10389049.02,
+          "usd": 6776.94,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10600449.72,
+          "usd": 6914.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1219": {
+      "id": "1219",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,5 I 90 Tendance",
+      "precios": {
+        "2013": {
+          "ars": 9576712.32,
+          "usd": 6247.04,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10142971.86,
+          "usd": 6616.42,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10342844.4,
+          "usd": 6746.8,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10553294.64,
+          "usd": 6884.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1220": {
+      "id": "1220",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,5 I 90 Tendance Pack Secure",
+      "precios": {
+        "2013": {
+          "ars": 9949997.82,
+          "usd": 6490.54,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10538332.56,
+          "usd": 6874.32,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10745992.74,
+          "usd": 7009.78,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10964644.53,
+          "usd": 7152.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1221": {
+      "id": "1221",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,5 I 90 Soundtrack",
+      "precios": {
+        "2015": {
+          "ars": 10847155.41,
+          "usd": 7075.77,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11067876.75,
+          "usd": 7219.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1222": {
+      "id": "1222",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Exclusive",
+      "precios": {
+        "2013": {
+          "ars": 10877616.12,
+          "usd": 7095.64,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11520801.6,
+          "usd": 7515.2,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11747823.57,
+          "usd": 7663.29,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11986864.26,
+          "usd": 7819.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1223": {
+      "id": "1223",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Exclusive Pack My Way",
+      "precios": {
+        "2013": {
+          "ars": 11531409.96,
+          "usd": 7522.12,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12213242.37,
+          "usd": 7966.89,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12453923.37,
+          "usd": 8123.89,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12707328.27,
+          "usd": 8289.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1224": {
+      "id": "1224",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,5 90 Start",
+      "precios": {
+        "2016": {
+          "ars": 11079772.83,
+          "usd": 7227.51,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11628280.23,
+          "usd": 7585.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1225": {
+      "id": "1225",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,5 90 Live",
+      "precios": {
+        "2016": {
+          "ars": 11869666.41,
+          "usd": 7742.77,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12457265.31,
+          "usd": 8126.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1226": {
+      "id": "1226",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,5 90 Feel",
+      "precios": {
+        "2016": {
+          "ars": 12851690.88,
+          "usd": 8383.36,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13487916.54,
+          "usd": 8798.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1227": {
+      "id": "1227",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Infinit AT",
+      "precios": {
+        "2017": {
+          "ars": 16045742.37,
+          "usd": 10466.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1228": {
+      "id": "1228",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Live",
+      "precios": {
+        "2017": {
+          "ars": 11665516.8,
+          "usd": 7609.6,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12717614.7,
+          "usd": 8295.9,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13863394.23,
+          "usd": 9043.31,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15429951.6,
+          "usd": 10065.2,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 16210156.62,
+          "usd": 10574.14,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 16793033.88,
+          "usd": 10954.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1229": {
+      "id": "1229",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Feel",
+      "precios": {
+        "2016": {
+          "ars": 12932311.35,
+          "usd": 8435.95,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13606540.08,
+          "usd": 8875.76,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14833691.25,
+          "usd": 9676.25,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16170114.66,
+          "usd": 10548.02,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17997328.02,
+          "usd": 11739.94,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18907362.81,
+          "usd": 12333.57,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 19587217.65,
+          "usd": 12777.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1230": {
+      "id": "1230",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Feel 6AT",
+      "precios": {
+        "2017": {
+          "ars": 14460574.38,
+          "usd": 9432.86,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15764758.8,
+          "usd": 10283.6,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17185067.97,
+          "usd": 11210.09,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19126980.39,
+          "usd": 12476.83,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20094119.43,
+          "usd": 13107.71,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20816652.99,
+          "usd": 13579.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1231": {
+      "id": "1231",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Feel Bitono",
+      "precios": {
+        "2020": {
+          "ars": 18362044.05,
+          "usd": 11977.85,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19290505.5,
+          "usd": 12583.5,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 19984142.01,
+          "usd": 13035.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1232": {
+      "id": "1232",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Feel Bitono 6AT",
+      "precios": {
+        "2020": {
+          "ars": 19358432.73,
+          "usd": 12627.81,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20337283.89,
+          "usd": 13266.33,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21068555.55,
+          "usd": 13743.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1233": {
+      "id": "1233",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Origins",
+      "precios": {
+        "2019": {
+          "ars": 15997023.63,
+          "usd": 10435.11,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17804675.91,
+          "usd": 11614.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1234": {
+      "id": "1234",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Shine",
+      "precios": {
+        "2016": {
+          "ars": 14002314.69,
+          "usd": 9133.93,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14732329.29,
+          "usd": 9610.13,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15257964.33,
+          "usd": 9953.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1235": {
+      "id": "1235",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Shine 6AT",
+      "precios": {
+        "2017": {
+          "ars": 15586378.92,
+          "usd": 10167.24,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16142474.67,
+          "usd": 10529.99,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17596816.44,
+          "usd": 11478.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19585255.41,
+          "usd": 12775.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1236": {
+      "id": "1236",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Techno",
+      "precios": {
+        "2016": {
+          "ars": 13528556.37,
+          "usd": 8824.89,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14233874.34,
+          "usd": 9284.98,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15517608.54,
+          "usd": 10122.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1237": {
+      "id": "1237",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Urban Trail",
+      "precios": {
+        "2018": {
+          "ars": 13471942.68,
+          "usd": 8787.96,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14685680.1,
+          "usd": 9579.7,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16345152.6,
+          "usd": 10662.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1238": {
+      "id": "1238",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Urban Trail 6AT",
+      "precios": {
+        "2018": {
+          "ars": 14513968.77,
+          "usd": 9467.69,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15821587.11,
+          "usd": 10320.67,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17609417.7,
+          "usd": 11486.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1239": {
+      "id": "1239",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Live M22",
+      "precios": {
+        "2022": {
+          "ars": 15665098.47,
+          "usd": 10218.59,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 16448354.16,
+          "usd": 10729.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1240": {
+      "id": "1240",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Live Pack M22",
+      "precios": {
+        "2022": {
+          "ars": 16251470.97,
+          "usd": 10601.09,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 17064037.62,
+          "usd": 11131.14,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 18166954.47,
+          "usd": 11850.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1241": {
+      "id": "1241",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Feel M22",
+      "precios": {
+        "2022": {
+          "ars": 17849945.4,
+          "usd": 11643.8,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 18742442.67,
+          "usd": 12225.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1242": {
+      "id": "1242",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Feel Confort M22",
+      "precios": {
+        "2022": {
+          "ars": 17907325.59,
+          "usd": 11681.23,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 18802689.57,
+          "usd": 12265.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1243": {
+      "id": "1243",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech First Edition",
+      "precios": {
+        "2022": {
+          "ars": 18152973.51,
+          "usd": 11841.47,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 19060616.82,
+          "usd": 12433.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1244": {
+      "id": "1244",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Feel Look",
+      "precios": {
+        "2023": {
+          "ars": 19893848.31,
+          "usd": 12977.07,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 20509117.86,
+          "usd": 13378.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1245": {
+      "id": "1245",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 Feel Design",
+      "precios": {
+        "2023": {
+          "ars": 19432323.33,
+          "usd": 12676.01,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 20033335.98,
+          "usd": 13068.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1246": {
+      "id": "1246",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Fell M22",
+      "precios": {
+        "2022": {
+          "ars": 18711859.32,
+          "usd": 12206.04,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 19647449.22,
+          "usd": 12816.34,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1247": {
+      "id": "1247",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Fell Confort M22",
+      "precios": {
+        "2022": {
+          "ars": 19009108.02,
+          "usd": 12399.94,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 19959568.02,
+          "usd": 13019.94,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 20576876.46,
+          "usd": 13422.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1248": {
+      "id": "1248",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Fell 6AT Pack M22",
+      "precios": {
+        "2022": {
+          "ars": 20907099.99,
+          "usd": 13638.03,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21952452.69,
+          "usd": 14319.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1249": {
+      "id": "1249",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Fell 6AT Pack Bitono M22",
+      "precios": {
+        "2022": {
+          "ars": 21030951.06,
+          "usd": 13718.82,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22082512.41,
+          "usd": 14404.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1250": {
+      "id": "1250",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 First Edition 6AT",
+      "precios": {
+        "2022": {
+          "ars": 21154817.46,
+          "usd": 13799.62,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22212556.8,
+          "usd": 14489.6,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22899540.09,
+          "usd": 14937.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1251": {
+      "id": "1251",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti Fell AT Pk Desing",
+      "precios": {
+        "2023": {
+          "ars": 21871878.21,
+          "usd": 14267.37,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22548329.79,
+          "usd": 14708.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1252": {
+      "id": "1252",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti Fell AT Pk Desing Bitono",
+      "precios": {
+        "2023": {
+          "ars": 22657034.82,
+          "usd": 14779.54,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 23357769.12,
+          "usd": 15236.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1253": {
+      "id": "1253",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Fell M26",
+      "precios": {
+        "0": {
+          "ars": 34320589.38,
+          "usd": 22387.86,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 21582984.36,
+          "usd": 14078.92,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 22718937.36,
+          "usd": 14819.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1254": {
+      "id": "1254",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Fell Pk M26",
+      "precios": {
+        "0": {
+          "ars": 34573396.41,
+          "usd": 22552.77,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22188442.71,
+          "usd": 14473.87,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 23356266.78,
+          "usd": 15235.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1255": {
+      "id": "1255",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Fell Pk Bitono M26",
+      "precios": {
+        "0": {
+          "ars": 34826203.44,
+          "usd": 22717.68,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22366531.32,
+          "usd": 14590.04,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 23543706.69,
+          "usd": 15357.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1256": {
+      "id": "1256",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Xtr AT M26",
+      "precios": {
+        "0": {
+          "ars": 34967775.99,
+          "usd": 22810.03,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 23851134.51,
+          "usd": 15558.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1257": {
+      "id": "1257",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,6 Vti 115 Xtr AT M26 Bitono",
+      "precios": {
+        "0": {
+          "ars": 35220567.69,
+          "usd": 22974.93,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24038574.42,
+          "usd": 15680.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1258": {
+      "id": "1258",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P T200 You! CVT",
+      "precios": {
+        "0": {
+          "ars": 36312692.22,
+          "usd": 23687.34,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24788380.05,
+          "usd": 16169.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1259": {
+      "id": "1259",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P T200 You! CVT Bitono",
+      "precios": {
+        "0": {
+          "ars": 36565483.92,
+          "usd": 23852.24,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24975835.29,
+          "usd": 16292.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1260": {
+      "id": "1260",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 16V Sx",
+      "precios": {
+        "2013": {
+          "ars": 9855932.94,
+          "usd": 6429.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1261": {
+      "id": "1261",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 16V Sx High Tech",
+      "precios": {
+        "2013": {
+          "ars": 10190694.15,
+          "usd": 6647.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1262": {
+      "id": "1262",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 16V Exclusive",
+      "precios": {
+        "2013": {
+          "ars": 10848044.55,
+          "usd": 7076.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1263": {
+      "id": "1263",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 16V Exclusive Pack My Way",
+      "precios": {
+        "2013": {
+          "ars": 11570332.83,
+          "usd": 7547.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1264": {
+      "id": "1264",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 Vti 115 Tendance",
+      "precios": {
+        "2013": {
+          "ars": 10730601.42,
+          "usd": 6999.74,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11024140.26,
+          "usd": 7191.22,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11349473.52,
+          "usd": 7403.44,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11804191.98,
+          "usd": 7700.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1265": {
+      "id": "1265",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 Vti 115 Exclusive",
+      "precios": {
+        "2013": {
+          "ars": 11618591.67,
+          "usd": 7578.99,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11936413.23,
+          "usd": 7786.31,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12288665.97,
+          "usd": 8016.09,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12781019.58,
+          "usd": 8337.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1266": {
+      "id": "1266",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 Vti 115 Exclusive Pack My Way",
+      "precios": {
+        "2013": {
+          "ars": 12166056.63,
+          "usd": 7936.11,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12498855.6,
+          "usd": 8153.2,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12867710.73,
+          "usd": 8393.81,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13383258.63,
+          "usd": 8730.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1267": {
+      "id": "1267",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,5 90 Live",
+      "precios": {
+        "2016": {
+          "ars": 12157425.84,
+          "usd": 7930.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1268": {
+      "id": "1268",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Feel",
+      "precios": {
+        "2016": {
+          "ars": 12186046.95,
+          "usd": 7949.15,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12821368.14,
+          "usd": 8363.58,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13977710.04,
+          "usd": 9117.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1269": {
+      "id": "1269",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Feel AT",
+      "precios": {
+        "2017": {
+          "ars": 13551582.03,
+          "usd": 8839.91,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14773781.61,
+          "usd": 9637.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1270": {
+      "id": "1270",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Shine",
+      "precios": {
+        "2016": {
+          "ars": 13154473.71,
+          "usd": 8580.87,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13840276.59,
+          "usd": 9028.23,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15088521.84,
+          "usd": 9842.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1271": {
+      "id": "1271",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Shine AT",
+      "precios": {
+        "2017": {
+          "ars": 14570505.81,
+          "usd": 9504.57,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15884593.41,
+          "usd": 10361.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1272": {
+      "id": "1272",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Shine W",
+      "precios": {
+        "2016": {
+          "ars": 13256694.15,
+          "usd": 8647.55,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13993116.69,
+          "usd": 9127.93,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15255143.61,
+          "usd": 9951.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1273": {
+      "id": "1273",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 Vti 115 Urban Edition",
+      "precios": {
+        "2017": {
+          "ars": 13534596.39,
+          "usd": 8828.83,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14755278.3,
+          "usd": 9625.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1274": {
+      "id": "1274",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Live 2019",
+      "precios": {
+        "2018": {
+          "ars": 14514168.06,
+          "usd": 9467.82,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15821801.73,
+          "usd": 10320.81,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16771111.98,
+          "usd": 10940.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1275": {
+      "id": "1275",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Feel 2019",
+      "precios": {
+        "2018": {
+          "ars": 15020242.02,
+          "usd": 9797.94,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16373482.44,
+          "usd": 10680.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17355890.16,
+          "usd": 11321.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1276": {
+      "id": "1276",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Feel 6AT 2019",
+      "precios": {
+        "2018": {
+          "ars": 16115018.64,
+          "usd": 10512.08,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17566876.95,
+          "usd": 11459.15,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18620891.1,
+          "usd": 12146.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1277": {
+      "id": "1277",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Shine 6AT 2019",
+      "precios": {
+        "2018": {
+          "ars": 18007108.56,
+          "usd": 11746.32,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19629436.47,
+          "usd": 12804.59,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20807194.38,
+          "usd": 13572.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1278": {
+      "id": "1278",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Live 2020",
+      "precios": {
+        "2019": {
+          "ars": 16081277.31,
+          "usd": 10490.07,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17046162.84,
+          "usd": 11119.48,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17898464.85,
+          "usd": 11675.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1279": {
+      "id": "1279",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Feel 2020",
+      "precios": {
+        "2019": {
+          "ars": 18911363.94,
+          "usd": 12336.18,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20046044.55,
+          "usd": 13076.35,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21048350.61,
+          "usd": 13730.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1280": {
+      "id": "1280",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 115 Feel 6AT 2020",
+      "precios": {
+        "2019": {
+          "ars": 19275252.15,
+          "usd": 12573.55,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 20431778.01,
+          "usd": 13327.97,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 21453353.88,
+          "usd": 13994.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1281": {
+      "id": "1281",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 Vti Live 2024",
+      "precios": {
+        "2024": {
+          "ars": 20049125.88,
+          "usd": 13078.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1282": {
+      "id": "1282",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,6 Vti Feel Pk 2024",
+      "precios": {
+        "0": {
+          "ars": 38835320.37,
+          "usd": 25332.89,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 22041780.6,
+          "usd": 14378.2,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 23201878.35,
+          "usd": 15134.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1283": {
+      "id": "1283",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P T200 Feel Pk 2024",
+      "precios": {
+        "0": {
+          "ars": 44361938.67,
+          "usd": 28937.99,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24090313.17,
+          "usd": 15714.49,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25358226.81,
+          "usd": 16541.57,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1284": {
+      "id": "1284",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P T200 Feel 7p 2024",
+      "precios": {
+        "2024": {
+          "ars": 25114924.38,
+          "usd": 16382.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1285": {
+      "id": "1285",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P T200 Shine CVT 2024",
+      "precios": {
+        "0": {
+          "ars": 44493408.75,
+          "usd": 29023.75,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24662428.77,
+          "usd": 16087.69,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25960450.53,
+          "usd": 16934.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1286": {
+      "id": "1286",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P T200 Shine CVT Bitono 2024",
+      "precios": {
+        "0": {
+          "ars": 44746200.45,
+          "usd": 29188.65,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24816219.33,
+          "usd": 16188.01,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26122335.33,
+          "usd": 17040.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1287": {
+      "id": "1287",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P T200 Shine CVT Xtr 2025",
+      "precios": {
+        "0": {
+          "ars": 44958566.94,
+          "usd": 29327.18,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26245373.91,
+          "usd": 17120.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1288": {
+      "id": "1288",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P T200 Shine CVT Xtr 2026 Bitono",
+      "precios": {
+        "0": {
+          "ars": 45211358.64,
+          "usd": 29492.08,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26407274.04,
+          "usd": 17225.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1289": {
+      "id": "1289",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P T200 Shine CVT 7p 2024",
+      "precios": {
+        "0": {
+          "ars": 46333805.91,
+          "usd": 30224.27,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25948155.87,
+          "usd": 16926.39,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 27313844.25,
+          "usd": 17817.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1290": {
+      "id": "1290",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P T200 Shine CVT 7p Bitono 2024",
+      "precios": {
+        "0": {
+          "ars": 46586612.94,
+          "usd": 30389.18,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 26101946.43,
+          "usd": 17026.71,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 27475729.05,
+          "usd": 17922.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1291": {
+      "id": "1291",
+      "marcaId": "11",
+      "modeloId": "153",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "5P 1,6 16V Sx",
+      "precios": {
+        "2013": {
+          "ars": 9360819.93,
+          "usd": 6106.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1292": {
+      "id": "1292",
+      "marcaId": "11",
+      "modeloId": "153",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "5P 1,6 16V Exclusive",
+      "precios": {
+        "2013": {
+          "ars": 10296900.39,
+          "usd": 6716.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1293": {
+      "id": "1293",
+      "marcaId": "11",
+      "modeloId": "153",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "5P 1,6 16V Exclusive Pack My Way",
+      "precios": {
+        "2013": {
+          "ars": 10994568.69,
+          "usd": 7171.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1294": {
+      "id": "1294",
+      "marcaId": "11",
+      "modeloId": "153",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "5P 1,5 I 90 Origine",
+      "precios": {
+        "2013": {
+          "ars": 9615543.21,
+          "usd": 6272.37,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10184102.25,
+          "usd": 6643.25,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10484631.57,
+          "usd": 6839.29,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10904719.56,
+          "usd": 7113.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1295": {
+      "id": "1295",
+      "marcaId": "11",
+      "modeloId": "153",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "5P 1,6 Vti 115 Tendance",
+      "precios": {
+        "2013": {
+          "ars": 10193438.22,
+          "usd": 6649.34,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10796167.83,
+          "usd": 7042.51,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11114771.22,
+          "usd": 7250.34,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11560092.39,
+          "usd": 7540.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1296": {
+      "id": "1296",
+      "marcaId": "11",
+      "modeloId": "153",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "5P 1,6 Vti 115 Exclusive",
+      "precios": {
+        "2013": {
+          "ars": 11216179.17,
+          "usd": 7316.49,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11879385.63,
+          "usd": 7749.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12229952.07,
+          "usd": 7977.79,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12719960.19,
+          "usd": 8297.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1297": {
+      "id": "1297",
+      "marcaId": "11",
+      "modeloId": "153",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "5P 1,6 Vti 115 Exclusive Pack My Way",
+      "precios": {
+        "2013": {
+          "ars": 11769270.24,
+          "usd": 7677.28,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12465175.59,
+          "usd": 8131.23,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12833034.27,
+          "usd": 8371.19,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13347202.47,
+          "usd": 8706.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1298": {
+      "id": "1298",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "4P 2,0 I 16V X Am73",
+      "precios": {}
+    },
+    "1299": {
+      "id": "1299",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "4P 2,0 I 16V X Pack Look",
+      "precios": {}
+    },
+    "1300": {
+      "id": "1300",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "4P 2,0 I 16V Sx Am73",
+      "precios": {
+        "2013": {
+          "ars": 8504118.21,
+          "usd": 5547.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1301": {
+      "id": "1301",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "4P 2,0 I 16V Exclusive Bva AT",
+      "precios": {
+        "2013": {
+          "ars": 9912776.58,
+          "usd": 6466.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1302": {
+      "id": "1302",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "4P 1,6 Diesel Sx",
+      "precios": {
+        "2013": {
+          "ars": 8973676.11,
+          "usd": 5853.67,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9414229.65,
+          "usd": 6141.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1303": {
+      "id": "1303",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 1,6 I 16V X",
+      "precios": {
+        "2013": {
+          "ars": 8819762.91,
+          "usd": 5753.27,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9186548.49,
+          "usd": 5992.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1304": {
+      "id": "1304",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 1,6 I 16V X Pack Look",
+      "precios": {
+        "2013": {
+          "ars": 9093664.02,
+          "usd": 5931.94,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9455160.75,
+          "usd": 6167.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1305": {
+      "id": "1305",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 1,6 I 16V X Pack Look Connet",
+      "precios": {}
+    },
+    "1306": {
+      "id": "1306",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 1,6 I 16V X Pack Plus",
+      "precios": {
+        "2013": {
+          "ars": 9203227.53,
+          "usd": 6003.41,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9562608.72,
+          "usd": 6237.84,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10008098.52,
+          "usd": 6528.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1307": {
+      "id": "1307",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 2,0 I 16V Sx",
+      "precios": {}
+    },
+    "1308": {
+      "id": "1308",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 2,0 I 16V Sx Am73",
+      "precios": {
+        "2013": {
+          "ars": 9477128.64,
+          "usd": 6182.08,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9938653.62,
+          "usd": 6483.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1309": {
+      "id": "1309",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 2,0 I 16V Exclusive",
+      "precios": {
+        "2013": {
+          "ars": 10517974.32,
+          "usd": 6861.04,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10959386.34,
+          "usd": 7148.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1310": {
+      "id": "1310",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 2,0 I 16V Exclusive Bva AT",
+      "precios": {
+        "2013": {
+          "ars": 10791875.43,
+          "usd": 7039.71,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11227998.6,
+          "usd": 7324.2,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11640988.8,
+          "usd": 7593.6,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1311": {
+      "id": "1311",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 1,6 Diesel Sx Am73",
+      "precios": {
+        "2013": {
+          "ars": 9970172.1,
+          "usd": 6503.7,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10422161.82,
+          "usd": 6798.54,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10850880.6,
+          "usd": 7078.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1312": {
+      "id": "1312",
+      "marcaId": "11",
+      "modeloId": "154",
+      "marca": "CITROEN",
+      "modelo": "C 4",
+      "version": "5P 2,0 Diesel Sx",
+      "precios": {}
+    },
+    "1313": {
+      "id": "1313",
+      "marcaId": "11",
+      "modeloId": "155",
+      "marca": "CITROEN",
+      "modelo": "C 4 AIRCROSS",
+      "version": "5P 2,0 I Tendance 150 2wd",
+      "precios": {
+        "2013": {
+          "ars": 14414415.75,
+          "usd": 9402.75,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 15036660.45,
+          "usd": 9808.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1314": {
+      "id": "1314",
+      "marcaId": "11",
+      "modeloId": "155",
+      "marca": "CITROEN",
+      "modelo": "C 4 AIRCROSS",
+      "version": "5P 2,0 I Tendance 150 2wd CVT",
+      "precios": {
+        "2014": {
+          "ars": 15807759.45,
+          "usd": 10311.65,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 16593866.52,
+          "usd": 10824.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1315": {
+      "id": "1315",
+      "marcaId": "11",
+      "modeloId": "155",
+      "marca": "CITROEN",
+      "modelo": "C 4 AIRCROSS",
+      "version": "5P 2,0 I Tendance 150 4WD CVT",
+      "precios": {
+        "2013": {
+          "ars": 17809320.9,
+          "usd": 11617.3,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 18359775.21,
+          "usd": 11976.37,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 19073417.37,
+          "usd": 12441.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1316": {
+      "id": "1316",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,2 T 6AT",
+      "precios": {
+        "2017": {
+          "ars": 15139770.03,
+          "usd": 9875.91,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15790390.56,
+          "usd": 10300.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1317": {
+      "id": "1317",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,2 T 6AT Rip Curl",
+      "precios": {
+        "2017": {
+          "ars": 15303617.07,
+          "usd": 9982.79,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15961289.4,
+          "usd": 10411.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1318": {
+      "id": "1318",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Live",
+      "precios": {
+        "2019": {
+          "ars": 13006002.66,
+          "usd": 8484.02,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 14715358.98,
+          "usd": 9599.06,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 15489861.24,
+          "usd": 10104.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1319": {
+      "id": "1319",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel",
+      "precios": {
+        "2018": {
+          "ars": 14478786.42,
+          "usd": 9444.74,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15240825.39,
+          "usd": 9941.83,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17243919.84,
+          "usd": 11248.48,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18151486.5,
+          "usd": 11840.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1320": {
+      "id": "1320",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack",
+      "precios": {
+        "2018": {
+          "ars": 14810313,
+          "usd": 9661,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15589812.84,
+          "usd": 10169.48,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17638759.32,
+          "usd": 11506.04,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18567113.46,
+          "usd": 12111.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1321": {
+      "id": "1321",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack E6at",
+      "precios": {
+        "2018": {
+          "ars": 15827029.26,
+          "usd": 10324.22,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16318432.41,
+          "usd": 10644.77,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18463145.4,
+          "usd": 12043.8,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19434883.44,
+          "usd": 12677.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1322": {
+      "id": "1322",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Origins",
+      "precios": {
+        "2019": {
+          "ars": 16318432.41,
+          "usd": 10644.77,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 18463145.4,
+          "usd": 12043.8,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19434883.44,
+          "usd": 12677.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1323": {
+      "id": "1323",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 THP 165 Shine E6at",
+      "precios": {
+        "2018": {
+          "ars": 15661373.28,
+          "usd": 10216.16,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16485667.38,
+          "usd": 10753.86,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17913718.2,
+          "usd": 11685.4,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18856543.86,
+          "usd": 12300.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1324": {
+      "id": "1324",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 THP 165 Shine E6at Bitono",
+      "precios": {
+        "2019": {
+          "ars": 16681002.24,
+          "usd": 10881.28,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17971803.57,
+          "usd": 11723.29,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18917695.23,
+          "usd": 12340.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1325": {
+      "id": "1325",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 C-Series",
+      "precios": {
+        "2020": {
+          "ars": 17266516.26,
+          "usd": 11263.22,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18175278.66,
+          "usd": 11856.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1326": {
+      "id": "1326",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 C-Series E6at",
+      "precios": {
+        "2020": {
+          "ars": 17683768.2,
+          "usd": 11535.4,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18614498.49,
+          "usd": 12142.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1327": {
+      "id": "1327",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Rip Curl",
+      "precios": {
+        "2020": {
+          "ars": 17133344.55,
+          "usd": 11176.35,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18035101.14,
+          "usd": 11764.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1328": {
+      "id": "1328",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Rip Curl  E6at",
+      "precios": {
+        "2020": {
+          "ars": 17818672.2,
+          "usd": 11623.4,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18756500.28,
+          "usd": 12235.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1329": {
+      "id": "1329",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel 2021",
+      "precios": {
+        "2021": {
+          "ars": 18643410.87,
+          "usd": 12161.39,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 19575566.85,
+          "usd": 12769.45,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 20554356.69,
+          "usd": 13407.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1330": {
+      "id": "1330",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack 2021",
+      "precios": {
+        "2021": {
+          "ars": 19544722.89,
+          "usd": 12749.33,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20521949.07,
+          "usd": 13386.79,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21548047.29,
+          "usd": 14056.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1331": {
+      "id": "1331",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack Plus 2021",
+      "precios": {
+        "2021": {
+          "ars": 19861318.05,
+          "usd": 12955.85,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20854380.12,
+          "usd": 13603.64,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21897096.06,
+          "usd": 14283.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1332": {
+      "id": "1332",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack Plus Bitono 2021",
+      "precios": {
+        "2021": {
+          "ars": 20012149.92,
+          "usd": 13054.24,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21012769.68,
+          "usd": 13706.96,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22063395.9,
+          "usd": 14392.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1333": {
+      "id": "1333",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack E6at 2021",
+      "precios": {
+        "2021": {
+          "ars": 20521949.07,
+          "usd": 13386.79,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21548047.29,
+          "usd": 14056.13,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22625455.02,
+          "usd": 14758.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1334": {
+      "id": "1334",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack E6at Plus 2021",
+      "precios": {
+        "2021": {
+          "ars": 20766385.92,
+          "usd": 13546.24,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21804702.15,
+          "usd": 14223.55,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22894941.09,
+          "usd": 14934.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1335": {
+      "id": "1335",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack E6at Plus Bitono 2021",
+      "precios": {
+        "2021": {
+          "ars": 20917233.12,
+          "usd": 13644.64,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 21963091.71,
+          "usd": 14326.87,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23061240.93,
+          "usd": 15043.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1336": {
+      "id": "1336",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel Pack E6at Look",
+      "precios": {
+        "2023": {
+          "ars": 23318355.69,
+          "usd": 15210.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1337": {
+      "id": "1337",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 X-Series 2021",
+      "precios": {
+        "2021": {
+          "ars": 21352712.43,
+          "usd": 13928.71,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22420354.95,
+          "usd": 14625.15,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23541376.53,
+          "usd": 15356.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1338": {
+      "id": "1338",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 X-Series E6at 2021",
+      "precios": {
+        "2021": {
+          "ars": 21753270,
+          "usd": 14190,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22840933.5,
+          "usd": 14899.5,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23982987.84,
+          "usd": 15644.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1339": {
+      "id": "1339",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 THP 165 Shine E6at 2021",
+      "precios": {
+        "2021": {
+          "ars": 21849312.45,
+          "usd": 14252.65,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 22941774.24,
+          "usd": 14965.28,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 24088856.82,
+          "usd": 15713.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1340": {
+      "id": "1340",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 THP 165 Shine E6at Bitono 2021",
+      "precios": {
+        "2021": {
+          "ars": 22004268.09,
+          "usd": 14353.73,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 23104486.86,
+          "usd": 15071.42,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 24259709.67,
+          "usd": 15824.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1341": {
+      "id": "1341",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel 2023",
+      "precios": {
+        "2023": {
+          "ars": 22609787.76,
+          "usd": 14748.72,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 23799779.01,
+          "usd": 15524.97,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1342": {
+      "id": "1342",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 23702862.75,
+          "usd": 15461.75,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24950372.16,
+          "usd": 16275.52,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26197896.9,
+          "usd": 17089.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1343": {
+      "id": "1343",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel + AT 2023",
+      "precios": {
+        "2023": {
+          "ars": 24086802.6,
+          "usd": 15712.2,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25354532.28,
+          "usd": 16539.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1344": {
+      "id": "1344",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 Vti 115 Feel + AT Bitono 2023",
+      "precios": {
+        "2023": {
+          "ars": 24269735.49,
+          "usd": 15831.53,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25547092.41,
+          "usd": 16664.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1345": {
+      "id": "1345",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 THP 165 Shine E6at 2023",
+      "precios": {
+        "2023": {
+          "ars": 24119624.13,
+          "usd": 15733.61,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25389086.1,
+          "usd": 16561.7,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26658532.74,
+          "usd": 17389.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1346": {
+      "id": "1346",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 THP 165 Shine E6at Bitono 2023",
+      "precios": {
+        "2023": {
+          "ars": 24406908.33,
+          "usd": 15921.01,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25691485.68,
+          "usd": 16758.96,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 26976063.03,
+          "usd": 17596.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1347": {
+      "id": "1347",
+      "marcaId": "11",
+      "modeloId": "156",
+      "marca": "CITROEN",
+      "modelo": "C 4 CACTUS",
+      "version": "5P 1,6 THP 165 Noir E6at",
+      "precios": {
+        "2023": {
+          "ars": 24584199.78,
+          "usd": 16036.66,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25878113.1,
+          "usd": 16880.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1361": {
+      "id": "1361",
+      "marcaId": "11",
+      "modeloId": "157",
+      "marca": "CITROEN",
+      "modelo": "C 4 LOUNGE",
+      "version": "4P 143 Live",
+      "precios": {
+        "2016": {
+          "ars": 11974263,
+          "usd": 7811,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12256840.89,
+          "usd": 7995.33,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13117037.85,
+          "usd": 8556.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1362": {
+      "id": "1362",
+      "marcaId": "11",
+      "modeloId": "157",
+      "marca": "CITROEN",
+      "modelo": "C 4 LOUNGE",
+      "version": "4P 143 Feel Pack",
+      "precios": {
+        "2016": {
+          "ars": 13699807.8,
+          "usd": 8936.6,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14023102.17,
+          "usd": 9147.49,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15007272.84,
+          "usd": 9789.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1387": {
+      "id": "1387",
+      "marcaId": "11",
+      "modeloId": "159",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND PICASSO",
+      "version": "Van 1,6 Diesel",
+      "precios": {
+        "2013": {
+          "ars": 11205371.52,
+          "usd": 7309.44,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11867934.12,
+          "usd": 7741.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1388": {
+      "id": "1388",
+      "marcaId": "11",
+      "modeloId": "159",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND PICASSO",
+      "version": "Van 2,0 I Bva AT",
+      "precios": {
+        "2013": {
+          "ars": 11320377.18,
+          "usd": 7384.46,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11989746.3,
+          "usd": 7821.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1389": {
+      "id": "1389",
+      "marcaId": "11",
+      "modeloId": "159",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND PICASSO",
+      "version": "Van 1,6 Diesel Tendance Pack",
+      "precios": {
+        "2014": {
+          "ars": 17703651.21,
+          "usd": 11548.37,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 18775187.55,
+          "usd": 12247.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1390": {
+      "id": "1390",
+      "marcaId": "11",
+      "modeloId": "159",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND PICASSO",
+      "version": "Van 1,6 THP 6AT Feel Pack",
+      "precios": {
+        "2017": {
+          "ars": 20041798.14,
+          "usd": 13073.58,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21645147.51,
+          "usd": 14119.47,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1391": {
+      "id": "1391",
+      "marcaId": "11",
+      "modeloId": "159",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND PICASSO",
+      "version": "Van 1,6 THP 6AT Shine",
+      "precios": {
+        "2016": {
+          "ars": 22270044.3,
+          "usd": 14527.1,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 23228659.86,
+          "usd": 15152.42,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 25086947.13,
+          "usd": 16364.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1392": {
+      "id": "1392",
+      "marcaId": "11",
+      "modeloId": "159",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND PICASSO",
+      "version": "Van 1,6 Diesel 6MT Shine",
+      "precios": {
+        "2016": {
+          "ars": 21439112.31,
+          "usd": 13985.07,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 22421320.74,
+          "usd": 14625.78,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 24215022.72,
+          "usd": 15795.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1399": {
+      "id": "1399",
+      "marcaId": "11",
+      "modeloId": "161",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND SPACETOURER",
+      "version": "Van 1,6 THP E6at Feel Pack",
+      "precios": {
+        "2018": {
+          "ars": 24217199.58,
+          "usd": 15797.26,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26154574.32,
+          "usd": 17061.04,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27531131.67,
+          "usd": 17958.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1400": {
+      "id": "1400",
+      "marcaId": "11",
+      "modeloId": "161",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND SPACETOURER",
+      "version": "Van 1,6 THP E6at Shine",
+      "precios": {
+        "2018": {
+          "ars": 25531302.51,
+          "usd": 16654.47,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 27573810.39,
+          "usd": 17986.83,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 29025070.83,
+          "usd": 18933.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "1401": {
+      "id": "1401",
+      "marcaId": "11",
+      "modeloId": "161",
+      "marca": "CITROEN",
+      "modelo": "C 4 GRAND SPACETOURER",
+      "version": "Van 1,6 Diesel 6MT Shine",
+      "precios": {
+        "2018": {
+          "ars": 24968124.3,
+          "usd": 16287.1,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26965561.98,
+          "usd": 17590.06,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 28384813.38,
+          "usd": 18515.86,
           "cotizacion": 1533
         }
       }
@@ -23243,6 +31442,36 @@
         }
       }
     },
+    "6340": {
+      "id": "6340",
+      "marcaId": "11",
+      "modeloId": "641",
+      "marca": "CITROEN",
+      "modelo": "C 4 HYBRID",
+      "version": "5P Plus",
+      "precios": {
+        "0": {
+          "ars": 43441740.09,
+          "usd": 28337.73,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6341": {
+      "id": "6341",
+      "marcaId": "11",
+      "modeloId": "641",
+      "marca": "CITROEN",
+      "modelo": "C 4 HYBRID",
+      "version": "5P Max",
+      "precios": {
+        "0": {
+          "ars": 57184134.63,
+          "usd": 37302.11,
+          "cotizacion": 1533
+        }
+      }
+    },
     "6490": {
       "id": "6490",
       "marcaId": "2",
@@ -23373,6 +31602,36 @@
         }
       }
     },
+    "6498": {
+      "id": "6498",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,0 T Premier AT",
+      "precios": {
+        "0": {
+          "ars": 38821400.73,
+          "usd": 25323.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6499": {
+      "id": "6499",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,0 T Rs AT",
+      "precios": {
+        "0": {
+          "ars": 40135978.89,
+          "usd": 26181.33,
+          "cotizacion": 1533
+        }
+      }
+    },
     "6589": {
       "id": "6589",
       "marcaId": "3",
@@ -23463,6 +31722,51 @@
         }
       }
     },
+    "6595": {
+      "id": "6595",
+      "marcaId": "9",
+      "modeloId": "139",
+      "marca": "CHEVROLET",
+      "modelo": "SILVERADO",
+      "version": "D/C 5,3 V8 10at 4X4 Z71 Trail Boss 2026",
+      "precios": {
+        "0": {
+          "ars": 103453125.3,
+          "usd": 67484.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6596": {
+      "id": "6596",
+      "marcaId": "9",
+      "modeloId": "139",
+      "marca": "CHEVROLET",
+      "modelo": "SILVERADO",
+      "version": "D/C 5,3 V8 10at  4X4 High Country 2026",
+      "precios": {
+        "0": {
+          "ars": 113560209.63,
+          "usd": 74077.11,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6597": {
+      "id": "6597",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Van 2026",
+      "precios": {
+        "0": {
+          "ars": 41459755.05,
+          "usd": 27044.85,
+          "cotizacion": 1533
+        }
+      }
+    },
     "6660": {
       "id": "6660",
       "marcaId": "6",
@@ -23474,6 +31778,51 @@
         "0": {
           "ars": 73568670,
           "usd": 47990,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6661": {
+      "id": "6661",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P 1,3 Firefly Live Pk",
+      "precios": {
+        "0": {
+          "ars": 35321699.7,
+          "usd": 23040.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6662": {
+      "id": "6662",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P 1,3 Firefly Feel",
+      "precios": {
+        "0": {
+          "ars": 37384565.82,
+          "usd": 24386.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6663": {
+      "id": "6663",
+      "marcaId": "11",
+      "modeloId": "152",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "5P 1,3 Feel Pk 2026",
+      "precios": {
+        "0": {
+          "ars": 40600232.61,
+          "usd": 26484.17,
           "cotizacion": 1533
         }
       }
