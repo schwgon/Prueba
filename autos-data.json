@@ -1,12 +1,12 @@
 {
   "version": 5,
-  "actualizado": "2026-08-30T22:45:07.771Z",
+  "actualizado": "2026-08-31T00:48:41.195Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6139,
-  "versionesProcesadas": 5239,
-  "versionesConValuacion": 4773,
+  "versionesProcesadas": 5588,
+  "versionesConValuacion": 5070,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -115430,6 +115430,31 @@
         }
       }
     },
+    "4783": {
+      "id": "4783",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "4P 1,5 Xs 2014",
+      "precios": {
+        "2014": {
+          "ars": 14453660.55,
+          "usd": 9428.35,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14615468.7,
+          "usd": 9533.9,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15096202.17,
+          "usd": 9847.49,
+          "cotizacion": 1533
+        }
+      }
+    },
     "4784": {
       "id": "4784",
       "marcaId": "60",
@@ -115496,6 +115521,31 @@
         "2018": {
           "ars": 16050540.66,
           "usd": 10470.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "4787": {
+      "id": "4787",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "4P 1,5 Xs 6MT 2017",
+      "precios": {
+        "2016": {
+          "ars": 15151482.15,
+          "usd": 9883.55,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16215736.74,
+          "usd": 10577.78,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16560600.42,
+          "usd": 10802.74,
           "cotizacion": 1533
         }
       }
@@ -120967,6 +121017,586 @@
         }
       }
     },
+    "5014": {
+      "id": "5014",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 CVT 7AT",
+      "precios": {
+        "2016": {
+          "ars": 16581878.46,
+          "usd": 10816.62,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17266899.51,
+          "usd": 11263.47,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18047932.35,
+          "usd": 11772.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5015": {
+      "id": "5015",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xs 6MT",
+      "precios": {
+        "2018": {
+          "ars": 15219516.69,
+          "usd": 9927.93,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16429804.86,
+          "usd": 10717.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5016": {
+      "id": "5016",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls 6MT",
+      "precios": {
+        "2018": {
+          "ars": 16728325.95,
+          "usd": 10912.15,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18058602.03,
+          "usd": 11779.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5017": {
+      "id": "5017",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls Pack CVT",
+      "precios": {
+        "2018": {
+          "ars": 19180129.5,
+          "usd": 12511.5,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20705387.85,
+          "usd": 13506.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5018": {
+      "id": "5018",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 S 6MT",
+      "precios": {
+        "2018": {
+          "ars": 19723072.11,
+          "usd": 12865.67,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21291499.74,
+          "usd": 13888.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5019": {
+      "id": "5019",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 S CVT",
+      "precios": {
+        "2018": {
+          "ars": 21197588.16,
+          "usd": 13827.52,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22883274.96,
+          "usd": 14927.12,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5020": {
+      "id": "5020",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xs 6MT 2020",
+      "precios": {
+        "2020": {
+          "ars": 17449387.83,
+          "usd": 11382.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5021": {
+      "id": "5021",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls 6MT 2020",
+      "precios": {
+        "2019": {
+          "ars": 18183265.59,
+          "usd": 11861.23,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19130904.87,
+          "usd": 12479.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5022": {
+      "id": "5022",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls CVT 2020",
+      "precios": {
+        "2020": {
+          "ars": 20507416.23,
+          "usd": 13377.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5023": {
+      "id": "5023",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls Pack CVT 2020",
+      "precios": {
+        "2019": {
+          "ars": 20948460.33,
+          "usd": 13665.01,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21887990.04,
+          "usd": 14277.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5024": {
+      "id": "5024",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 S 6MT 2020",
+      "precios": {
+        "2020": {
+          "ars": 22581641.88,
+          "usd": 14730.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5025": {
+      "id": "5025",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 S CVT 2020",
+      "precios": {
+        "2019": {
+          "ars": 23695121.1,
+          "usd": 15456.7,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24125495.52,
+          "usd": 15737.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5026": {
+      "id": "5026",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xs 6MT 2021",
+      "precios": {
+        "2020": {
+          "ars": 18176443.74,
+          "usd": 11856.78,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18908558.55,
+          "usd": 12334.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5027": {
+      "id": "5027",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls 6MT 2021",
+      "precios": {
+        "2020": {
+          "ars": 19928018.88,
+          "usd": 12999.36,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20730682.35,
+          "usd": 13522.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5028": {
+      "id": "5028",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls CVT 2021",
+      "precios": {
+        "2020": {
+          "ars": 21361895.1,
+          "usd": 13934.7,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22222306.68,
+          "usd": 14495.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5029": {
+      "id": "5029",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls Pack CVT 2021",
+      "precios": {
+        "2020": {
+          "ars": 22799987.07,
+          "usd": 14872.79,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23718315.39,
+          "usd": 15471.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5030": {
+      "id": "5030",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 S 6MT 2021",
+      "precios": {
+        "2020": {
+          "ars": 23522551.29,
+          "usd": 15344.13,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24469975.95,
+          "usd": 15962.15,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5031": {
+      "id": "5031",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 S CVT 2021",
+      "precios": {
+        "2020": {
+          "ars": 25130729.61,
+          "usd": 16393.17,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26142938.85,
+          "usd": 17053.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5032": {
+      "id": "5032",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xs 6MT 2022",
+      "precios": {
+        "2022": {
+          "ars": 19668435.99,
+          "usd": 12830.03,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21041513.43,
+          "usd": 13725.71,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 21938011.83,
+          "usd": 14310.51,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 23034919.32,
+          "usd": 15026.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5033": {
+      "id": "5033",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xs CVT 2023",
+      "precios": {
+        "0": {
+          "ars": 35015298.99,
+          "usd": 22841.03,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23069181.87,
+          "usd": 15048.39,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24052080.15,
+          "usd": 15689.55,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25254672.66,
+          "usd": 16474.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5034": {
+      "id": "5034",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls 6MT 2022",
+      "precios": {
+        "2022": {
+          "ars": 21563775.87,
+          "usd": 14066.39,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 23069181.87,
+          "usd": 15048.39,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 24052080.15,
+          "usd": 15689.55,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25254672.66,
+          "usd": 16474.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5035": {
+      "id": "5035",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls CVT 2022",
+      "precios": {
+        "2022": {
+          "ars": 23115355.83,
+          "usd": 15078.51,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 24729068.28,
+          "usd": 16131.16,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25782683.85,
+          "usd": 16818.45,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 27071814.21,
+          "usd": 17659.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5036": {
+      "id": "5036",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls + CVT 2024",
+      "precios": {
+        "0": {
+          "ars": 38896333.77,
+          "usd": 25372.69,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 26233140.57,
+          "usd": 17112.29,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 27544806.03,
+          "usd": 17967.91,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5037": {
+      "id": "5037",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 Xls Pack CVT 2022",
+      "precios": {
+        "2022": {
+          "ars": 24671488.8,
+          "usd": 16093.6,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26393829.63,
+          "usd": 17217.11,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 27518377.11,
+          "usd": 17950.67,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 28894305.93,
+          "usd": 18848.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5038": {
+      "id": "5038",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "5P 1,5 S CVT 2022",
+      "precios": {
+        "0": {
+          "ars": 41829867.24,
+          "usd": 27286.28,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 26712754.95,
+          "usd": 17425.15,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 27706629.51,
+          "usd": 18073.47,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 29164880.43,
+          "usd": 19024.71,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 30623116.02,
+          "usd": 19975.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5039": {
+      "id": "5039",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "4P 1,5 Xs 6MT",
+      "precios": {
+        "2018": {
+          "ars": 16151090.13,
+          "usd": 10535.61,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17435468.19,
+          "usd": 11373.43,
+          "cotizacion": 1533
+        }
+      }
+    },
     "5040": {
       "id": "5040",
       "marcaId": "60",
@@ -121003,6 +121633,21 @@
         "2019": {
           "ars": 21525956.76,
           "usd": 14041.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5042": {
+      "id": "5042",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "4P 1,5 Xs 6MT 2020",
+      "precios": {
+        "2020": {
+          "ars": 17987854.08,
+          "usd": 11733.76,
           "cotizacion": 1533
         }
       }
@@ -121048,6 +121693,21 @@
         "2020": {
           "ars": 22342769.82,
           "usd": 14574.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5046": {
+      "id": "5046",
+      "marcaId": "60",
+      "modeloId": "577",
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "version": "4P 1,5 Xs 6MT 2021",
+      "precios": {
+        "2020": {
+          "ars": 18737353.11,
+          "usd": 12222.67,
           "cotizacion": 1533
         }
       }
@@ -121273,6 +121933,6312 @@
         "2025": {
           "ars": 124457279.52,
           "usd": 81185.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5056": {
+      "id": "5056",
+      "marcaId": "60",
+      "modeloId": "578",
+      "marca": "TOYOTA",
+      "modelo": "YARIS CROSS",
+      "version": "5P 1,5 Xli CVT",
+      "precios": {
+        "0": {
+          "ars": 41928960.36,
+          "usd": 27350.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5057": {
+      "id": "5057",
+      "marcaId": "60",
+      "modeloId": "578",
+      "marca": "TOYOTA",
+      "modelo": "YARIS CROSS",
+      "version": "5P 1,5 Xei CVT",
+      "precios": {
+        "0": {
+          "ars": 45767531.04,
+          "usd": 29854.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5058": {
+      "id": "5058",
+      "marcaId": "60",
+      "modeloId": "578",
+      "marca": "TOYOTA",
+      "modelo": "YARIS CROSS",
+      "version": "5P 1,5 Seg CVT",
+      "precios": {
+        "0": {
+          "ars": 50787201.57,
+          "usd": 33129.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5059": {
+      "id": "5059",
+      "marcaId": "60",
+      "modeloId": "578",
+      "marca": "TOYOTA",
+      "modelo": "YARIS CROSS",
+      "version": "5P 1,5 Xei Hev Ecvt",
+      "precios": {
+        "0": {
+          "ars": 49000382.76,
+          "usd": 31963.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5060": {
+      "id": "5060",
+      "marcaId": "60",
+      "modeloId": "578",
+      "marca": "TOYOTA",
+      "modelo": "YARIS CROSS",
+      "version": "5P 1,5 Seg Hev Ecvt",
+      "precios": {
+        "0": {
+          "ars": 54625772.25,
+          "usd": 35633.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5061": {
+      "id": "5061",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "C/S 2,0 Diesel 140CV 4X2 Start",
+      "precios": {
+        "2013": {
+          "ars": 13595241.87,
+          "usd": 8868.39,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13941945.15,
+          "usd": 9094.55,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14489011.53,
+          "usd": 9451.41,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15066170.7,
+          "usd": 9827.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5062": {
+      "id": "5062",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "C/S 2,0 Diesel 140CV 4X2 Start 2015",
+      "precios": {
+        "2015": {
+          "ars": 14887560.87,
+          "usd": 9711.39,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15480586.59,
+          "usd": 10098.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5063": {
+      "id": "5063",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "C/S 2,0 Diesel 140CV 4X2 Trend 2017",
+      "precios": {
+        "2016": {
+          "ars": 15891430.59,
+          "usd": 10366.23,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 16812043.08,
+          "usd": 10966.76,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17474590.35,
+          "usd": 11398.95,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18513197.85,
+          "usd": 12076.45,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19312013.49,
+          "usd": 12597.53,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20277604.2,
+          "usd": 13227.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5064": {
+      "id": "5064",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "C/S 2,0 Diesel 140CV 4X2 Trend Hard Work 2018",
+      "precios": {
+        "2017": {
+          "ars": 17045457.66,
+          "usd": 11119.02,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17717202.93,
+          "usd": 11557.21,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18770235.96,
+          "usd": 12244.12,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 19580135.19,
+          "usd": 12772.43,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 20559139.65,
+          "usd": 13411.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5065": {
+      "id": "5065",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "C/S 2,0 Diesel 140CV 4X4 Start",
+      "precios": {
+        "2013": {
+          "ars": 16638952.05,
+          "usd": 10853.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5066": {
+      "id": "5066",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "C/S 2,0 Diesel 140CV 4X4 Start 2015",
+      "precios": {
+        "2015": {
+          "ars": 17816265.39,
+          "usd": 11621.83,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 18525952.41,
+          "usd": 12084.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5067": {
+      "id": "5067",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "C/S 2,0 Diesel 140CV 4X4 Trend  2017",
+      "precios": {
+        "2016": {
+          "ars": 18956786.73,
+          "usd": 12365.81,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 20054966.61,
+          "usd": 13082.17,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20845320.09,
+          "usd": 13597.73,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22084275.36,
+          "usd": 14405.92,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23037172.83,
+          "usd": 15027.51,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24189023.04,
+          "usd": 15778.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5068": {
+      "id": "5068",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "C/S 2,0 Diesel 140CV 4X4 Trend Hard Work 2018",
+      "precios": {
+        "2017": {
+          "ars": 20249488.98,
+          "usd": 13209.06,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 21047507.46,
+          "usd": 13729.62,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22298466.12,
+          "usd": 14545.64,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 23260622.91,
+          "usd": 15173.27,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 24423648.69,
+          "usd": 15931.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5069": {
+      "id": "5069",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 122CV 4X2 Start",
+      "precios": {
+        "2013": {
+          "ars": 14073415.23,
+          "usd": 9180.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5070": {
+      "id": "5070",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 122CV 4X2 Start 2abg",
+      "precios": {
+        "2013": {
+          "ars": 14257252.59,
+          "usd": 9300.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5071": {
+      "id": "5071",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X2 Start",
+      "precios": {
+        "2013": {
+          "ars": 14408130.45,
+          "usd": 9398.65,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 15261214.29,
+          "usd": 9955.13,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 15860034.75,
+          "usd": 10345.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5072": {
+      "id": "5072",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X2 Start 2015",
+      "precios": {
+        "2015": {
+          "ars": 16197769.98,
+          "usd": 10566.06,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16842994.35,
+          "usd": 10986.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5073": {
+      "id": "5073",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X2 Trend 2017",
+      "precios": {
+        "2016": {
+          "ars": 17296731.69,
+          "usd": 11282.93,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 18298761.81,
+          "usd": 11936.57,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19408055.94,
+          "usd": 12660.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 20773560.36,
+          "usd": 13550.92,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21647569.65,
+          "usd": 14121.05,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 22729944.3,
+          "usd": 14827.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5074": {
+      "id": "5074",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X2 Trend Karoma 16 2017",
+      "precios": {
+        "2017": {
+          "ars": 18582044.88,
+          "usd": 12121.36,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19708523.94,
+          "usd": 12856.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21095153.1,
+          "usd": 13760.7,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 21982698.78,
+          "usd": 14339.66,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23081829.12,
+          "usd": 15056.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5075": {
+      "id": "5075",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X2 Trend Karoma 16 Hard Work 2018",
+      "precios": {
+        "2017": {
+          "ars": 18800144.79,
+          "usd": 12263.63,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 19939838.31,
+          "usd": 13007.07,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 21342747.93,
+          "usd": 13922.21,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 22240702.68,
+          "usd": 14507.96,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 23352740.88,
+          "usd": 15233.36,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 24074998.5,
+          "usd": 15704.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5076": {
+      "id": "5076",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X2 Trend 2023",
+      "precios": {
+        "2022": {
+          "ars": 24797240.79,
+          "usd": 16175.63,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 26533056.69,
+          "usd": 17307.93,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 27859699.56,
+          "usd": 18173.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5077": {
+      "id": "5077",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X2 Start 2abg",
+      "precios": {
+        "2013": {
+          "ars": 16211520.99,
+          "usd": 10575.03,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5078": {
+      "id": "5078",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Start 2abg",
+      "precios": {
+        "2013": {
+          "ars": 16752010.8,
+          "usd": 10927.6,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 17743861.8,
+          "usd": 11574.6,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 18440104.41,
+          "usd": 12028.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5079": {
+      "id": "5079",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline 2017",
+      "precios": {
+        "2016": {
+          "ars": 22057463.19,
+          "usd": 14388.43,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 23335264.68,
+          "usd": 15221.96,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 24749901.75,
+          "usd": 16144.75,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 26491236.45,
+          "usd": 17280.65,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27605788.77,
+          "usd": 18007.69,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 28986086.64,
+          "usd": 18908.08,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 29882569.71,
+          "usd": 19492.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5080": {
+      "id": "5080",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline 2023",
+      "precios": {
+        "2022": {
+          "ars": 30779037.45,
+          "usd": 20077.65,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 32933576.97,
+          "usd": 21483.09,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 34580248.92,
+          "usd": 22557.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5081": {
+      "id": "5081",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline Gen.2 2025",
+      "precios": {
+        "0": {
+          "ars": 60236996.82,
+          "usd": 39293.54,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 38228252.37,
+          "usd": 24936.89,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 40139673.42,
+          "usd": 26183.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5082": {
+      "id": "5082",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline Gen.2 + Pack Safe 2025",
+      "precios": {
+        "2024": {
+          "ars": 39055903.74,
+          "usd": 25476.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 41008700.46,
+          "usd": 26750.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5083": {
+      "id": "5083",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline AT 2017",
+      "precios": {
+        "2016": {
+          "ars": 23330006.49,
+          "usd": 15218.53,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 24681529.95,
+          "usd": 16100.15,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 26177783.94,
+          "usd": 17076.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 28019576.13,
+          "usd": 18277.61,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 29198437.8,
+          "usd": 19046.6,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 30658359.69,
+          "usd": 19998.93,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 31606550.85,
+          "usd": 20617.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5084": {
+      "id": "5084",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline AT 2023",
+      "precios": {
+        "2022": {
+          "ars": 32554757.34,
+          "usd": 21235.98,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 34833592.5,
+          "usd": 22722.5,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 36575264.46,
+          "usd": 23858.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5085": {
+      "id": "5085",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline Gen.2 AT 2025",
+      "precios": {
+        "0": {
+          "ars": 64258837.65,
+          "usd": 41917.05,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 41731724.58,
+          "usd": 27222.26,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 43818306.21,
+          "usd": 28583.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5086": {
+      "id": "5086",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline Gen.2 AT + Pack Safe 2025",
+      "precios": {
+        "2024": {
+          "ars": 42559375.95,
+          "usd": 27762.15,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 44687348.58,
+          "usd": 29150.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5087": {
+      "id": "5087",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X2 Trend",
+      "precios": {
+        "2013": {
+          "ars": 16760932.86,
+          "usd": 10933.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5088": {
+      "id": "5088",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Trend",
+      "precios": {
+        "2013": {
+          "ars": 18225913.65,
+          "usd": 11889.05,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 19305038.34,
+          "usd": 12592.98,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 20062524.3,
+          "usd": 13087.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5089": {
+      "id": "5089",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Trend 2015",
+      "precios": {
+        "2015": {
+          "ars": 20425722.66,
+          "usd": 13324.02,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 21239347.08,
+          "usd": 13854.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5090": {
+      "id": "5090",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Trend Rear Parking 2015",
+      "precios": {
+        "2015": {
+          "ars": 20528878.23,
+          "usd": 13391.31,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 21346626.42,
+          "usd": 13924.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5091": {
+      "id": "5091",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Trend AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 21405738.9,
+          "usd": 13963.3,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 22258408.83,
+          "usd": 14519.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5092": {
+      "id": "5092",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Trend Rear Parking AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 21550070.85,
+          "usd": 14057.45,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 22408489.53,
+          "usd": 14617.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5093": {
+      "id": "5093",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Trend Gen.2 2025",
+      "precios": {
+        "0": {
+          "ars": 52512133.17,
+          "usd": 34254.49,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 34453224.54,
+          "usd": 22474.38,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 36175887.3,
+          "usd": 23598.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5094": {
+      "id": "5094",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Trend Gen.2 + Pack Safe 2025",
+      "precios": {
+        "2024": {
+          "ars": 35280875.91,
+          "usd": 23014.27,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 37044914.34,
+          "usd": 24164.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5095": {
+      "id": "5095",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X2 Highline",
+      "precios": {
+        "2013": {
+          "ars": 18156744.69,
+          "usd": 11843.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5096": {
+      "id": "5096",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline",
+      "precios": {
+        "2013": {
+          "ars": 19834091.97,
+          "usd": 12938.09,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 21008415.96,
+          "usd": 13704.12,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 21832756.05,
+          "usd": 14241.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5097": {
+      "id": "5097",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X2 Highline CRO",
+      "precios": {
+        "2013": {
+          "ars": 18810645.84,
+          "usd": 12270.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5098": {
+      "id": "5098",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X2 Highline Pack",
+      "precios": {}
+    },
+    "5099": {
+      "id": "5099",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Pack",
+      "precios": {
+        "2013": {
+          "ars": 21227834.25,
+          "usd": 13847.25,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 22484679.63,
+          "usd": 14667.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 23366951.79,
+          "usd": 15242.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5100": {
+      "id": "5100",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Pack 2015",
+      "precios": {
+        "2015": {
+          "ars": 23623683.3,
+          "usd": 15410.1,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 24564715.35,
+          "usd": 16023.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5101": {
+      "id": "5101",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Pack Alcantara 2015",
+      "precios": {
+        "2015": {
+          "ars": 23984735.46,
+          "usd": 15645.62,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 24940147.05,
+          "usd": 16268.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5102": {
+      "id": "5102",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Pack CRO Vienna 2015",
+      "precios": {
+        "2015": {
+          "ars": 24087906.36,
+          "usd": 15712.92,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25047426.39,
+          "usd": 16338.83,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5103": {
+      "id": "5103",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Pack AT 2015",
+      "precios": {
+        "2014": {
+          "ars": 23268211.26,
+          "usd": 15178.22,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 24181220.07,
+          "usd": 15773.79,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25144465.29,
+          "usd": 16402.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5104": {
+      "id": "5104",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Pack Alcantara AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 24706870.44,
+          "usd": 16116.68,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25691041.11,
+          "usd": 16758.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5105": {
+      "id": "5105",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Pack CRO Vienna AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 24810026.01,
+          "usd": 16183.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25798305.12,
+          "usd": 16828.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5106": {
+      "id": "5106",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline 2017",
+      "precios": {
+        "2016": {
+          "ars": 24602549.79,
+          "usd": 16048.63,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 26027795.22,
+          "usd": 16978.34,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 27605650.8,
+          "usd": 18007.6,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 29547915.81,
+          "usd": 19274.57,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 30791086.83,
+          "usd": 20085.51,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 32330632.74,
+          "usd": 21089.78,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 33330547.32,
+          "usd": 21742.04,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5107": {
+      "id": "5107",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline 2023",
+      "precios": {
+        "2022": {
+          "ars": 34330461.9,
+          "usd": 22394.3,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 36733592.7,
+          "usd": 23961.9,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 38570280,
+          "usd": 25160,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5108": {
+      "id": "5108",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Gen.2 2025",
+      "precios": {
+        "0": {
+          "ars": 64956367.98,
+          "usd": 42372.06,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 42285459.51,
+          "usd": 27583.47,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 44399727.12,
+          "usd": 28962.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5109": {
+      "id": "5109",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline AT 2017",
+      "precios": {
+        "2016": {
+          "ars": 26535248.88,
+          "usd": 17309.36,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 27813678.9,
+          "usd": 18143.3,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 29499794.94,
+          "usd": 19243.18,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 31575308.31,
+          "usd": 20597.07,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 32903775.45,
+          "usd": 21463.65,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 34548975.72,
+          "usd": 22536.84,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 35617492.05,
+          "usd": 23233.85,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5110": {
+      "id": "5110",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline AT 2023",
+      "precios": {
+        "2022": {
+          "ars": 36686023.71,
+          "usd": 23930.87,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 39254043.99,
+          "usd": 25606.03,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 41216743.89,
+          "usd": 26886.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5111": {
+      "id": "5111",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Gen.2 AT 2025",
+      "precios": {
+        "0": {
+          "ars": 71248949.73,
+          "usd": 46476.81,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 46413291.96,
+          "usd": 30276.12,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 48733962.69,
+          "usd": 31789.93,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5112": {
+      "id": "5112",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Dark Label",
+      "precios": {
+        "2014": {
+          "ars": 22437877.14,
+          "usd": 14636.58,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 23318309.7,
+          "usd": 15210.9,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25401794.67,
+          "usd": 16569.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5113": {
+      "id": "5113",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Dark Label Rear Parking",
+      "precios": {
+        "2015": {
+          "ars": 23641726.71,
+          "usd": 15421.87,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25754124.06,
+          "usd": 16799.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5114": {
+      "id": "5114",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Dark Label AT",
+      "precios": {
+        "2014": {
+          "ars": 23648824.5,
+          "usd": 15426.5,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 24576764.73,
+          "usd": 16031.81,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 26772710.58,
+          "usd": 17464.26,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5115": {
+      "id": "5115",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Dark Label Rear Parking AT",
+      "precios": {
+        "2015": {
+          "ars": 24704279.67,
+          "usd": 16114.99,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 26911615.71,
+          "usd": 17554.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5116": {
+      "id": "5116",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Ultimate",
+      "precios": {
+        "2015": {
+          "ars": 24810026.01,
+          "usd": 16183.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 27026805.33,
+          "usd": 17630.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5117": {
+      "id": "5117",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Ultimate AT",
+      "precios": {
+        "2015": {
+          "ars": 26305850.76,
+          "usd": 17159.72,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28656277.02,
+          "usd": 18692.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5118": {
+      "id": "5118",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 122CV 4X4 Start",
+      "precios": {
+        "2013": {
+          "ars": 16262508.57,
+          "usd": 10608.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5119": {
+      "id": "5119",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 122CV 4X4 Start 2abg",
+      "precios": {
+        "2013": {
+          "ars": 16724263.5,
+          "usd": 10909.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5120": {
+      "id": "5120",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X4 Start",
+      "precios": {
+        "2013": {
+          "ars": 16606713.06,
+          "usd": 10832.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 17589963.93,
+          "usd": 11474.21,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 18280166.52,
+          "usd": 11924.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5121": {
+      "id": "5121",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X4 Start 2015",
+      "precios": {
+        "2015": {
+          "ars": 18689738.13,
+          "usd": 12191.61,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 19434224.25,
+          "usd": 12677.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5122": {
+      "id": "5122",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X4 Trend 2017",
+      "precios": {
+        "2016": {
+          "ars": 20261890.95,
+          "usd": 13217.15,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 21435678.39,
+          "usd": 13982.83,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22735156.5,
+          "usd": 14830.5,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24334734.69,
+          "usd": 15873.93,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25358579.4,
+          "usd": 16541.8,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26626508.37,
+          "usd": 17368.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5123": {
+      "id": "5123",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X4 Trend Karoma 16 2017",
+      "precios": {
+        "2017": {
+          "ars": 21722671.32,
+          "usd": 14170.04,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23039533.65,
+          "usd": 15029.05,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24660543.18,
+          "usd": 16086.46,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25698077.58,
+          "usd": 16763.26,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 26982976.86,
+          "usd": 17601.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5124": {
+      "id": "5124",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X4 Trend Karoma 16 Hard Work 2018",
+      "precios": {
+        "2017": {
+          "ars": 21897157.38,
+          "usd": 14283.86,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23224597.41,
+          "usd": 15149.77,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24858606.78,
+          "usd": 16215.66,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25904496.03,
+          "usd": 16897.91,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 27199712.4,
+          "usd": 17742.8,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 28040946.15,
+          "usd": 18291.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5125": {
+      "id": "5125",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 140CV 4X4 Trend 2023",
+      "precios": {
+        "2022": {
+          "ars": 28882164.57,
+          "usd": 18840.29,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 30903915.63,
+          "usd": 20159.11,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 32449118.31,
+          "usd": 21167.07,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5126": {
+      "id": "5126",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X4 Start 2abg",
+      "precios": {
+        "2013": {
+          "ars": 19278210.84,
+          "usd": 12575.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5127": {
+      "id": "5127",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Start 2abg",
+      "precios": {
+        "2013": {
+          "ars": 19419538.11,
+          "usd": 12667.67,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 20569318.77,
+          "usd": 13417.69,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 21376427.94,
+          "usd": 13944.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5128": {
+      "id": "5128",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Comfortline 2017",
+      "precios": {
+        "2016": {
+          "ars": 25281239.55,
+          "usd": 16491.35,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 26745806.43,
+          "usd": 17446.71,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 28367183.88,
+          "usd": 18504.36,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 30363027.24,
+          "usd": 19806.28,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 31640491.47,
+          "usd": 20639.59,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 33222516.81,
+          "usd": 21671.57,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 34250010.06,
+          "usd": 22341.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5129": {
+      "id": "5129",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Comfortline 2023",
+      "precios": {
+        "2022": {
+          "ars": 35277518.64,
+          "usd": 23012.08,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 37746936.36,
+          "usd": 24622.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5130": {
+      "id": "5130",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Comfortline AT 2017",
+      "precios": {
+        "2016": {
+          "ars": 26977963.95,
+          "usd": 17598.15,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 28540826.79,
+          "usd": 18617.63,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 30271031.91,
+          "usd": 19746.27,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 32400813.48,
+          "usd": 21135.56,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 33764018.4,
+          "usd": 22024.8,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 35452219.32,
+          "usd": 23126.04,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 36548666.91,
+          "usd": 23841.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5131": {
+      "id": "5131",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X4 Trend",
+      "precios": {
+        "2013": {
+          "ars": 20251512.54,
+          "usd": 13210.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5132": {
+      "id": "5132",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Trend",
+      "precios": {
+        "2013": {
+          "ars": 21120616.23,
+          "usd": 13777.31,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 22371130.32,
+          "usd": 14593.04,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 23248926.12,
+          "usd": 15165.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5133": {
+      "id": "5133",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Trend 2015",
+      "precios": {
+        "2015": {
+          "ars": 23623683.3,
+          "usd": 15410.1,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 25734455.67,
+          "usd": 16786.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5134": {
+      "id": "5134",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Trend Rear Parking 2015",
+      "precios": {
+        "2015": {
+          "ars": 23726838.87,
+          "usd": 15477.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5135": {
+      "id": "5135",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Trend AT",
+      "precios": {
+        "2013": {
+          "ars": 21942672.15,
+          "usd": 14313.55,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 23241843.66,
+          "usd": 15161.02,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 24153825.36,
+          "usd": 15755.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5136": {
+      "id": "5136",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Trend AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 25274249.07,
+          "usd": 16486.79,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 26155877.37,
+          "usd": 17061.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5137": {
+      "id": "5137",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Trend Rear Parking AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 25377404.64,
+          "usd": 16554.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5138": {
+      "id": "5138",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Trend Gen.2 2025",
+      "precios": {
+        "0": {
+          "ars": 62589017.4,
+          "usd": 40827.8,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 39626210.4,
+          "usd": 25848.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5139": {
+      "id": "5139",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Trend Gen.2 + Pack Safe 2025",
+      "precios": {
+        "2024": {
+          "ars": 39634289.31,
+          "usd": 25854.07,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 41615998.41,
+          "usd": 27146.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5140": {
+      "id": "5140",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X4 Highline Black",
+      "precios": {
+        "2013": {
+          "ars": 21248407.11,
+          "usd": 13860.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5141": {
+      "id": "5141",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X4 Highline Black Pack",
+      "precios": {
+        "2013": {
+          "ars": 22872865.89,
+          "usd": 14920.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5142": {
+      "id": "5142",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X4 Highline",
+      "precios": {
+        "2013": {
+          "ars": 21957067.02,
+          "usd": 14322.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5143": {
+      "id": "5143",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline",
+      "precios": {
+        "2013": {
+          "ars": 23586477.39,
+          "usd": 15385.83,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 24982979.07,
+          "usd": 16296.79,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 25963271.25,
+          "usd": 16936.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5144": {
+      "id": "5144",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X4 Highline CRO",
+      "precios": {
+        "2013": {
+          "ars": 22621959.78,
+          "usd": 14756.66,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5145": {
+      "id": "5145",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 163CV 4X4 Highline Pack",
+      "precios": {
+        "2013": {
+          "ars": 23406886.44,
+          "usd": 15268.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5146": {
+      "id": "5146",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline Pack",
+      "precios": {
+        "2013": {
+          "ars": 24036765.48,
+          "usd": 15679.56,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 25459926.03,
+          "usd": 16607.91,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 26458936.14,
+          "usd": 17259.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5147": {
+      "id": "5147",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline Pack 2015",
+      "precios": {
+        "2015": {
+          "ars": 26563747.35,
+          "usd": 17327.95,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 27490353.87,
+          "usd": 17932.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5148": {
+      "id": "5148",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline Pack Alcantara 2015",
+      "precios": {
+        "2015": {
+          "ars": 26821643.94,
+          "usd": 17496.18,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 27757249.17,
+          "usd": 18106.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5149": {
+      "id": "5149",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline Pack CRO Vienna 2015",
+      "precios": {
+        "2015": {
+          "ars": 26924799.51,
+          "usd": 17563.47,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 27864007.29,
+          "usd": 18176.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5150": {
+      "id": "5150",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline Pack AT",
+      "precios": {
+        "2013": {
+          "ars": 24653981.94,
+          "usd": 16082.18,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 26113689.21,
+          "usd": 17034.37,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 27138346.41,
+          "usd": 17702.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5151": {
+      "id": "5151",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline Pack AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 27440608.02,
+          "usd": 17899.94,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28397797.89,
+          "usd": 18524.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5152": {
+      "id": "5152",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline Pack Alcantara AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 27853245.63,
+          "usd": 18169.11,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28824845.7,
+          "usd": 18802.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5153": {
+      "id": "5153",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline Pack CRO Vienna AT 2015",
+      "precios": {
+        "2015": {
+          "ars": 27956401.2,
+          "usd": 18236.4,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28931603.82,
+          "usd": 18872.54,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5154": {
+      "id": "5154",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline 2017",
+      "precios": {
+        "2016": {
+          "ars": 29692738.32,
+          "usd": 19369.04,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 31412856.3,
+          "usd": 20491.1,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 33317164.23,
+          "usd": 21733.31,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 35661274.53,
+          "usd": 23262.41,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 37161652.29,
+          "usd": 24241.13,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 39019724.94,
+          "usd": 25453.18,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 40226533.2,
+          "usd": 26240.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5155": {
+      "id": "5155",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline 2023",
+      "precios": {
+        "2022": {
+          "ars": 41433326.13,
+          "usd": 27027.61,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 44333654.82,
+          "usd": 28919.54,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 46550342.16,
+          "usd": 30365.52,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5156": {
+      "id": "5156",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline AT 2017",
+      "precios": {
+        "2016": {
+          "ars": 31925276.88,
+          "usd": 20825.36,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 33774734.07,
+          "usd": 22031.79,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 35822224.2,
+          "usd": 23367.4,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 38342568.18,
+          "usd": 25011.46,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 39955759.41,
+          "usd": 26063.77,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 41953549.68,
+          "usd": 27366.96,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 43251080.88,
+          "usd": 28213.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5157": {
+      "id": "5157",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Highline AT 2023",
+      "precios": {
+        "2022": {
+          "ars": 44548612.08,
+          "usd": 29059.76,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 47667010.02,
+          "usd": 31093.94,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 50050365.12,
+          "usd": 32648.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5158": {
+      "id": "5158",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Dark Label",
+      "precios": {
+        "2014": {
+          "ars": 24632244,
+          "usd": 16068,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 25598769.84,
+          "usd": 16698.48,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 26491711.68,
+          "usd": 17280.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5159": {
+      "id": "5159",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Dark Label Rear Parking",
+      "precios": {
+        "2015": {
+          "ars": 25686886.68,
+          "usd": 16755.96,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 26582909.85,
+          "usd": 17340.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5160": {
+      "id": "5160",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Dark Label AT",
+      "precios": {
+        "2014": {
+          "ars": 26144640.48,
+          "usd": 17054.56,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 27170508.75,
+          "usd": 17723.75,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28118286,
+          "usd": 18342,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5161": {
+      "id": "5161",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Dark Label Rear Parking AT",
+      "precios": {
+        "2015": {
+          "ars": 27595349.04,
+          "usd": 18000.88,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 28557935.07,
+          "usd": 18628.79,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5162": {
+      "id": "5162",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Ultimate",
+      "precios": {
+        "2015": {
+          "ars": 28369054.14,
+          "usd": 18505.58,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 29358636.3,
+          "usd": 19151.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5163": {
+      "id": "5163",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Ultimate AT",
+      "precios": {
+        "2015": {
+          "ars": 29916449.01,
+          "usd": 19514.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 30960008.1,
+          "usd": 20195.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5164": {
+      "id": "5164",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Black Edition",
+      "precios": {
+        "2016": {
+          "ars": 29603441.07,
+          "usd": 19310.79,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 31318392.84,
+          "usd": 20429.48,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 33216967.35,
+          "usd": 21667.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5165": {
+      "id": "5165",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Black Edition Alcantara",
+      "precios": {
+        "2016": {
+          "ars": 30049942.65,
+          "usd": 19602.05,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 31790756.13,
+          "usd": 20737.61,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 33717982.41,
+          "usd": 21994.77,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5166": {
+      "id": "5166",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Black Edition Viena",
+      "precios": {
+        "2016": {
+          "ars": 30273193.44,
+          "usd": 19747.68,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 32026945.44,
+          "usd": 20891.68,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 33968489.94,
+          "usd": 22158.18,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5167": {
+      "id": "5167",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X4 Black Edition AT",
+      "precios": {
+        "2016": {
+          "ars": 31255509.18,
+          "usd": 20388.46,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 33066166.14,
+          "usd": 21569.58,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 35070701.61,
+          "usd": 22877.17,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5168": {
+      "id": "5168",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 Comfortline AT 224CV",
+      "precios": {
+        "2018": {
+          "ars": 32998024.29,
+          "usd": 21525.13,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 35319676.14,
+          "usd": 23039.58,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 36805674.36,
+          "usd": 24008.92,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 38645964.21,
+          "usd": 25209.37,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5169": {
+      "id": "5169",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 Comfortline AT 258CV",
+      "precios": {
+        "2020": {
+          "ars": 37233687.96,
+          "usd": 24288.12,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 39095378.49,
+          "usd": 25502.53,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 40304516.91,
+          "usd": 26291.27,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 43125834.78,
+          "usd": 28131.66,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 45282121.92,
+          "usd": 29538.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5170": {
+      "id": "5170",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 Comfortline AT 258CV 2023",
+      "precios": {
+        "2022": {
+          "ars": 41513640,
+          "usd": 27080,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 44419610.13,
+          "usd": 28975.61,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 46640589.87,
+          "usd": 30424.39,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5171": {
+      "id": "5171",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 Comfortline Gen.2 AT 258CV 2025",
+      "precios": {
+        "0": {
+          "ars": 74123677.32,
+          "usd": 48352.04,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 49551128.34,
+          "usd": 32322.98,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 52028686.29,
+          "usd": 33939.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5172": {
+      "id": "5172",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 Comfortline Gen.2 AT + Pack Safe 258CV 2025",
+      "precios": {
+        "2024": {
+          "ars": 50378779.71,
+          "usd": 32862.87,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 52897728.66,
+          "usd": 34506.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5173": {
+      "id": "5173",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT 224CV",
+      "precios": {
+        "2017": {
+          "ars": 37257710.07,
+          "usd": 24303.79,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 39516340.29,
+          "usd": 25777.13,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 42296589.09,
+          "usd": 27590.73,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 44076141.48,
+          "usd": 28751.56,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 46279951.62,
+          "usd": 30189.14,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5174": {
+      "id": "5174",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Extreme 224CV",
+      "precios": {
+        "2017": {
+          "ars": 39487504.56,
+          "usd": 25758.32,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 41881314.72,
+          "usd": 27319.84,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 44827970.67,
+          "usd": 29241.99,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 45834507.81,
+          "usd": 29898.57,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 48126235.5,
+          "usd": 31393.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5175": {
+      "id": "5175",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Highline 258CV P1",
+      "precios": {
+        "2023": {
+          "ars": 51919536.69,
+          "usd": 33867.93,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 54515518.89,
+          "usd": 35561.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5176": {
+      "id": "5176",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Highline 258CV",
+      "precios": {
+        "2020": {
+          "ars": 43960583.94,
+          "usd": 28676.18,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 46158614.67,
+          "usd": 30109.99,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 47586190.26,
+          "usd": 31041.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5177": {
+      "id": "5177",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Highline 258CV 2023",
+      "precios": {
+        "2022": {
+          "ars": 49013781.18,
+          "usd": 31972.46,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 52444742.49,
+          "usd": 34210.53,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 55066984.98,
+          "usd": 35921.06,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5178": {
+      "id": "5178",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Highline Gen.2 258CV 2025",
+      "precios": {
+        "0": {
+          "ars": 87366589.8,
+          "usd": 56990.6,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 58092498.45,
+          "usd": 37894.65,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 60997119.54,
+          "usd": 39789.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5179": {
+      "id": "5179",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Extreme 258CV",
+      "precios": {
+        "2020": {
+          "ars": 45922931.25,
+          "usd": 29956.25,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 48219073.98,
+          "usd": 31454.06,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 49710376.38,
+          "usd": 32426.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5180": {
+      "id": "5180",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Extreme 258CV 2023",
+      "precios": {
+        "2022": {
+          "ars": 51201694.11,
+          "usd": 33399.67,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 54785817.45,
+          "usd": 35737.65,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 57525104.49,
+          "usd": 37524.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5181": {
+      "id": "5181",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Extreme Gen.2 258CV 2025",
+      "precios": {
+        "0": {
+          "ars": 93464357.91,
+          "usd": 60968.27,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 61998260.52,
+          "usd": 40442.44,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 65098170.48,
+          "usd": 42464.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5182": {
+      "id": "5182",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Black Style 258CV",
+      "precios": {
+        "2020": {
+          "ars": 47581637.25,
+          "usd": 31038.25,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 49960715.28,
+          "usd": 32590.16,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 51505887.3,
+          "usd": 33598.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5183": {
+      "id": "5183",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Black Style 258CV 2023",
+      "precios": {
+        "2022": {
+          "ars": 53051059.32,
+          "usd": 34606.04,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 56764644.51,
+          "usd": 37028.47,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 59602871.37,
+          "usd": 38879.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5184": {
+      "id": "5184",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Black Style Gen.2 258CV 2025",
+      "precios": {
+        "0": {
+          "ars": 94478452.74,
+          "usd": 61629.78,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 62197765.14,
+          "usd": 40572.58,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 65307654.93,
+          "usd": 42601.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5185": {
+      "id": "5185",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Hero Gen.2 258CV 2025",
+      "precios": {
+        "0": {
+          "ars": 93464357.91,
+          "usd": 60968.27,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 61998260.52,
+          "usd": 40442.44,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 65098170.48,
+          "usd": 42464.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5186": {
+      "id": "5186",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "4P 1,8 T Highline 180CV",
+      "precios": {
+        "2013": {
+          "ars": 11793231.03,
+          "usd": 7692.91,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12585132.84,
+          "usd": 8209.48,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13049662.5,
+          "usd": 8512.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5187": {
+      "id": "5187",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "4P 1,8 T Highline 180CV CRO",
+      "precios": {
+        "2013": {
+          "ars": 12752843.04,
+          "usd": 8318.88,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13609176.84,
+          "usd": 8877.48,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14111510.28,
+          "usd": 9205.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5188": {
+      "id": "5188",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "4P 1,8 T Highline 180CV Tipt",
+      "precios": {
+        "2013": {
+          "ars": 12147032.1,
+          "usd": 7923.7,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12962695.41,
+          "usd": 8455.77,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13441160.04,
+          "usd": 8767.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5189": {
+      "id": "5189",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "4P 1,8 T Highline 180CV CRO Tipt",
+      "precios": {
+        "2013": {
+          "ars": 13135433.85,
+          "usd": 8568.45,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 14017460.73,
+          "usd": 9143.81,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 14534863.56,
+          "usd": 9481.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5190": {
+      "id": "5190",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "4P 2,0 Trendline 115CV",
+      "precios": {
+        "2013": {
+          "ars": 10375987.86,
+          "usd": 6768.42,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11194410.57,
+          "usd": 7302.29,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11736571.35,
+          "usd": 7655.95,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5191": {
+      "id": "5191",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "4P 2,0 Trendline 115CV Tipt",
+      "precios": {
+        "2013": {
+          "ars": 10735537.68,
+          "usd": 7002.96,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11582305.56,
+          "usd": 7555.32,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12143276.25,
+          "usd": 7921.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5192": {
+      "id": "5192",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "4P 1,9 Diesel Trendline",
+      "precios": {
+        "2013": {
+          "ars": 10735537.68,
+          "usd": 7002.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5193": {
+      "id": "5193",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Comfortline",
+      "precios": {
+        "2013": {
+          "ars": 9974081.25,
+          "usd": 6506.25,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5194": {
+      "id": "5194",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Comfortline 2014",
+      "precios": {
+        "2013": {
+          "ars": 10447609.62,
+          "usd": 6815.14,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11065362.63,
+          "usd": 7218.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11500397.37,
+          "usd": 7501.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5195": {
+      "id": "5195",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Trendline",
+      "precios": {
+        "2013": {
+          "ars": 10875761.19,
+          "usd": 7094.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5196": {
+      "id": "5196",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Trendline 2014",
+      "precios": {
+        "2013": {
+          "ars": 11334664.74,
+          "usd": 7393.78,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12004877.01,
+          "usd": 7830.97,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12476841.72,
+          "usd": 8138.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5197": {
+      "id": "5197",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Trendline CRO Full",
+      "precios": {
+        "2013": {
+          "ars": 11313892.59,
+          "usd": 7380.23,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5198": {
+      "id": "5198",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Highline",
+      "precios": {
+        "2013": {
+          "ars": 11474014.44,
+          "usd": 7484.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5199": {
+      "id": "5199",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Highline 2014",
+      "precios": {
+        "2013": {
+          "ars": 11926034.82,
+          "usd": 7779.54,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12631214.82,
+          "usd": 8239.54,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13127814.84,
+          "usd": 8563.48,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5200": {
+      "id": "5200",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Highline CRO",
+      "precios": {
+        "2013": {
+          "ars": 11900878.29,
+          "usd": 7763.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5201": {
+      "id": "5201",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Highline CRO 2014",
+      "precios": {
+        "2013": {
+          "ars": 12369562.38,
+          "usd": 8068.86,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 13100972.01,
+          "usd": 8545.97,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13616044.68,
+          "usd": 8881.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5202": {
+      "id": "5202",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 MSI 16V Highline 2015",
+      "precios": {
+        "2015": {
+          "ars": 13924913.52,
+          "usd": 9083.44,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14638969.59,
+          "usd": 9549.23,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15218734.86,
+          "usd": 9927.42,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5203": {
+      "id": "5203",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 MSI 16V Highline 2018",
+      "precios": {
+        "2017": {
+          "ars": 15794851.59,
+          "usd": 10303.23,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16901953.53,
+          "usd": 11025.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5204": {
+      "id": "5204",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Comfortline",
+      "precios": {
+        "2013": {
+          "ars": 8909213.46,
+          "usd": 5811.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5205": {
+      "id": "5205",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Comfortline 2014",
+      "precios": {
+        "2013": {
+          "ars": 9452416.68,
+          "usd": 6165.96,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10011333.15,
+          "usd": 6530.55,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10503088.89,
+          "usd": 6851.33,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5206": {
+      "id": "5206",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Comfortline Pack",
+      "precios": {
+        "2013": {
+          "ars": 9519562.08,
+          "usd": 6209.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5207": {
+      "id": "5207",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Comfortline Pack 2014",
+      "precios": {
+        "2013": {
+          "ars": 10046576.82,
+          "usd": 6553.54,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10640614.32,
+          "usd": 6941.04,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11163290.67,
+          "usd": 7281.99,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5208": {
+      "id": "5208",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Trendline",
+      "precios": {
+        "2013": {
+          "ars": 10046208.9,
+          "usd": 6553.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5209": {
+      "id": "5209",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Trendline 2014",
+      "precios": {
+        "2013": {
+          "ars": 10586714.04,
+          "usd": 6905.88,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11212699.26,
+          "usd": 7314.22,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11763460.17,
+          "usd": 7673.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5210": {
+      "id": "5210",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Highline",
+      "precios": {
+        "2013": {
+          "ars": 10852260.3,
+          "usd": 7079.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5211": {
+      "id": "5211",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Highline 2014",
+      "precios": {
+        "2013": {
+          "ars": 11396919.87,
+          "usd": 7434.39,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12070811.34,
+          "usd": 7873.98,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12663729.75,
+          "usd": 8260.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5212": {
+      "id": "5212",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Comfortline",
+      "precios": {
+        "2013": {
+          "ars": 9468053.28,
+          "usd": 6176.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5213": {
+      "id": "5213",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Comfortline 2014",
+      "precios": {
+        "2013": {
+          "ars": 9992553.9,
+          "usd": 6518.3,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10583402.76,
+          "usd": 6903.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11103273.72,
+          "usd": 7242.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5214": {
+      "id": "5214",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Comfortline 2015",
+      "precios": {
+        "2015": {
+          "ars": 12202618.68,
+          "usd": 7959.96,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12366097.8,
+          "usd": 8066.6,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12688886.28,
+          "usd": 8277.16,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5215": {
+      "id": "5215",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Comfortline 2018",
+      "precios": {
+        "2017": {
+          "ars": 13356170.52,
+          "usd": 8712.44,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14292327.63,
+          "usd": 9323.11,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15435715.68,
+          "usd": 10068.96,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5216": {
+      "id": "5216",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Comfortline Pack",
+      "precios": {
+        "2013": {
+          "ars": 10078386.57,
+          "usd": 6574.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5217": {
+      "id": "5217",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Comfortline Pack 2014",
+      "precios": {
+        "2013": {
+          "ars": 10640721.63,
+          "usd": 6941.11,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11269895.49,
+          "usd": 7351.53,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11823477.12,
+          "usd": 7712.64,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5218": {
+      "id": "5218",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Connect",
+      "precios": {
+        "2017": {
+          "ars": 14387971.5,
+          "usd": 9385.5,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15396455.55,
+          "usd": 10043.35,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16628175.06,
+          "usd": 10846.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5219": {
+      "id": "5219",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Track",
+      "precios": {
+        "2016": {
+          "ars": 12836069.61,
+          "usd": 8373.17,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13344427.74,
+          "usd": 8704.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5220": {
+      "id": "5220",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Track 2018",
+      "precios": {
+        "2017": {
+          "ars": 13929389.88,
+          "usd": 9086.36,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14905726.92,
+          "usd": 9723.24,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16098186.3,
+          "usd": 10501.1,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5221": {
+      "id": "5221",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Trendline",
+      "precios": {
+        "2013": {
+          "ars": 10286889.9,
+          "usd": 6710.3,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5222": {
+      "id": "5222",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Trendline 2014",
+      "precios": {
+        "2013": {
+          "ars": 10856782.65,
+          "usd": 7082.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5223": {
+      "id": "5223",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Trendline 2015",
+      "precios": {
+        "2015": {
+          "ars": 12833279.55,
+          "usd": 8371.35,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13105739.64,
+          "usd": 8549.08,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 13624767.45,
+          "usd": 8887.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5224": {
+      "id": "5224",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Trendline 2018",
+      "precios": {
+        "2017": {
+          "ars": 14352436.56,
+          "usd": 9362.32,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15358421.82,
+          "usd": 10018.54,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16587090.66,
+          "usd": 10820.02,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5225": {
+      "id": "5225",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Trendline  I Motion",
+      "precios": {
+        "2013": {
+          "ars": 10064436.27,
+          "usd": 6565.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5226": {
+      "id": "5226",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Highline",
+      "precios": {
+        "2013": {
+          "ars": 10524719.52,
+          "usd": 6865.44,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5227": {
+      "id": "5227",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Highline 2014",
+      "precios": {
+        "2013": {
+          "ars": 11720996.07,
+          "usd": 7645.79,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12414050.04,
+          "usd": 8097.88,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 13023831.45,
+          "usd": 8495.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5228": {
+      "id": "5228",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline 2015",
+      "precios": {
+        "2015": {
+          "ars": 13558465.2,
+          "usd": 8844.4,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14033572.56,
+          "usd": 9154.32,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14589361.71,
+          "usd": 9516.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5229": {
+      "id": "5229",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline 2018",
+      "precios": {
+        "2017": {
+          "ars": 15266702.43,
+          "usd": 9958.71,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5230": {
+      "id": "5230",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline Pepper",
+      "precios": {
+        "2016": {
+          "ars": 14111816.88,
+          "usd": 9205.36,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14670687.36,
+          "usd": 9569.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5231": {
+      "id": "5231",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Highline I Motion",
+      "precios": {
+        "2013": {
+          "ars": 10798927.23,
+          "usd": 7044.31,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5232": {
+      "id": "5232",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Highline I Motion 2014",
+      "precios": {
+        "2013": {
+          "ars": 11494142.73,
+          "usd": 7497.81,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 12173782.95,
+          "usd": 7941.15,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12771760.26,
+          "usd": 8331.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5233": {
+      "id": "5233",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline I Motion 2015",
+      "precios": {
+        "2015": {
+          "ars": 13278401.43,
+          "usd": 8661.71,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13663046.46,
+          "usd": 8912.62,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14204149.47,
+          "usd": 9265.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5234": {
+      "id": "5234",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline I Motion 2018",
+      "precios": {
+        "2017": {
+          "ars": 15594074.58,
+          "usd": 10172.26,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16687103.58,
+          "usd": 10885.26,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 18022070.64,
+          "usd": 11756.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5235": {
+      "id": "5235",
+      "marcaId": "61",
+      "modeloId": "583",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "3P 1,4l Power 4g",
+      "precios": {
+        "2013": {
+          "ars": 6887171.13,
+          "usd": 4492.61,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7200761.61,
+          "usd": 4697.17,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 7625065.35,
+          "usd": 4973.95,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 7927832.85,
+          "usd": 5171.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5236": {
+      "id": "5236",
+      "marcaId": "61",
+      "modeloId": "583",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "3P 1,4l Power 4g Dh A/c",
+      "precios": {
+        "2013": {
+          "ars": 7748073.27,
+          "usd": 5054.19,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8131660.53,
+          "usd": 5304.41,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8610815.01,
+          "usd": 5616.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 8952720,
+          "usd": 5840,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5237": {
+      "id": "5237",
+      "marcaId": "61",
+      "modeloId": "583",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "5P 1,4l Power 4g",
+      "precios": {
+        "2013": {
+          "ars": 7461095.67,
+          "usd": 4866.99,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 7760521.23,
+          "usd": 5062.31,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 8217799.8,
+          "usd": 5360.6,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 8544098.85,
+          "usd": 5573.45,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5238": {
+      "id": "5238",
+      "marcaId": "61",
+      "modeloId": "583",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "5P 1,4l Power 4g Dh A/c",
+      "precios": {
+        "2013": {
+          "ars": 8379393.33,
+          "usd": 5466.01,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8768989.95,
+          "usd": 5720.15,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9285702.93,
+          "usd": 6057.21,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 9654404.76,
+          "usd": 6297.72,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5239": {
+      "id": "5239",
+      "marcaId": "61",
+      "modeloId": "584",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL COUNTRY",
+      "version": "5P 1,4 Power 4g",
+      "precios": {
+        "2013": {
+          "ars": 7680743.91,
+          "usd": 5010.27,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5240": {
+      "id": "5240",
+      "marcaId": "61",
+      "modeloId": "584",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL COUNTRY",
+      "version": "5P 1,4 Power 4g Dh A/c",
+      "precios": {
+        "2013": {
+          "ars": 8285527.74,
+          "usd": 5404.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5241": {
+      "id": "5241",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Serie",
+      "precios": {
+        "2013": {
+          "ars": 8043850.29,
+          "usd": 5247.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5242": {
+      "id": "5242",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Serie ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "ars": 8353225.02,
+          "usd": 5448.94,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 8495211.48,
+          "usd": 5541.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5243": {
+      "id": "5243",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Pack I 2014",
+      "precios": {
+        "2013": {
+          "ars": 9281364.54,
+          "usd": 6054.38,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9405399.57,
+          "usd": 6135.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5244": {
+      "id": "5244",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Pack I ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "ars": 9590754.6,
+          "usd": 6256.2,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9708810.93,
+          "usd": 6333.21,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5245": {
+      "id": "5245",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Pack Ii 2014",
+      "precios": {
+        "2013": {
+          "ars": 10023873.09,
+          "usd": 6538.73,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10133574.57,
+          "usd": 6610.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5246": {
+      "id": "5246",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Pack Iii 2014",
+      "precios": {
+        "2013": {
+          "ars": 10457006.91,
+          "usd": 6821.27,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10558322.88,
+          "usd": 6887.36,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5247": {
+      "id": "5247",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Serie 2015",
+      "precios": {
+        "2014": {
+          "ars": 9405399.57,
+          "usd": 6135.29,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9519347.46,
+          "usd": 6209.62,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 9807352.17,
+          "usd": 6397.49,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5248": {
+      "id": "5248",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Trendline 2015",
+      "precios": {
+        "2014": {
+          "ars": 10168756.92,
+          "usd": 6633.24,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10247292.51,
+          "usd": 6684.47,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10557311.1,
+          "usd": 6886.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5249": {
+      "id": "5249",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Highline 2015",
+      "precios": {
+        "2014": {
+          "ars": 12105671.76,
+          "usd": 7896.72,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12152045.01,
+          "usd": 7926.97,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12519704.4,
+          "usd": 8166.8,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5250": {
+      "id": "5250",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Serie 2017",
+      "precios": {
+        "2016": {
+          "ars": 10425273.81,
+          "usd": 6800.57,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 10941373.59,
+          "usd": 7137.23,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 11485251.33,
+          "usd": 7492.01,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 12283653.06,
+          "usd": 8012.82,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5251": {
+      "id": "5251",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Trendline 2017",
+      "precios": {
+        "2016": {
+          "ars": 11255408.64,
+          "usd": 7342.08,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11812608.15,
+          "usd": 7705.55,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12399793.14,
+          "usd": 8088.58,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13261768.38,
+          "usd": 8650.86,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5252": {
+      "id": "5252",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6",
+      "precios": {}
+    },
+    "5253": {
+      "id": "5253",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack I",
+      "precios": {}
+    },
+    "5254": {
+      "id": "5254",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack I Plus",
+      "precios": {}
+    },
+    "5255": {
+      "id": "5255",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack I Plus I Motion",
+      "precios": {}
+    },
+    "5256": {
+      "id": "5256",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack Iii",
+      "precios": {
+        "2013": {
+          "ars": 9776370.24,
+          "usd": 6377.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5257": {
+      "id": "5257",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack Iii ABS",
+      "precios": {
+        "2013": {
+          "ars": 9900129.33,
+          "usd": 6458.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5258": {
+      "id": "5258",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack Iii I Motion",
+      "precios": {
+        "2013": {
+          "ars": 10518878.79,
+          "usd": 6861.63,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5259": {
+      "id": "5259",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Serie",
+      "precios": {
+        "2013": {
+          "ars": 8353225.02,
+          "usd": 5448.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5260": {
+      "id": "5260",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack I",
+      "precios": {
+        "2013": {
+          "ars": 9281364.54,
+          "usd": 6054.38,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5261": {
+      "id": "5261",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Ii",
+      "precios": {
+        "2013": {
+          "ars": 9714498.36,
+          "usd": 6336.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5262": {
+      "id": "5262",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Iii",
+      "precios": {
+        "2013": {
+          "ars": 10147632.18,
+          "usd": 6619.46,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5263": {
+      "id": "5263",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Iii I Mottion",
+      "precios": {
+        "2013": {
+          "ars": 10766381.64,
+          "usd": 7023.08,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5264": {
+      "id": "5264",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Serie ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "ars": 8971989.81,
+          "usd": 5852.57,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 9102003.54,
+          "usd": 5937.38,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 9459851.73,
+          "usd": 6170.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5265": {
+      "id": "5265",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack I 2014",
+      "precios": {
+        "2013": {
+          "ars": 9900129.33,
+          "usd": 6458.01,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10012206.96,
+          "usd": 6531.12,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10405835.37,
+          "usd": 6787.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5266": {
+      "id": "5266",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack I ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "ars": 10209504.06,
+          "usd": 6659.82,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10315602.99,
+          "usd": 6729.03,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 10721173.47,
+          "usd": 6993.59,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5267": {
+      "id": "5267",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Ii 2014",
+      "precios": {
+        "2013": {
+          "ars": 10642637.88,
+          "usd": 6942.36,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 10740366.63,
+          "usd": 7006.11,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11162631.48,
+          "usd": 7281.56,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5268": {
+      "id": "5268",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Iii 2014",
+      "precios": {
+        "2013": {
+          "ars": 11075771.7,
+          "usd": 7224.9,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11165130.27,
+          "usd": 7283.19,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 11604089.49,
+          "usd": 7569.53,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5269": {
+      "id": "5269",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Iii I Mottion 2014",
+      "precios": {
+        "2013": {
+          "ars": 11694521.16,
+          "usd": 7628.52,
+          "cotizacion": 1533
+        },
+        "2014": {
+          "ars": 11771922.33,
+          "usd": 7679.01,
+          "cotizacion": 1533
+        },
+        "2015": {
+          "ars": 12234750.36,
+          "usd": 7980.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5270": {
+      "id": "5270",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Serie 2015",
+      "precios": {
+        "2015": {
+          "ars": 9800775.6,
+          "usd": 6393.2,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 10097288.46,
+          "usd": 6586.62,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5271": {
+      "id": "5271",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Trendline 2015",
+      "precios": {
+        "2015": {
+          "ars": 11017211.1,
+          "usd": 7186.7,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 11350531.29,
+          "usd": 7404.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5272": {
+      "id": "5272",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Sportline 2015",
+      "precios": {
+        "2015": {
+          "ars": 11818571.52,
+          "usd": 7709.44,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 12176128.44,
+          "usd": 7942.68,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5273": {
+      "id": "5273",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Highline 2015",
+      "precios": {
+        "2015": {
+          "ars": 12971602.14,
+          "usd": 8461.58,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13364050.14,
+          "usd": 8717.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5274": {
+      "id": "5274",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Cup 2015",
+      "precios": {
+        "2015": {
+          "ars": 12971602.14,
+          "usd": 8461.58,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13364050.14,
+          "usd": 8717.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5275": {
+      "id": "5275",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Highline I Mottion 2015",
+      "precios": {
+        "2015": {
+          "ars": 13836382.77,
+          "usd": 9025.69,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 14254983.75,
+          "usd": 9298.75,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5276": {
+      "id": "5276",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Serie 2017",
+      "precios": {
+        "2016": {
+          "ars": 11093861.1,
+          "usd": 7236.7,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 11643058.35,
+          "usd": 7594.95,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 12221827.17,
+          "usd": 7972.49,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 13071415.77,
+          "usd": 8526.69,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5277": {
+      "id": "5277",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Trendline 2017",
+      "precios": {
+        "2016": {
+          "ars": 11923995.93,
+          "usd": 7778.21,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 12514292.91,
+          "usd": 8163.27,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 13136368.98,
+          "usd": 8569.06,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 14049546.42,
+          "usd": 9164.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5278": {
+      "id": "5278",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Comfortline 2017",
+      "precios": {
+        "2016": {
+          "ars": 13601082.6,
+          "usd": 8872.2,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14274406.86,
+          "usd": 9311.42,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14983971.24,
+          "usd": 9774.28,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16025583.42,
+          "usd": 10453.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5279": {
+      "id": "5279",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Connect 2017",
+      "precios": {
+        "2016": {
+          "ars": 13601082.6,
+          "usd": 8872.2,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14274406.86,
+          "usd": 9311.42,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14983971.24,
+          "usd": 9774.28,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 16025583.42,
+          "usd": 10453.74,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5280": {
+      "id": "5280",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Sportline 2017",
+      "precios": {
+        "2016": {
+          "ars": 13433954.94,
+          "usd": 8763.18,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 14099001,
+          "usd": 9197,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 14799842.61,
+          "usd": 9654.17,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 15828654.24,
+          "usd": 10325.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5281": {
+      "id": "5281",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Highline 2017",
+      "precios": {
+        "2016": {
+          "ars": 14598329.76,
+          "usd": 9522.72,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15321016.62,
+          "usd": 9994.14,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16082611.02,
+          "usd": 10490.94,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17200597.26,
+          "usd": 11220.22,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5282": {
+      "id": "5282",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Highline I Mottion 2017",
+      "precios": {
+        "2016": {
+          "ars": 14598329.76,
+          "usd": 9522.72,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15321016.62,
+          "usd": 9994.14,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16082611.02,
+          "usd": 10490.94,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5283": {
+      "id": "5283",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Trendline 2019",
+      "precios": {
+        "2019": {
+          "ars": 14703830.82,
+          "usd": 9591.54,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 15724456.23,
+          "usd": 10257.31,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17406755.1,
+          "usd": 11354.7,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 18277085.19,
+          "usd": 11922.43,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5284": {
+      "id": "5284",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Trendline Tipt 2020",
+      "precios": {
+        "2020": {
+          "ars": 16038951.18,
+          "usd": 10462.46,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 17754884.07,
+          "usd": 11581.79,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 18642629.04,
+          "usd": 12160.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5285": {
+      "id": "5285",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Comfortline 2019",
+      "precios": {
+        "2019": {
+          "ars": 15828500.94,
+          "usd": 10325.18,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 16927186.71,
+          "usd": 11041.87,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 18738150.27,
+          "usd": 12223.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5286": {
+      "id": "5286",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Comfortline Tipt 2019",
+      "precios": {
+        "2019": {
+          "ars": 16145065.44,
+          "usd": 10531.68,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17265719.1,
+          "usd": 11262.7,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19112907.45,
+          "usd": 12467.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5287": {
+      "id": "5287",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Format",
+      "precios": {}
+    },
+    "5288": {
+      "id": "5288",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Concepline",
+      "precios": {}
+    },
+    "5289": {
+      "id": "5289",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Advance",
+      "precios": {}
+    },
+    "5290": {
+      "id": "5290",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Advance",
+      "precios": {}
+    },
+    "5291": {
+      "id": "5291",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Advance AT",
+      "precios": {}
+    },
+    "5292": {
+      "id": "5292",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Conceptline",
+      "precios": {}
+    },
+    "5293": {
+      "id": "5293",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Highline T/c",
+      "precios": {}
+    },
+    "5294": {
+      "id": "5294",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Highline T/c Tipt",
+      "precios": {}
+    },
+    "5295": {
+      "id": "5295",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,9 Diesel Conceptline",
+      "precios": {}
+    },
+    "5296": {
+      "id": "5296",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,9 Diesel Advance",
+      "precios": {}
+    },
+    "5297": {
+      "id": "5297",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,8 Gti 180CV",
+      "precios": {}
+    },
+    "5298": {
+      "id": "5298",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,8 Gti 180CV Tipt",
+      "precios": {}
+    },
+    "5299": {
+      "id": "5299",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti 211CV 2011",
+      "precios": {
+        "2013": {
+          "ars": 18238591.56,
+          "usd": 11897.32,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5300": {
+      "id": "5300",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti 211CV Nav 2011",
+      "precios": {
+        "2013": {
+          "ars": 18743301.15,
+          "usd": 12226.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5301": {
+      "id": "5301",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti 211CV DSG 2011",
+      "precios": {
+        "2013": {
+          "ars": 19698283.5,
+          "usd": 12849.5,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5302": {
+      "id": "5302",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti 211CV DSG Nav 2011",
+      "precios": {
+        "2013": {
+          "ars": 20126634.36,
+          "usd": 13128.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5303": {
+      "id": "5303",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Trendline",
+      "precios": {
+        "2015": {
+          "ars": 12615930.81,
+          "usd": 8229.57,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 13262872.14,
+          "usd": 8651.58,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5304": {
+      "id": "5304",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Comfortline",
+      "precios": {
+        "2015": {
+          "ars": 16491385.47,
+          "usd": 10757.59,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 17337064.92,
+          "usd": 11309.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5305": {
+      "id": "5305",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Comfortline DSG",
+      "precios": {
+        "2015": {
+          "ars": 17143968.24,
+          "usd": 11183.28,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 18023113.08,
+          "usd": 11756.76,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5306": {
+      "id": "5306",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Highline DSG",
+      "precios": {
+        "2015": {
+          "ars": 19550165.04,
+          "usd": 12752.88,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 20552685.72,
+          "usd": 13406.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5307": {
+      "id": "5307",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti",
+      "precios": {
+        "2016": {
+          "ars": 26490515.94,
+          "usd": 17280.18,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 28769167.14,
+          "usd": 18766.58,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 31606397.55,
+          "usd": 20617.35,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5308": {
+      "id": "5308",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti CRO",
+      "precios": {
+        "2016": {
+          "ars": 27478365.81,
+          "usd": 17924.57,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 29841991.2,
+          "usd": 19466.4,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 32785029.27,
+          "usd": 21386.19,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5309": {
+      "id": "5309",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti App Connect",
+      "precios": {
+        "2016": {
+          "ars": 26564483.19,
+          "usd": 17328.43,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 28849496.34,
+          "usd": 18818.98,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 31694652.36,
+          "usd": 20674.92,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5310": {
+      "id": "5310",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti App Connect CRO",
+      "precios": {
+        "2016": {
+          "ars": 27541602.06,
+          "usd": 17965.82,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 29910654.27,
+          "usd": 19511.19,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 32860468.2,
+          "usd": 21435.4,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5311": {
+      "id": "5311",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Trendline 2018",
+      "precios": {
+        "2017": {
+          "ars": 14123191.74,
+          "usd": 9212.78,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 15516044.88,
+          "usd": 10121.36,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 17041349.22,
+          "usd": 11116.34,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 17938261.53,
+          "usd": 11701.41,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5312": {
+      "id": "5312",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Comfortline 2018",
+      "precios": {
+        "2017": {
+          "ars": 19012005.39,
+          "usd": 12401.83,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 20886971.7,
+          "usd": 13624.9,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22940271.9,
+          "usd": 14964.3,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 24147647.37,
+          "usd": 15751.89,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5313": {
+      "id": "5313",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Comfortline DSG 2018",
+      "precios": {
+        "2017": {
+          "ars": 20239861.74,
+          "usd": 13202.78,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22235919.72,
+          "usd": 14504.84,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24421824.42,
+          "usd": 15930.74,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 25707183.6,
+          "usd": 16769.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5314": {
+      "id": "5314",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Highline DSG 2018",
+      "precios": {
+        "2017": {
+          "ars": 21346273.83,
+          "usd": 13924.51,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 23451466.08,
+          "usd": 15297.76,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 25756852.8,
+          "usd": 16801.6,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 27112484.7,
+          "usd": 17685.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5315": {
+      "id": "5315",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti DSG 2018",
+      "precios": {
+        "2017": {
+          "ars": 27953994.39,
+          "usd": 18234.83,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 30710849.61,
+          "usd": 20033.17,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 33729878.49,
+          "usd": 22002.53,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 35505123.15,
+          "usd": 23160.55,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5316": {
+      "id": "5316",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti DSG CRO 2018",
+      "precios": {
+        "2017": {
+          "ars": 28855735.65,
+          "usd": 18823.05,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 31701520.2,
+          "usd": 20679.4,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 34817940.57,
+          "usd": 22712.29,
+          "cotizacion": 1533
+        },
+        "2020": {
+          "ars": 36650458.11,
+          "usd": 23907.67,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5317": {
+      "id": "5317",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 250 TSI Highline DSG 2020",
+      "precios": {
+        "2020": {
+          "ars": 29333326.47,
+          "usd": 19134.59,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 32421049.08,
+          "usd": 21148.76,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 34042104.6,
+          "usd": 22206.2,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5318": {
+      "id": "5318",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P Gti 2020",
+      "precios": {
+        "2020": {
+          "ars": 40893096.93,
+          "usd": 26675.21,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 45197638.29,
+          "usd": 29483.13,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 47457510.24,
+          "usd": 30957.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5319": {
+      "id": "5319",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Comfortline",
+      "precios": {
+        "2015": {
+          "ars": 14955089.52,
+          "usd": 9755.44,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 15721988.1,
+          "usd": 10255.7,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5320": {
+      "id": "5320",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Comfortline DSG",
+      "precios": {
+        "2015": {
+          "ars": 15931104.63,
+          "usd": 10392.11,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 16748040.33,
+          "usd": 10925.01,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5321": {
+      "id": "5321",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Highline DSG",
+      "precios": {
+        "2015": {
+          "ars": 17205548.85,
+          "usd": 11223.45,
+          "cotizacion": 1533
+        },
+        "2016": {
+          "ars": 18087836.34,
+          "usd": 11798.98,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5322": {
+      "id": "5322",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,6 Trendline",
+      "precios": {
+        "2016": {
+          "ars": 14143948.56,
+          "usd": 9226.32,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 15360583.35,
+          "usd": 10019.95,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 16875463.29,
+          "usd": 11008.13,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5323": {
+      "id": "5323",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,6 Trendline AT",
+      "precios": {
+        "2016": {
+          "ars": 15895431.72,
+          "usd": 10368.84,
+          "cotizacion": 1533
+        },
+        "2017": {
+          "ars": 17262714.42,
+          "usd": 11260.74,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 18965172.24,
+          "usd": 12371.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5324": {
+      "id": "5324",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,6 Trendline 2018",
+      "precios": {
+        "2017": {
+          "ars": 16329914.58,
+          "usd": 10652.26,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 17940392.4,
+          "usd": 11702.8,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 19704016.92,
+          "usd": 12853.24,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5325": {
+      "id": "5325",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Comfortline 2018",
+      "precios": {
+        "2018": {
+          "ars": 20321049.42,
+          "usd": 13255.74,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 22318701.72,
+          "usd": 14558.84,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5326": {
+      "id": "5326",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Comfortline DSG 2018",
+      "precios": {
+        "2017": {
+          "ars": 20112975.33,
+          "usd": 13120.01,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22096539.36,
+          "usd": 14413.92,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24268739.04,
+          "usd": 15830.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5327": {
+      "id": "5327",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Highline DSG 2018",
+      "precios": {
+        "2017": {
+          "ars": 20516246.31,
+          "usd": 13383.07,
+          "cotizacion": 1533
+        },
+        "2018": {
+          "ars": 22539576.36,
+          "usd": 14702.92,
+          "cotizacion": 1533
+        },
+        "2019": {
+          "ars": 24755328.57,
+          "usd": 16148.29,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5328": {
+      "id": "5328",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 2,0 Advance",
+      "precios": {}
+    },
+    "5329": {
+      "id": "5329",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 2,0 Advance AT",
+      "precios": {}
+    },
+    "5330": {
+      "id": "5330",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 2,0 Luxury CRO",
+      "precios": {}
+    },
+    "5331": {
+      "id": "5331",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 2,0 Luxury CRO AT",
+      "precios": {}
+    },
+    "5332": {
+      "id": "5332",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 1,8 T Sport",
+      "precios": {}
+    },
+    "5333": {
+      "id": "5333",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 1,8 T Sport Tipt",
+      "precios": {}
+    },
+    "5334": {
+      "id": "5334",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 1,8 T Cabriolet Sport Tipt",
+      "precios": {}
+    },
+    "5335": {
+      "id": "5335",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT",
+      "precios": {
+        "2022": {
+          "ars": 19136255.04,
+          "usd": 12482.88,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5336": {
+      "id": "5336",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT 2022",
+      "precios": {
+        "2022": {
+          "ars": 20093061.66,
+          "usd": 13107.02,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 21499573.83,
+          "usd": 14024.51,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5337": {
+      "id": "5337",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT 2024",
+      "precios": {
+        "2023": {
+          "ars": 22574559.42,
+          "usd": 14725.74,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 23762695.74,
+          "usd": 15500.78,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 24513099.24,
+          "usd": 15990.28,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5338": {
+      "id": "5338",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT 2025",
+      "precios": {
+        "0": {
+          "ars": 44923875.15,
+          "usd": 29304.55,
+          "cotizacion": 1533
+        },
+        "2025": {
+          "ars": 25013363.13,
+          "usd": 16316.61,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5339": {
+      "id": "5339",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Comfortline",
+      "precios": {
+        "2020": {
+          "ars": 18270677.25,
+          "usd": 11918.25,
+          "cotizacion": 1533
+        },
+        "2021": {
+          "ars": 19184207.28,
+          "usd": 12514.16,
+          "cotizacion": 1533
+        },
+        "2022": {
+          "ars": 20143420.71,
+          "usd": 13139.87,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5340": {
+      "id": "5340",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Comfortline 2022",
+      "precios": {
+        "2022": {
+          "ars": 21150586.38,
+          "usd": 13796.86,
+          "cotizacion": 1533
+        },
+        "2023": {
+          "ars": 22631142.45,
+          "usd": 14762.65,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5341": {
+      "id": "5341",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Comfortline 2024",
+      "precios": {
+        "2023": {
+          "ars": 23762695.74,
+          "usd": 15500.78,
+          "cotizacion": 1533
+        },
+        "2024": {
+          "ars": 25013363.13,
+          "usd": 16316.61,
           "cotizacion": 1533
         }
       }
@@ -121716,6 +128682,318 @@
           "cotizacion": 1533
         }
       }
+    },
+    "5875": {
+      "id": "5875",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline Gen.2 Serie Especial 2026",
+      "precios": {
+        "0": {
+          "ars": 60327995.7,
+          "usd": 39352.9,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5876": {
+      "id": "5876",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Comfortline Gen.2 AT Serie Especial 2026",
+      "precios": {
+        "0": {
+          "ars": 64258837.65,
+          "usd": 41917.05,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5877": {
+      "id": "5877",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 2,0 Diesel 180CV 4X2 Highline Gen.2 AT Serie Especial 2026",
+      "precios": {
+        "0": {
+          "ars": 71248949.73,
+          "usd": 46476.81,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5878": {
+      "id": "5878",
+      "marcaId": "61",
+      "modeloId": "579",
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK PICK - UP",
+      "version": "D/C 3,0 Diesel V6 4X4 8AT Black Style Gen.2 258CV Serie Especial 2026",
+      "precios": {
+        "0": {
+          "ars": 94478452.74,
+          "usd": 61629.78,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "5936": {
+      "id": "5936",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "Bora 1.8 T.  Highline Cuero",
+      "precios": {}
+    },
+    "5942": {
+      "id": "5942",
+      "marcaId": "61",
+      "modeloId": "580",
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "version": "Bora 2.0 Mpi Trendline",
+      "precios": {}
+    },
+    "5946": {
+      "id": "5946",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 3 P. Comfortline Fa",
+      "precios": {}
+    },
+    "5948": {
+      "id": "5948",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 3 P. Highline    L/10",
+      "precios": {}
+    },
+    "5950": {
+      "id": "5950",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 3 P. Trendline   L/10",
+      "precios": {}
+    },
+    "5955": {
+      "id": "5955",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 5 P. Comfortline L/10 Pack",
+      "precios": {}
+    },
+    "5957": {
+      "id": "5957",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 5 P. Highline   L/10 I Mot",
+      "precios": {}
+    },
+    "5963": {
+      "id": "5963",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 5 P. Trendline  L/10 I Mot",
+      "precios": {}
+    },
+    "6008": {
+      "id": "6008",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol 1.6 3 P Comfortline",
+      "precios": {}
+    },
+    "6011": {
+      "id": "6011",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol 1.6 3 P Trendline",
+      "precios": {}
+    },
+    "6097": {
+      "id": "6097",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 3 P L/13 Highline",
+      "precios": {}
+    },
+    "6098": {
+      "id": "6098",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 3 P L/13 Pack 1",
+      "precios": {}
+    },
+    "6112": {
+      "id": "6112",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P Cup",
+      "precios": {}
+    },
+    "6120": {
+      "id": "6120",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P L/13 Hig Imotion",
+      "precios": {}
+    },
+    "6121": {
+      "id": "6121",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P Startline",
+      "precios": {}
+    },
+    "6122": {
+      "id": "6122",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P Sportline",
+      "precios": {}
+    },
+    "6125": {
+      "id": "6125",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P L/17 Connect",
+      "precios": {}
+    },
+    "6131": {
+      "id": "6131",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P L/19 Comfortline AT",
+      "precios": {}
+    },
+    "6137": {
+      "id": "6137",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Country 1.6  Mi 2 Ptas",
+      "precios": {}
+    },
+    "6283": {
+      "id": "6283",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf 1.9  Diesel Advance",
+      "precios": {}
+    },
+    "6285": {
+      "id": "6285",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf 2.0  Advance",
+      "precios": {}
+    },
+    "6286": {
+      "id": "6286",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf 2.0  Advance Tiptronic",
+      "precios": {}
+    },
+    "6289": {
+      "id": "6289",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf 2.0  Highline",
+      "precios": {}
+    },
+    "6294": {
+      "id": "6294",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Variant 1.6 Comfortline",
+      "precios": {}
+    },
+    "6296": {
+      "id": "6296",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Vii 1.4 TSI 250 Highline DSG",
+      "precios": {}
+    },
+    "6298": {
+      "id": "6298",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Vii 1.4 TSI Variant Comfor DSG",
+      "precios": {}
+    },
+    "6299": {
+      "id": "6299",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Vii 1.6 FSI Trendline",
+      "precios": {}
+    },
+    "6300": {
+      "id": "6300",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Vii 1.6 FSI Variant Trendline DSG",
+      "precios": {}
     },
     "6326": {
       "id": "6326",
@@ -124804,6 +132082,21 @@
         "0": {
           "ars": 119727300,
           "usd": 78100,
+          "cotizacion": 1533
+        }
+      }
+    },
+    "6620": {
+      "id": "6620",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT Sense",
+      "precios": {
+        "0": {
+          "ars": 34327871.13,
+          "usd": 22392.61,
           "cotizacion": 1533
         }
       }
