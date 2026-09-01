@@ -2,6 +2,9 @@ name: Actualizar datos de vehículos
 
 on:
   workflow_dispatch:
+  schedule:
+    # Día 3 de cada mes a las 00:00 de Argentina (03:00 UTC).
+    - cron: "0 3 3 * *"
 
 concurrency:
   group: actualizar-autos
@@ -14,9 +17,6 @@ permissions:
 jobs:
   generar:
     runs-on: ubuntu-latest
-
-    # 140 minutos de máximo.
-    # El script termina alrededor de 125 minutos.
     timeout-minutes: 140
 
     steps:
@@ -30,7 +30,7 @@ jobs:
         with:
           node-version: 24
 
-      - name: Ejecutar lote de valuaciones
+      - name: Ejecutar lote
         env:
           JOB_SECONDS: "7500"
           REQUEST_INTERVAL_MS: "21000"
@@ -38,54 +38,23 @@ jobs:
         run: |
           node scripts/generar-autos-data.js
 
-      - name: Mostrar estado
-        run: |
-          node -e "
-          const fs=require('fs');
-
-          const s=JSON.parse(
-            fs.readFileSync(
-              'estado-actualizacion.json',
-              'utf8'
-            )
-          );
-
-          const d=JSON.parse(
-            fs.readFileSync(
-              'autos-data.json',
-              'utf8'
-            )
-          );
-
-          console.log(
-            JSON.stringify({
-              siguienteIndice:s.siguienteIndice,
-              total:s.totalVersionesCatalogadas,
-              versionesProcesadas:s.versionesProcesadas,
-              versionesConValuacion:s.versionesConValuacion,
-              completo:s.completo,
-              vehiculos:Object.keys(
-                d.vehiculos||{}
-              ).length
-            }, null, 2)
-          );
-          "
-
-      - name: Commit y push
+      - name: Commit datos
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add autos-data.json estado-actualizacion.json
+          git add autos-data.json
+          git add estado-actualizacion.json
+          git add data/
 
           if git diff --cached --quiet; then
-            echo "No hay cambios para commitear."
+            echo "No hay cambios."
           else
-            git commit -m "Actualizar lote de valuaciones"
+            git commit -m "Actualizar datos de vehículos"
             git push
           fi
 
-      - name: Continuar automáticamente
+      - name: Continuar siguiente lote
         if: success()
         env:
           GH_TOKEN: ${{ github.token }}
@@ -97,13 +66,9 @@ jobs:
           TOTAL=$(node -p "JSON.parse(require('fs').readFileSync('estado-actualizacion.json','utf8')).totalVersionesCatalogadas")
 
           echo "Progreso: $INDEX/$TOTAL"
-          echo "Completo: $COMPLETE"
 
           if [ "$COMPLETE" != "true" ]; then
-            echo "Lanzando siguiente lote..."
-
             gh workflow run actualizar-autos.yml --ref main
-
           else
-            echo "TODOS LOS LOTES COMPLETADOS."
+            echo "Actualización completa."
           fi
