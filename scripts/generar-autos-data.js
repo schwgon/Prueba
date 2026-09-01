@@ -1,31 +1,26 @@
 const fs = require("fs");
 const path = require("path");
+const { execFileSync } = require("child_process");
 
 const API = "https://argautos.com/api/v1";
 
-const MIN_YEAR = 2013;
-const MAX_YEAR = new Date().getFullYear();
+const CURRENT_YEAR = new Date().getFullYear();
+const MIN_YEAR = CURRENT_YEAR - 13;
+const MAX_YEAR = CURRENT_YEAR;
 
-// Máximo recomendado: 3 requests/minuto sin API key.
-// 21 segundos deja un pequeño margen de seguridad.
 const REQUEST_INTERVAL_MS = Number(
   process.env.REQUEST_INTERVAL_MS || 21000
 );
 
-// El workflow tendrá 140 minutos.
-// El script trabaja 125 minutos y deja margen para commit/push.
 const JOB_SECONDS = Number(
   process.env.JOB_SECONDS || 7500
 );
 
-// Cada cuántas versiones pedimos al workflow que haga commit.
-// Esto evita perder cientos de versiones si GitHub cancela el job.
 const CHECKPOINT_EVERY = Number(
   process.env.CHECKPOINT_EVERY || 25
 );
 
 const ROOT = path.resolve(__dirname, "..");
-
 const CATALOG = path.join(ROOT, "catalogo-argautos.json");
 const DATA = path.join(ROOT, "autos-data.json");
 const STATE = path.join(ROOT, "estado-actualizacion.json");
@@ -36,7 +31,9 @@ function sleep(ms) {
 
 function readJson(file, fallback) {
   try {
-    return JSON.parse(fs.readFileSync(file, "utf8"));
+    return JSON.parse(
+      fs.readFileSync(file, "utf8")
+    );
   } catch {
     return fallback;
   }
@@ -59,11 +56,15 @@ function nowIso() {
 }
 
 function loadCatalog() {
-  const catalog = readJson(CATALOG, null);
+  const catalog =
+    readJson(CATALOG, null);
 
-  if (!catalog || !Array.isArray(catalog.versiones)) {
+  if (
+    !catalog ||
+    !Array.isArray(catalog.versiones)
+  ) {
     throw new Error(
-      `No se encontró un catálogo válido en ${CATALOG}`
+      `Catálogo inválido: ${CATALOG}`
     );
   }
 
@@ -72,26 +73,23 @@ function loadCatalog() {
 
 function freshData(catalog) {
   return {
-    version: 5,
+    version: 6,
     actualizado: nowIso(),
     fuente: "Arg Autos",
     minYear: MIN_YEAR,
     maxYear: MAX_YEAR,
-
     totalVersionesCatalogadas:
       catalog.versiones.length,
-
     versionesProcesadas: 0,
     versionesConValuacion: 0,
-
     completo: false,
-
     vehiculos: {}
   };
 }
 
 function loadData(catalog) {
-  const current = readJson(DATA, null);
+  const current =
+    readJson(DATA, null);
 
   if (
     !current ||
@@ -101,7 +99,8 @@ function loadData(catalog) {
     return freshData(catalog);
   }
 
-  const total = catalog.versiones.length;
+  const total =
+    catalog.versiones.length;
 
   const compatible =
     current.totalVersionesCatalogadas === total &&
@@ -115,37 +114,25 @@ function loadData(catalog) {
 
   current.minYear = MIN_YEAR;
   current.maxYear = MAX_YEAR;
-  current.totalVersionesCatalogadas = total;
+  current.totalVersionesCatalogadas =
+    total;
 
   return current;
 }
 
 function loadState(catalog) {
-  const total = catalog.versiones.length;
-  const state = readJson(STATE, null);
+  const total =
+    catalog.versiones.length;
+
+  const state =
+    readJson(STATE, null);
 
   if (
     !state ||
     state.totalVersionesCatalogadas !== total
   ) {
     return {
-      version: 2,
-      actualizado: nowIso(),
-      reinicioValuaciones: true,
-      siguienteIndice: 0,
-      totalVersionesCatalogadas: total,
-      versionesProcesadas: 0,
-      versionesConValuacion: 0,
-      completo: false
-    };
-  }
-
-  if (
-    state.version < 2 ||
-    state.reinicioValuaciones !== true
-  ) {
-    return {
-      version: 2,
+      version: 3,
       actualizado: nowIso(),
       reinicioValuaciones: true,
       siguienteIndice: 0,
@@ -162,7 +149,8 @@ function loadState(catalog) {
 let lastRequestAt = 0;
 
 async function apiGet(url) {
-  const elapsed = Date.now() - lastRequestAt;
+  const elapsed =
+    Date.now() - lastRequestAt;
 
   if (
     lastRequestAt &&
@@ -178,62 +166,52 @@ async function apiGet(url) {
   while (true) {
     attempt++;
 
-    const started = Date.now();
+    const controller =
+      new AbortController();
 
-    try {
-      console.log(
-        `Request intento ${attempt}: ${url}`
-      );
-
-      const controller =
-        new AbortController();
-
-      const timeout = setTimeout(
+    const timeout =
+      setTimeout(
         () => controller.abort(),
         15000
       );
 
-      let response;
-
-      try {
-        response = await fetch(url, {
+    try {
+      const response =
+        await fetch(url, {
           headers: {
             Accept: "application/json",
             "User-Agent":
-              "MAUDAM-ArgAutos-Updater/2.0"
+              "MAUDAM-ArgAutos-Updater/3.0"
           },
           signal: controller.signal
         });
-      } finally {
-        clearTimeout(timeout);
-      }
 
-      lastRequestAt = Date.now();
+      clearTimeout(timeout);
+
+      lastRequestAt =
+        Date.now();
 
       if (response.status === 429) {
-        const retryAfter =
+        const header =
           response.headers.get(
             "retry-after"
           );
 
-        let waitMs = 60000;
+        const wait =
+          Number(header);
 
-        if (retryAfter) {
-          const seconds =
-            Number(retryAfter);
-
-          if (Number.isFinite(seconds)) {
-            waitMs = Math.max(
-              1000,
-              seconds * 1000
-            );
-          }
-        }
+        const waitMs =
+          Number.isFinite(wait)
+            ? Math.max(
+                1000,
+                wait * 1000
+              )
+            : 60000;
 
         console.log(
-          `429 Rate Limit. Esperando ${Math.ceil(
+          `429. Esperando ${Math.ceil(
             waitMs / 1000
-          )}s...`
+          )}s.`
         );
 
         await sleep(waitMs);
@@ -242,9 +220,8 @@ async function apiGet(url) {
 
       if (!response.ok) {
         const body =
-          await response.text().catch(
-            () => ""
-          );
+          await response.text()
+            .catch(() => "");
 
         if (
           response.status >= 500 &&
@@ -254,64 +231,39 @@ async function apiGet(url) {
             Math.min(
               120000,
               5000 *
-                2 **
-                  (attempt - 1)
+                2 ** (attempt - 1)
             );
-
-          console.log(
-            `HTTP ${response.status}. ` +
-            `Reintentando en ${Math.ceil(
-              waitMs / 1000
-            )}s...`
-          );
 
           await sleep(waitMs);
           continue;
         }
 
         throw new Error(
-          `HTTP ${response.status}: ${body.slice(
-            0,
-            500
-          )}`
+          `HTTP ${response.status}: ${
+            body.slice(0, 300)
+          }`
         );
       }
 
-      const json =
-        await response.json();
-
-      console.log(
-        `GET OK -> ${response.status} ` +
-        `(${Date.now() - started}ms)`
-      );
-
-      return json;
+      return await response.json();
 
     } catch (error) {
-      const message =
-        error?.name === "AbortError"
-          ? "Timeout de 15 segundos"
-          : error.message;
+      clearTimeout(timeout);
 
       if (attempt >= 5) {
-        throw new Error(
-          `No se pudo obtener ${url}: ${message}`
-        );
+        throw error;
       }
 
       const waitMs =
         Math.min(
           120000,
           5000 *
-            2 **
-              (attempt - 1)
+            2 ** (attempt - 1)
         );
 
       console.log(
-        `${message}. ` +
-        `Reintentando en ${Math.ceil(
-          waitMs / 1000
-        )}s...`
+        `Error: ${error.message}. ` +
+        `Reintentando...`
       );
 
       await sleep(waitMs);
@@ -325,49 +277,6 @@ function normalizePrice(value) {
   return Number.isFinite(n) && n >= 0
     ? n
     : null;
-}
-
-function normalizeYear(value) {
-  const n = Number(value);
-
-  if (!Number.isInteger(n)) {
-    return null;
-  }
-
-  return n;
-}
-
-function makePriceRecord(
-  priceArs,
-  exchangeRate
-) {
-  const ars =
-    normalizePrice(priceArs);
-
-  const rate =
-    normalizePrice(exchangeRate);
-
-  if (ars === null) {
-    return null;
-  }
-
-  const record = {
-    ars
-  };
-
-  if (
-    rate !== null &&
-    rate > 0
-  ) {
-    record.usd =
-      Number(
-        (ars / rate).toFixed(2)
-      );
-
-    record.cotizacion = rate;
-  }
-
-  return record;
 }
 
 function parseValuations(json) {
@@ -385,21 +294,22 @@ function parseValuations(json) {
       json.meta?.currency || ""
     ).toUpperCase();
 
-  const exchangeRate =
-    json.meta?.exchange_rate
-      ?.ars_per_usd ?? null;
+  const rate =
+    normalizePrice(
+      json.meta?.exchange_rate
+        ?.ars_per_usd
+    );
 
   const precios = {};
 
   for (const item of json.data) {
     const year =
-      normalizeYear(item.year);
+      Number(item.year);
 
-    if (year === null) {
+    if (!Number.isInteger(year)) {
       continue;
     }
 
-    // year=0 significa 0 km.
     if (
       year !== 0 &&
       (
@@ -411,48 +321,52 @@ function parseValuations(json) {
     }
 
     const price =
-      normalizePrice(item.price);
+      normalizePrice(
+        item.price
+      );
 
     if (price === null) {
       continue;
     }
 
-    let record = null;
-
     if (currency === "ARS") {
-      record =
-        makePriceRecord(
-          price,
-          exchangeRate
-        );
-
-    } else if (currency === "USD") {
-      const usd = price;
-
-      record = {
-        usd
+      const record = {
+        ars: price
       };
 
-      const rate =
-        normalizePrice(
-          exchangeRate
-        );
-
-      if (
-        rate !== null &&
-        rate > 0
-      ) {
-        record.ars =
+      if (rate && rate > 0) {
+        record.usd =
           Number(
-            (usd * rate).toFixed(2)
+            (price / rate)
+              .toFixed(2)
           );
 
         record.cotizacion =
           rate;
       }
-    }
 
-    if (record) {
+      precios[
+        String(year)
+      ] = record;
+
+    } else if (
+      currency === "USD"
+    ) {
+      const record = {
+        usd: price
+      };
+
+      if (rate && rate > 0) {
+        record.ars =
+          Number(
+            (price * rate)
+              .toFixed(2)
+          );
+
+        record.cotizacion =
+          rate;
+      }
+
       precios[
         String(year)
       ] = record;
@@ -471,6 +385,12 @@ function saveCheckpoint(
 
   data.actualizado =
     timestamp;
+
+  data.minYear =
+    MIN_YEAR;
+
+  data.maxYear =
+    MAX_YEAR;
 
   data.versionesProcesadas =
     state.versionesProcesadas;
@@ -495,25 +415,29 @@ function saveCheckpoint(
   );
 }
 
+function publicarWeb() {
+  execFileSync(
+    process.execPath,
+    [
+      path.join(
+        __dirname,
+        "publicar-datos-web.js"
+      )
+    ],
+    {
+      cwd: ROOT,
+      stdio: "inherit"
+    }
+  );
+}
+
 async function main() {
   console.log(
-    "=== GENERANDO autos-data.json ==="
+    "=== ACTUALIZACIÓN ARG AUTOS ==="
   );
 
   console.log(
-    `Rango: 0 km + ${MIN_YEAR}-${MAX_YEAR}`
-  );
-
-  console.log(
-    `Intervalo: ${REQUEST_INTERVAL_MS} ms`
-  );
-
-  console.log(
-    `Tiempo máximo: ${JOB_SECONDS}s`
-  );
-
-  console.log(
-    `Checkpoint cada: ${CHECKPOINT_EVERY} versiones`
+    `Ventana: 0 km + ${MIN_YEAR}-${MAX_YEAR}`
   );
 
   const catalog =
@@ -528,60 +452,44 @@ async function main() {
   const state =
     loadState(catalog);
 
-  if (
-    state.siguienteIndice < 0 ||
-    state.siguienteIndice >
-      versiones.length
-  ) {
-    throw new Error(
-      `Checkpoint inválido: ${state.siguienteIndice}`
-    );
-  }
-
   const deadline =
     Date.now() +
     JOB_SECONDS * 1000;
 
-  let procesadasDesdeCheckpoint =
-    0;
+  let desdeCheckpoint = 0;
 
   console.log(
-    `Versiones: ${versiones.length}`
-  );
-
-  console.log(
-    `Comenzando en índice: ${state.siguienteIndice}`
+    `Progreso: ${
+      state.siguienteIndice
+    }/${versiones.length}`
   );
 
   while (
     state.siguienteIndice <
     versiones.length
   ) {
-    // Dejamos 2 minutos para terminar
-    // limpiamente antes del límite.
     if (
       Date.now() >=
       deadline - 120000
     ) {
       console.log(
-        "Se alcanzó el límite seguro del lote."
+        "Fin seguro del lote."
       );
-
       break;
     }
 
-    const index =
-      state.siguienteIndice;
-
     const version =
-      versiones[index];
+      versiones[
+        state.siguienteIndice
+      ];
 
     console.log(
-      `\nVERSIÓN ${index + 1}/${versiones.length}: ` +
+      `VERSIÓN ${
+        state.siguienteIndice + 1
+      }/${versiones.length}: ` +
       `${version.marca} ` +
       `${version.modelo} ` +
-      `${version.version} ` +
-      `(ID ${version.id})`
+      `${version.version}`
     );
 
     const url =
@@ -589,37 +497,17 @@ async function main() {
       `${encodeURIComponent(version.id)}` +
       `/valuations?currency=ars`;
 
-    let precios;
+    const response =
+      await apiGet(url);
 
-    try {
-      const response =
-        await apiGet(url);
-
-      precios =
-        parseValuations(
-          response
-        );
-
-    } catch (error) {
-      console.error(
-        `ERROR en versión ${version.id}: ` +
-        error.message
+    const precios =
+      parseValuations(
+        response
       );
 
-      // Guardamos todo lo procesado
-      // antes de detenernos.
-      saveCheckpoint(
-        state,
-        data
-      );
-
-      throw error;
-    }
-
-    const key =
-      String(version.id);
-
-    data.vehiculos[key] = {
+    data.vehiculos[
+      String(version.id)
+    ] = {
       id: String(version.id),
       marcaId:
         String(version.marcaId),
@@ -632,28 +520,17 @@ async function main() {
     };
 
     if (
-      Object.keys(precios)
-        .length > 0
+      Object.keys(precios).length
     ) {
       state.versionesConValuacion++;
     }
 
     state.siguienteIndice++;
     state.versionesProcesadas++;
+    desdeCheckpoint++;
 
-    procesadasDesdeCheckpoint++;
-
-    console.log(
-      `OK. Precios válidos: ` +
-      `${Object.keys(precios).length}. ` +
-      `Progreso: ` +
-      `${state.siguienteIndice}/` +
-      `${versiones.length}`
-    );
-
-    // Checkpoint periódico local.
     if (
-      procesadasDesdeCheckpoint >=
+      desdeCheckpoint >=
       CHECKPOINT_EVERY
     ) {
       saveCheckpoint(
@@ -661,22 +538,24 @@ async function main() {
         data
       );
 
-      console.log(
-        `CHECKPOINT GUARDADO: ` +
-        `${state.siguienteIndice}/` +
-        `${versiones.length}`
-      );
+      desdeCheckpoint = 0;
 
-      procesadasDesdeCheckpoint = 0;
+      console.log(
+        `Checkpoint: ${
+          state.siguienteIndice
+        }/${versiones.length}`
+      );
     }
   }
 
-  // Siempre guardar al finalizar
-  // normalmente el lote.
   saveCheckpoint(
     state,
     data
   );
+
+  // Generamos los 20 archivos públicos
+  // en cada lote exitoso.
+  publicarWeb();
 
   if (
     state.siguienteIndice >=
@@ -690,22 +569,23 @@ async function main() {
       data
     );
 
-    console.log(
-      "\n=== VALUACIONES COMPLETADAS ==="
-    );
+    publicarWeb();
 
+    console.log(
+      "=== COMPLETO ==="
+    );
   } else {
     console.log(
-      `\n=== LOTE TERMINADO === ` +
-      `${state.siguienteIndice}/` +
-      `${versiones.length}`
+      `=== LOTE TERMINADO: ${
+        state.siguienteIndice
+      }/${versiones.length} ===`
     );
   }
 }
 
 main().catch(error => {
   console.error(
-    "\nFATAL:",
+    "FATAL:",
     error
   );
 
