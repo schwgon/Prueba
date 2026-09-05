@@ -201,19 +201,33 @@ async function cargarModelos() {
 
     await cargarMarca(marca);
 
+    // IMPORTANTE:
+    // El archivo puede contener varias marcas.
+    // Solo usamos los vehículos de la marca seleccionada.
+    const vehiculosMarca =
+      (datosMarca.vehiculos || [])
+        .filter(v =>
+          String(v.marca).trim() ===
+          String(marca).trim()
+        );
+
     const modelos = [
       ...new Set(
-        (datosMarca.vehiculos || [])
+        vehiculosMarca
           .map(v => v.modelo)
+          .filter(Boolean)
       )
     ].sort((a, b) =>
       a.localeCompare(b, "es")
     );
 
     modelos.forEach(modelo => {
-      const o = document.createElement("option");
+      const o =
+        document.createElement("option");
+
       o.value = modelo;
       o.textContent = modelo;
+
       modeloSelect.appendChild(o);
     });
 
@@ -221,13 +235,19 @@ async function cargarModelos() {
       modelos.length === 0;
 
     estadoDatos.textContent =
-      `Datos disponibles: ${indice.marcas.length} marcas, ` +
-      `${indice.modelos?.length || "—"} modelos y ` +
-      `${indice.versiones || "—"} versiones.`;
+      `Datos disponibles: ` +
+      `${indice.marcas?.length || 0} marcas, ` +
+      `${indice.modelos?.length || 0} modelos y ` +
+      `${indice.versiones || 0} versiones.`;
 
   } catch (e) {
-    console.error(e);
+    console.error(
+      "Error cargando modelos:",
+      e
+    );
+
     modeloSelect.disabled = true;
+
     estadoDatos.textContent =
       "No se pudieron cargar los modelos de la marca.";
   }
