@@ -3,7 +3,7 @@ name: Actualizar datos de vehículos
 on:
   workflow_dispatch:
   schedule:
-    # Día 3 de cada mes a las 00:00 de Argentina (03:00 UTC).
+    # Día 3 de cada mes, 03:00 UTC = 00:00 Argentina.
     - cron: "0 3 3 * *"
 
 concurrency:
@@ -15,7 +15,7 @@ permissions:
   actions: write
 
 jobs:
-  generar:
+  actualizar:
     runs-on: ubuntu-latest
     timeout-minutes: 140
 
@@ -34,41 +34,67 @@ jobs:
         env:
           JOB_SECONDS: "7500"
           REQUEST_INTERVAL_MS: "21000"
-          CHECKPOINT_EVERY: "25"
+          CHECKPOINT_EVERY: "20"
         run: |
           node scripts/generar-autos-data.js
 
-      - name: Commit datos
+      - name: Publicar datos web si la actualización está completa
+        run: |
+          COMPLETE=$(node -p "JSON.parse(require('fs').readFileSync('estado-actualizacion.json','utf8')).completo")
+
+          if [ "$COMPLETE" = "true" ]; then
+            echo "Actualización completa. Generando archivos web..."
+            node scripts/publicar-datos-web.js
+          else
+            echo "Actualización todavía en curso. No se publica la versión parcial."
+          fi
+
+      - name: Mostrar estado
+        run: |
+          node -e "
+          const fs=require('fs');
+          const s=JSON.parse(fs.readFileSync('estado-actualizacion.json','utf8'));
+          const d=JSON.parse(fs.readFileSync('autos-data.json','utf8'));
+          console.log(JSON.stringify({
+            fase:s.fase,
+            siguienteIndice:s.siguienteIndice,
+            total:s.totalVersionesCatalogadas,
+            versionesProcesadas:s.versionesProcesadas,
+            versionesConValuacion:s.versionesConValuacion,
+            completo:s.completo,
+            vehiculos:Object.keys(d.vehiculos||{}).length,
+            minYear:d.minYear,
+            maxYear:d.maxYear
+          }, null, 2));
+          "
+
+      - name: Commit y push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add autos-data.json
+          git add catalogo-argautos.json
           git add estado-actualizacion.json
           git add data/
 
           if git diff --cached --quiet; then
             echo "No hay cambios."
           else
-            git commit -m "Actualizar datos de vehículos"
+            git commit -m "Actualizar catálogo y valuaciones ArgAutos"
             git push
           fi
 
-      - name: Continuar siguiente lote
+      - name: Lanzar siguiente lote
         if: success()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           COMPLETE=$(node -p "JSON.parse(require('fs').readFileSync('estado-actualizacion.json','utf8')).completo")
 
-          INDEX=$(node -p "JSON.parse(require('fs').readFileSync('estado-actualizacion.json','utf8')).siguienteIndice")
-
-          TOTAL=$(node -p "JSON.parse(require('fs').readFileSync('estado-actualizacion.json','utf8')).totalVersionesCatalogadas")
-
-          echo "Progreso: $INDEX/$TOTAL"
-
           if [ "$COMPLETE" != "true" ]; then
+            echo "Lanzando siguiente lote..."
             gh workflow run actualizar-autos.yml --ref main
           else
-            echo "Actualización completa."
+            echo "ACTUALIZACIÓN COMPLETA. No se lanza otro lote."
           fi
