@@ -47,6 +47,10 @@ let vehiculoActual = null;
 const anioActual = new Date().getFullYear();
 const MIN_YEAR = anioActual - 13;
 
+// ArgAutos usa year=0 para 0 km. Los demás años se limitan
+// automáticamente a los 14 años-modelo definidos para el proyecto.
+
+
 async function fetchJson(url) {
   const r = await fetch(`${url}?v=${Date.now()}`, {
     cache: "no-store"
@@ -89,7 +93,7 @@ async function cargarDatosAutos() {
       (indice.legacy ? contarModelosLegacy() : 0);
     const cantidadVersiones = indice.versiones ||
       Object.keys(indice.vehiculos || {}).length ||
-      6139;
+      0;
 
     estadoDatos.classList.add("ok");
     estadoDatos.textContent =
