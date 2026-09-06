@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-06T10:22:50.161Z",
+  "actualizado": "2026-09-06T12:26:19.100Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6163,
-  "versionesProcesadas": 2309,
-  "versionesConValuacion": 2041,
+  "versionesProcesadas": 2659,
+  "versionesConValuacion": 2366,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -51880,6 +51880,1161 @@
       "version": "Van 1,8 Diesel Trend",
       "precios": {}
     },
+    "2214": {
+      "id": "2214",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 2,0 Trend",
+      "precios": {
+        "2013": {
+          "usd": 6083.86,
+          "ars": 9302221.94,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6543.68,
+          "ars": 10005286.72,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6982.1,
+          "ars": 10675630.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2215": {
+      "id": "2215",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 2,3 Titanium AT",
+      "precios": {
+        "2013": {
+          "usd": 7653.89,
+          "ars": 11702797.81,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8275.82,
+          "ars": 12653728.78,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8963.51,
+          "ars": 13705206.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2216": {
+      "id": "2216",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 2,0 T Trend 6AT",
+      "precios": {
+        "2017": {
+          "usd": 13369.85,
+          "ars": 20442500.65,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14306.96,
+          "ars": 21875341.84,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15451.52,
+          "ars": 23625374.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2217": {
+      "id": "2217",
+      "marcaId": "19",
+      "modeloId": "240",
+      "marca": "FORD",
+      "modelo": "S-MAX",
+      "version": "Van 2,0 T Titanium 6AT",
+      "precios": {
+        "2017": {
+          "usd": 14775.05,
+          "ars": 22591051.45,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15810.66,
+          "ars": 24174499.14,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17075.51,
+          "ars": 26108454.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2218": {
+      "id": "2218",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,5 T CVT Sel",
+      "precios": {
+        "2020": {
+          "usd": 17990.79,
+          "ars": 27507917.91,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 18890.33,
+          "ars": 28883314.57,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19834.85,
+          "ars": 30327485.65,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21421.64,
+          "ars": 32753687.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2219": {
+      "id": "2219",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,5 T CVT Titanium",
+      "precios": {
+        "2020": {
+          "usd": 19626.32,
+          "ars": 30008643.28,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20607.64,
+          "ars": 31509081.56,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 21638.02,
+          "ars": 33084532.58,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23369.06,
+          "ars": 35731292.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2220": {
+      "id": "2220",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Sel 2024",
+      "precios": {
+        "2023": {
+          "usd": 22549.09,
+          "ars": 34477558.61,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23735.89,
+          "ars": 36292175.81,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24922.68,
+          "ars": 38106777.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2221": {
+      "id": "2221",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Titanium 2024",
+      "precios": {
+        "2023": {
+          "usd": 24599.01,
+          "ars": 37611886.29,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 25893.69,
+          "ars": 39591452.01,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 27188.38,
+          "ars": 41571033.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2222": {
+      "id": "2222",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Sel 2025",
+      "precios": {
+        "0": {
+          "usd": 31831.88,
+          "ars": 48670944.52,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 27203.4,
+          "ars": 41593998.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2223": {
+      "id": "2223",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Titanium 2025",
+      "precios": {
+        "0": {
+          "usd": 37073.63,
+          "ars": 56685580.27,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 32795.62,
+          "ars": 50144502.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2224": {
+      "id": "2224",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,5 Gtdi Hibrida Trend",
+      "precios": {
+        "0": {
+          "usd": 35484.36,
+          "ars": 54255586.44,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29216.06,
+          "ars": 44671355.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2225": {
+      "id": "2225",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel",
+      "precios": {
+        "2013": {
+          "usd": 10717.6,
+          "ars": 16387210.4,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11351.32,
+          "ars": 17356168.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2226": {
+      "id": "2226",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel A/c",
+      "precios": {
+        "2013": {
+          "usd": 11124.75,
+          "ars": 17009742.75,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11782.54,
+          "ars": 18015503.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2227": {
+      "id": "2227",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel 2014",
+      "precios": {
+        "2014": {
+          "usd": 12109.72,
+          "ars": 18515761.88,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12515.23,
+          "ars": 19135786.67,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13139.46,
+          "ars": 20090234.34,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14050.11,
+          "ars": 21482618.19,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15537.74,
+          "ars": 23757204.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2228": {
+      "id": "2228",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel 2018",
+      "precios": {
+        "2018": {
+          "usd": 16255.22,
+          "ars": 24854231.38,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17555.64,
+          "ars": 26842573.56,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18479.62,
+          "ars": 28255338.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2229": {
+      "id": "2229",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Diesel 2020",
+      "precios": {
+        "2020": {
+          "usd": 18866.88,
+          "ars": 28847459.52,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19621.55,
+          "ars": 30001349.95,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20602.63,
+          "ars": 31501421.27,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21632.76,
+          "ars": 33076490.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2230": {
+      "id": "2230",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,4 Diesel 16V T/a Corto",
+      "precios": {}
+    },
+    "2231": {
+      "id": "2231",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,4 Diesel 16V T/a Corto A/c",
+      "precios": {}
+    },
+    "2232": {
+      "id": "2232",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,4 Diesel 16V T/a Largo",
+      "precios": {}
+    },
+    "2233": {
+      "id": "2233",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,4 Diesel 16V T/a Largo A/c",
+      "precios": {}
+    },
+    "2234": {
+      "id": "2234",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Corto",
+      "precios": {
+        "2013": {
+          "usd": 9591.02,
+          "ars": 14664669.58,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10158.12,
+          "ars": 15531765.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2235": {
+      "id": "2235",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Corto A/c",
+      "precios": {
+        "2013": {
+          "usd": 10008.38,
+          "ars": 15302813.02,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10600.16,
+          "ars": 16207644.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2236": {
+      "id": "2236",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo",
+      "precios": {
+        "2013": {
+          "usd": 11799.06,
+          "ars": 18040762.74,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12496.72,
+          "ars": 19107484.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2237": {
+      "id": "2237",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo A/c",
+      "precios": {
+        "2013": {
+          "usd": 12284.9,
+          "ars": 18783612.1,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13011.3,
+          "ars": 19894277.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2238": {
+      "id": "2238",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano 2014",
+      "precios": {
+        "2014": {
+          "usd": 11936.91,
+          "ars": 18251535.39,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12259.15,
+          "ars": 18744240.35,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12519.68,
+          "ars": 19142590.72,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13387.38,
+          "ars": 20469304.02,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14816.8,
+          "ars": 22654887.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2239": {
+      "id": "2239",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo 2014",
+      "precios": {
+        "2014": {
+          "usd": 12981.39,
+          "ars": 19848545.31,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13207.57,
+          "ars": 20194374.53,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13570.29,
+          "ars": 20748973.41,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14510.8,
+          "ars": 22187013.2,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16060.17,
+          "ars": 24555999.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2240": {
+      "id": "2240",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano 2018",
+      "precios": {
+        "2018": {
+          "usd": 15203.58,
+          "ars": 23246273.82,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16419.87,
+          "ars": 25105981.23,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17284.08,
+          "ars": 26427358.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2241": {
+      "id": "2241",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano Te 2018",
+      "precios": {
+        "2018": {
+          "usd": 16152.55,
+          "ars": 24697248.95,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17444.76,
+          "ars": 26673038.04,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18362.9,
+          "ars": 28076874.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2242": {
+      "id": "2242",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo Te 2018",
+      "precios": {
+        "2018": {
+          "usd": 17688.4,
+          "ars": 27045563.6,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 19103.47,
+          "ars": 29209205.63,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20108.92,
+          "ars": 30746538.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2243": {
+      "id": "2243",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano 2020",
+      "precios": {
+        "2020": {
+          "usd": 17629.76,
+          "ars": 26955903.04,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 18334.95,
+          "ars": 28034138.55,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19251.69,
+          "ars": 29435834.01,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 20214.28,
+          "ars": 30907634.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2244": {
+      "id": "2244",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Mediano Te 2020",
+      "precios": {
+        "2020": {
+          "usd": 18730.16,
+          "ars": 28638414.64,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19479.37,
+          "ars": 29783956.73,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20453.34,
+          "ars": 31273156.86,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21476,
+          "ars": 32836804,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2245": {
+      "id": "2245",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Furgon 2,2 Diesel Largo Te 2020",
+      "precios": {
+        "2020": {
+          "usd": 20511.1,
+          "ars": 31361471.9,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21331.54,
+          "ars": 32615924.66,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 22398.12,
+          "ars": 34246725.48,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23518.02,
+          "ars": 35959052.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2246": {
+      "id": "2246",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,4 Diesel 16V",
+      "precios": {}
+    },
+    "2247": {
+      "id": "2247",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Diesel A/c",
+      "precios": {
+        "2013": {
+          "usd": 13409.47,
+          "ars": 20503079.63,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14202.36,
+          "ars": 21715408.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2248": {
+      "id": "2248",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Diesel A/c 2014",
+      "precios": {
+        "2014": {
+          "usd": 17019.07,
+          "ars": 26022158.03,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 18291.48,
+          "ars": 27967672.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2249": {
+      "id": "2249",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Diesel 2018",
+      "precios": {
+        "2018": {
+          "usd": 24320.42,
+          "ars": 37185922.18,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 24320.42,
+          "ars": 37185922.18,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 25600.44,
+          "ars": 39143072.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2250": {
+      "id": "2250",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Diesel 2020",
+      "precios": {
+        "2020": {
+          "usd": 25937.73,
+          "ars": 39658789.17,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 26975.24,
+          "ars": 41245141.96,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 28324,
+          "ars": 43307396,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 29740.2,
+          "ars": 45472765.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2251": {
+      "id": "2251",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,2 Td 2023",
+      "precios": {
+        "2023": {
+          "usd": 22231.86,
+          "ars": 33992513.94,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23401.96,
+          "ars": 35781596.84,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24572.06,
+          "ars": 37570679.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2252": {
+      "id": "2252",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,2 Td Mediana",
+      "precios": {
+        "2024": {
+          "usd": 22816.25,
+          "ars": 34886046.25,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23957.06,
+          "ars": 36630344.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2253": {
+      "id": "2253",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,2 Td Mediana  Te",
+      "precios": {
+        "2024": {
+          "usd": 23609.01,
+          "ars": 36098176.29,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24789.46,
+          "ars": 37903084.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2254": {
+      "id": "2254",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,2 Td Larga  Te",
+      "precios": {
+        "2024": {
+          "usd": 25709.88,
+          "ars": 39310406.52,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 26995.37,
+          "ars": 41275920.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2255": {
+      "id": "2255",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,2 Td Larga Te 10at L3h3",
+      "precios": {
+        "2023": {
+          "usd": 27382.15,
+          "ars": 41867307.35,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28823.31,
+          "ars": 44070840.99,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30264.48,
+          "ars": 46274389.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2256": {
+      "id": "2256",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Td 6MT 17+1",
+      "precios": {
+        "2023": {
+          "usd": 32837.62,
+          "ars": 50208720.98,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 34565.91,
+          "ars": 52851276.39,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 36294.21,
+          "ars": 55493847.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2257": {
+      "id": "2257",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,2 Td 10at 17+1",
+      "precios": {
+        "2023": {
+          "usd": 31978.43,
+          "ars": 48895019.47,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 35433.16,
+          "ars": 54177301.64,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 37204.82,
+          "ars": 56886169.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2258": {
+      "id": "2258",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Chasis 2,0 Td 2025",
+      "precios": {
+        "0": {
+          "usd": 49084.46,
+          "ars": 75050139.34,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 33989.96,
+          "ars": 51970648.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2259": {
+      "id": "2259",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,0 Td L2h2 6MT 2025",
+      "precios": {
+        "0": {
+          "usd": 44514.27,
+          "ars": 68062318.83,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30208.69,
+          "ars": 46189087.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2260": {
+      "id": "2260",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,0 Td L2h3 6MT 2025",
+      "precios": {
+        "0": {
+          "usd": 46955.24,
+          "ars": 71794561.96,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 31865.21,
+          "ars": 48721906.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2261": {
+      "id": "2261",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,0 Td L3h3 6MT 2025",
+      "precios": {
+        "0": {
+          "usd": 50467.04,
+          "ars": 77164104.16,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 34248.42,
+          "ars": 52365834.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2262": {
+      "id": "2262",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Van 2,0 Td L3h3 10at 2025",
+      "precios": {
+        "0": {
+          "usd": 53249.58,
+          "ars": 81418607.82,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 36136.73,
+          "ars": 55253060.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2263": {
+      "id": "2263",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,0 Td 6MT 2025",
+      "precios": {
+        "0": {
+          "usd": 62032.52,
+          "ars": 94847723.08,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 44312.74,
+          "ars": 67754179.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2264": {
+      "id": "2264",
+      "marcaId": "19",
+      "modeloId": "242",
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "version": "Minibus 2,0 Td 10at 2025",
+      "precios": {
+        "0": {
+          "usd": 65672.29,
+          "ars": 100412931.41,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 46912.79,
+          "ars": 71729655.91,
+          "cotizacion": 1529
+        }
+      }
+    },
     "2265": {
       "id": "2265",
       "marcaId": "19",
@@ -51960,6 +53115,6671 @@
         }
       }
     },
+    "2269": {
+      "id": "2269",
+      "marcaId": "20",
+      "modeloId": "244",
+      "marca": "FORTHING",
+      "modelo": "T5",
+      "version": "5P 1,6 MT",
+      "precios": {
+        "0": {
+          "usd": 22261,
+          "ars": 34037069,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2270": {
+      "id": "2270",
+      "marcaId": "20",
+      "modeloId": "244",
+      "marca": "FORTHING",
+      "modelo": "T5",
+      "version": "5P 1,5 T 7AT Evo Premium",
+      "precios": {
+        "0": {
+          "usd": 33595,
+          "ars": 51366755,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2271": {
+      "id": "2271",
+      "marcaId": "20",
+      "modeloId": "244",
+      "marca": "FORTHING",
+      "modelo": "T5",
+      "version": "5P 1,5 T Hev Hibrido",
+      "precios": {
+        "0": {
+          "usd": 35516,
+          "ars": 54303964,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2272": {
+      "id": "2272",
+      "marcaId": "20",
+      "modeloId": "245",
+      "marca": "FORTHING",
+      "modelo": "U-TOUR",
+      "version": "Van 1,5 T 7AT 7asientos",
+      "precios": {
+        "0": {
+          "usd": 40375,
+          "ars": 61733375,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2273": {
+      "id": "2273",
+      "marcaId": "21",
+      "modeloId": "246",
+      "marca": "FOTON",
+      "modelo": "GRATOUR T3",
+      "version": "C/S 1,2",
+      "precios": {
+        "2018": {
+          "usd": 6867.5,
+          "ars": 10500407.5,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 7416.9,
+          "ars": 11340440.1,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 8010.25,
+          "ars": 12247672.25,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 8410.77,
+          "ars": 12860067.33,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 8831.3,
+          "ars": 13503057.7,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 9537.81,
+          "ars": 14583311.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2274": {
+      "id": "2274",
+      "marcaId": "21",
+      "modeloId": "246",
+      "marca": "FOTON",
+      "modelo": "GRATOUR T3",
+      "version": "D/C 1,2",
+      "precios": {
+        "2018": {
+          "usd": 7087.26,
+          "ars": 10836420.54,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 7654.24,
+          "ars": 11703332.96,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 8266.58,
+          "ars": 12639600.82,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 8679.91,
+          "ars": 13271582.39,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 9113.91,
+          "ars": 13935168.39,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 9843.02,
+          "ars": 15049977.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2275": {
+      "id": "2275",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,8 Diesel Euv Luxury 4X4",
+      "precios": {
+        "2017": {
+          "usd": 11862.37,
+          "ars": 18137563.73,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12972.93,
+          "ars": 19835609.97,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14010.77,
+          "ars": 21422467.33,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15131.63,
+          "ars": 23136262.27,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15888.21,
+          "ars": 24293073.09,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16682.62,
+          "ars": 25507725.98,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18017.23,
+          "ars": 27548344.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2276": {
+      "id": "2276",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,8 Diesel Euv Standard 4X4",
+      "precios": {
+        "2017": {
+          "usd": 11027,
+          "ars": 16860283,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2277": {
+      "id": "2277",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,8 Diesel Euv 4X2",
+      "precios": {
+        "2017": {
+          "usd": 10024.54,
+          "ars": 15327521.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2278": {
+      "id": "2278",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 4X4",
+      "precios": {
+        "2025": {
+          "usd": 20104.09,
+          "ars": 30739153.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2279": {
+      "id": "2279",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td 8AT G7 4X4",
+      "precios": {
+        "2025": {
+          "usd": 20732.35,
+          "ars": 31699763.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2280": {
+      "id": "2280",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 Lite 4X2",
+      "precios": {
+        "0": {
+          "usd": 27686.19,
+          "ars": 42332184.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2281": {
+      "id": "2281",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 Lite 4X4",
+      "precios": {
+        "0": {
+          "usd": 29640.64,
+          "ars": 45320538.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2282": {
+      "id": "2282",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 Ulimate 4X2 AT",
+      "precios": {
+        "0": {
+          "usd": 30943.6,
+          "ars": 47312764.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2283": {
+      "id": "2283",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td G7 Ultimate 4X4 AT",
+      "precios": {
+        "0": {
+          "usd": 33974.25,
+          "ars": 51946628.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2284": {
+      "id": "2284",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td 8AT V9 4X4 Mildhybrid",
+      "precios": {
+        "2025": {
+          "usd": 32483,
+          "ars": 49666507,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2285": {
+      "id": "2285",
+      "marcaId": "21",
+      "modeloId": "247",
+      "marca": "FOTON",
+      "modelo": "TUNLAND PICK-UP",
+      "version": "D/C 2,0 Td 8AT V9 4X4 Ultimate Mhev",
+      "precios": {
+        "0": {
+          "usd": 47327.83,
+          "ars": 72364252.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2286": {
+      "id": "2286",
+      "marcaId": "21",
+      "modeloId": "248",
+      "marca": "FOTON",
+      "modelo": "VIEW CS2",
+      "version": "Minibus 2,3 Euv 16a",
+      "precios": {
+        "2017": {
+          "usd": 14302.69,
+          "ars": 21868813.01,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15017.82,
+          "ars": 22962246.78,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15768.72,
+          "ars": 24110372.88,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16557.15,
+          "ars": 25315882.35,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17385.01,
+          "ars": 26581680.29,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18254.26,
+          "ars": 27910763.54,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19166.97,
+          "ars": 29306297.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2287": {
+      "id": "2287",
+      "marcaId": "21",
+      "modeloId": "249",
+      "marca": "FOTON",
+      "modelo": "WONDER",
+      "version": "1,6 C/S",
+      "precios": {
+        "2025": {
+          "usd": 14799.09,
+          "ars": 22627808.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2288": {
+      "id": "2288",
+      "marcaId": "21",
+      "modeloId": "249",
+      "marca": "FOTON",
+      "modelo": "WONDER",
+      "version": "1,6 D/C",
+      "precios": {
+        "2025": {
+          "usd": 15634.68,
+          "ars": 23905425.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2289": {
+      "id": "2289",
+      "marcaId": "21",
+      "modeloId": "249",
+      "marca": "FOTON",
+      "modelo": "WONDER",
+      "version": "1,6 C/S Box",
+      "precios": {
+        "2025": {
+          "usd": 17822.96,
+          "ars": 27251305.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2290": {
+      "id": "2290",
+      "marcaId": "22",
+      "modeloId": "250",
+      "marca": "GEELY",
+      "modelo": "515",
+      "version": "5P 1,5 Hatch Gs",
+      "precios": {
+        "2017": {
+          "usd": 9431.34,
+          "ars": 14420518.86,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9812.06,
+          "ars": 15002639.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2291": {
+      "id": "2291",
+      "marcaId": "22",
+      "modeloId": "250",
+      "marca": "GEELY",
+      "modelo": "515",
+      "version": "5P 1,5 Hatch Gl",
+      "precios": {
+        "2017": {
+          "usd": 9768.3,
+          "ars": 14935730.7,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10162.61,
+          "ars": 15538630.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2292": {
+      "id": "2292",
+      "marcaId": "22",
+      "modeloId": "250",
+      "marca": "GEELY",
+      "modelo": "515",
+      "version": "4P 1,5 Sedan Gs",
+      "precios": {
+        "2017": {
+          "usd": 9768.3,
+          "ars": 14935730.7,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10162.61,
+          "ars": 15538630.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2293": {
+      "id": "2293",
+      "marcaId": "22",
+      "modeloId": "250",
+      "marca": "GEELY",
+      "modelo": "515",
+      "version": "4P 1,5 Sedan Gl",
+      "precios": {
+        "2017": {
+          "usd": 10105.25,
+          "ars": 15450927.25,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10513.17,
+          "ars": 16074636.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2294": {
+      "id": "2294",
+      "marcaId": "22",
+      "modeloId": "251",
+      "marca": "GEELY",
+      "modelo": "EMGRAND 7",
+      "version": "4P 1,8 Gs",
+      "precios": {
+        "2017": {
+          "usd": 11674.2,
+          "ars": 17849851.8,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12145.45,
+          "ars": 18570393.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2295": {
+      "id": "2295",
+      "marcaId": "22",
+      "modeloId": "251",
+      "marca": "GEELY",
+      "modelo": "EMGRAND 7",
+      "version": "4P 1,8 Gl 6AT",
+      "precios": {
+        "2017": {
+          "usd": 13059.12,
+          "ars": 19967394.48,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13586.27,
+          "ars": 20773406.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2296": {
+      "id": "2296",
+      "marcaId": "22",
+      "modeloId": "251",
+      "marca": "GEELY",
+      "modelo": "EMGRAND 7",
+      "version": "4P 1,8 Gs Drive 2019",
+      "precios": {
+        "2019": {
+          "usd": 13772.94,
+          "ars": 21058825.26,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14497.84,
+          "ars": 22167197.36,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15222.73,
+          "ars": 23275554.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2297": {
+      "id": "2297",
+      "marcaId": "22",
+      "modeloId": "251",
+      "marca": "GEELY",
+      "modelo": "EMGRAND 7",
+      "version": "4P 1,8 Gl Active 2019",
+      "precios": {
+        "2019": {
+          "usd": 15406.83,
+          "ars": 23557043.07,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16217.72,
+          "ars": 24796893.88,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17028.6,
+          "ars": 26036729.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2298": {
+      "id": "2298",
+      "marcaId": "22",
+      "modeloId": "252",
+      "marca": "GEELY",
+      "modelo": "EMGRAND FE 3",
+      "version": "4P 1,8 Gs",
+      "precios": {
+        "2018": {
+          "usd": 11662.81,
+          "ars": 17832436.49,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12245.95,
+          "ars": 18724057.55,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12829.09,
+          "ars": 19615678.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2299": {
+      "id": "2299",
+      "marcaId": "22",
+      "modeloId": "252",
+      "marca": "GEELY",
+      "modelo": "EMGRAND FE 3",
+      "version": "4P 1,8 Gl 6AT",
+      "precios": {
+        "2018": {
+          "usd": 14578.52,
+          "ars": 22290557.08,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15161.66,
+          "ars": 23182178.14,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15744.8,
+          "ars": 24073799.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2300": {
+      "id": "2300",
+      "marcaId": "22",
+      "modeloId": "252",
+      "marca": "GEELY",
+      "modelo": "EMGRAND FE 3",
+      "version": "4P 1,8 Gs MT 2020",
+      "precios": {
+        "2020": {
+          "usd": 14279.07,
+          "ars": 21832698.03,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14993.03,
+          "ars": 22924342.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2301": {
+      "id": "2301",
+      "marcaId": "22",
+      "modeloId": "252",
+      "marca": "GEELY",
+      "modelo": "EMGRAND FE 3",
+      "version": "4P 1,8 Gl AT 2020",
+      "precios": {
+        "2020": {
+          "usd": 17662.74,
+          "ars": 27006329.46,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 18545.88,
+          "ars": 28356650.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2302": {
+      "id": "2302",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs",
+      "precios": {
+        "2017": {
+          "usd": 11358.27,
+          "ars": 17366794.83,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11738.69,
+          "ars": 17948457.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2303": {
+      "id": "2303",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gl",
+      "precios": {
+        "2017": {
+          "usd": 11956.07,
+          "ars": 18280831.03,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12325.63,
+          "ars": 18845888.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2304": {
+      "id": "2304",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gt AT",
+      "precios": {
+        "2017": {
+          "usd": 14347.29,
+          "ars": 21937006.41,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14673.36,
+          "ars": 22435567.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2305": {
+      "id": "2305",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs Drive",
+      "precios": {
+        "2018": {
+          "usd": 12325.63,
+          "ars": 18845888.27,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12794.1,
+          "ars": 19562178.9,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13127.95,
+          "ars": 20072635.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2306": {
+      "id": "2306",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs Drive Plus",
+      "precios": {
+        "2018": {
+          "usd": 13499.49,
+          "ars": 20640720.21,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13957.2,
+          "ars": 21340558.8,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14269.51,
+          "ars": 21818080.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2307": {
+      "id": "2307",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gl) Active",
+      "precios": {
+        "2018": {
+          "usd": 12090.85,
+          "ars": 18486909.65,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12561.48,
+          "ars": 19206502.92,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12899.64,
+          "ars": 19723549.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2308": {
+      "id": "2308",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gc) Balance",
+      "precios": {
+        "2018": {
+          "usd": 14673.36,
+          "ars": 22435567.44,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15120.3,
+          "ars": 23118938.7,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15411.07,
+          "ars": 23563526.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2309": {
+      "id": "2309",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gc) Balance AT",
+      "precios": {
+        "2019": {
+          "usd": 16283.39,
+          "ars": 24897303.31,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16552.63,
+          "ars": 25308971.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2310": {
+      "id": "2310",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gt) Executive AT",
+      "precios": {
+        "2018": {
+          "usd": 17021.1,
+          "ars": 26025261.9,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17446.49,
+          "ars": 26675683.21,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17694.19,
+          "ars": 27054416.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2311": {
+      "id": "2311",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs Drive 2020",
+      "precios": {
+        "2020": {
+          "usd": 18392.34,
+          "ars": 28121887.86,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 18765.4,
+          "ars": 28692296.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2312": {
+      "id": "2312",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gc) Balance 2020",
+      "precios": {
+        "2020": {
+          "usd": 19866.16,
+          "ars": 30375358.64,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20269.11,
+          "ars": 30991469.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2313": {
+      "id": "2313",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs (gc) Balance AT 2020",
+      "precios": {
+        "2020": {
+          "usd": 21489.01,
+          "ars": 32856696.29,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21924.88,
+          "ars": 33523141.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2314": {
+      "id": "2314",
+      "marcaId": "22",
+      "modeloId": "253",
+      "marca": "GEELY",
+      "modelo": "EMGRAND GS",
+      "version": "5P 1,8 Gs Executive 2020",
+      "precios": {
+        "2020": {
+          "usd": 23178.11,
+          "ars": 35439330.19,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 23648.23,
+          "ars": 36158143.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2315": {
+      "id": "2315",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,0 Gs Drive",
+      "precios": {
+        "2017": {
+          "usd": 16314.33,
+          "ars": 24944610.57,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16741.97,
+          "ars": 25598472.13,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17319.28,
+          "ars": 26481179.12,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17896.59,
+          "ars": 27363886.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2316": {
+      "id": "2316",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,4 Gl AT Active",
+      "precios": {
+        "2017": {
+          "usd": 20975.57,
+          "ars": 32071646.53,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21360.44,
+          "ars": 32660112.76,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 21937.75,
+          "ars": 33542819.75,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 22515.06,
+          "ars": 34425526.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2317": {
+      "id": "2317",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,4 Gt AT 4X4 Executive",
+      "precios": {
+        "2017": {
+          "usd": 22140.88,
+          "ars": 33853405.52,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 22515.06,
+          "ars": 34425526.74,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 23092.37,
+          "ars": 35308233.73,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 23669.68,
+          "ars": 36190940.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2318": {
+      "id": "2318",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,0 Gs Drive 2020",
+      "precios": {
+        "2020": {
+          "usd": 23311.51,
+          "ars": 35643298.79,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 24477.09,
+          "ars": 37425470.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2319": {
+      "id": "2319",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,4 Gl AT Active 2020",
+      "precios": {
+        "2020": {
+          "usd": 26637.27,
+          "ars": 40728385.83,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 27969.13,
+          "ars": 42764799.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2320": {
+      "id": "2320",
+      "marcaId": "22",
+      "modeloId": "254",
+      "marca": "GEELY",
+      "modelo": "EMGRAND X7",
+      "version": "5P 2,4 Gt AT 4X4 Executive 2020",
+      "precios": {
+        "2020": {
+          "usd": 28686.61,
+          "ars": 43861826.69,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 30120.94,
+          "ars": 46054917.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2321": {
+      "id": "2321",
+      "marcaId": "22",
+      "modeloId": "255",
+      "marca": "GEELY",
+      "modelo": "EX5",
+      "version": "5P Pro Electrico",
+      "precios": {
+        "0": {
+          "usd": 34800,
+          "ars": 53209200,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 31438.41,
+          "ars": 48069328.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2322": {
+      "id": "2322",
+      "marcaId": "22",
+      "modeloId": "256",
+      "marca": "GEELY",
+      "modelo": "LC",
+      "version": "5P 1,3 Gb",
+      "precios": {
+        "2017": {
+          "usd": 8787.57,
+          "ars": 13436194.53,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9142.3,
+          "ars": 13978576.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2323": {
+      "id": "2323",
+      "marcaId": "22",
+      "modeloId": "256",
+      "marca": "GEELY",
+      "modelo": "LC",
+      "version": "5P 1,3 Gl",
+      "precios": {
+        "2017": {
+          "usd": 9834.21,
+          "ars": 15036507.09,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10231.18,
+          "ars": 15643474.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2324": {
+      "id": "2324",
+      "marcaId": "22",
+      "modeloId": "256",
+      "marca": "GEELY",
+      "modelo": "LC",
+      "version": "5P 1,3 Gl Cross",
+      "precios": {
+        "2017": {
+          "usd": 10797.11,
+          "ars": 16508781.19,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11232.96,
+          "ars": 17175195.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2325": {
+      "id": "2325",
+      "marcaId": "23",
+      "modeloId": "257",
+      "marca": "GREAT WALL",
+      "modelo": "JOLION",
+      "version": "5P 1,5 Dtc Deluxe",
+      "precios": {
+        "0": {
+          "usd": 30000,
+          "ars": 45870000,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29129.1,
+          "ars": 44538393.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2326": {
+      "id": "2326",
+      "marcaId": "23",
+      "modeloId": "258",
+      "marca": "GREAT WALL",
+      "modelo": "ORA 03",
+      "version": "5P Electrico",
+      "precios": {
+        "0": {
+          "usd": 29000,
+          "ars": 44341000,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 27708.62,
+          "ars": 42366479.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2327": {
+      "id": "2327",
+      "marcaId": "23",
+      "modeloId": "259",
+      "marca": "GREAT WALL",
+      "modelo": "POER PICK -UP",
+      "version": "D/C 2,0 Td 4X4 8AT Luxury",
+      "precios": {
+        "0": {
+          "usd": 39990,
+          "ars": 61144710,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 33020.63,
+          "ars": 50488543.27,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 35662.28,
+          "ars": 54527626.12,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 37539.24,
+          "ars": 57397497.96,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 39514.99,
+          "ars": 60418419.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2328": {
+      "id": "2328",
+      "marcaId": "23",
+      "modeloId": "259",
+      "marca": "GREAT WALL",
+      "modelo": "POER PICK -UP",
+      "version": "D/C 2,0 Vgt 2wd 6MT Elite",
+      "precios": {
+        "0": {
+          "usd": 28000,
+          "ars": 42812000,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 27361.18,
+          "ars": 41835244.22,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 28801.24,
+          "ars": 44037095.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2329": {
+      "id": "2329",
+      "marcaId": "23",
+      "modeloId": "259",
+      "marca": "GREAT WALL",
+      "modelo": "POER PICK -UP",
+      "version": "D/C 2,0 Vgt 4WD 6MT Elite",
+      "precios": {
+        "0": {
+          "usd": 30700,
+          "ars": 46940300,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 29928.52,
+          "ars": 45760707.08,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 31503.71,
+          "ars": 48169172.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2330": {
+      "id": "2330",
+      "marcaId": "23",
+      "modeloId": "260",
+      "marca": "GREAT WALL",
+      "modelo": "TANK 300",
+      "version": "5P 2,0 T 8AT 4X4",
+      "precios": {
+        "0": {
+          "usd": 50900,
+          "ars": 77826100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 46389.59,
+          "ars": 70929683.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2331": {
+      "id": "2331",
+      "marcaId": "23",
+      "modeloId": "261",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 5 PICK -UP",
+      "version": "C/S 2,0 Td 4X2 Standard",
+      "precios": {
+        "2018": {
+          "usd": 14504.19,
+          "ars": 22176906.51,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15664.52,
+          "ars": 23951051.08,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16174.9,
+          "ars": 24731422.1,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16983.64,
+          "ars": 25967985.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2332": {
+      "id": "2332",
+      "marcaId": "23",
+      "modeloId": "261",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 5 PICK -UP",
+      "version": "D/C 2,0 Td 4X2 Standard",
+      "precios": {
+        "2018": {
+          "usd": 15247.99,
+          "ars": 23314176.71,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16467.83,
+          "ars": 25179312.07,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17004.38,
+          "ars": 25999697.02,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17854.6,
+          "ars": 27299683.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2333": {
+      "id": "2333",
+      "marcaId": "23",
+      "modeloId": "261",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 5 PICK -UP",
+      "version": "D/C 2,0 Td 4X2 Luxury",
+      "precios": {
+        "2018": {
+          "usd": 15991.8,
+          "ars": 24451462.2,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17271.14,
+          "ars": 26407573.06,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17833.86,
+          "ars": 27267971.94,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 18725.55,
+          "ars": 28631365.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2334": {
+      "id": "2334",
+      "marcaId": "23",
+      "modeloId": "261",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 5 PICK -UP",
+      "version": "D/C 2,0 Td 4X4 Standard",
+      "precios": {
+        "2018": {
+          "usd": 16735.6,
+          "ars": 25588732.4,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 18074.45,
+          "ars": 27635834.05,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18663.34,
+          "ars": 28536246.86,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19596.51,
+          "ars": 29963063.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2335": {
+      "id": "2335",
+      "marcaId": "23",
+      "modeloId": "262",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 6 PICK -UP",
+      "version": "D/C 2,0 Td 4X4 Dignity",
+      "precios": {
+        "2018": {
+          "usd": 18369.51,
+          "ars": 28086980.79,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 19681.07,
+          "ars": 30092356.03,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20322.3,
+          "ars": 31072796.7,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21338.42,
+          "ars": 32626444.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2336": {
+      "id": "2336",
+      "marcaId": "23",
+      "modeloId": "263",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 7 PICK -UP",
+      "version": "D/C 2,0 Td 2wd M21",
+      "precios": {
+        "2022": {
+          "usd": 19953.11,
+          "ars": 30508305.19,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21549.36,
+          "ars": 32948971.44,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 22683.54,
+          "ars": 34683132.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2337": {
+      "id": "2337",
+      "marcaId": "23",
+      "modeloId": "263",
+      "marca": "GREAT WALL",
+      "modelo": "WINGLE 7 PICK -UP",
+      "version": "D/C 2,0 Td 4WD M21",
+      "precios": {
+        "2022": {
+          "usd": 21790.68,
+          "ars": 33317949.72,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23533.94,
+          "ars": 35983394.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2338": {
+      "id": "2338",
+      "marcaId": "24",
+      "modeloId": "264",
+      "marca": "HAVAL",
+      "modelo": "H 1",
+      "version": "5P 1,5 Comfort",
+      "precios": {
+        "2018": {
+          "usd": 13781.94,
+          "ars": 21072586.26,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14884.49,
+          "ars": 22758385.21,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15369.45,
+          "ars": 23499889.05,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16137.92,
+          "ars": 24674879.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2339": {
+      "id": "2339",
+      "marcaId": "24",
+      "modeloId": "264",
+      "marca": "HAVAL",
+      "modelo": "H 1",
+      "version": "5P 1,5 Luxury",
+      "precios": {
+        "2018": {
+          "usd": 14669.59,
+          "ars": 22429803.11,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15843.16,
+          "ars": 24224191.64,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16359.35,
+          "ars": 25013446.15,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17177.32,
+          "ars": 26264122.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2340": {
+      "id": "2340",
+      "marcaId": "24",
+      "modeloId": "264",
+      "marca": "HAVAL",
+      "modelo": "H 1",
+      "version": "5P 1,5 Elite",
+      "precios": {
+        "2018": {
+          "usd": 15230.21,
+          "ars": 23286991.09,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16448.63,
+          "ars": 25149955.27,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16984.55,
+          "ars": 25969376.95,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17833.77,
+          "ars": 27267834.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2341": {
+      "id": "2341",
+      "marcaId": "24",
+      "modeloId": "265",
+      "marca": "HAVAL",
+      "modelo": "H 2",
+      "version": "5P 1,5 T Comfort MT",
+      "precios": {
+        "2018": {
+          "usd": 15645.01,
+          "ars": 23921220.29,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16896.61,
+          "ars": 25834916.69,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17447.12,
+          "ars": 26676646.48,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 18319.48,
+          "ars": 28010484.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2342": {
+      "id": "2342",
+      "marcaId": "24",
+      "modeloId": "265",
+      "marca": "HAVAL",
+      "modelo": "H 2",
+      "version": "5P 1,5 T Luxury AT",
+      "precios": {
+        "2018": {
+          "usd": 16652.29,
+          "ars": 25461351.41,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17984.47,
+          "ars": 27498254.63,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18570.43,
+          "ars": 28394187.47,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19498.95,
+          "ars": 29813894.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2343": {
+      "id": "2343",
+      "marcaId": "24",
+      "modeloId": "265",
+      "marca": "HAVAL",
+      "modelo": "H 2",
+      "version": "5P 1,5 T Luxury AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 20036.46,
+          "ars": 30635747.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2344": {
+      "id": "2344",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T Dignity AT",
+      "precios": {
+        "2018": {
+          "usd": 18910.68,
+          "ars": 28914429.72,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 20423.53,
+          "ars": 31227577.37,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 21088.96,
+          "ars": 32245019.84,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 22143.41,
+          "ars": 33857273.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2345": {
+      "id": "2345",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T 7AT All New 2021",
+      "precios": {
+        "2021": {
+          "usd": 24319.77,
+          "ars": 37184928.33,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 25535.76,
+          "ars": 39044177.04,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 27578.62,
+          "ars": 42167709.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2346": {
+      "id": "2346",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T 7AT 2wd 3° Generacion",
+      "precios": {
+        "0": {
+          "usd": 36500,
+          "ars": 55808500,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 29784.91,
+          "ars": 45541127.39,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 31352.54,
+          "ars": 47938033.66,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 33002.67,
+          "ars": 50461082.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2347": {
+      "id": "2347",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T 7AT 4WD 3° Generacion",
+      "precios": {
+        "0": {
+          "usd": 39900,
+          "ars": 61007100,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 32167.7,
+          "ars": 49184413.3,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 33860.74,
+          "ars": 51773071.46,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 35642.88,
+          "ars": 54497963.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2348": {
+      "id": "2348",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 2,0 T 7AT 4WD Gt",
+      "precios": {
+        "0": {
+          "usd": 44400,
+          "ars": 67887600,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 35339.08,
+          "ars": 54033453.32,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 37199.03,
+          "ars": 56877316.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2349": {
+      "id": "2349",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 1,5 T AT Deluxe Hybrid",
+      "precios": {
+        "0": {
+          "usd": 33500,
+          "ars": 51221500,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 28367.23,
+          "ars": 43373494.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2350": {
+      "id": "2350",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 1,5 T AT Supreme Hybrid",
+      "precios": {
+        "0": {
+          "usd": 35500,
+          "ars": 54279500,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30060.79,
+          "ars": 45962947.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2351": {
+      "id": "2351",
+      "marcaId": "24",
+      "modeloId": "267",
+      "marca": "HAVAL",
+      "modelo": "JOLION",
+      "version": "5P 1,5 Dtc 7AT Supreme",
+      "precios": {
+        "0": {
+          "usd": 33000,
+          "ars": 50457000,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 29213.47,
+          "ars": 44667395.63,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 30751.02,
+          "ars": 47018309.58,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 32369.49,
+          "ars": 49492950.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2352": {
+      "id": "2352",
+      "marcaId": "24",
+      "modeloId": "267",
+      "marca": "HAVAL",
+      "modelo": "JOLION",
+      "version": "5P 1,5 AT Pro Deluxe Hybrid",
+      "precios": {
+        "0": {
+          "usd": 29990,
+          "ars": 45854710,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 28216.69,
+          "ars": 43143319.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2353": {
+      "id": "2353",
+      "marcaId": "24",
+      "modeloId": "267",
+      "marca": "HAVAL",
+      "modelo": "JOLION",
+      "version": "5P 1,5 AT Pro Supreme Hybrid",
+      "precios": {
+        "0": {
+          "usd": 30990,
+          "ars": 47383710,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 31039.3,
+          "ars": 47459089.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2354": {
+      "id": "2354",
+      "marcaId": "25",
+      "modeloId": "268",
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "version": "4P 2,4 Exl AT 2008",
+      "precios": {
+        "2013": {
+          "usd": 17816.42,
+          "ars": 27241306.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2355": {
+      "id": "2355",
+      "marcaId": "25",
+      "modeloId": "268",
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "version": "4P 3,5 V6 Ex 2008",
+      "precios": {}
+    },
+    "2356": {
+      "id": "2356",
+      "marcaId": "25",
+      "modeloId": "268",
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "version": "4P 2,4 Exl AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 18709.02,
+          "ars": 28606091.58,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 20182.22,
+          "ars": 30858614.38,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 21587.34,
+          "ars": 33007042.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2357": {
+      "id": "2357",
+      "marcaId": "25",
+      "modeloId": "268",
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "version": "4P V6 2013",
+      "precios": {
+        "2013": {
+          "usd": 20579.93,
+          "ars": 31466712.97,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 22016.97,
+          "ars": 33663947.13,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 23386.28,
+          "ars": 35757622.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2358": {
+      "id": "2358",
+      "marcaId": "25",
+      "modeloId": "268",
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "version": "4P 3,5 V6 Exl 6AT 2017",
+      "precios": {
+        "2016": {
+          "usd": 29803.57,
+          "ars": 45569658.53,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 31147.85,
+          "ars": 47625062.65,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 32222.33,
+          "ars": 49267942.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2359": {
+      "id": "2359",
+      "marcaId": "25",
+      "modeloId": "268",
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "version": "4P 2,0 T Ext 10at 2018",
+      "precios": {
+        "2018": {
+          "usd": 39709.17,
+          "ars": 60715320.93,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 40581.68,
+          "ars": 62049388.72,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 41842.1,
+          "ars": 63976570.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2360": {
+      "id": "2360",
+      "marcaId": "25",
+      "modeloId": "268",
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "version": "4P 2,0 T Ext 10at 2021",
+      "precios": {
+        "2020": {
+          "usd": 42610.76,
+          "ars": 65151852.04,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 43289.98,
+          "ars": 66190379.42,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 45454.48,
+          "ars": 69499899.92,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 49090.84,
+          "ars": 75059894.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2361": {
+      "id": "2361",
+      "marcaId": "25",
+      "modeloId": "268",
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "version": "4P Advanced Hydrid",
+      "precios": {
+        "0": {
+          "usd": 70500,
+          "ars": 107794500,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 70791.58,
+          "ars": 108240325.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2362": {
+      "id": "2362",
+      "marcaId": "25",
+      "modeloId": "269",
+      "marca": "HONDA",
+      "modelo": "CITY",
+      "version": "4P 1.5 Lx",
+      "precios": {}
+    },
+    "2363": {
+      "id": "2363",
+      "marcaId": "25",
+      "modeloId": "269",
+      "marca": "HONDA",
+      "modelo": "CITY",
+      "version": "4P 1.5 Exl",
+      "precios": {}
+    },
+    "2364": {
+      "id": "2364",
+      "marcaId": "25",
+      "modeloId": "269",
+      "marca": "HONDA",
+      "modelo": "CITY",
+      "version": "4P 1.5 Exl AT",
+      "precios": {}
+    },
+    "2365": {
+      "id": "2365",
+      "marcaId": "25",
+      "modeloId": "269",
+      "marca": "HONDA",
+      "modelo": "CITY",
+      "version": "4P 1.5 Lx 2012",
+      "precios": {
+        "2013": {
+          "usd": 8257.58,
+          "ars": 12625839.82,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8662.98,
+          "ars": 13245696.42,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9047.89,
+          "ars": 13834223.81,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9410.4,
+          "ars": 14388501.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2366": {
+      "id": "2366",
+      "marcaId": "25",
+      "modeloId": "269",
+      "marca": "HONDA",
+      "modelo": "CITY",
+      "version": "4P 1.5 Exl 2012",
+      "precios": {
+        "2013": {
+          "usd": 8641.65,
+          "ars": 13213082.85,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9039.63,
+          "ars": 13821594.27,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9417.19,
+          "ars": 14398883.51,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9794.5,
+          "ars": 14975790.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2367": {
+      "id": "2367",
+      "marcaId": "25",
+      "modeloId": "269",
+      "marca": "HONDA",
+      "modelo": "CITY",
+      "version": "4P 1.5 Exl AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 9025.73,
+          "ars": 13800341.17,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9416.28,
+          "ars": 14397492.12,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9786.49,
+          "ars": 14963543.21,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10178.59,
+          "ars": 15563064.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2368": {
+      "id": "2368",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Lx S",
+      "precios": {}
+    },
+    "2369": {
+      "id": "2369",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Lx S AT",
+      "precios": {}
+    },
+    "2370": {
+      "id": "2370",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Ex S",
+      "precios": {}
+    },
+    "2371": {
+      "id": "2371",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Ex S AT",
+      "precios": {}
+    },
+    "2372": {
+      "id": "2372",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Lx S 2012",
+      "precios": {
+        "2013": {
+          "usd": 13904.55,
+          "ars": 21260056.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2373": {
+      "id": "2373",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Lx S AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 14641.54,
+          "ars": 22386914.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2374": {
+      "id": "2374",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Ex S 2012",
+      "precios": {
+        "2013": {
+          "usd": 15968.12,
+          "ars": 24415255.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2375": {
+      "id": "2375",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Ex S AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 16901.64,
+          "ars": 25842607.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2376": {
+      "id": "2376",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Lx S 6vel 2013",
+      "precios": {
+        "2013": {
+          "usd": 14570.99,
+          "ars": 22279043.71,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14599.08,
+          "ars": 22321993.32,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14892.55,
+          "ars": 22770708.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2377": {
+      "id": "2377",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Lx S AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 15363.97,
+          "ars": 23491510.13,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15393.59,
+          "ars": 23536799.11,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15703.03,
+          "ars": 24009932.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2378": {
+      "id": "2378",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Ex S 6vel  2013",
+      "precios": {
+        "2013": {
+          "usd": 16262.92,
+          "ars": 24866004.68,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16294.27,
+          "ars": 24913938.83,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16621.82,
+          "ars": 25414762.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2379": {
+      "id": "2379",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Ex S AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 17087.46,
+          "ars": 26126726.34,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 17010.46,
+          "ars": 26008993.34,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17438.12,
+          "ars": 26662885.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2380": {
+      "id": "2380",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Lx S 6vel 2016",
+      "precios": {
+        "2015": {
+          "usd": 16273.45,
+          "ars": 24882105.05,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 17939.4,
+          "ars": 27429342.6,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18827.49,
+          "ars": 28787232.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2381": {
+      "id": "2381",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Lx S AT 2016",
+      "precios": {
+        "2015": {
+          "usd": 17208.15,
+          "ars": 26311261.35,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 18969.78,
+          "ars": 29004793.62,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 19908.88,
+          "ars": 30440677.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2382": {
+      "id": "2382",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Ex S 6vel 2016",
+      "precios": {
+        "2015": {
+          "usd": 17978.44,
+          "ars": 27489034.76,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 19818.92,
+          "ars": 30303128.68,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 20800.06,
+          "ars": 31803291.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2383": {
+      "id": "2383",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,8 Ex S AT 2016",
+      "precios": {
+        "2015": {
+          "usd": 19062.32,
+          "ars": 29146287.28,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 21013.76,
+          "ars": 32130039.04,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 22054.05,
+          "ars": 33720642.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2384": {
+      "id": "2384",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 2,0 Ex CVT 2017",
+      "precios": {
+        "2017": {
+          "usd": 23827.92,
+          "ars": 36432889.68,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 25970.25,
+          "ars": 39708512.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2385": {
+      "id": "2385",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 2,0 Exl CVT 2017",
+      "precios": {
+        "2017": {
+          "usd": 25827.97,
+          "ars": 39490966.13,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 28150.12,
+          "ars": 43041533.48,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 30402.13,
+          "ars": 46484856.77,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 31301.55,
+          "ars": 47860069.95,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 32125.28,
+          "ars": 49119553.12,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 33731.54,
+          "ars": 51575524.66,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 36430.06,
+          "ars": 55701561.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2386": {
+      "id": "2386",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 1,5 Ext CVT Paddle-Shift 7 2017",
+      "precios": {
+        "2017": {
+          "usd": 29834.75,
+          "ars": 45617332.75,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 32517.14,
+          "ars": 49718707.06,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 35118.51,
+          "ars": 53696201.79,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 36874.44,
+          "ars": 56381018.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2387": {
+      "id": "2387",
+      "marcaId": "25",
+      "modeloId": "270",
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "version": "4P 2,0 Advanced Hybrid",
+      "precios": {
+        "0": {
+          "usd": 54000,
+          "ars": 82566000,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 51128.73,
+          "ars": 78175828.17,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 54114.89,
+          "ars": 82741666.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2388": {
+      "id": "2388",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 New Active AT 2wd",
+      "precios": {}
+    },
+    "2389": {
+      "id": "2389",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 New Lx 4WD AT",
+      "precios": {}
+    },
+    "2390": {
+      "id": "2390",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 New Ex 4WD AT",
+      "precios": {}
+    },
+    "2391": {
+      "id": "2391",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 New Ex L 4WD AT",
+      "precios": {}
+    },
+    "2392": {
+      "id": "2392",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Lx 2wd AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 19958.99,
+          "ars": 30517295.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2393": {
+      "id": "2393",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Lx 2wd AT 2014",
+      "precios": {
+        "2013": {
+          "usd": 22640.98,
+          "ars": 34618058.42,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 23372.04,
+          "ars": 35735849.16,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 24290.93,
+          "ars": 37140831.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2394": {
+      "id": "2394",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Lx 2wd CVT 2016",
+      "precios": {
+        "2016": {
+          "usd": 28381.01,
+          "ars": 43394564.29,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 29315.76,
+          "ars": 44823797.04,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 31951.49,
+          "ars": 48853828.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2395": {
+      "id": "2395",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Lx 2wd CVT 2017",
+      "precios": {
+        "2017": {
+          "usd": 31150.86,
+          "ars": 47629664.94,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 33951.58,
+          "ars": 51911965.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2396": {
+      "id": "2396",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Ex 4WD AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 23202.32,
+          "ars": 35476347.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2397": {
+      "id": "2397",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Ex L 4WD AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 25644.67,
+          "ars": 39210700.43,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 26472.73,
+          "ars": 40476804.17,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 27513.52,
+          "ars": 42068172.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2398": {
+      "id": "2398",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Ex L 4WD AT 2017",
+      "precios": {
+        "2016": {
+          "usd": 39065,
+          "ars": 59730385,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 40363.93,
+          "ars": 61716448.97,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 43992.98,
+          "ars": 67265266.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2399": {
+      "id": "2399",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 1,5 T Ext AWD CVT",
+      "precios": {
+        "2017": {
+          "usd": 44295.58,
+          "ars": 67727941.82,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 48676.79,
+          "ars": 74426811.91,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 53388.27,
+          "ars": 81630664.83,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 54590.79,
+          "ars": 83469317.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2400": {
+      "id": "2400",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Lx 2wd CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 40019.78,
+          "ars": 61190243.62,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 42020.77,
+          "ars": 64249757.33,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 44962.22,
+          "ars": 68747234.38,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 48559.2,
+          "ars": 74247016.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2401": {
+      "id": "2401",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,4 Ex 2wd CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 49115.18,
+          "ars": 75097110.22,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 51570.94,
+          "ars": 78851967.26,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 55180.91,
+          "ars": 84371611.39,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 59595.38,
+          "ars": 91121336.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2402": {
+      "id": "2402",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 1,5 T Ext AWD 7cvt 2020",
+      "precios": {
+        "2020": {
+          "usd": 57482.95,
+          "ars": 87891430.55,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 60357.1,
+          "ars": 92286005.9,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 64582.1,
+          "ars": 98746030.9,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 69748.67,
+          "ars": 106645716.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2403": {
+      "id": "2403",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 1,5 T Lx 2wd CVT 2024",
+      "precios": {
+        "2024": {
+          "usd": 55756.89,
+          "ars": 85252284.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2404": {
+      "id": "2404",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 1,5 T Ex 2wd CVT 2024",
+      "precios": {
+        "2024": {
+          "usd": 59744.74,
+          "ars": 91349707.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2405": {
+      "id": "2405",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 1,5 T Exl AWD CVT 2025",
+      "precios": {
+        "0": {
+          "usd": 70800,
+          "ars": 108253200,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 71092.82,
+          "ars": 108700921.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2406": {
+      "id": "2406",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 2,0 Advanced Hybrid AWD",
+      "precios": {
+        "0": {
+          "usd": 74900,
+          "ars": 114522100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 73304.46,
+          "ars": 112082519.34,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 75209.78,
+          "ars": 114995753.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2407": {
+      "id": "2407",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,4 Lx-L MT",
+      "precios": {}
+    },
+    "2408": {
+      "id": "2408",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,4 Lx-L AT",
+      "precios": {}
+    },
+    "2409": {
+      "id": "2409",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,4 Lx-L MT 2012",
+      "precios": {
+        "2013": {
+          "usd": 8387.01,
+          "ars": 12823738.29,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8515.71,
+          "ars": 13020520.59,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8634.65,
+          "ars": 13202379.85,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8977.49,
+          "ars": 13726582.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2410": {
+      "id": "2410",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,4 Lx-L AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 9711.9,
+          "ars": 14849495.1,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9801.94,
+          "ars": 14987166.26,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9955.05,
+          "ars": 15221271.45,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10350.33,
+          "ars": 15825654.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2411": {
+      "id": "2411",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Ex MT",
+      "precios": {}
+    },
+    "2412": {
+      "id": "2412",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Ex AT",
+      "precios": {}
+    },
+    "2413": {
+      "id": "2413",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Ex MT 2012",
+      "precios": {
+        "2013": {
+          "usd": 9234.18,
+          "ars": 14119061.22,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9346.51,
+          "ars": 14290813.79,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9449.24,
+          "ars": 14447887.96,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9824.43,
+          "ars": 15021553.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2414": {
+      "id": "2414",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Ex AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 10183.76,
+          "ars": 15570969.04,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10285.71,
+          "ars": 15726850.59,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10377.92,
+          "ars": 15867839.68,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10789.99,
+          "ars": 16497894.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2415": {
+      "id": "2415",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Exl 2012",
+      "precios": {
+        "2013": {
+          "usd": 10448.53,
+          "ars": 15975802.37,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10553.14,
+          "ars": 16135751.06,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10647.75,
+          "ars": 16280409.75,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11070.53,
+          "ars": 16926840.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2416": {
+      "id": "2416",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Exl AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 11548.38,
+          "ars": 17657473.02,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11664,
+          "ars": 17834256,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11768.57,
+          "ars": 17994143.53,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12235.85,
+          "ars": 18708614.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2417": {
+      "id": "2417",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Exl 7cvt 2017",
+      "precios": {
+        "2017": {
+          "usd": 12867.9,
+          "ars": 19675019.1,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13703.1,
+          "ars": 20952039.9,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14563.12,
+          "ars": 22267010.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2418": {
+      "id": "2418",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Exl 7cvt 2018",
+      "precios": {
+        "2018": {
+          "usd": 13731.24,
+          "ars": 20995065.96,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14590.72,
+          "ars": 22309210.88,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16095.13,
+          "ars": 24609453.77,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17424.96,
+          "ars": 26642763.84,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18644.71,
+          "ars": 28507761.59,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 20136.28,
+          "ars": 30788372.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2419": {
+      "id": "2419",
+      "marcaId": "25",
+      "modeloId": "272",
+      "marca": "HONDA",
+      "modelo": "F i T",
+      "version": "5P 1,5 Ex 7cvt 2019",
+      "precios": {
+        "2018": {
+          "usd": 12830.83,
+          "ars": 19618339.07,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13678.8,
+          "ars": 20914885.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2420": {
+      "id": "2420",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Lx 2wd",
+      "precios": {
+        "2015": {
+          "usd": 11314.6,
+          "ars": 17300023.4,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11678.75,
+          "ars": 17856808.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2421": {
+      "id": "2421",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Lx 2wd CVT",
+      "precios": {
+        "2015": {
+          "usd": 11545.51,
+          "ars": 17653084.79,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11917.09,
+          "ars": 18221230.61,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12587.17,
+          "ars": 19245782.93,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13058.2,
+          "ars": 19965987.8,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13596.63,
+          "ars": 20789247.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2422": {
+      "id": "2422",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Ex 2wd CVT",
+      "precios": {
+        "2016": {
+          "usd": 13596.15,
+          "ars": 20788513.35,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14360.64,
+          "ars": 21957418.56,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14898.04,
+          "ars": 22779103.16,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15374.98,
+          "ars": 23508344.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2423": {
+      "id": "2423",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Ex L 2wd CVT",
+      "precios": {
+        "2015": {
+          "usd": 14134.57,
+          "ars": 21611757.53,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14589.48,
+          "ars": 22307314.92,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 15409.82,
+          "ars": 23561614.78,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15986.48,
+          "ars": 24443327.92,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16645.65,
+          "ars": 25451198.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2424": {
+      "id": "2424",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Lx 2wd CVT 2019",
+      "precios": {
+        "2019": {
+          "usd": 14276.46,
+          "ars": 21828707.34,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15733.24,
+          "ars": 24056123.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2425": {
+      "id": "2425",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Ex 2wd CVT 2019",
+      "precios": {
+        "2019": {
+          "usd": 16287.94,
+          "ars": 24904260.26,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17949.98,
+          "ars": 27445519.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2426": {
+      "id": "2426",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Ex L 2wd CVT 2019",
+      "precios": {
+        "2019": {
+          "usd": 17827.49,
+          "ars": 27258232.21,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 19646.62,
+          "ars": 30039681.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2427": {
+      "id": "2427",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Lx 2wd CVT 2020",
+      "precios": {
+        "2019": {
+          "usd": 15281.36,
+          "ars": 23365199.44,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16643.36,
+          "ars": 25447697.44,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16790.91,
+          "ars": 25673301.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2428": {
+      "id": "2428",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Lx 2wd CVT 2021",
+      "precios": {
+        "2021": {
+          "usd": 18152.48,
+          "ars": 27755141.92,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19060.1,
+          "ars": 29142892.9,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 20584.91,
+          "ars": 31474327.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2429": {
+      "id": "2429",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Ex 2wd CVT 2020",
+      "precios": {
+        "2019": {
+          "usd": 17562.34,
+          "ars": 26852817.86,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 19151.67,
+          "ars": 29282903.43,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19234.58,
+          "ars": 29409672.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2430": {
+      "id": "2430",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Ex 2wd CVT 2021",
+      "precios": {
+        "2021": {
+          "usd": 20421.7,
+          "ars": 31224779.3,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 21442.79,
+          "ars": 32786025.91,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23158.21,
+          "ars": 35408903.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2431": {
+      "id": "2431",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Ex L 2wd CVT 2020",
+      "precios": {
+        "2019": {
+          "usd": 18439.19,
+          "ars": 28193521.51,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20320.74,
+          "ars": 31070411.46,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20732.1,
+          "ars": 31699380.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2432": {
+      "id": "2432",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,8 Ex L 2wd CVT 2022",
+      "precios": {
+        "2022": {
+          "usd": 21768.71,
+          "ars": 33284357.59,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23510.2,
+          "ars": 35947095.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2433": {
+      "id": "2433",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,5 Lx CVT 2023",
+      "precios": {
+        "2023": {
+          "usd": 22196.45,
+          "ars": 33938372.05,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23364.68,
+          "ars": 35724595.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2434": {
+      "id": "2434",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,5 Exl CVT 2023",
+      "precios": {
+        "2023": {
+          "usd": 25854.03,
+          "ars": 39530811.87,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 27214.77,
+          "ars": 41611383.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2435": {
+      "id": "2435",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,5 Lx CVT 2025",
+      "precios": {
+        "0": {
+          "usd": 29895.77,
+          "ars": 45710632.33,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 25412.47,
+          "ars": 38855666.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2436": {
+      "id": "2436",
+      "marcaId": "25",
+      "modeloId": "273",
+      "marca": "HONDA",
+      "modelo": "HR-V",
+      "version": "5P 1,5 Exl CVT 2025",
+      "precios": {
+        "0": {
+          "usd": 33381.11,
+          "ars": 51039717.19,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 28375.14,
+          "ars": 43385589.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2437": {
+      "id": "2437",
+      "marcaId": "25",
+      "modeloId": "274",
+      "marca": "HONDA",
+      "modelo": "PILOT",
+      "version": "5P 3,5 V6 8a 4X4",
+      "precios": {
+        "2013": {
+          "usd": 16331.39,
+          "ars": 24970695.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2438": {
+      "id": "2438",
+      "marcaId": "25",
+      "modeloId": "274",
+      "marca": "HONDA",
+      "modelo": "PILOT",
+      "version": "5P 3,5 V6 8a Ex 2wd",
+      "precios": {
+        "2019": {
+          "usd": 36672.86,
+          "ars": 56072802.94,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 37421.29,
+          "ars": 57217152.41,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 38543.93,
+          "ars": 58933668.97,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 40471.12,
+          "ars": 61880342.48,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 43708.81,
+          "ars": 66830770.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2439": {
+      "id": "2439",
+      "marcaId": "25",
+      "modeloId": "274",
+      "marca": "HONDA",
+      "modelo": "PILOT",
+      "version": "5P 3,5 V6 8a Touring AWD",
+      "precios": {
+        "2019": {
+          "usd": 41835.04,
+          "ars": 63965776.16,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 42688.81,
+          "ars": 65271190.49,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 43969.48,
+          "ars": 67229334.92,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 46167.95,
+          "ars": 70590795.55,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 49861.39,
+          "ars": 76238065.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2440": {
+      "id": "2440",
+      "marcaId": "25",
+      "modeloId": "275",
+      "marca": "HONDA",
+      "modelo": "WR-V",
+      "version": "5P 1,5 Ex CVT",
+      "precios": {
+        "2018": {
+          "usd": 13139.38,
+          "ars": 20090112.02,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14190.53,
+          "ars": 21697320.37,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14937.4,
+          "ars": 22839284.6,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15335.41,
+          "ars": 23447841.89,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16408.89,
+          "ars": 25089192.81,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17721.6,
+          "ars": 27096326.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2441": {
+      "id": "2441",
+      "marcaId": "25",
+      "modeloId": "275",
+      "marca": "HONDA",
+      "modelo": "WR-V",
+      "version": "5P 1,5 Exl CVT",
+      "precios": {
+        "2018": {
+          "usd": 13899.07,
+          "ars": 21251678.03,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15010.99,
+          "ars": 22951803.71,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15801.04,
+          "ars": 24159790.16,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16486.86,
+          "ars": 25208408.94,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17640.94,
+          "ars": 26972997.26,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19052.21,
+          "ars": 29130829.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2442": {
+      "id": "2442",
+      "marcaId": "25",
+      "modeloId": "275",
+      "marca": "HONDA",
+      "modelo": "WR-V",
+      "version": "5P 1,5 CVT 2026",
+      "precios": {
+        "0": {
+          "usd": 27680.78,
+          "ars": 42323912.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2443": {
+      "id": "2443",
+      "marcaId": "25",
+      "modeloId": "276",
+      "marca": "HONDA",
+      "modelo": "ZR-V",
+      "version": "5P 2,0 CVT Lx",
+      "precios": {
+        "2023": {
+          "usd": 23363.67,
+          "ars": 35723051.43,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24593.34,
+          "ars": 37603216.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2444": {
+      "id": "2444",
+      "marcaId": "25",
+      "modeloId": "276",
+      "marca": "HONDA",
+      "modelo": "ZR-V",
+      "version": "5P 2,0 CVT Trg",
+      "precios": {
+        "0": {
+          "usd": 39081.43,
+          "ars": 59755506.47,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 27110.08,
+          "ars": 41451312.32,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28536.92,
+          "ars": 43632950.68,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30819.88,
+          "ars": 47123596.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2445": {
+      "id": "2445",
+      "marcaId": "26",
+      "modeloId": "277",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2,0 T Genesis",
+      "precios": {}
+    },
+    "2446": {
+      "id": "2446",
+      "marcaId": "26",
+      "modeloId": "277",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2,0 T Genesis 275CV Seg Plus 2012",
+      "precios": {
+        "2013": {
+          "usd": 26204.3,
+          "ars": 40066374.7,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 30034.43,
+          "ars": 45922643.47,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 33363.25,
+          "ars": 51012409.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2447": {
+      "id": "2447",
+      "marcaId": "26",
+      "modeloId": "277",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2,0 T 6MT Genesis Full Seg 2016",
+      "precios": {
+        "2016": {
+          "usd": 38023.96,
+          "ars": 58138634.84,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 42595.44,
+          "ars": 65128427.76,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 44725.21,
+          "ars": 68384846.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2448": {
+      "id": "2448",
+      "marcaId": "26",
+      "modeloId": "277",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2,0 T 8AT Genesis Full Seg 2016",
+      "precios": {
+        "2016": {
+          "usd": 40094.98,
+          "ars": 61305224.42,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 44915.45,
+          "ars": 68675723.05,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 47161.22,
+          "ars": 72109505.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2449": {
+      "id": "2449",
+      "marcaId": "26",
+      "modeloId": "277",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "3,8 V6 6MT Genesis",
+      "precios": {
+        "2013": {
+          "usd": 32550.33,
+          "ars": 49769454.57,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 37308.01,
+          "ars": 57043947.29,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 41442.99,
+          "ars": 63366331.71,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 45140.35,
+          "ars": 69019595.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2450": {
+      "id": "2450",
+      "marcaId": "26",
+      "modeloId": "277",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "3,8 V6 6AT Genesis",
+      "precios": {
+        "2013": {
+          "usd": 33980.49,
+          "ars": 51956169.21,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 38947.21,
+          "ars": 59550284.09,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 43263.86,
+          "ars": 66150441.94,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 47123.67,
+          "ars": 72052091.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2451": {
+      "id": "2451",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,6 MT Gl",
+      "precios": {
+        "2016": {
+          "usd": 18969.1,
+          "ars": 29003753.9,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 19568.98,
+          "ars": 29920970.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2452": {
+      "id": "2452",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,6 AT Gl",
+      "precios": {
+        "2016": {
+          "usd": 19933.63,
+          "ars": 30478520.27,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 20564.02,
+          "ars": 31442386.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2453": {
+      "id": "2453",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,6 MT Gl Connect",
+      "precios": {
+        "2017": {
+          "usd": 19764.67,
+          "ars": 30220180.43,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20518.62,
+          "ars": 31372969.98,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 21410.88,
+          "ars": 32737235.52,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 21905.65,
+          "ars": 33493738.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2454": {
+      "id": "2454",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,6 AT Gl Connect",
+      "precios": {
+        "2017": {
+          "usd": 20769.66,
+          "ars": 31756810.14,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21424.52,
+          "ars": 32758091.08,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 22499.57,
+          "ars": 34401842.53,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 23019.49,
+          "ars": 35196800.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2455": {
+      "id": "2455",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,6 AT Edicion Word Cup",
+      "precios": {
+        "2018": {
+          "usd": 21424.52,
+          "ars": 32758091.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2456": {
+      "id": "2456",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,6 6AT Style",
+      "precios": {
+        "2020": {
+          "usd": 22162.82,
+          "ars": 33886951.78,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 23270.96,
+          "ars": 35581297.84,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 24434.51,
+          "ars": 37360365.79,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 26389.27,
+          "ars": 40349193.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2457": {
+      "id": "2457",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,6 6AT Safety",
+      "precios": {
+        "2020": {
+          "usd": 23935.85,
+          "ars": 36597914.65,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 25132.64,
+          "ars": 38427806.56,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 26389.27,
+          "ars": 40349193.83,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 28500.41,
+          "ars": 43577126.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2458": {
+      "id": "2458",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,6 6AT Safety +",
+      "precios": {
+        "2020": {
+          "usd": 26798.9,
+          "ars": 40975518.1,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 28138.84,
+          "ars": 43024286.36,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 29619.83,
+          "ars": 45288720.07,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 31362.56,
+          "ars": 47953354.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2459": {
+      "id": "2459",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,5 CVT Safety New",
+      "precios": {
+        "2023": {
+          "usd": 32013.68,
+          "ars": 48948916.72,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 33698.61,
+          "ars": 51525174.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2460": {
+      "id": "2460",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,5 CVT Safety + New",
+      "precios": {
+        "2023": {
+          "usd": 34859.79,
+          "ars": 53300618.91,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 36694.52,
+          "ars": 56105921.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2461": {
+      "id": "2461",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,5 CVT Safety 2026",
+      "precios": {
+        "0": {
+          "usd": 27500,
+          "ars": 42047500,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2462": {
+      "id": "2462",
+      "marcaId": "26",
+      "modeloId": "278",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "5P 1,5 CVT Safety Plus Adas 2025",
+      "precios": {
+        "0": {
+          "usd": 35000,
+          "ars": 53515000,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 38202.83,
+          "ars": 58412127.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2463": {
+      "id": "2463",
+      "marcaId": "26",
+      "modeloId": "279",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "4P 1,8 Gls Full Premium 2013",
+      "precios": {
+        "2013": {
+          "usd": 12749.55,
+          "ars": 19494061.95,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13503.42,
+          "ars": 20646729.18,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14166.72,
+          "ars": 21660914.88,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14873.32,
+          "ars": 22741306.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2464": {
+      "id": "2464",
+      "marcaId": "26",
+      "modeloId": "279",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "4P 1,8 Gls Full Premium AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 13459.84,
+          "ars": 20580095.36,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14255.7,
+          "ars": 21796965.3,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14955.95,
+          "ars": 22867647.55,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15701.92,
+          "ars": 24008235.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2465": {
+      "id": "2465",
+      "marcaId": "26",
+      "modeloId": "280",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND i 10",
+      "version": "5P 1,2 Gls",
+      "precios": {
+        "2015": {
+          "usd": 11844.61,
+          "ars": 18110408.69,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12722.88,
+          "ars": 19453283.52,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13866.29,
+          "ars": 21201557.41,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15874.08,
+          "ars": 24271468.32,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17144.01,
+          "ars": 26213191.29,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18901.27,
+          "ars": 28900041.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2466": {
+      "id": "2466",
+      "marcaId": "26",
+      "modeloId": "280",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND i 10",
+      "version": "5P 1,2 Gls AT",
+      "precios": {
+        "2015": {
+          "usd": 12287.14,
+          "ars": 18787037.06,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13198.22,
+          "ars": 20180078.38,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14384.35,
+          "ars": 21993671.15,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16467.16,
+          "ars": 25178287.64,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17784.53,
+          "ars": 27192546.37,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 19607.44,
+          "ars": 29979775.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2467": {
+      "id": "2467",
+      "marcaId": "26",
+      "modeloId": "280",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND i 10",
+      "version": "4P 1,2 Gls",
+      "precios": {
+        "2015": {
+          "usd": 11942.57,
+          "ars": 18260189.53,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12828.1,
+          "ars": 19614164.9,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13980.97,
+          "ars": 21376903.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2468": {
+      "id": "2468",
+      "marcaId": "26",
+      "modeloId": "280",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND i 10",
+      "version": "4P 1,2 Gls AT",
+      "precios": {
+        "2015": {
+          "usd": 12872.24,
+          "ars": 19681654.96,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13826.71,
+          "ars": 21141039.59,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 15069.32,
+          "ars": 23040990.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2469": {
+      "id": "2469",
+      "marcaId": "26",
+      "modeloId": "281",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "5P 2,2 Crdi 4WD Gls 7a 6AT Full Premium",
+      "precios": {
+        "2016": {
+          "usd": 31748.11,
+          "ars": 48542860.19,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 33948.48,
+          "ars": 51907225.92,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 35318.87,
+          "ars": 54002552.23,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 38144.38,
+          "ars": 58322757.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2470": {
+      "id": "2470",
+      "marcaId": "26",
+      "modeloId": "281",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "5P 2,2 Crdi 4WD Gls 7a 6AT Full Premium GPS",
+      "precios": {
+        "2016": {
+          "usd": 32383.07,
+          "ars": 49513714.03,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 34627.45,
+          "ars": 52945371.05,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 36025.25,
+          "ars": 55082607.25,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 38907.27,
+          "ars": 59489215.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2471": {
+      "id": "2471",
+      "marcaId": "26",
+      "modeloId": "281",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "5P 3,3 4WD Gls 7a 6AT Full Premium GPS",
+      "precios": {
+        "2017": {
+          "usd": 33194.07,
+          "ars": 50753733.03,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 34534.01,
+          "ars": 52802501.29,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 37296.73,
+          "ars": 57026700.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2472": {
+      "id": "2472",
+      "marcaId": "26",
+      "modeloId": "281",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "5P 2,2 Crdi 4WD Gls 7a 6AT Full 2018",
+      "precios": {
+        "2018": {
+          "usd": 36791.76,
+          "ars": 56254601.04,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 39735.1,
+          "ars": 60754967.9,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 41826.42,
+          "ars": 63952596.18,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 43917.74,
+          "ars": 67150224.46,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 46113.62,
+          "ars": 70507724.98,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 49802.71,
+          "ars": 76148343.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2473": {
+      "id": "2473",
+      "marcaId": "26",
+      "modeloId": "281",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "5P 2,2 Crdi 4WD Gls 7a 6AT Full Premium 2018",
+      "precios": {
+        "2018": {
+          "usd": 38753.98,
+          "ars": 59254835.42,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 41854.3,
+          "ars": 63995224.7,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 44057.16,
+          "ars": 67363397.64,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 46260.02,
+          "ars": 70731570.58,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 48573.02,
+          "ars": 74268147.58,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 52458.86,
+          "ars": 80209596.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2474": {
+      "id": "2474",
+      "marcaId": "26",
+      "modeloId": "281",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "5P 3,3 4WD Gls 7a 6AT Full 2018",
+      "precios": {
+        "2018": {
+          "usd": 34338.97,
+          "ars": 52504285.13,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 37086.09,
+          "ars": 56704631.61,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 39037.99,
+          "ars": 59689086.71,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 40989.89,
+          "ars": 62673541.81,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 43039.38,
+          "ars": 65807212.02,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 46482.53,
+          "ars": 71071788.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2475": {
+      "id": "2475",
+      "marcaId": "26",
+      "modeloId": "281",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "5P 3,3 4WD Gls 7a 6AT Full Premium 2018",
+      "precios": {
+        "2018": {
+          "usd": 36301.2,
+          "ars": 55504534.8,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 39205.29,
+          "ars": 59944888.41,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 41268.73,
+          "ars": 63099888.17,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 43332.17,
+          "ars": 66254887.93,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 45498.78,
+          "ars": 69567634.62,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 49138.68,
+          "ars": 75133041.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2476": {
+      "id": "2476",
+      "marcaId": "26",
+      "modeloId": "282",
+      "marca": "HYUNDAI",
+      "modelo": "HB20",
+      "version": "5P 1,6 Comfort Plus",
+      "precios": {
+        "0": {
+          "usd": 27990,
+          "ars": 42796710,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 18415.9,
+          "ars": 28157911.1,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 19715.97,
+          "ars": 30145718.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2477": {
+      "id": "2477",
+      "marcaId": "26",
+      "modeloId": "282",
+      "marca": "HYUNDAI",
+      "modelo": "HB20",
+      "version": "5P 1,6 Comfort Plus AT",
+      "precios": {
+        "0": {
+          "usd": 31500,
+          "ars": 48163500,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20648.13,
+          "ars": 31570990.77,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 22144.75,
+          "ars": 33859322.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2478": {
+      "id": "2478",
+      "marcaId": "26",
+      "modeloId": "282",
+      "marca": "HYUNDAI",
+      "modelo": "HB20",
+      "version": "5P 1,6 Platinum Safety AT",
+      "precios": {
+        "0": {
+          "usd": 35500,
+          "ars": 54279500,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23438.41,
+          "ars": 35837328.89,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24930.7,
+          "ars": 38119040.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2479": {
+      "id": "2479",
+      "marcaId": "26",
+      "modeloId": "283",
+      "marca": "HYUNDAI",
+      "modelo": "HB20 SEDAN",
+      "version": "4P 1,6 Comfort Plus",
+      "precios": {
+        "0": {
+          "usd": 28390,
+          "ars": 43408310,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20001.71,
+          "ars": 30582614.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2480": {
+      "id": "2480",
+      "marcaId": "26",
+      "modeloId": "283",
+      "marca": "HYUNDAI",
+      "modelo": "HB20 SEDAN",
+      "version": "4P 1,6 Platinum Safety AT",
+      "precios": {
+        "0": {
+          "usd": 35500,
+          "ars": 54279500,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 25002.14,
+          "ars": 38228272.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2481": {
+      "id": "2481",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,6 Td 12/a MT Full",
+      "precios": {}
+    },
+    "2482": {
+      "id": "2482",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,6 Td 12/a MT Full Premium",
+      "precios": {}
+    },
+    "2483": {
+      "id": "2483",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,6 Td 12/a AT Full Premium",
+      "precios": {}
+    },
+    "2484": {
+      "id": "2484",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Nafta 12/a Full Premium",
+      "precios": {
+        "2015": {
+          "usd": 26543.6,
+          "ars": 40585164.4,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 27616.48,
+          "ars": 42225597.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2485": {
+      "id": "2485",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Nafta 12/a Full Premium 2016",
+      "precios": {
+        "2015": {
+          "usd": 29910.11,
+          "ars": 45732558.19,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 31119.06,
+          "ars": 47581042.74,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 32031.22,
+          "ars": 48975735.38,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 34276.35,
+          "ars": 52408539.15,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 36675.69,
+          "ars": 56077130.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2486": {
+      "id": "2486",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Crdi 170CV 12/a Full",
+      "precios": {
+        "2014": {
+          "usd": 26076.56,
+          "ars": 39871060.24,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 27191.01,
+          "ars": 41575054.29,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 28290.05,
+          "ars": 43255486.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2487": {
+      "id": "2487",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Crdi 170CV 12/a Full Premium",
+      "precios": {
+        "2013": {
+          "usd": 26827.83,
+          "ars": 41019752.07,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 28821.46,
+          "ars": 44068012.34,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 29780.63,
+          "ars": 45534583.27,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 30984.35,
+          "ars": 47375071.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2488": {
+      "id": "2488",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Crdi 170CV 12/a Full Premium 2016",
+      "precios": {
+        "2015": {
+          "usd": 31876.98,
+          "ars": 48739902.42,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 33165.44,
+          "ars": 50709957.76,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 34137.59,
+          "ars": 52196375.11,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 36530.35,
+          "ars": 55854905.15,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 39087.47,
+          "ars": 59764741.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2489": {
+      "id": "2489",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Crdi 170CV 12/a Full Premium 2019",
+      "precios": {
+        "2019": {
+          "usd": 39353.59,
+          "ars": 60171639.11,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 39805.93,
+          "ars": 60863266.97,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 41796.23,
+          "ars": 63906435.67,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 43886.04,
+          "ars": 67101755.16,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 47396.93,
+          "ars": 72469905.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2490": {
+      "id": "2490",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Crdi 170CV 12/a Full Premium AT",
+      "precios": {
+        "2013": {
+          "usd": 30372.12,
+          "ars": 46438971.48,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 32461.2,
+          "ars": 49633174.8,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 33561.47,
+          "ars": 51315487.63,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 34918.01,
+          "ars": 53389637.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2491": {
+      "id": "2491",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Crdi 170CV 12/a Full Premium AT 2016",
+      "precios": {
+        "2015": {
+          "usd": 35892.13,
+          "ars": 54879066.77,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 37342.87,
+          "ars": 57097248.23,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 38437.47,
+          "ars": 58770891.63,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 41131.62,
+          "ars": 62890246.98,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 44010.83,
+          "ars": 67292559.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2492": {
+      "id": "2492",
+      "marcaId": "26",
+      "modeloId": "284",
+      "marca": "HYUNDAI",
+      "modelo": "H 1",
+      "version": "Van 2,5 Crdi 170CV 12/a Full Premium AT 2019",
+      "precios": {
+        "2019": {
+          "usd": 44909.01,
+          "ars": 68665876.29,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 46713.77,
+          "ars": 71425354.33,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 49049.45,
+          "ars": 74996609.05,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 51501.93,
+          "ars": 78746450.97,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 55622.08,
+          "ars": 85046160.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2493": {
+      "id": "2493",
+      "marcaId": "26",
+      "modeloId": "285",
+      "marca": "HYUNDAI",
+      "modelo": "H 100",
+      "version": "Truck 2,5 Crdi Extralargo",
+      "precios": {
+        "2017": {
+          "usd": 22169.34,
+          "ars": 33896920.86,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 23078.61,
+          "ars": 35287194.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2494": {
+      "id": "2494",
+      "marcaId": "26",
+      "modeloId": "285",
+      "marca": "HYUNDAI",
+      "modelo": "H 100",
+      "version": "Truck 2,5 Crdi Extralargo C/caja",
+      "precios": {
+        "2017": {
+          "usd": 23507.97,
+          "ars": 35943686.13,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 24177.59,
+          "ars": 36967535.11,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 25042.53,
+          "ars": 38290028.37,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 25887.12,
+          "ars": 39581406.48,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 27181.48,
+          "ars": 41560482.92,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 28540.55,
+          "ars": 43638500.95,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 30823.8,
+          "ars": 47129590.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2495": {
+      "id": "2495",
+      "marcaId": "26",
+      "modeloId": "286",
+      "marca": "HYUNDAI",
+      "modelo": "H 350",
+      "version": "Furgon 2,5 Crdi 150hp Largo T/alto 6MT",
+      "precios": {
+        "2018": {
+          "usd": 33782.78,
+          "ars": 51653870.62,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 35615.14,
+          "ars": 54455549.06,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 37650.29,
+          "ars": 57567293.41,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 39532.81,
+          "ars": 60445666.49,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 41509.45,
+          "ars": 63467949.05,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 44830.21,
+          "ars": 68545391.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2496": {
+      "id": "2496",
+      "marcaId": "26",
+      "modeloId": "287",
+      "marca": "HYUNDAI",
+      "modelo": "i 10",
+      "version": "5P 1,2 Gls 2011",
+      "precios": {
+        "2013": {
+          "usd": 10023.71,
+          "ars": 15326252.59,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10334.1,
+          "ars": 15800838.9,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10750.28,
+          "ars": 16437178.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2497": {
+      "id": "2497",
+      "marcaId": "26",
+      "modeloId": "287",
+      "marca": "HYUNDAI",
+      "modelo": "i 10",
+      "version": "5P 1,2 Gls  2011 AT",
+      "precios": {
+        "2013": {
+          "usd": 10666.25,
+          "ars": 16308696.25,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11027.24,
+          "ars": 16860649.96,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11368.11,
+          "ars": 17381840.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2498": {
+      "id": "2498",
+      "marcaId": "26",
+      "modeloId": "287",
+      "marca": "HYUNDAI",
+      "modelo": "i 10",
+      "version": "5P 1,2 Gls 2014",
+      "precios": {
+        "2014": {
+          "usd": 10964.23,
+          "ars": 16764307.67,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11368.11,
+          "ars": 17381840.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2499": {
+      "id": "2499",
+      "marcaId": "26",
+      "modeloId": "287",
+      "marca": "HYUNDAI",
+      "modelo": "i 10",
+      "version": "5P 1,2 Gls  2014 AT",
+      "precios": {
+        "2014": {
+          "usd": 11594.36,
+          "ars": 17727776.44,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11985.94,
+          "ars": 18326502.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2500": {
+      "id": "2500",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,4 Gls Full Seg",
+      "precios": {
+        "2013": {
+          "usd": 9164.6,
+          "ars": 14012673.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2501": {
+      "id": "2501",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,6 Gls Full Seg",
+      "precios": {
+        "2013": {
+          "usd": 9551.83,
+          "ars": 14604748.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2502": {
+      "id": "2502",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,6 Gls Full Seg AT",
+      "precios": {
+        "2013": {
+          "usd": 10035.88,
+          "ars": 15344860.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2503": {
+      "id": "2503",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,6 Gls Full Seg Premium",
+      "precios": {
+        "2013": {
+          "usd": 10519.93,
+          "ars": 16084972.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2504": {
+      "id": "2504",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,6 Gls Full Seg Premium AT",
+      "precios": {
+        "2013": {
+          "usd": 11003.97,
+          "ars": 16825070.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2505": {
+      "id": "2505",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 2,0 Gls Full Seg Premium",
+      "precios": {
+        "2013": {
+          "usd": 11358.94,
+          "ars": 17367819.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2506": {
+      "id": "2506",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 2,0 Gls Full Seg Premium AT",
+      "precios": {
+        "2013": {
+          "usd": 11810.71,
+          "ars": 18058575.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2507": {
+      "id": "2507",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,8 Gls Full Seg 2013",
+      "precios": {
+        "2013": {
+          "usd": 13598.13,
+          "ars": 20791540.77,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14402.17,
+          "ars": 22020917.93,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15250.82,
+          "ars": 23318503.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2508": {
+      "id": "2508",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,8 Gls Full Seg AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 14409.96,
+          "ars": 22032828.84,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15262,
+          "ars": 23335598,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16161.32,
+          "ars": 24710658.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2509": {
+      "id": "2509",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,8 Gls Full Seg Premium 2013",
+      "precios": {
+        "2013": {
+          "usd": 14978.24,
+          "ars": 22901728.96,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15863.89,
+          "ars": 24255887.81,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16798.67,
+          "ars": 25685166.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2510": {
+      "id": "2510",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,8 Gls Full Seg Premium AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 15790.07,
+          "ars": 24143017.03,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16723.72,
+          "ars": 25570567.88,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17709.17,
+          "ars": 27077320.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2511": {
+      "id": "2511",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,8 Gls 6MT Full Seg 2016",
+      "precios": {
+        "2016": {
+          "usd": 16435.03,
+          "ars": 25129160.87,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17574.09,
+          "ars": 26870783.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2512": {
+      "id": "2512",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,8 6AT Gls Full Seg 2016",
+      "precios": {
+        "2016": {
+          "usd": 17243.31,
+          "ars": 26365020.99,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18438.39,
+          "ars": 28192298.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2513": {
+      "id": "2513",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,8 6MT Gls Full Seg Premium 2016",
+      "precios": {
+        "2016": {
+          "usd": 19883.69,
+          "ars": 30402162.01,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 21261.76,
+          "ars": 32509231.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2514": {
+      "id": "2514",
+      "marcaId": "26",
+      "modeloId": "288",
+      "marca": "HYUNDAI",
+      "modelo": "i 30",
+      "version": "5P 1,8 6AT Gls Full Seg Premium 2016",
+      "precios": {
+        "2016": {
+          "usd": 20691.97,
+          "ars": 31638022.13,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 22126.06,
+          "ars": 33830745.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2515": {
+      "id": "2515",
+      "marcaId": "26",
+      "modeloId": "289",
+      "marca": "HYUNDAI",
+      "modelo": "IONIQ",
+      "version": "5P 1,6 6AT Hibrido",
+      "precios": {
+        "2019": {
+          "usd": 26618.72,
+          "ars": 40700022.88,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 28580.1,
+          "ars": 43698972.9,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 30009.1,
+          "ars": 45883913.9,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 31509.56,
+          "ars": 48178117.24,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 34030.32,
+          "ars": 52032359.28,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 35821.39,
+          "ars": 54770905.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2516": {
+      "id": "2516",
+      "marcaId": "26",
+      "modeloId": "290",
+      "marca": "HYUNDAI",
+      "modelo": "KONA",
+      "version": "5P 1,6 T Gdi 7AT 4X2 Style",
+      "precios": {
+        "2020": {
+          "usd": 22058.69,
+          "ars": 33727737.01,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 23161.62,
+          "ars": 35414116.98,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 24319.7,
+          "ars": 37184821.3,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 26265.28,
+          "ars": 40159613.12,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 27647.66,
+          "ars": 42273272.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2517": {
+      "id": "2517",
+      "marcaId": "26",
+      "modeloId": "290",
+      "marca": "HYUNDAI",
+      "modelo": "KONA",
+      "version": "5P 1,6 T Gdi 7AT 4X2 Safety Plus",
+      "precios": {
+        "2019": {
+          "usd": 27099.1,
+          "ars": 41434523.9,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 28272.4,
+          "ars": 43228499.6,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 29686.02,
+          "ars": 45389924.58,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 31170.32,
+          "ars": 47659419.28,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 33663.95,
+          "ars": 51472179.55,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 35435.74,
+          "ars": 54181246.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2518": {
+      "id": "2518",
+      "marcaId": "26",
+      "modeloId": "290",
+      "marca": "HYUNDAI",
+      "modelo": "KONA",
+      "version": "5P 1,6 T Gdi 7AT 4X4 Safety Plus",
+      "precios": {
+        "2019": {
+          "usd": 28290.26,
+          "ars": 43255807.54,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 29515.15,
+          "ars": 45128664.35,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 30990.9,
+          "ars": 47385086.1,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 32540.45,
+          "ars": 49754348.05,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 35143.68,
+          "ars": 53734686.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2519": {
+      "id": "2519",
+      "marcaId": "26",
+      "modeloId": "290",
+      "marca": "HYUNDAI",
+      "modelo": "KONA",
+      "version": "5P 1,6 T Gdi 7AT 4X4 Ultimate",
+      "precios": {
+        "2019": {
+          "usd": 29719.67,
+          "ars": 45441375.43,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 31006.44,
+          "ars": 47408846.76,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 32556.76,
+          "ars": 49779286.04,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 34184.6,
+          "ars": 52268253.4,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 36919.36,
+          "ars": 56449701.44,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 38862.49,
+          "ars": 59420747.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2520": {
+      "id": "2520",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gls 2wd 7p",
+      "precios": {
+        "2013": {
+          "usd": 12863.93,
+          "ars": 19668948.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2521": {
+      "id": "2521",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gls 4WD Full Premium AT",
+      "precios": {
+        "2013": {
+          "usd": 16355,
+          "ars": 25006795,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2522": {
+      "id": "2522",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gls 4WD Full 7p",
+      "precios": {
+        "2013": {
+          "usd": 14753.22,
+          "ars": 22557673.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2523": {
+      "id": "2523",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gls 4WD Full 7p Premium AT",
+      "precios": {
+        "2013": {
+          "usd": 16804.62,
+          "ars": 25694263.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2524": {
+      "id": "2524",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,2 Gls 4WD Crdi Full Premium AT",
+      "precios": {
+        "2013": {
+          "usd": 17031.75,
+          "ars": 26041545.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2525": {
+      "id": "2525",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,2 Gls 4WD Crdi Full 7p",
+      "precios": {
+        "2013": {
+          "usd": 15427.43,
+          "ars": 23588540.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2526": {
+      "id": "2526",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,2 Gls 4WD Crdi Full 7p Premium",
+      "precios": {
+        "2013": {
+          "usd": 16851.2,
+          "ars": 25765484.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2527": {
+      "id": "2527",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,2 Gls 4WD Crdi Full 7p Premium AT",
+      "precios": {
+        "2013": {
+          "usd": 17302.57,
+          "ars": 26455629.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2528": {
+      "id": "2528",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gl 6MT 7p 2wd 2013",
+      "precios": {
+        "2013": {
+          "usd": 17820.55,
+          "ars": 27247620.95,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 18874.26,
+          "ars": 28858743.54,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 19616.31,
+          "ars": 29993337.99,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 20594.73,
+          "ars": 31489342.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2529": {
+      "id": "2529",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gl 6AT 7p 2wd 2013",
+      "precios": {
+        "2013": {
+          "usd": 18344.68,
+          "ars": 28049015.72,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 19429.38,
+          "ars": 29707522.02,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 20193.26,
+          "ars": 30875494.54,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 21200.46,
+          "ars": 32415503.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2530": {
+      "id": "2530",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gls 6MT 7p 4WD Premium 2013",
+      "precios": {
+        "2013": {
+          "usd": 21838.91,
+          "ars": 33391693.39,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 23130.22,
+          "ars": 35366106.38,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 24039.6,
+          "ars": 36756548.4,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 25238.64,
+          "ars": 38589880.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2531": {
+      "id": "2531",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gls 6AT 7p 4WD Premium 2013",
+      "precios": {
+        "2013": {
+          "usd": 22537.75,
+          "ars": 34460219.75,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 23870.39,
+          "ars": 36497826.31,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 24808.86,
+          "ars": 37932746.94,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 26046.28,
+          "ars": 39824762.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2532": {
+      "id": "2532",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,2 Gls 4WD Crdi Full 7p Premium 6AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 25059.07,
+          "ars": 38315318.03,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 26540.79,
+          "ars": 40580867.91,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 27584.26,
+          "ars": 42176333.54,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 28960.1,
+          "ars": 44279992.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2533": {
+      "id": "2533",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gl 6MT 7p 2wd 2016",
+      "precios": {
+        "2016": {
+          "usd": 23698.81,
+          "ars": 36235480.49,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 25341.3,
+          "ars": 38746847.7,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 27368.61,
+          "ars": 41846604.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2534": {
+      "id": "2534",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gl 6AT 7p 2wd 2016",
+      "precios": {
+        "2016": {
+          "usd": 24382.43,
+          "ars": 37280735.47,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 26072.3,
+          "ars": 39864546.7,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 28158.09,
+          "ars": 43053719.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2535": {
+      "id": "2535",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gls 6AT 7p 4WD Premium 2016",
+      "precios": {
+        "2016": {
+          "usd": 29395.64,
+          "ars": 44945933.56,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 31432.96,
+          "ars": 48060995.84,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 33947.6,
+          "ars": 51905880.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2536": {
+      "id": "2536",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,2 Gls 4WD Crdi Full 7p Premium 6AT 2016",
+      "precios": {
+        "2016": {
+          "usd": 31856.67,
+          "ars": 48708848.43,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 34064.56,
+          "ars": 52084712.24,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 36789.73,
+          "ars": 56251497.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2537": {
+      "id": "2537",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,2 Gls 4WD Crdi Full 7p Premium 6AT Chapelco",
+      "precios": {
+        "2017": {
+          "usd": 35390.91,
+          "ars": 54112701.39,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 38222.18,
+          "ars": 58441713.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2538": {
+      "id": "2538",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,4 Gl 2wd 6AT 7p",
+      "precios": {
+        "2019": {
+          "usd": 33147.74,
+          "ars": 50682894.46,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 34892.35,
+          "ars": 53350403.15,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 36636.97,
+          "ars": 56017927.13,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 38468.82,
+          "ars": 58818825.78,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 41546.32,
+          "ars": 63524323.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2539": {
+      "id": "2539",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,2 Gls 4WD Crdi 8AT 7p",
+      "precios": {
+        "2019": {
+          "usd": 43108.66,
+          "ars": 65913141.14,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 45377.53,
+          "ars": 69382243.37,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 47646.41,
+          "ars": 72851360.89,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 50028.73,
+          "ars": 76493928.17,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 54031.03,
+          "ars": 82613444.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2540": {
+      "id": "2540",
+      "marcaId": "26",
+      "modeloId": "291",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "5P 2,5 T Gdi 4WD 8AT 7p Nafta",
+      "precios": {
+        "0": {
+          "usd": 70900,
+          "ars": 108406100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 72488.34,
+          "ars": 110834671.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2541": {
+      "id": "2541",
+      "marcaId": "26",
+      "modeloId": "292",
+      "marca": "HYUNDAI",
+      "modelo": "STARIA",
+      "version": "5P 2,2 Crdi 4WD 8AT Premium 11pas",
+      "precios": {
+        "2021": {
+          "usd": 53535.7,
+          "ars": 81856085.3,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 58889.28,
+          "ars": 90041709.12,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 64242.85,
+          "ars": 98227317.65,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 67624.05,
+          "ars": 103397172.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2542": {
+      "id": "2542",
+      "marcaId": "26",
+      "modeloId": "292",
+      "marca": "HYUNDAI",
+      "modelo": "STARIA",
+      "version": "5P 2,2 Crdi 2wd 8AT Safety 11pas",
+      "precios": {
+        "0": {
+          "usd": 59000,
+          "ars": 90211000,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 53535.7,
+          "ars": 81856085.3,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 56353.37,
+          "ars": 86164302.73,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 59171.04,
+          "ars": 90472520.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2543": {
+      "id": "2543",
+      "marcaId": "26",
+      "modeloId": "292",
+      "marca": "HYUNDAI",
+      "modelo": "STARIA",
+      "version": "5P 2,2 Crdi 4WD 8AT Ultimate 11pas",
+      "precios": {
+        "0": {
+          "usd": 69000,
+          "ars": 105501000,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 67624.05,
+          "ars": 103397172.45,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 71005.25,
+          "ars": 108567027.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2557": {
+      "id": "2557",
+      "marcaId": "26",
+      "modeloId": "293",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "5P 1,6 T 4WD AT Full Premium New",
+      "precios": {
+        "2017": {
+          "usd": 33245.99,
+          "ars": 50833118.71,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 35573.21,
+          "ars": 54391438.09,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 38060.01,
+          "ars": 58193755.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2562": {
+      "id": "2562",
+      "marcaId": "26",
+      "modeloId": "293",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "5P 2,0 2wd 6AT Panorama Sunroof 2019",
+      "precios": {
+        "2018": {
+          "usd": 31203.51,
+          "ars": 47710166.79,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 32538.83,
+          "ars": 49751871.07,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 33928.28,
+          "ars": 51876340.12,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 35624.69,
+          "ars": 54470151.01,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 37405.93,
+          "ars": 57193666.97,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 40398.4,
+          "ars": 61769153.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2564": {
+      "id": "2564",
+      "marcaId": "26",
+      "modeloId": "293",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "5P 1,6 T 4WD Gdi 6AT Dct Full Premium 2019",
+      "precios": {
+        "2019": {
+          "usd": 36578.63,
+          "ars": 55928725.27,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 38140.58,
+          "ars": 58316946.82,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 40047.61,
+          "ars": 61232795.69,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 42049.99,
+          "ars": 64294434.71,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 45413.98,
+          "ars": 69437975.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2566": {
+      "id": "2566",
+      "marcaId": "26",
+      "modeloId": "293",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "5P 2,0 2wd 6AT Safety",
+      "precios": {
+        "0": {
+          "usd": 45900,
+          "ars": 70181100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 47087.96,
+          "ars": 71997490.84,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 50093.57,
+          "ars": 76593068.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2567": {
+      "id": "2567",
+      "marcaId": "26",
+      "modeloId": "293",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "5P 1,6 T 4WD 7AT Ultimate",
+      "precios": {
+        "0": {
+          "usd": 55900,
+          "ars": 85471100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 56320.89,
+          "ars": 86114640.81,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 59915.84,
+          "ars": 91611319.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "2568": {
+      "id": "2568",
+      "marcaId": "26",
+      "modeloId": "293",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "5P 1,6 T 4WD 6AT Hybrid",
+      "precios": {
+        "0": {
+          "usd": 66000,
+          "ars": 100914000,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 67282.54,
+          "ars": 102875003.66,
+          "cotizacion": 1529
+        }
+      }
+    },
     "5847": {
       "id": "5847",
       "marcaId": "6",
@@ -51971,6 +59791,116 @@
         "0": {
           "usd": 33900,
           "ars": 51833100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5848": {
+      "id": "5848",
+      "marcaId": "64",
+      "modeloId": "625",
+      "marca": "GAC",
+      "modelo": "AION",
+      "version": "4P Es Electrico",
+      "precios": {
+        "2025": {
+          "usd": 27905.4,
+          "ars": 42667356.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5849": {
+      "id": "5849",
+      "marcaId": "64",
+      "modeloId": "626",
+      "marca": "GAC",
+      "modelo": "EMKOO",
+      "version": "5P 2,0 Atdht Ge Hybrid",
+      "precios": {
+        "0": {
+          "usd": 33800,
+          "ars": 51680200,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5850": {
+      "id": "5850",
+      "marcaId": "64",
+      "modeloId": "627",
+      "marca": "GAC",
+      "modelo": "GS3 EMZOOM",
+      "version": "5P 1,5 T 7wdct Gb",
+      "precios": {
+        "2025": {
+          "usd": 29466.01,
+          "ars": 45053529.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5851": {
+      "id": "5851",
+      "marcaId": "64",
+      "modeloId": "627",
+      "marca": "GAC",
+      "modelo": "GS3 EMZOOM",
+      "version": "5P 1,5 T 7wdct Gl Plus",
+      "precios": {
+        "2025": {
+          "usd": 31016.86,
+          "ars": 47424778.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5852": {
+      "id": "5852",
+      "marcaId": "64",
+      "modeloId": "627",
+      "marca": "GAC",
+      "modelo": "GS3 EMZOOM",
+      "version": "5P 1,5 T 7wdct Gl R Style",
+      "precios": {
+        "2025": {
+          "usd": 32649.32,
+          "ars": 49920810.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5853": {
+      "id": "5853",
+      "marcaId": "64",
+      "modeloId": "628",
+      "marca": "GAC",
+      "modelo": "GS8",
+      "version": "5P 2,0 T 8AT",
+      "precios": {
+        "2025": {
+          "usd": 56449.97,
+          "ars": 86312004.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5854": {
+      "id": "5854",
+      "marcaId": "24",
+      "modeloId": "267",
+      "marca": "HAVAL",
+      "modelo": "JOLION",
+      "version": "5P 1,5 Dtc Deluxe",
+      "precios": {
+        "0": {
+          "usd": 30000,
+          "ars": 45870000,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 28226.1,
+          "ars": 43157706.9,
           "cotizacion": 1529
         }
       }
@@ -53081,6 +61011,51 @@
         }
       }
     },
+    "6378": {
+      "id": "6378",
+      "marcaId": "20",
+      "modeloId": "645",
+      "marca": "FORTHING",
+      "modelo": "FRIDAY REEV",
+      "version": "5P 1,5 Hibrido",
+      "precios": {
+        "0": {
+          "usd": 35855,
+          "ars": 54822295,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6379": {
+      "id": "6379",
+      "marcaId": "20",
+      "modeloId": "646",
+      "marca": "FORTHING",
+      "modelo": "V9",
+      "version": "Van 1,5 T AT 7asientos Hibrido",
+      "precios": {
+        "0": {
+          "usd": 72900,
+          "ars": 111464100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6380": {
+      "id": "6380",
+      "marcaId": "24",
+      "modeloId": "267",
+      "marca": "HAVAL",
+      "modelo": "JOLION",
+      "version": "5P 1,5 AT Supreme Hev Hybrid",
+      "precios": {
+        "0": {
+          "usd": 28990,
+          "ars": 44325710,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6490": {
       "id": "6490",
       "marcaId": "2",
@@ -53641,6 +61616,51 @@
         }
       }
     },
+    "6665": {
+      "id": "6665",
+      "marcaId": "20",
+      "modeloId": "245",
+      "marca": "FORTHING",
+      "modelo": "U-TOUR",
+      "version": "Van 1,5 T 7AT 7asientos Hybrid",
+      "precios": {
+        "0": {
+          "usd": 41957,
+          "ars": 64152253,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6666": {
+      "id": "6666",
+      "marcaId": "64",
+      "modeloId": "626",
+      "marca": "GAC",
+      "modelo": "EMKOO",
+      "version": "5P 2,0 Atdht Gl Hybrid",
+      "precios": {
+        "0": {
+          "usd": 36000,
+          "ars": 55044000,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6667": {
+      "id": "6667",
+      "marcaId": "24",
+      "modeloId": "266",
+      "marca": "HAVAL",
+      "modelo": "H 6",
+      "version": "5P 1,5 T AT Pro Hev 2wd",
+      "precios": {
+        "0": {
+          "usd": 35500,
+          "ars": 54279500,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6684": {
       "id": "6684",
       "marcaId": "5",
@@ -53727,6 +61747,96 @@
         "0": {
           "usd": 31000,
           "ars": 47399000,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6690": {
+      "id": "6690",
+      "marcaId": "19",
+      "modeloId": "241",
+      "marca": "FORD",
+      "modelo": "TERRITORY",
+      "version": "5P 1,8 T At7 Platinum 2026",
+      "precios": {
+        "0": {
+          "usd": 39641.69,
+          "ars": 60612144.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6691": {
+      "id": "6691",
+      "marcaId": "64",
+      "modeloId": "705",
+      "marca": "GAC",
+      "modelo": "AION UT",
+      "version": "5P Elite Electrico",
+      "precios": {
+        "0": {
+          "usd": 26490,
+          "ars": 40503210,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6692": {
+      "id": "6692",
+      "marcaId": "64",
+      "modeloId": "705",
+      "marca": "GAC",
+      "modelo": "AION UT",
+      "version": "5P Premium Electrico",
+      "precios": {
+        "0": {
+          "usd": 27490,
+          "ars": 42032210,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6693": {
+      "id": "6693",
+      "marcaId": "22",
+      "modeloId": "706",
+      "marca": "GEELY",
+      "modelo": "ICON",
+      "version": "5P 1,5 T AT",
+      "precios": {
+        "0": {
+          "usd": 30800,
+          "ars": 47093200,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6694": {
+      "id": "6694",
+      "marcaId": "25",
+      "modeloId": "271",
+      "marca": "HONDA",
+      "modelo": "CR-V",
+      "version": "5P 1,5 T Ext 2wd 7cvt 2020",
+      "precios": {
+        "2020": {
+          "usd": 51734.66,
+          "ars": 79102295.14,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 54321.39,
+          "ars": 83057405.31,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 58123.89,
+          "ars": 88871427.81,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 62773.8,
+          "ars": 95981140.2,
           "cotizacion": 1529
         }
       }
