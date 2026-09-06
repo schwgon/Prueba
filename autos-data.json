@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-06T18:36:30.046Z",
+  "actualizado": "2026-09-06T20:39:52.042Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6163,
-  "versionesProcesadas": 3704,
-  "versionesConValuacion": 3368,
+  "versionesProcesadas": 4052,
+  "versionesConValuacion": 3683,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -84903,6 +84903,8108 @@
         "2021": {
           "usd": 31867.79,
           "ars": 48725850.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3526": {
+      "id": "3526",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sense",
+      "precios": {
+        "2015": {
+          "usd": 8395.35,
+          "ars": 12836490.15,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9104.57,
+          "ars": 13920887.53,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9474.34,
+          "ars": 14486265.86,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10044.54,
+          "ars": 15358101.66,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10848.11,
+          "ars": 16586760.19,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11715.95,
+          "ars": 17913687.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3527": {
+      "id": "3527",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sense Pure Drive",
+      "precios": {
+        "2019": {
+          "usd": 11053.24,
+          "ars": 16900403.96,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11937.49,
+          "ars": 18252422.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3528": {
+      "id": "3528",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sense CVT",
+      "precios": {
+        "2018": {
+          "usd": 10281.23,
+          "ars": 15720000.67,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11103.73,
+          "ars": 16977603.17,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11992.02,
+          "ars": 18335798.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3529": {
+      "id": "3529",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Advance",
+      "precios": {
+        "2015": {
+          "usd": 8791.76,
+          "ars": 13442601.04,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9534.47,
+          "ars": 14578204.63,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9921.71,
+          "ars": 15170294.59,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10518.83,
+          "ars": 16083291.07,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11360.33,
+          "ars": 17369944.57,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12269.16,
+          "ars": 18759545.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3530": {
+      "id": "3530",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Advance CVT",
+      "precios": {
+        "2018": {
+          "usd": 11264.65,
+          "ars": 17223649.85,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12165.82,
+          "ars": 18601538.78,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13139.09,
+          "ars": 20089668.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3531": {
+      "id": "3531",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Exclusive CVT",
+      "precios": {
+        "2015": {
+          "usd": 10431.85,
+          "ars": 15950298.65,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11313.11,
+          "ars": 17297745.19,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11772.58,
+          "ars": 18000274.82,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12481.09,
+          "ars": 19083586.61,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13479.58,
+          "ars": 20610277.82,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14557.95,
+          "ars": 22259105.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3532": {
+      "id": "3532",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Exclusive Pure Drive CVT",
+      "precios": {
+        "2019": {
+          "usd": 13592.83,
+          "ars": 20783437.07,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14680.26,
+          "ars": 22446117.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3533": {
+      "id": "3533",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sr",
+      "precios": {
+        "2017": {
+          "usd": 12333.49,
+          "ars": 18857906.21,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13075.76,
+          "ars": 19992837.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3534": {
+      "id": "3534",
+      "marcaId": "48",
+      "modeloId": "468",
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "version": "5P 1,6 Sr CVT 2018",
+      "precios": {
+        "2018": {
+          "usd": 13410.3,
+          "ars": 20504348.7,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14483.12,
+          "ars": 22144690.48,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15641.77,
+          "ars": 23916266.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3535": {
+      "id": "3535",
+      "marcaId": "48",
+      "modeloId": "469",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP",
+      "version": "D/C 2,5 Td 4X2",
+      "precios": {
+        "2013": {
+          "usd": 10275.11,
+          "ars": 15710643.19,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10975.05,
+          "ars": 16780851.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3536": {
+      "id": "3536",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Le 4X2 6v",
+      "precios": {
+        "2016": {
+          "usd": 16006.17,
+          "ars": 24473433.93,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 16532.83,
+          "ars": 25278697.07,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 17207.59,
+          "ars": 26310405.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3537": {
+      "id": "3537",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Le 4X4 6v",
+      "precios": {
+        "2016": {
+          "usd": 18814.44,
+          "ars": 28767278.76,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 19433.51,
+          "ars": 29713836.79,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20226.65,
+          "ars": 30926547.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3538": {
+      "id": "3538",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Le 4X4 AT",
+      "precios": {
+        "2016": {
+          "usd": 20394.09,
+          "ars": 31182563.61,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 21065.14,
+          "ars": 32208599.06,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21924.87,
+          "ars": 33523126.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3539": {
+      "id": "3539",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Se 4X2 6v",
+      "precios": {
+        "2017": {
+          "usd": 13229.03,
+          "ars": 20227186.87,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13768.95,
+          "ars": 21052724.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3540": {
+      "id": "3540",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Se 4X2 6v Plus",
+      "precios": {
+        "2017": {
+          "usd": 13354.04,
+          "ars": 20418327.16,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13899.07,
+          "ars": 21251678.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3541": {
+      "id": "3541",
+      "marcaId": "48",
+      "modeloId": "470",
+      "marca": "NISSAN",
+      "modelo": "NP 300 PICK UP FRONTIER",
+      "version": "D/C 2,3 D Xe 4X4 6v",
+      "precios": {
+        "2017": {
+          "usd": 17313.4,
+          "ars": 26472188.6,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18020.01,
+          "ars": 27552595.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3542": {
+      "id": "3542",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Acenta",
+      "precios": {
+        "2013": {
+          "usd": 6462.48,
+          "ars": 9881131.92,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6786.59,
+          "ars": 10376696.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3543": {
+      "id": "3543",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Acenta AT",
+      "precios": {
+        "2013": {
+          "usd": 6907.26,
+          "ars": 10561200.54,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7253.69,
+          "ars": 11090892.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3544": {
+      "id": "3544",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Tekna AT",
+      "precios": {
+        "2013": {
+          "usd": 7823,
+          "ars": 11961367,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8215.35,
+          "ars": 12561270.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3545": {
+      "id": "3545",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sense",
+      "precios": {
+        "2014": {
+          "usd": 7195.44,
+          "ars": 11001827.76,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7565.12,
+          "ars": 11567068.48,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7756.07,
+          "ars": 11859031.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3546": {
+      "id": "3546",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Advance",
+      "precios": {
+        "2014": {
+          "usd": 7758.27,
+          "ars": 11862394.83,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8145.21,
+          "ars": 12454026.09,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8338.2,
+          "ars": 12749107.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3547": {
+      "id": "3547",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sr CVT",
+      "precios": {
+        "2014": {
+          "usd": 8419.83,
+          "ars": 12873920.07,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8839.77,
+          "ars": 13516008.33,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9049.21,
+          "ars": 13836242.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3548": {
+      "id": "3548",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Exclusive CVT",
+      "precios": {
+        "2015": {
+          "usd": 9231.41,
+          "ars": 14114825.89,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9450.14,
+          "ars": 14449264.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3549": {
+      "id": "3549",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sense 2016",
+      "precios": {
+        "2016": {
+          "usd": 8297.53,
+          "ars": 12686923.37,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8632.58,
+          "ars": 13199214.82,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9071.84,
+          "ars": 13870843.36,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9710.88,
+          "ars": 14847935.52,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10394.11,
+          "ars": 15892594.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3550": {
+      "id": "3550",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Advance 2016",
+      "precios": {
+        "2016": {
+          "usd": 9446.68,
+          "ars": 14443973.72,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9735.41,
+          "ars": 14885441.89,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10230.78,
+          "ars": 15642862.62,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10951.47,
+          "ars": 16744797.63,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11721.98,
+          "ars": 17922907.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3551": {
+      "id": "3551",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sr CVT 2016",
+      "precios": {
+        "2016": {
+          "usd": 10864.99,
+          "ars": 16612569.71,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11197.07,
+          "ars": 17120320.03,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11766.82,
+          "ars": 17991467.78,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12595.7,
+          "ars": 19258825.3,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13481.9,
+          "ars": 20613825.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3552": {
+      "id": "3552",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Exclusive CVT 2016",
+      "precios": {
+        "2016": {
+          "usd": 11811.5,
+          "ars": 18059783.5,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12172.5,
+          "ars": 18611752.5,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12791.88,
+          "ars": 19558784.52,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13692.98,
+          "ars": 20936566.42,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14656.37,
+          "ars": 22409589.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3553": {
+      "id": "3553",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Advance Safety Pack 2019",
+      "precios": {
+        "2019": {
+          "usd": 10487.12,
+          "ars": 16034806.48,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11224.97,
+          "ars": 17162979.13,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13263.55,
+          "ars": 20279967.95,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13800.13,
+          "ars": 21100398.77,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14767.4,
+          "ars": 22579354.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3554": {
+      "id": "3554",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Advance Safety Pack CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 13602.6,
+          "ars": 20798375.4,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16072.99,
+          "ars": 24575601.71,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16723.22,
+          "ars": 25569803.38,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17895.38,
+          "ars": 27362036.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3555": {
+      "id": "3555",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Sr CVT Safety Pack 2019",
+      "precios": {
+        "2019": {
+          "usd": 15397.64,
+          "ars": 23542991.56,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16480.97,
+          "ars": 25199403.13,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19474.11,
+          "ars": 29775914.19,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20261.93,
+          "ars": 30980490.97,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21682.12,
+          "ars": 33151961.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3556": {
+      "id": "3556",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 1,8 Exclusive CVT Safety Pack 2019",
+      "precios": {
+        "2019": {
+          "usd": 15941.91,
+          "ars": 24375180.39,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17063.54,
+          "ars": 26090152.66,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20162.48,
+          "ars": 30828431.92,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20978.14,
+          "ars": 32075576.06,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 22448.54,
+          "ars": 34323817.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3557": {
+      "id": "3557",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Advance CVT",
+      "precios": {
+        "0": {
+          "usd": 28657.98,
+          "ars": 43818051.42,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21239.04,
+          "ars": 32474492.16,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 21693.18,
+          "ars": 33168872.22,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 22834.92,
+          "ars": 34914592.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3558": {
+      "id": "3558",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Sr CVT",
+      "precios": {
+        "0": {
+          "usd": 32566.78,
+          "ars": 49794606.62,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21998.61,
+          "ars": 33635874.69,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 22468.98,
+          "ars": 34355070.42,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23651.56,
+          "ars": 36163235.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3559": {
+      "id": "3559",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Sr CVT Nightfall",
+      "precios": {
+        "0": {
+          "usd": 32566.78,
+          "ars": 49794606.62,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23810.78,
+          "ars": 36406682.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3560": {
+      "id": "3560",
+      "marcaId": "48",
+      "modeloId": "471",
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "version": "4P 2,0 Exclusive CVT",
+      "precios": {
+        "0": {
+          "usd": 31915.31,
+          "ars": 48798508.99,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21998.61,
+          "ars": 33635874.69,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 22468.98,
+          "ars": 34355070.42,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23651.56,
+          "ars": 36163235.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3561": {
+      "id": "3561",
+      "marcaId": "48",
+      "modeloId": "472",
+      "marca": "NISSAN",
+      "modelo": "TEANA",
+      "version": "4P 250 Xv",
+      "precios": {}
+    },
+    "3562": {
+      "id": "3562",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "5P 1,8 Acenta Hatchback",
+      "precios": {
+        "2013": {
+          "usd": 7811.84,
+          "ars": 11944303.36,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8426.96,
+          "ars": 12884821.84,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8923.53,
+          "ars": 13644077.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3563": {
+      "id": "3563",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "4P 1,8 Acenta Sedan",
+      "precios": {}
+    },
+    "3564": {
+      "id": "3564",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "5P 1,8 Tekna Hatchback",
+      "precios": {
+        "2013": {
+          "usd": 8089.17,
+          "ars": 12368340.93,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8726.13,
+          "ars": 13342252.77,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9240.32,
+          "ars": 14128449.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3565": {
+      "id": "3565",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "4P 1,8 Tekna Sedan",
+      "precios": {}
+    },
+    "3566": {
+      "id": "3566",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "5P 1,8 Visia Hatchback",
+      "precios": {
+        "2013": {
+          "usd": 7283.36,
+          "ars": 11136257.44,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7856.87,
+          "ars": 12013154.23,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8319.84,
+          "ars": 12721035.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3567": {
+      "id": "3567",
+      "marcaId": "48",
+      "modeloId": "473",
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "version": "4P 1,8 Visia Sedan",
+      "precios": {}
+    },
+    "3568": {
+      "id": "3568",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Visia MT",
+      "precios": {
+        "2013": {
+          "usd": 6146.22,
+          "ars": 9397570.38,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6697.16,
+          "ars": 10239957.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3569": {
+      "id": "3569",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Acenta MT",
+      "precios": {
+        "2013": {
+          "usd": 6654.31,
+          "ars": 10174439.99,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7250.79,
+          "ars": 11086457.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3570": {
+      "id": "3570",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Acenta AT",
+      "precios": {
+        "2013": {
+          "usd": 7129.62,
+          "ars": 10901188.98,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7768.71,
+          "ars": 11878357.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3571": {
+      "id": "3571",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Exclusive AT",
+      "precios": {
+        "2014": {
+          "usd": 8705.8,
+          "ars": 13311168.2,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8985.18,
+          "ars": 13738340.22,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9744.23,
+          "ars": 14898927.67,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10139.98,
+          "ars": 15504029.42,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10750.24,
+          "ars": 16437116.96,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11610.26,
+          "ars": 17752087.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3572": {
+      "id": "3572",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Exclusive AT 2019",
+      "precios": {
+        "2019": {
+          "usd": 12800.31,
+          "ars": 19571673.99,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13824.34,
+          "ars": 21137415.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3573": {
+      "id": "3573",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Exclusive CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 15665.41,
+          "ars": 23952411.89,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16448.68,
+          "ars": 25150031.72,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17271.12,
+          "ars": 26407542.48,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18652.81,
+          "ars": 28520146.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3574": {
+      "id": "3574",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Exclusive CVT 2023",
+      "precios": {
+        "0": {
+          "usd": 27234.4,
+          "ars": 41641397.6,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19212.39,
+          "ars": 29375744.31,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20173.01,
+          "ars": 30844532.29,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21181.66,
+          "ars": 32386758.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3575": {
+      "id": "3575",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense",
+      "precios": {
+        "2014": {
+          "usd": 6447.13,
+          "ars": 9857661.77,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6654.03,
+          "ars": 10174011.87,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7216.15,
+          "ars": 11033493.35,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7509.22,
+          "ars": 11481597.38,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 7961.16,
+          "ars": 12172613.64,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8598.05,
+          "ars": 13146418.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3576": {
+      "id": "3576",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense 2019",
+      "precios": {
+        "2019": {
+          "usd": 9479.35,
+          "ars": 14493926.15,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10237.7,
+          "ars": 15653443.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3577": {
+      "id": "3577",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense 2020",
+      "precios": {
+        "2020": {
+          "usd": 12020.39,
+          "ars": 18379176.31,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12621.41,
+          "ars": 19298135.89,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13252.48,
+          "ars": 20263041.92,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14312.68,
+          "ars": 21884087.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3578": {
+      "id": "3578",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense 2023",
+      "precios": {
+        "0": {
+          "usd": 22568.21,
+          "ars": 34506793.09,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14742.06,
+          "ars": 22540609.74,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15479.16,
+          "ars": 23667635.64,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16253.12,
+          "ars": 24851020.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3579": {
+      "id": "3579",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense AT",
+      "precios": {
+        "2018": {
+          "usd": 8320.04,
+          "ars": 12721341.16,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9434.93,
+          "ars": 14426007.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3580": {
+      "id": "3580",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense AT 2019",
+      "precios": {
+        "2019": {
+          "usd": 9906.68,
+          "ars": 15147313.72,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10699.21,
+          "ars": 16359092.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3581": {
+      "id": "3581",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sense CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 12784.89,
+          "ars": 19548096.81,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13424.13,
+          "ars": 20525494.77,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14095.34,
+          "ars": 21551774.86,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15222.97,
+          "ars": 23275921.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3582": {
+      "id": "3582",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance",
+      "precios": {
+        "2014": {
+          "usd": 6990.05,
+          "ars": 10687786.45,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7214.37,
+          "ars": 11030771.73,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7823.82,
+          "ars": 11962620.78,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8141.58,
+          "ars": 12448475.82,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8631.57,
+          "ars": 13197670.53,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9788.2,
+          "ars": 14966157.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3583": {
+      "id": "3583",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance 2019",
+      "precios": {
+        "2019": {
+          "usd": 10277.61,
+          "ars": 15714465.69,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11099.82,
+          "ars": 16971624.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3584": {
+      "id": "3584",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance 2020",
+      "precios": {
+        "2020": {
+          "usd": 13005.88,
+          "ars": 19885990.52,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13656.17,
+          "ars": 20880283.93,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14338.98,
+          "ars": 21924300.42,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15486.1,
+          "ars": 23678246.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3585": {
+      "id": "3585",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance 2023",
+      "precios": {
+        "0": {
+          "usd": 25360.79,
+          "ars": 38776647.91,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15950.68,
+          "ars": 24388589.72,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16748.21,
+          "ars": 25608013.09,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17585.62,
+          "ars": 26888412.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3586": {
+      "id": "3586",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance AT",
+      "precios": {
+        "2014": {
+          "usd": 7377.36,
+          "ars": 11279983.44,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7577.85,
+          "ars": 11586532.65,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8161.98,
+          "ars": 12479667.42,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8493.47,
+          "ars": 12986515.63,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9004.64,
+          "ars": 13768094.56,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10211.26,
+          "ars": 15613016.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3587": {
+      "id": "3587",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance AT 2019",
+      "precios": {
+        "2019": {
+          "usd": 10721.82,
+          "ars": 16393662.78,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11579.56,
+          "ars": 17705147.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3588": {
+      "id": "3588",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 13540.85,
+          "ars": 20703959.65,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14217.9,
+          "ars": 21739169.1,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14928.79,
+          "ars": 22826119.91,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 16123.1,
+          "ars": 24652219.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3589": {
+      "id": "3589",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Advance CVT 2023",
+      "precios": {
+        "0": {
+          "usd": 26201.56,
+          "ars": 40062185.24,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 16606.79,
+          "ars": 25391781.91,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 17437.13,
+          "ars": 26661371.77,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 18308.98,
+          "ars": 27994430.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3590": {
+      "id": "3590",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P 1,6 Sr CVT 2024",
+      "precios": {
+        "0": {
+          "usd": 26710.55,
+          "ars": 40840430.95,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 17595.64,
+          "ars": 26903733.56,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 18475.42,
+          "ars": 28248917.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3591": {
+      "id": "3591",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P V-Drive MT",
+      "precios": {
+        "2020": {
+          "usd": 9515.29,
+          "ars": 14548878.41,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 9991.05,
+          "ars": 15276315.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3592": {
+      "id": "3592",
+      "marcaId": "48",
+      "modeloId": "474",
+      "marca": "NISSAN",
+      "modelo": "VERSA",
+      "version": "4P V-Drive Plus AT",
+      "precios": {
+        "2020": {
+          "usd": 11035.75,
+          "ars": 16873661.75,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11587.54,
+          "ars": 17717348.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3593": {
+      "id": "3593",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 Acenta 6MT",
+      "precios": {
+        "2013": {
+          "usd": 12409.22,
+          "ars": 18973697.38,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13386.36,
+          "ars": 20467744.44,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13900.11,
+          "ars": 21253268.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3594": {
+      "id": "3594",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 Tekna CVT",
+      "precios": {
+        "2013": {
+          "usd": 14086.92,
+          "ars": 21538900.68,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15196.16,
+          "ars": 23234928.64,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16021.7,
+          "ars": 24497179.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3595": {
+      "id": "3595",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X4 Exclusive 7cvt 2018",
+      "precios": {
+        "2018": {
+          "usd": 22288.82,
+          "ars": 34079605.78,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 23461.92,
+          "ars": 35873275.68,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 24263.87,
+          "ars": 37099457.23,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 25383.74,
+          "ars": 38811738.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3596": {
+      "id": "3596",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X4 Advance 7cvt 2021",
+      "precios": {
+        "2021": {
+          "usd": 23144,
+          "ars": 35387176,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 24764.08,
+          "ars": 37864278.32,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 26745.21,
+          "ars": 40893426.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3597": {
+      "id": "3597",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X4 Exclusive 7cvt 2023",
+      "precios": {
+        "2022": {
+          "usd": 26610.08,
+          "ars": 40686812.32,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 28738.89,
+          "ars": 43941762.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3598": {
+      "id": "3598",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X2 Advance CVT",
+      "precios": {
+        "0": {
+          "usd": 37127.04,
+          "ars": 56767244.16,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29604.53,
+          "ars": 45265326.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3599": {
+      "id": "3599",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 2,5 4X4 Exclusive CVT 2023",
+      "precios": {
+        "0": {
+          "usd": 45596.09,
+          "ars": 69716421.61,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 30251.46,
+          "ars": 46254482.34,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 33612.73,
+          "ars": 51393864.17,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 35293.37,
+          "ars": 53963562.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3600": {
+      "id": "3600",
+      "marcaId": "48",
+      "modeloId": "475",
+      "marca": "NISSAN",
+      "modelo": "XTRAIL",
+      "version": "5P 1,5 4X4 E-Power CVT 2023",
+      "precios": {
+        "0": {
+          "usd": 54065.15,
+          "ars": 82665614.35,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 36301.75,
+          "ars": 55505375.75,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 40335.28,
+          "ars": 61672643.12,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 42352.04,
+          "ars": 64756269.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3601": {
+      "id": "3601",
+      "marcaId": "49",
+      "modeloId": "476",
+      "marca": "PEUGEOT",
+      "modelo": "206",
+      "version": "5P 1,4 Generation",
+      "precios": {}
+    },
+    "3602": {
+      "id": "3602",
+      "marcaId": "49",
+      "modeloId": "476",
+      "marca": "PEUGEOT",
+      "modelo": "206",
+      "version": "5P 1,4 Generation Plus",
+      "precios": {}
+    },
+    "3603": {
+      "id": "3603",
+      "marcaId": "49",
+      "modeloId": "476",
+      "marca": "PEUGEOT",
+      "modelo": "206",
+      "version": "5P 1,4 Active Seg",
+      "precios": {
+        "2013": {
+          "usd": 4695.39,
+          "ars": 7179251.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3604": {
+      "id": "3604",
+      "marcaId": "49",
+      "modeloId": "476",
+      "marca": "PEUGEOT",
+      "modelo": "206",
+      "version": "5P 1,4 Allure Seg",
+      "precios": {
+        "2013": {
+          "usd": 5116.41,
+          "ars": 7822990.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3605": {
+      "id": "3605",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,4 Xr Compact",
+      "precios": {}
+    },
+    "3606": {
+      "id": "3606",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,6 Xt Compact",
+      "precios": {}
+    },
+    "3607": {
+      "id": "3607",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,6 Xt Compact Premium",
+      "precios": {}
+    },
+    "3608": {
+      "id": "3608",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,4 Active Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6374.06,
+          "ars": 9745937.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3609": {
+      "id": "3609",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,6 Feline Compact",
+      "precios": {
+        "2013": {
+          "usd": 6777.48,
+          "ars": 10362766.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3610": {
+      "id": "3610",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P 1,6 Griffe Compact",
+      "precios": {
+        "2013": {
+          "usd": 6979.19,
+          "ars": 10671181.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3611": {
+      "id": "3611",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Xr Compact",
+      "precios": {}
+    },
+    "3612": {
+      "id": "3612",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Xs Compact",
+      "precios": {}
+    },
+    "3613": {
+      "id": "3613",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,6 Xt Compact",
+      "precios": {}
+    },
+    "3614": {
+      "id": "3614",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,6 Xt Compact Tipt",
+      "precios": {}
+    },
+    "3615": {
+      "id": "3615",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Xr",
+      "precios": {}
+    },
+    "3616": {
+      "id": "3616",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Xs",
+      "precios": {}
+    },
+    "3617": {
+      "id": "3617",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Xt",
+      "precios": {}
+    },
+    "3618": {
+      "id": "3618",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Active Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6185.8,
+          "ars": 9458088.2,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6330.01,
+          "ars": 9678585.29,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6594.39,
+          "ars": 10082822.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3619": {
+      "id": "3619",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Active Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6343.21,
+          "ars": 9698768.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3620": {
+      "id": "3620",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6339.48,
+          "ars": 9693064.92,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6480.72,
+          "ars": 9909020.88,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6745.12,
+          "ars": 10313288.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3621": {
+      "id": "3621",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6541.44,
+          "ars": 10001861.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3622": {
+      "id": "3622",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,6 Feline Compact",
+      "precios": {
+        "2013": {
+          "usd": 6531.59,
+          "ars": 9986801.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3623": {
+      "id": "3623",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "4P 1,4 Diesel Feline Compact",
+      "precios": {
+        "2013": {
+          "usd": 6937.89,
+          "ars": 10608033.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3624": {
+      "id": "3624",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Xr Compact",
+      "precios": {}
+    },
+    "3625": {
+      "id": "3625",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Xs Compact",
+      "precios": {}
+    },
+    "3626": {
+      "id": "3626",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Quiksilver",
+      "precios": {}
+    },
+    "3627": {
+      "id": "3627",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Xs Compact",
+      "precios": {}
+    },
+    "3628": {
+      "id": "3628",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Xt Compact",
+      "precios": {}
+    },
+    "3629": {
+      "id": "3629",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Xt Compact Premium",
+      "precios": {}
+    },
+    "3630": {
+      "id": "3630",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Xt Compact Tipt",
+      "precios": {}
+    },
+    "3631": {
+      "id": "3631",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Diesel Xs",
+      "precios": {}
+    },
+    "3632": {
+      "id": "3632",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Diesel Xt",
+      "precios": {}
+    },
+    "3633": {
+      "id": "3633",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Active Compact",
+      "precios": {
+        "2013": {
+          "usd": 6108.96,
+          "ars": 9340599.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3634": {
+      "id": "3634",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Active Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6301.06,
+          "ars": 9634320.74,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6443.04,
+          "ars": 9851408.16,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6707.44,
+          "ars": 10255675.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3635": {
+      "id": "3635",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6493.17,
+          "ars": 9928056.93,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6631.44,
+          "ars": 10139471.76,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6895.85,
+          "ars": 10543754.65,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7019.87,
+          "ars": 10733381.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3636": {
+      "id": "3636",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6570.01,
+          "ars": 10045545.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3637": {
+      "id": "3637",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Diesel Allure Compact Seg",
+      "precios": {
+        "2013": {
+          "usd": 6646.85,
+          "ars": 10163033.65,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6782.15,
+          "ars": 10369907.35,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7046.58,
+          "ars": 10774220.82,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7172.47,
+          "ars": 10966706.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3638": {
+      "id": "3638",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Feline Compact",
+      "precios": {
+        "2013": {
+          "usd": 6762.11,
+          "ars": 10339266.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3639": {
+      "id": "3639",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Feline Compact Tipt",
+      "precios": {
+        "2013": {
+          "usd": 6954.22,
+          "ars": 10633002.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3640": {
+      "id": "3640",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,4 Diesel Feline Compact",
+      "precios": {
+        "2013": {
+          "usd": 7175.76,
+          "ars": 10971737.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3641": {
+      "id": "3641",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P 1,6 Griffe Compact",
+      "precios": {
+        "2013": {
+          "usd": 7272.52,
+          "ars": 11119683.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3642": {
+      "id": "3642",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "3P Gti",
+      "precios": {
+        "2013": {
+          "usd": 10631.73,
+          "ars": 16255915.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3643": {
+      "id": "3643",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "5P Gti",
+      "precios": {
+        "2013": {
+          "usd": 10857.48,
+          "ars": 16601086.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3644": {
+      "id": "3644",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "Cabrio 1,6 Cc 156hp",
+      "precios": {
+        "2013": {
+          "usd": 15650.08,
+          "ars": 23928972.32,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16575.45,
+          "ars": 25343863.05,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17903.21,
+          "ars": 27374008.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3645": {
+      "id": "3645",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "Sw 1,6 Xs Compact",
+      "precios": {}
+    },
+    "3646": {
+      "id": "3646",
+      "marcaId": "49",
+      "modeloId": "477",
+      "marca": "PEUGEOT",
+      "modelo": "207",
+      "version": "Sw 1,6 Xt Compact",
+      "precios": {
+        "2013": {
+          "usd": 6809.4,
+          "ars": 10411572.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3647": {
+      "id": "3647",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,2 Like 2020",
+      "precios": {
+        "2020": {
+          "usd": 9705.5,
+          "ars": 14839709.5,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10190.78,
+          "ars": 15581702.62,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 10593.31,
+          "ars": 16197170.99,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11010.62,
+          "ars": 16835237.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3648": {
+      "id": "3648",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,2 Like New 2023",
+      "precios": {
+        "2023": {
+          "usd": 11561.16,
+          "ars": 17677013.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3649": {
+      "id": "3649",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,2 T Gt 6tipt",
+      "precios": {
+        "2021": {
+          "usd": 17639.2,
+          "ars": 26970336.8,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18335.95,
+          "ars": 28035667.55,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19058.28,
+          "ars": 29140110.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3650": {
+      "id": "3650",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,2 T Gt 6tipt Line",
+      "precios": {
+        "2021": {
+          "usd": 17609.4,
+          "ars": 26924772.6,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18304.97,
+          "ars": 27988299.13,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19026.07,
+          "ars": 29090861.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3651": {
+      "id": "3651",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,5 Active",
+      "precios": {
+        "2013": {
+          "usd": 6033.58,
+          "ars": 9225343.82,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6199.69,
+          "ars": 9479326.01,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6574.13,
+          "ars": 10051844.77,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6980.35,
+          "ars": 10672955.15,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7499.98,
+          "ars": 11467469.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3652": {
+      "id": "3652",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,5 Allure",
+      "precios": {
+        "2013": {
+          "usd": 6324.14,
+          "ars": 9669610.06,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6480.46,
+          "ars": 9908623.34,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6871.85,
+          "ars": 10507058.65,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7305.12,
+          "ars": 11169528.48,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7848.93,
+          "ars": 12001013.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3653": {
+      "id": "3653",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,5 Allure Touchscreen",
+      "precios": {
+        "2013": {
+          "usd": 6586.43,
+          "ars": 10070651.47,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6735.55,
+          "ars": 10298655.95,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7142.35,
+          "ars": 10920653.15,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7569.16,
+          "ars": 11573245.64,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8132.63,
+          "ars": 12434791.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3654": {
+      "id": "3654",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,5 Allure Smeg",
+      "precios": {
+        "2016": {
+          "usd": 7827.8,
+          "ars": 11968706.2,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8410.52,
+          "ars": 12859685.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3655": {
+      "id": "3655",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active 2017",
+      "precios": {
+        "2017": {
+          "usd": 7628.85,
+          "ars": 11664511.65,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8163.57,
+          "ars": 12482098.53,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8816.65,
+          "ars": 13480657.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3656": {
+      "id": "3656",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active 2019",
+      "precios": {
+        "2019": {
+          "usd": 8957.64,
+          "ars": 13696231.56,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9348.71,
+          "ars": 14294177.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3657": {
+      "id": "3657",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active 2020",
+      "precios": {
+        "2020": {
+          "usd": 10059.11,
+          "ars": 15380379.19,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10562.07,
+          "ars": 16149405.03,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 10979.27,
+          "ars": 16787303.83,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11411.79,
+          "ars": 17448626.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3658": {
+      "id": "3658",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active 2023",
+      "precios": {
+        "2023": {
+          "usd": 11622.91,
+          "ars": 17771429.39,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 11860.11,
+          "ars": 18134108.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3659": {
+      "id": "3659",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active Pack 2023",
+      "precios": {
+        "2023": {
+          "usd": 12204.05,
+          "ars": 18659992.45,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 12453.11,
+          "ars": 19040805.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3660": {
+      "id": "3660",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active Mt5 2025",
+      "precios": {
+        "2024": {
+          "usd": 12215.91,
+          "ars": 18678126.39,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 12826.71,
+          "ars": 19612039.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3661": {
+      "id": "3661",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active Mt5 2026",
+      "precios": {
+        "0": {
+          "usd": 22065.15,
+          "ars": 33737614.35,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13468.04,
+          "ars": 20592633.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3662": {
+      "id": "3662",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active Tipt6 2020",
+      "precios": {
+        "2020": {
+          "usd": 10839.71,
+          "ars": 16573916.59,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11381.7,
+          "ars": 17402619.3,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 11831.28,
+          "ars": 18090027.12,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12297.36,
+          "ars": 18802663.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3663": {
+      "id": "3663",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active Tipt6 2023",
+      "precios": {
+        "2023": {
+          "usd": 12524.86,
+          "ars": 19150510.94,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 12780.47,
+          "ars": 19541338.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3664": {
+      "id": "3664",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Active Tipt6 Pack 2023",
+      "precios": {
+        "2023": {
+          "usd": 13151.1,
+          "ars": 20108031.9,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13419.49,
+          "ars": 20518400.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3665": {
+      "id": "3665",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure",
+      "precios": {
+        "2013": {
+          "usd": 6611.93,
+          "ars": 10109640.97,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6759.2,
+          "ars": 10334816.8,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6958.67,
+          "ars": 10639806.43,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7635.69,
+          "ars": 11674970.01,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8204.11,
+          "ars": 12544084.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3666": {
+      "id": "3666",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Nav",
+      "precios": {
+        "2016": {
+          "usd": 7779.3,
+          "ars": 11894549.7,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8358.41,
+          "ars": 12780008.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3667": {
+      "id": "3667",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure 2016",
+      "precios": {
+        "2016": {
+          "usd": 8248.59,
+          "ars": 12612094.11,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8874.03,
+          "ars": 13568391.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3668": {
+      "id": "3668",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure 2017",
+      "precios": {
+        "2017": {
+          "usd": 8648.46,
+          "ars": 13223495.34,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9254.65,
+          "ars": 14150359.85,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9786.93,
+          "ars": 14964215.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3669": {
+      "id": "3669",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure 2019",
+      "precios": {
+        "2019": {
+          "usd": 9933,
+          "ars": 15187557,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10517.3,
+          "ars": 16080951.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3670": {
+      "id": "3670",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure 2020",
+      "precios": {
+        "2020": {
+          "usd": 11006.6,
+          "ars": 16829091.4,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11556.93,
+          "ars": 17670545.97,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12013.43,
+          "ars": 18368534.47,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12486.69,
+          "ars": 19092149.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3671": {
+      "id": "3671",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure 2023",
+      "precios": {
+        "2023": {
+          "usd": 12717.69,
+          "ars": 19445348.01,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 12977.23,
+          "ars": 19842184.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3672": {
+      "id": "3672",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Pack 2023",
+      "precios": {
+        "2023": {
+          "usd": 13353.57,
+          "ars": 20417608.53,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13626.1,
+          "ars": 20834306.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3673": {
+      "id": "3673",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Mt5 2025",
+      "precios": {
+        "2024": {
+          "usd": 13366.55,
+          "ars": 20437454.95,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14034.88,
+          "ars": 21459331.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3674": {
+      "id": "3674",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Mt5 2026",
+      "precios": {
+        "0": {
+          "usd": 26299.67,
+          "ars": 40212195.43,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14736.62,
+          "ars": 22532291.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3675": {
+      "id": "3675",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Mt5 Pk 2025",
+      "precios": {
+        "2024": {
+          "usd": 14034.88,
+          "ars": 21459331.52,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14736.62,
+          "ars": 22532291.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3676": {
+      "id": "3676",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Touchscreen",
+      "precios": {
+        "2013": {
+          "usd": 7140.97,
+          "ars": 10918543.13,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7391.63,
+          "ars": 11301802.27,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7609.76,
+          "ars": 11635323.04,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8298.41,
+          "ars": 12688268.89,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8916.17,
+          "ars": 13632823.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3677": {
+      "id": "3677",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Tipt",
+      "precios": {
+        "2015": {
+          "usd": 7860.21,
+          "ars": 12018261.09,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8586.55,
+          "ars": 13128834.95,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9225.76,
+          "ars": 14106187.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3678": {
+      "id": "3678",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Tipt Smeg",
+      "precios": {
+        "2016": {
+          "usd": 8522.24,
+          "ars": 13030504.96,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9156.66,
+          "ars": 14000533.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3679": {
+      "id": "3679",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Tipt Nav",
+      "precios": {
+        "2016": {
+          "usd": 8208.18,
+          "ars": 12550307.22,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9205.72,
+          "ars": 14075545.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9582.43,
+          "ars": 14651535.47,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10225.15,
+          "ars": 15634254.35,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10809.44,
+          "ars": 16527633.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3680": {
+      "id": "3680",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Tipt6 2020",
+      "precios": {
+        "2020": {
+          "usd": 11764.46,
+          "ars": 17987859.34,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12352.69,
+          "ars": 18887263.01,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12840.62,
+          "ars": 19633307.98,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13346.46,
+          "ars": 20406737.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3681": {
+      "id": "3681",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Tipt6 2023",
+      "precios": {
+        "2023": {
+          "usd": 13593.37,
+          "ars": 20784262.73,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13870.79,
+          "ars": 21208437.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3682": {
+      "id": "3682",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Tipt6 Pack 2023",
+      "precios": {
+        "2023": {
+          "usd": 14273.04,
+          "ars": 21823478.16,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14564.33,
+          "ars": 22268860.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3683": {
+      "id": "3683",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Tipt6 2025",
+      "precios": {
+        "2024": {
+          "usd": 12893.94,
+          "ars": 19714834.26,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13538.63,
+          "ars": 20700565.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3684": {
+      "id": "3684",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Allure Tipt6 2026",
+      "precios": {
+        "0": {
+          "usd": 27654.72,
+          "ars": 42284066.88,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14215.57,
+          "ars": 21735606.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3685": {
+      "id": "3685",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P T200 Allure Pk Cvt6 2025",
+      "precios": {
+        "2024": {
+          "usd": 15451.29,
+          "ars": 23625022.41,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16223.86,
+          "ars": 24806281.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3686": {
+      "id": "3686",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P T200 Allure Pk Cvt6 2026",
+      "precios": {
+        "0": {
+          "usd": 28807.82,
+          "ars": 44047156.78,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17035.05,
+          "ars": 26046591.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3687": {
+      "id": "3687",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Feline",
+      "precios": {
+        "2013": {
+          "usd": 7151.66,
+          "ars": 10934888.14,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7346.2,
+          "ars": 11232339.8,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7562.99,
+          "ars": 11563811.71,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8263.84,
+          "ars": 12635411.36,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8879.03,
+          "ars": 13576036.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3688": {
+      "id": "3688",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Feline 2016",
+      "precios": {
+        "2016": {
+          "usd": 8212.04,
+          "ars": 12556209.16,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9271.12,
+          "ars": 14175542.48,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9920.95,
+          "ars": 15169132.55,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10714.62,
+          "ars": 16382653.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3689": {
+      "id": "3689",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Feline 2019",
+      "precios": {
+        "2019": {
+          "usd": 11062.07,
+          "ars": 16913905.03,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11947.03,
+          "ars": 18267008.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3690": {
+      "id": "3690",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Feline Pack Cuir",
+      "precios": {
+        "2013": {
+          "usd": 8012.6,
+          "ars": 12251265.4,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8202.94,
+          "ars": 12542295.26,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8445.02,
+          "ars": 12912435.58,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9248.63,
+          "ars": 14141155.27,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9937.13,
+          "ars": 15193871.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3691": {
+      "id": "3691",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Feline Tipt6",
+      "precios": {
+        "2017": {
+          "usd": 10212.22,
+          "ars": 15614484.38,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10914.74,
+          "ars": 16688637.46,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11777.3,
+          "ars": 18007491.7,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12259.14,
+          "ars": 18744225.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3692": {
+      "id": "3692",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Feline Tipt6 2020",
+      "precios": {
+        "2020": {
+          "usd": 12208.2,
+          "ars": 18666337.8,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12818.61,
+          "ars": 19599654.69,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13324.95,
+          "ars": 20373848.55,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14542.36,
+          "ars": 22235268.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3693": {
+      "id": "3693",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Feline Tipt6 2023",
+      "precios": {
+        "2023": {
+          "usd": 14811.4,
+          "ars": 22646630.6,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15113.67,
+          "ars": 23108801.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3694": {
+      "id": "3694",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 In Concert",
+      "precios": {
+        "2019": {
+          "usd": 11046.81,
+          "ars": 16890572.49,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11930.55,
+          "ars": 18241810.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3695": {
+      "id": "3695",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Like Pack 2020",
+      "precios": {
+        "2020": {
+          "usd": 10446.07,
+          "ars": 15972041.03,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10968.37,
+          "ars": 16770637.73,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 11401.62,
+          "ars": 17433076.98,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11850.78,
+          "ars": 18119842.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3696": {
+      "id": "3696",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Style",
+      "precios": {
+        "2021": {
+          "usd": 11997.08,
+          "ars": 18343535.32,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12470.96,
+          "ars": 19068097.84,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12962.24,
+          "ars": 19819264.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3697": {
+      "id": "3697",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Style Tipt6",
+      "precios": {
+        "2021": {
+          "usd": 12628.5,
+          "ars": 19308976.5,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13127.33,
+          "ars": 20071687.57,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13644.47,
+          "ars": 20862394.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3698": {
+      "id": "3698",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Roadtrip",
+      "precios": {
+        "2022": {
+          "usd": 14124.68,
+          "ars": 21596635.72,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14681.11,
+          "ars": 22447417.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3699": {
+      "id": "3699",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Roadtrip Tipt6",
+      "precios": {
+        "2022": {
+          "usd": 14657.44,
+          "ars": 22411225.76,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15234.86,
+          "ars": 23294100.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3700": {
+      "id": "3700",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 THP Gt",
+      "precios": {
+        "2016": {
+          "usd": 9953.97,
+          "ars": 15219620.13,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10694.97,
+          "ars": 16352609.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3701": {
+      "id": "3701",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 THP Gt 2017",
+      "precios": {
+        "2017": {
+          "usd": 11132.04,
+          "ars": 17020889.16,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11912.31,
+          "ars": 18213921.99,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12483.85,
+          "ars": 19087806.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3702": {
+      "id": "3702",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 THP Gt 2019",
+      "precios": {
+        "2019": {
+          "usd": 13067.2,
+          "ars": 19979748.8,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13708.9,
+          "ars": 20960908.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3703": {
+      "id": "3703",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P T200 CVT Gt 2025",
+      "precios": {
+        "2024": {
+          "usd": 16407.04,
+          "ars": 25086364.16,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17227.4,
+          "ars": 26340694.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3704": {
+      "id": "3704",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P T200 CVT Gt 2026",
+      "precios": {
+        "0": {
+          "usd": 30371.34,
+          "ars": 46437778.86,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 18088.77,
+          "ars": 27657729.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3705": {
+      "id": "3705",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Diesel Allure Plus",
+      "precios": {
+        "2017": {
+          "usd": 8224.77,
+          "ars": 12575673.33,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8801.25,
+          "ars": 13457111.25,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9505.35,
+          "ars": 14533680.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3706": {
+      "id": "3706",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Diesel 92 Allure Plus",
+      "precios": {
+        "2018": {
+          "usd": 9536.71,
+          "ars": 14581629.59,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10299.64,
+          "ars": 15748149.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3707": {
+      "id": "3707",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Urban Tech",
+      "precios": {
+        "2018": {
+          "usd": 8881.43,
+          "ars": 13579706.47,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9591.95,
+          "ars": 14666091.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3708": {
+      "id": "3708",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "5P 1,6 Vti In Concert",
+      "precios": {
+        "2019": {
+          "usd": 9591.95,
+          "ars": 14666091.55,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10359.3,
+          "ars": 15839369.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3709": {
+      "id": "3709",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "3P Xy",
+      "precios": {
+        "2014": {
+          "usd": 9195.56,
+          "ars": 14060011.24,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9498.95,
+          "ars": 14523894.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3710": {
+      "id": "3710",
+      "marcaId": "49",
+      "modeloId": "478",
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "version": "3P Gti",
+      "precios": {
+        "2014": {
+          "usd": 10159.4,
+          "ars": 15533722.6,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10448.85,
+          "ars": 15976291.65,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12366.94,
+          "ars": 18909051.26,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13233.76,
+          "ars": 20234419.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3711": {
+      "id": "3711",
+      "marcaId": "49",
+      "modeloId": "479",
+      "marca": "PEUGEOT",
+      "modelo": "301",
+      "version": "4P 1,6 16V Allure",
+      "precios": {
+        "2017": {
+          "usd": 8257.96,
+          "ars": 12626420.84,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8588.28,
+          "ars": 13131480.12,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8931.81,
+          "ars": 13656737.49,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9289.09,
+          "ars": 14203018.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3712": {
+      "id": "3712",
+      "marcaId": "49",
+      "modeloId": "479",
+      "marca": "PEUGEOT",
+      "modelo": "301",
+      "version": "4P 1,6 16V Allure Plus",
+      "precios": {
+        "2017": {
+          "usd": 8563.81,
+          "ars": 13094065.49,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8906.37,
+          "ars": 13617839.73,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9262.62,
+          "ars": 14162545.98,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9633.13,
+          "ars": 14729055.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3713": {
+      "id": "3713",
+      "marcaId": "49",
+      "modeloId": "479",
+      "marca": "PEUGEOT",
+      "modelo": "301",
+      "version": "4P 1,6 16V Allure Plus Tipt",
+      "precios": {
+        "2017": {
+          "usd": 9175.51,
+          "ars": 14029354.79,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9542.54,
+          "ars": 14590543.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3714": {
+      "id": "3714",
+      "marcaId": "49",
+      "modeloId": "479",
+      "marca": "PEUGEOT",
+      "modelo": "301",
+      "version": "4P 1,6 Diesel Allure",
+      "precios": {
+        "2017": {
+          "usd": 8257.96,
+          "ars": 12626420.84,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8588.28,
+          "ars": 13131480.12,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8931.81,
+          "ars": 13656737.49,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9289.09,
+          "ars": 14203018.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3715": {
+      "id": "3715",
+      "marcaId": "49",
+      "modeloId": "479",
+      "marca": "PEUGEOT",
+      "modelo": "301",
+      "version": "4P 1,6 Diesel Allure Plus",
+      "precios": {
+        "2018": {
+          "usd": 8906.37,
+          "ars": 13617839.73,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9262.62,
+          "ars": 14162545.98,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9633.13,
+          "ars": 14729055.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3716": {
+      "id": "3716",
+      "marcaId": "49",
+      "modeloId": "480",
+      "marca": "PEUGEOT",
+      "modelo": "307",
+      "version": "5P 1,6 Xs",
+      "precios": {}
+    },
+    "3717": {
+      "id": "3717",
+      "marcaId": "49",
+      "modeloId": "480",
+      "marca": "PEUGEOT",
+      "modelo": "307",
+      "version": "5P 2,0 Xs Premium",
+      "precios": {}
+    },
+    "3718": {
+      "id": "3718",
+      "marcaId": "49",
+      "modeloId": "480",
+      "marca": "PEUGEOT",
+      "modelo": "307",
+      "version": "5P 1,6 Xt Premium",
+      "precios": {}
+    },
+    "3719": {
+      "id": "3719",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Active",
+      "precios": {
+        "2013": {
+          "usd": 6881.86,
+          "ars": 10522363.94,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7151.46,
+          "ars": 10934582.34,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7345.74,
+          "ars": 11231636.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3720": {
+      "id": "3720",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Active 2015",
+      "precios": {
+        "2015": {
+          "usd": 7986.2,
+          "ars": 12210899.8,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8427.74,
+          "ars": 12886014.46,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8540.22,
+          "ars": 13057996.38,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8881.74,
+          "ars": 13580180.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3721": {
+      "id": "3721",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Active Nav",
+      "precios": {
+        "2018": {
+          "usd": 9159.1,
+          "ars": 14004263.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3722": {
+      "id": "3722",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Allure",
+      "precios": {
+        "2013": {
+          "usd": 7086.29,
+          "ars": 10834937.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7363.9,
+          "ars": 11259403.1,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7599.5,
+          "ars": 11619635.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3723": {
+      "id": "3723",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Allure 2015",
+      "precios": {
+        "2015": {
+          "usd": 8677.53,
+          "ars": 13267943.37,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9157.29,
+          "ars": 14001496.41,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9279.51,
+          "ars": 14188370.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3724": {
+      "id": "3724",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Allure Nav",
+      "precios": {
+        "2013": {
+          "usd": 7697.38,
+          "ars": 11769294.02,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7998.93,
+          "ars": 12230363.97,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8292.07,
+          "ars": 12678575.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3725": {
+      "id": "3725",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Allure ESP",
+      "precios": {
+        "2016": {
+          "usd": 9664.98,
+          "ars": 14777754.42,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9793.97,
+          "ars": 14974980.13,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10185.62,
+          "ars": 15573812.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3726": {
+      "id": "3726",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Allure Pack",
+      "precios": {
+        "2018": {
+          "usd": 10494.41,
+          "ars": 16045952.89,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11474.75,
+          "ars": 17544892.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3727": {
+      "id": "3727",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Allure 2020",
+      "precios": {
+        "2019": {
+          "usd": 12277.71,
+          "ars": 18772618.59,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12801.98,
+          "ars": 19574227.42,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13442.08,
+          "ars": 20552940.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3728": {
+      "id": "3728",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Allure 2022",
+      "precios": {
+        "2021": {
+          "usd": 13890.69,
+          "ars": 21238865.01,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14585.22,
+          "ars": 22300801.38,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15294.06,
+          "ars": 23384617.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3729": {
+      "id": "3729",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP Allure Pack Tipt",
+      "precios": {
+        "2018": {
+          "usd": 10062.01,
+          "ars": 15384813.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3730": {
+      "id": "3730",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP Roland Garros",
+      "precios": {
+        "2014": {
+          "usd": 8480.67,
+          "ars": 12966944.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3731": {
+      "id": "3731",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP Roland Garros Tipt 2018",
+      "precios": {
+        "2018": {
+          "usd": 12212.87,
+          "ars": 18673478.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3732": {
+      "id": "3732",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP Feline 2015",
+      "precios": {
+        "2015": {
+          "usd": 10949.28,
+          "ars": 16741449.12,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11160.05,
+          "ars": 17063716.45,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11308.99,
+          "ars": 17291445.71,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11761.24,
+          "ars": 17982935.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3733": {
+      "id": "3733",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP Feline Tipt 2015",
+      "precios": {
+        "2015": {
+          "usd": 11262.57,
+          "ars": 17220469.53,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11479.36,
+          "ars": 17551941.44,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11632.57,
+          "ars": 17786199.53,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12097.75,
+          "ars": 18497459.75,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12915.39,
+          "ars": 19747631.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3734": {
+      "id": "3734",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP Feline Tipt 2020",
+      "precios": {
+        "2019": {
+          "usd": 12963.3,
+          "ars": 19820885.7,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13251.48,
+          "ars": 20261512.92,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13914.05,
+          "ars": 21274582.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3735": {
+      "id": "3735",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP Feline Tipt 2022",
+      "precios": {
+        "2021": {
+          "usd": 14163.28,
+          "ars": 21655655.12,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14871.44,
+          "ars": 22738431.76,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15594.19,
+          "ars": 23843516.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3736": {
+      "id": "3736",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 2,0 Allure Plus",
+      "precios": {
+        "2015": {
+          "usd": 10132.03,
+          "ars": 15491873.87,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10843.42,
+          "ars": 16579589.18,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10988.14,
+          "ars": 16800866.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3737": {
+      "id": "3737",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 2,0 Feline",
+      "precios": {
+        "2013": {
+          "usd": 8237.57,
+          "ars": 12595244.53,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8357,
+          "ars": 12777853,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8409.9,
+          "ars": 12858737.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3738": {
+      "id": "3738",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 2,0 Feline Bva Tipt",
+      "precios": {
+        "2013": {
+          "usd": 8649.45,
+          "ars": 13225009.05,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8774.85,
+          "ars": 13416745.65,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8823.51,
+          "ars": 13491146.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3739": {
+      "id": "3739",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP Sport",
+      "precios": {
+        "2013": {
+          "usd": 8381.32,
+          "ars": 12815038.28,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8502.83,
+          "ars": 13000827.07,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8556.65,
+          "ars": 13083117.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3740": {
+      "id": "3740",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Active",
+      "precios": {
+        "2013": {
+          "usd": 7590.01,
+          "ars": 11605125.29,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7888.14,
+          "ars": 12060966.06,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8293.23,
+          "ars": 12680348.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3741": {
+      "id": "3741",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Allure",
+      "precios": {
+        "2013": {
+          "usd": 8033.39,
+          "ars": 12283053.31,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8348.94,
+          "ars": 12765529.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3742": {
+      "id": "3742",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Allure Nav",
+      "precios": {
+        "2013": {
+          "usd": 8284.25,
+          "ars": 12666618.25,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8609.66,
+          "ars": 13164170.14,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9085.51,
+          "ars": 13891744.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3743": {
+      "id": "3743",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Allure 2015",
+      "precios": {
+        "2015": {
+          "usd": 9606.14,
+          "ars": 14687788.06,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10280.6,
+          "ars": 15719037.4,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10417.81,
+          "ars": 15928831.49,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10834.41,
+          "ars": 16565812.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3744": {
+      "id": "3744",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Allure Pack",
+      "precios": {
+        "2018": {
+          "usd": 10883.1,
+          "ars": 16640259.9,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11899.74,
+          "ars": 18194702.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3745": {
+      "id": "3745",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Allure 2020",
+      "precios": {
+        "2019": {
+          "usd": 12344.79,
+          "ars": 18875183.91,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12871.93,
+          "ars": 19681180.97,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13515.52,
+          "ars": 20665230.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3746": {
+      "id": "3746",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Allure 2022",
+      "precios": {
+        "2021": {
+          "usd": 13966.59,
+          "ars": 21354916.11,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14664.92,
+          "ars": 22422662.68,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15377.64,
+          "ars": 23512411.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3747": {
+      "id": "3747",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Feline",
+      "precios": {
+        "2013": {
+          "usd": 9631.79,
+          "ars": 14727006.91,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9728.64,
+          "ars": 14875090.56,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9753.64,
+          "ars": 14913315.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3748": {
+      "id": "3748",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Feline 2015",
+      "precios": {
+        "2015": {
+          "usd": 11055.94,
+          "ars": 16904532.26,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11832.2,
+          "ars": 18091433.8,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11990.12,
+          "ars": 18332893.48,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12469.6,
+          "ars": 19066018.4,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13140.29,
+          "ars": 20091503.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3749": {
+      "id": "3749",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Feline 2020",
+      "precios": {
+        "2019": {
+          "usd": 13392.99,
+          "ars": 20477881.71,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13897.49,
+          "ars": 21249262.21,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14592.36,
+          "ars": 22311718.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3750": {
+      "id": "3750",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Feline 2022",
+      "precios": {
+        "2021": {
+          "usd": 15091.78,
+          "ars": 23075331.62,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 15846.37,
+          "ars": 24229099.73,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 16616.5,
+          "ars": 25406628.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3751": {
+      "id": "3751",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Rolland Garros",
+      "precios": {
+        "2014": {
+          "usd": 9364.92,
+          "ars": 14318962.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3752": {
+      "id": "3752",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Diesel Rolland Garros 2018",
+      "precios": {
+        "2018": {
+          "usd": 12853.95,
+          "ars": 19653689.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3753": {
+      "id": "3753",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 Gti",
+      "precios": {
+        "2013": {
+          "usd": 13643.42,
+          "ars": 20860789.18,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14321.13,
+          "ars": 21897007.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3754": {
+      "id": "3754",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP S Gti",
+      "precios": {
+        "2017": {
+          "usd": 19917.49,
+          "ars": 30453842.21,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20713.98,
+          "ars": 31671675.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3755": {
+      "id": "3755",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 THP S Allure Plus 6AT",
+      "precios": {
+        "2019": {
+          "usd": 22510.13,
+          "ars": 34417988.77,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 23471.34,
+          "ars": 35887678.86,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 24644.91,
+          "ars": 37682067.39,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 25877.15,
+          "ars": 39566162.35,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 27134.78,
+          "ars": 41489078.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3756": {
+      "id": "3756",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "5P 1,6 T Pure Tech Gt 8AT",
+      "precios": {
+        "2019": {
+          "usd": 25211.35,
+          "ars": 38548154.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3757": {
+      "id": "3757",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "Coupe 1,6 THP S Gti Franche",
+      "precios": {
+        "2017": {
+          "usd": 21295.58,
+          "ars": 32560941.82,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 22147.18,
+          "ars": 33863038.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3758": {
+      "id": "3758",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "Cc 1,6 T Nav",
+      "precios": {
+        "2013": {
+          "usd": 16772.21,
+          "ars": 25644709.09,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 17605.32,
+          "ars": 26918534.28,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 18306.82,
+          "ars": 27991127.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3759": {
+      "id": "3759",
+      "marcaId": "49",
+      "modeloId": "481",
+      "marca": "PEUGEOT",
+      "modelo": "308",
+      "version": "Cc 1,6 T Tipt",
+      "precios": {
+        "2013": {
+          "usd": 17548.13,
+          "ars": 26831090.77,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 18419.79,
+          "ars": 28163858.91,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 19153.73,
+          "ars": 29286053.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3760": {
+      "id": "3760",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Active 2015",
+      "precios": {
+        "2015": {
+          "usd": 11200.18,
+          "ars": 17125075.22,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11540.18,
+          "ars": 17644935.22,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11880.87,
+          "ars": 18165850.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3761": {
+      "id": "3761",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Allure",
+      "precios": {
+        "2017": {
+          "usd": 12588.01,
+          "ars": 19247067.29,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13197.81,
+          "ars": 20179451.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3762": {
+      "id": "3762",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Allure Pack",
+      "precios": {
+        "2018": {
+          "usd": 13822.42,
+          "ars": 21134480.18,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14780.41,
+          "ars": 22599246.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3763": {
+      "id": "3763",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Allure 2020",
+      "precios": {
+        "2019": {
+          "usd": 15521.02,
+          "ars": 23731639.58,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16219.46,
+          "ars": 24799554.34,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17804.54,
+          "ars": 27223141.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3764": {
+      "id": "3764",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 THP Allure Plus T/c CRO + 2015",
+      "precios": {
+        "2015": {
+          "usd": 12427.38,
+          "ars": 19001464.02,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12804.64,
+          "ars": 19578294.56,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13182.66,
+          "ars": 20156287.14,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13821.26,
+          "ars": 21132706.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3765": {
+      "id": "3765",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 THP Allure Plus",
+      "precios": {
+        "2018": {
+          "usd": 14360.96,
+          "ars": 21957907.84,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15356.27,
+          "ars": 23479736.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3766": {
+      "id": "3766",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 THP Allure Pack Tipt",
+      "precios": {
+        "2018": {
+          "usd": 14408.83,
+          "ars": 22031101.07,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15407.46,
+          "ars": 23558006.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3767": {
+      "id": "3767",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 THP Feline Tipt 2015",
+      "precios": {
+        "2015": {
+          "usd": 13331.49,
+          "ars": 20383848.21,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13781.44,
+          "ars": 21071821.76,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14188.3,
+          "ars": 21693910.7,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14875.62,
+          "ars": 22744822.98,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15429.41,
+          "ars": 23591567.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3768": {
+      "id": "3768",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 THP Feline Tipt 2020",
+      "precios": {
+        "2019": {
+          "usd": 16005.61,
+          "ars": 24472577.69,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17326.32,
+          "ars": 26491943.28,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19019.57,
+          "ars": 29080922.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3769": {
+      "id": "3769",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 THP Sport",
+      "precios": {
+        "2013": {
+          "usd": 10983.58,
+          "ars": 16793893.82,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11340.31,
+          "ars": 17339333.99,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11706.42,
+          "ars": 17899116.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3770": {
+      "id": "3770",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure",
+      "precios": {
+        "2013": {
+          "usd": 9819.93,
+          "ars": 15014672.97,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10138.87,
+          "ars": 15502332.23,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10466.19,
+          "ars": 16002804.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3771": {
+      "id": "3771",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure ESP 2015",
+      "precios": {
+        "2015": {
+          "usd": 11896.23,
+          "ars": 18189335.67,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12257.36,
+          "ars": 18741503.44,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12619.22,
+          "ars": 19294787.38,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13230.54,
+          "ars": 20229495.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3772": {
+      "id": "3772",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure Nav",
+      "precios": {
+        "2013": {
+          "usd": 9961.93,
+          "ars": 15231790.97,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10285.48,
+          "ars": 15726498.92,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10617.53,
+          "ars": 16234203.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3773": {
+      "id": "3773",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure T/c CRO +",
+      "precios": {
+        "2013": {
+          "usd": 10804.28,
+          "ars": 16519744.12,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11155.19,
+          "ars": 17056285.51,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11515.32,
+          "ars": 17606924.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3774": {
+      "id": "3774",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure T/c CRO Nav",
+      "precios": {}
+    },
+    "3775": {
+      "id": "3775",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure Tipt",
+      "precios": {
+        "2013": {
+          "usd": 10783.91,
+          "ars": 16488598.39,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11134.16,
+          "ars": 17024130.64,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11493.61,
+          "ars": 17573729.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3776": {
+      "id": "3776",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure Tipt Nav",
+      "precios": {}
+    },
+    "3777": {
+      "id": "3777",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure Tipt T/c CRO",
+      "precios": {}
+    },
+    "3778": {
+      "id": "3778",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Allure Tipt T/c CRO Nav",
+      "precios": {
+        "2013": {
+          "usd": 11902.22,
+          "ars": 18198494.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3779": {
+      "id": "3779",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 2,0 Feline",
+      "precios": {
+        "2013": {
+          "usd": 10983.58,
+          "ars": 16793893.82,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11340.31,
+          "ars": 17339333.99,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11706.42,
+          "ars": 17899116.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3780": {
+      "id": "3780",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Allure",
+      "precios": {
+        "2013": {
+          "usd": 10332.11,
+          "ars": 15797796.19,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10667.68,
+          "ars": 16310882.72,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11012.07,
+          "ars": 16837455.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3781": {
+      "id": "3781",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Allure 2015",
+      "precios": {
+        "2015": {
+          "usd": 12355.48,
+          "ars": 18891528.92,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12730.55,
+          "ars": 19465010.95,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13106.38,
+          "ars": 20039655.02,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13741.3,
+          "ars": 21010447.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3782": {
+      "id": "3782",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Allure Pack",
+      "precios": {
+        "2018": {
+          "usd": 14441.46,
+          "ars": 22080992.34,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15442.35,
+          "ars": 23611353.15,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16598.32,
+          "ars": 25378831.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3783": {
+      "id": "3783",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Allure 2020",
+      "precios": {
+        "2020": {
+          "usd": 17926.19,
+          "ars": 27409144.51,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19678.06,
+          "ars": 30087753.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3784": {
+      "id": "3784",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Allure 2022",
+      "precios": {
+        "2021": {
+          "usd": 20411.27,
+          "ars": 31208831.83,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 21431.83,
+          "ars": 32769268.07,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 22932.06,
+          "ars": 35063119.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3785": {
+      "id": "3785",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Allure Nav",
+      "precios": {
+        "2013": {
+          "usd": 11202.85,
+          "ars": 17129157.65,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11566.71,
+          "ars": 17685499.59,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11940.12,
+          "ars": 18256443.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3786": {
+      "id": "3786",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Allure T/c CRO",
+      "precios": {}
+    },
+    "3787": {
+      "id": "3787",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Allure + T/c CRO Nav",
+      "precios": {
+        "2013": {
+          "usd": 12472.68,
+          "ars": 19070727.72,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12877.77,
+          "ars": 19690110.33,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13293.51,
+          "ars": 20325776.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3788": {
+      "id": "3788",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Feline",
+      "precios": {
+        "2013": {
+          "usd": 13096.31,
+          "ars": 20024257.99,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13521.66,
+          "ars": 20674618.14,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13958.19,
+          "ars": 21342072.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3789": {
+      "id": "3789",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Feline 2015",
+      "precios": {
+        "2015": {
+          "usd": 14571.74,
+          "ars": 22280190.46,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15014.09,
+          "ars": 22956543.61,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 15457.34,
+          "ars": 23634272.86,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16206.14,
+          "ars": 24779188.06,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17329.34,
+          "ars": 26496560.86,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18626.56,
+          "ars": 28480010.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3790": {
+      "id": "3790",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Feline 2020",
+      "precios": {
+        "2020": {
+          "usd": 19150.14,
+          "ars": 29280564.06,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21021.63,
+          "ars": 32142072.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3791": {
+      "id": "3791",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "4P 1,6 Diesel Feline 2022",
+      "precios": {
+        "2021": {
+          "usd": 21835.31,
+          "ars": 33386188.99,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 22927.08,
+          "ars": 35055505.32,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 24531.97,
+          "ars": 37509382.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3792": {
+      "id": "3792",
+      "marcaId": "49",
+      "modeloId": "482",
+      "marca": "PEUGEOT",
+      "modelo": "408",
+      "version": "5P 1,6 T 8AT Gt",
+      "precios": {
+        "0": {
+          "usd": 76143,
+          "ars": 116422647,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 49098.3,
+          "ars": 75071300.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3793": {
+      "id": "3793",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 1,6 THP Allure Tip",
+      "precios": {
+        "2013": {
+          "usd": 6229.43,
+          "ars": 9524798.47,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6794.39,
+          "ars": 10388622.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3794": {
+      "id": "3794",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 1,6 THP Allure Tip T/c",
+      "precios": {
+        "2013": {
+          "usd": 6557.29,
+          "ars": 10026096.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7151.99,
+          "ars": 10935392.71,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7868.08,
+          "ars": 12030294.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3795": {
+      "id": "3795",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 1,6 THP Feline Tip",
+      "precios": {
+        "2013": {
+          "usd": 7844.67,
+          "ars": 11994500.43,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8556.13,
+          "ars": 13082322.77,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9412.81,
+          "ars": 14392186.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3796": {
+      "id": "3796",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 2,0 Diesel Allure Tip",
+      "precios": {
+        "2013": {
+          "usd": 7037.39,
+          "ars": 10760169.31,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7675.63,
+          "ars": 11736038.27,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8444.16,
+          "ars": 12911120.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3797": {
+      "id": "3797",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 2,0 Diesel Feline Tip",
+      "precios": {
+        "2013": {
+          "usd": 8415.06,
+          "ars": 12866626.74,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9178.25,
+          "ars": 14033544.25,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10097.22,
+          "ars": 15438649.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3798": {
+      "id": "3798",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 2,2 Diesel Gt Tip",
+      "precios": {
+        "2013": {
+          "usd": 9727.72,
+          "ars": 14873683.88,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11012.25,
+          "ars": 16837730.25,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12329.72,
+          "ars": 18852141.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3799": {
+      "id": "3799",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 1,6 THP Allure Tip 2016",
+      "precios": {
+        "2016": {
+          "usd": 10815.84,
+          "ars": 16537419.36,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11723.26,
+          "ars": 17924864.54,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13148.09,
+          "ars": 20103429.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3800": {
+      "id": "3800",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 1,6 THP Feline Tip 2016",
+      "precios": {
+        "2016": {
+          "usd": 12061.33,
+          "ars": 18441773.57,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13073.25,
+          "ars": 19988999.25,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14662.15,
+          "ars": 22418427.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3801": {
+      "id": "3801",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 2,0 Diesel Allure Tip 2016",
+      "precios": {
+        "2016": {
+          "usd": 11382.61,
+          "ars": 17404010.69,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12337.59,
+          "ars": 18864175.11,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13837.08,
+          "ars": 21156895.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3802": {
+      "id": "3802",
+      "marcaId": "49",
+      "modeloId": "483",
+      "marca": "PEUGEOT",
+      "modelo": "508",
+      "version": "4P 2,0 Diesel Feline Tip 2016",
+      "precios": {
+        "2016": {
+          "usd": 12628.11,
+          "ars": 19308380.19,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13687.58,
+          "ars": 20928309.82,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15351.14,
+          "ars": 23471893.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3803": {
+      "id": "3803",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Active",
+      "precios": {
+        "2016": {
+          "usd": 7489.74,
+          "ars": 11451812.46,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7805.87,
+          "ars": 11935175.23,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8434.1,
+          "ars": 12895738.9,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9196.41,
+          "ars": 14061310.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3804": {
+      "id": "3804",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Allure",
+      "precios": {
+        "2016": {
+          "usd": 8087.32,
+          "ars": 12365512.28,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8428.68,
+          "ars": 12887451.72,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9107.03,
+          "ars": 13924648.87,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9930.17,
+          "ars": 15183229.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3805": {
+      "id": "3805",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Allure Tipt6",
+      "precios": {
+        "2016": {
+          "usd": 8557.42,
+          "ars": 13084295.18,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8918.63,
+          "ars": 13636585.27,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9636.41,
+          "ars": 14734070.89,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10507.39,
+          "ars": 16065799.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3806": {
+      "id": "3806",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Crossway",
+      "precios": {
+        "2018": {
+          "usd": 9276.63,
+          "ars": 14183967.27,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10115.09,
+          "ars": 15465972.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3807": {
+      "id": "3807",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline",
+      "precios": {
+        "2016": {
+          "usd": 8910,
+          "ars": 13623390,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9286.08,
+          "ars": 14198416.32,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10033.44,
+          "ars": 15341129.76,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10940.31,
+          "ars": 16727733.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3808": {
+      "id": "3808",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline Tipt6",
+      "precios": {
+        "2016": {
+          "usd": 9123.14,
+          "ars": 13949281.06,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9508.22,
+          "ars": 14538068.38,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10273.45,
+          "ars": 15708105.05,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11202.01,
+          "ars": 17127873.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3809": {
+      "id": "3809",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline Tipt6 T/c",
+      "precios": {
+        "2016": {
+          "usd": 9497.23,
+          "ars": 14521264.67,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9898.1,
+          "ars": 15134194.9,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10694.71,
+          "ars": 16352211.59,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11661.35,
+          "ars": 17830204.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3810": {
+      "id": "3810",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP Sport",
+      "precios": {
+        "2016": {
+          "usd": 9425.81,
+          "ars": 14412063.49,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9823.67,
+          "ars": 15020391.43,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10614.29,
+          "ars": 16229249.41,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11573.66,
+          "ars": 17696126.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3811": {
+      "id": "3811",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Active 2020",
+      "precios": {
+        "2019": {
+          "usd": 9435.52,
+          "ars": 14426910.08,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9723.03,
+          "ars": 14866512.87,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 9989.63,
+          "ars": 15274144.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3812": {
+      "id": "3812",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Allure 2020",
+      "precios": {
+        "2019": {
+          "usd": 10188.35,
+          "ars": 15577987.15,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10498.8,
+          "ars": 16052665.2,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10786.67,
+          "ars": 16492818.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3813": {
+      "id": "3813",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline 2020",
+      "precios": {
+        "2019": {
+          "usd": 11224.75,
+          "ars": 17162642.75,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11566.78,
+          "ars": 17685606.62,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11883.94,
+          "ars": 18170544.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3814": {
+      "id": "3814",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline Tipt6 2020",
+      "precios": {
+        "2019": {
+          "usd": 12067.93,
+          "ars": 18451864.97,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12435.65,
+          "ars": 19014108.85,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12776.63,
+          "ars": 19535467.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3815": {
+      "id": "3815",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP Sport 2020",
+      "precios": {
+        "2019": {
+          "usd": 13270.42,
+          "ars": 20290472.18,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13674.78,
+          "ars": 20908738.62,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14049.74,
+          "ars": 21482052.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3816": {
+      "id": "3816",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP Sport Tipt6 2020",
+      "precios": {
+        "2019": {
+          "usd": 13988.63,
+          "ars": 21388615.27,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14259.56,
+          "ars": 21802867.24,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14650.54,
+          "ars": 22400675.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3817": {
+      "id": "3817",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 In Concert 2020",
+      "precios": {
+        "2020": {
+          "usd": 12315.29,
+          "ars": 18830078.41,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12652.97,
+          "ars": 19346391.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3818": {
+      "id": "3818",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 In Concert Tipt 2020",
+      "precios": {
+        "2020": {
+          "usd": 12898.65,
+          "ars": 19722035.85,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13252.32,
+          "ars": 20262797.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3819": {
+      "id": "3819",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP In Concert Tipt 2020",
+      "precios": {
+        "2020": {
+          "usd": 11726.05,
+          "ars": 17929130.45,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12047.57,
+          "ars": 18420734.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3820": {
+      "id": "3820",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Allure 2022",
+      "precios": {
+        "2021": {
+          "usd": 10296.37,
+          "ars": 15743149.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3821": {
+      "id": "3821",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline 2022",
+      "precios": {
+        "2021": {
+          "usd": 12228.57,
+          "ars": 18697483.53,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12341.01,
+          "ars": 18869404.29,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13204.88,
+          "ars": 20190261.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3822": {
+      "id": "3822",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 Feline Tipt6 2022",
+      "precios": {
+        "2021": {
+          "usd": 13147.15,
+          "ars": 20101992.35,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13268.03,
+          "ars": 20286817.87,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14196.8,
+          "ars": 21706907.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3823": {
+      "id": "3823",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P 1,6 THP Sport Tipt6 2022",
+      "precios": {
+        "2021": {
+          "usd": 13704.92,
+          "ars": 20954822.68,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13830.93,
+          "ars": 21147491.97,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14799.1,
+          "ars": 22627823.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3824": {
+      "id": "3824",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Active 2024",
+      "precios": {
+        "2024": {
+          "usd": 16317.58,
+          "ars": 24949579.82,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17176.4,
+          "ars": 26262715.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3825": {
+      "id": "3825",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Allure 2024",
+      "precios": {
+        "2024": {
+          "usd": 17652.7,
+          "ars": 26990978.3,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 18581.79,
+          "ars": 28411556.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3826": {
+      "id": "3826",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Gt 2024",
+      "precios": {
+        "2024": {
+          "usd": 19725.65,
+          "ars": 30160518.85,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20763.84,
+          "ars": 31747911.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3827": {
+      "id": "3827",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Active 2026",
+      "precios": {
+        "0": {
+          "usd": 32338.76,
+          "ars": 49445964.04,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 19032.02,
+          "ars": 29099958.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3828": {
+      "id": "3828",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Allure 2026",
+      "precios": {
+        "0": {
+          "usd": 35074.92,
+          "ars": 53629552.68,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20589.24,
+          "ars": 31480947.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3829": {
+      "id": "3829",
+      "marcaId": "49",
+      "modeloId": "484",
+      "marca": "PEUGEOT",
+      "modelo": "2008",
+      "version": "5P T200 CVT Gt 2026",
+      "precios": {
+        "0": {
+          "usd": 37524.43,
+          "ars": 57374853.47,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23007.03,
+          "ars": 35177748.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3830": {
+      "id": "3830",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Premium",
+      "precios": {
+        "2013": {
+          "usd": 10671.26,
+          "ars": 16316356.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3831": {
+      "id": "3831",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Premium Plus",
+      "precios": {
+        "2013": {
+          "usd": 11908.04,
+          "ars": 18207393.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3832": {
+      "id": "3832",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Premium Plus Tipt",
+      "precios": {
+        "2013": {
+          "usd": 12320.7,
+          "ars": 18838350.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3833": {
+      "id": "3833",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Diesel Premium Plus Tipt",
+      "precios": {
+        "2013": {
+          "usd": 12701.75,
+          "ars": 19420975.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3834": {
+      "id": "3834",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Allure",
+      "precios": {
+        "2013": {
+          "usd": 11727.62,
+          "ars": 17931530.98,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11961.03,
+          "ars": 18288414.87,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12555.35,
+          "ars": 19197130.15,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14477.78,
+          "ars": 22136525.62,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17004.57,
+          "ars": 25999987.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3835": {
+      "id": "3835",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Allure Tipt",
+      "precios": {
+        "2013": {
+          "usd": 12548.56,
+          "ars": 19186748.24,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12798.3,
+          "ars": 19568600.7,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13434.22,
+          "ars": 20540922.38,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15491.22,
+          "ars": 23686075.38,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18194.89,
+          "ars": 27819986.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3836": {
+      "id": "3836",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Feline",
+      "precios": {
+        "2013": {
+          "usd": 13277.26,
+          "ars": 20300930.54,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14235.94,
+          "ars": 21766752.26,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15442.76,
+          "ars": 23611980.04,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 17807.3,
+          "ars": 27227361.7,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 20915.2,
+          "ars": 31979340.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3837": {
+      "id": "3837",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Feline Tipt",
+      "precios": {
+        "2013": {
+          "usd": 14206.67,
+          "ars": 21721998.43,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15232.46,
+          "ars": 23290431.34,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16523.75,
+          "ars": 25264813.75,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 19053.81,
+          "ars": 29133275.49,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 22379.26,
+          "ars": 34217888.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3838": {
+      "id": "3838",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 THP Roland Garros",
+      "precios": {
+        "2013": {
+          "usd": 13312.34,
+          "ars": 20354567.86,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14099.49,
+          "ars": 21558120.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3839": {
+      "id": "3839",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 THP Roland Garros Tipt",
+      "precios": {
+        "2013": {
+          "usd": 13777.01,
+          "ars": 21065048.29,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14591.63,
+          "ars": 22310602.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3840": {
+      "id": "3840",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 Diesel Feline Tipt",
+      "precios": {
+        "2013": {
+          "usd": 15184.44,
+          "ars": 23217008.76,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16380.1,
+          "ars": 25045172.9,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 18062.38,
+          "ars": 27617379.02,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 20828.03,
+          "ars": 31846057.87,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 25863.4,
+          "ars": 39545138.6,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 29159.9,
+          "ars": 44585487.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3841": {
+      "id": "3841",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 THP Allure 6AT",
+      "precios": {
+        "2017": {
+          "usd": 26904.29,
+          "ars": 41136659.41,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 28060.49,
+          "ars": 42904489.21,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 29537.36,
+          "ars": 45162623.44,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 31091.95,
+          "ars": 47539591.55,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 32646.55,
+          "ars": 49916574.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3842": {
+      "id": "3842",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 THP Gt Line 6AT",
+      "precios": {
+        "2017": {
+          "usd": 32196.99,
+          "ars": 49229197.71,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 33580.64,
+          "ars": 51344798.56,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 35348.04,
+          "ars": 54047153.16,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 37208.46,
+          "ars": 56891735.34,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 39068.88,
+          "ars": 59736317.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3843": {
+      "id": "3843",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 2,0 Diesel Gt Line 6AT",
+      "precios": {
+        "2017": {
+          "usd": 32196.99,
+          "ars": 49229197.71,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 33580.64,
+          "ars": 51344798.56,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 35348.04,
+          "ars": 54047153.16,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 37208.46,
+          "ars": 56891735.34,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 39068.88,
+          "ars": 59736317.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3844": {
+      "id": "3844",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 THP Allure 6AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 35992.82,
+          "ars": 55033021.78,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 37887.18,
+          "ars": 57929498.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3845": {
+      "id": "3845",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 THP Gt Pack 6AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 40172.99,
+          "ars": 61424501.71,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 42287.35,
+          "ars": 64657358.15,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 44513.01,
+          "ars": 68060392.29,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 46855.79,
+          "ars": 71642502.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3846": {
+      "id": "3846",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 THP Gt 6AT 2025",
+      "precios": {
+        "0": {
+          "usd": 79500,
+          "ars": 121555500,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 51261.63,
+          "ars": 78379032.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3847": {
+      "id": "3847",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 2,0 Diesel Gt Pack 8AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 37197.21,
+          "ars": 56874534.09,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 39154.96,
+          "ars": 59867933.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3848": {
+      "id": "3848",
+      "marcaId": "49",
+      "modeloId": "485",
+      "marca": "PEUGEOT",
+      "modelo": "3008",
+      "version": "5P 1,6 THP Gt Pack 8AT Hybrid4 AWD Wallbox",
+      "precios": {
+        "2022": {
+          "usd": 47939.87,
+          "ars": 73300061.23,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 50463.02,
+          "ars": 77157957.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3849": {
+      "id": "3849",
+      "marcaId": "49",
+      "modeloId": "486",
+      "marca": "PEUGEOT",
+      "modelo": "4008",
+      "version": "5P 2,0 16V Allure 4X4",
+      "precios": {
+        "2013": {
+          "usd": 9199.12,
+          "ars": 14065454.48,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9431.4,
+          "ars": 14420610.6,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9749.94,
+          "ars": 14907658.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3850": {
+      "id": "3850",
+      "marcaId": "49",
+      "modeloId": "486",
+      "marca": "PEUGEOT",
+      "modelo": "4008",
+      "version": "5P 2,0 16V Allure 4X4 CVT",
+      "precios": {
+        "2013": {
+          "usd": 9408.19,
+          "ars": 14385122.51,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9636.43,
+          "ars": 14734101.47,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9950.97,
+          "ars": 15215033.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3851": {
+      "id": "3851",
+      "marcaId": "49",
+      "modeloId": "486",
+      "marca": "PEUGEOT",
+      "modelo": "4008",
+      "version": "5P 2,0 16V Feline 4X4 CVT",
+      "precios": {
+        "2013": {
+          "usd": 10725.33,
+          "ars": 16399029.57,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11297.18,
+          "ars": 17273388.22,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12031.62,
+          "ars": 18396346.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3852": {
+      "id": "3852",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 Allure 7a",
+      "precios": {
+        "2013": {
+          "usd": 12662.63,
+          "ars": 19361161.27,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13018.79,
+          "ars": 19905729.91,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13255.7,
+          "ars": 20267965.3,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13786.8,
+          "ars": 21080017.2,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 15127.01,
+          "ars": 23129198.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3853": {
+      "id": "3853",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 Allure 7a Plus",
+      "precios": {
+        "2013": {
+          "usd": 13928.89,
+          "ars": 21297272.81,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14320.67,
+          "ars": 21896304.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3854": {
+      "id": "3854",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 Allure 7a Tipt",
+      "precios": {
+        "2014": {
+          "usd": 13669.73,
+          "ars": 20901017.17,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13918.48,
+          "ars": 21281355.92,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14476.14,
+          "ars": 22134018.06,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 15883.36,
+          "ars": 24285657.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3855": {
+      "id": "3855",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 Feline Tipt",
+      "precios": {
+        "2014": {
+          "usd": 17774.57,
+          "ars": 27177317.53,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 18702.92,
+          "ars": 28596764.68,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 19452.27,
+          "ars": 29742520.83,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 21343.22,
+          "ars": 32633783.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3856": {
+      "id": "3856",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 Feline Tipt B/techo",
+      "precios": {
+        "2016": {
+          "usd": 19580.05,
+          "ars": 29937896.45,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 21483.42,
+          "ars": 32848149.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3857": {
+      "id": "3857",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 THP Allure Tipt 2017",
+      "precios": {
+        "2017": {
+          "usd": 24227.97,
+          "ars": 37044566.13,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 27568.95,
+          "ars": 42152924.55,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 31313.29,
+          "ars": 47878020.41,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 32961.36,
+          "ars": 50397919.44,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 34609.43,
+          "ars": 52917818.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3858": {
+      "id": "3858",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 THP Allure Plus Tipt 2017",
+      "precios": {
+        "2017": {
+          "usd": 27375.4,
+          "ars": 41856986.6,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 31150.41,
+          "ars": 47628976.89,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 35381.17,
+          "ars": 54097808.93,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 37243.34,
+          "ars": 56945066.86,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 39105.5,
+          "ars": 59792309.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3859": {
+      "id": "3859",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 2,0 Diesel Allure Plus Tipt 2017",
+      "precios": {
+        "2017": {
+          "usd": 27997.57,
+          "ars": 42808284.53,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 31858.37,
+          "ars": 48711447.73,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 36185.29,
+          "ars": 55327308.41,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 38089.78,
+          "ars": 58239273.62,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 39994.27,
+          "ars": 61151238.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3860": {
+      "id": "3860",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 2,0 Diesel Allure Plus 8AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 45115.88,
+          "ars": 68982180.52,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 46446.41,
+          "ars": 71016560.89,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 49259.18,
+          "ars": 75317286.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3861": {
+      "id": "3861",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 THP Gt Pack Tipt",
+      "precios": {
+        "2023": {
+          "usd": 49983.42,
+          "ars": 76424649.18,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 52382.18,
+          "ars": 80092353.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3862": {
+      "id": "3862",
+      "marcaId": "49",
+      "modeloId": "487",
+      "marca": "PEUGEOT",
+      "modelo": "5008",
+      "version": "5P 1,6 THP Gt 8AT 2025",
+      "precios": {
+        "0": {
+          "usd": 83880,
+          "ars": 128252520,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 59491.71,
+          "ars": 90962824.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3863": {
+      "id": "3863",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Chasis 2,2 Diesel 435l Cc Premium 2017",
+      "precios": {
+        "2017": {
+          "usd": 19131.66,
+          "ars": 29252308.14,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20114.28,
+          "ars": 30754734.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3864": {
+      "id": "3864",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Chasis 2,2 Diesel 440 L3 Ch 130 Premium 2021",
+      "precios": {
+        "2021": {
+          "usd": 21885.65,
+          "ars": 33463158.85,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 22979.94,
+          "ars": 35136328.26,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 24128.93,
+          "ars": 36893133.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3865": {
+      "id": "3865",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,3 Diesel 330m Confort Larga A/c",
+      "precios": {
+        "2016": {
+          "usd": 14804.1,
+          "ars": 22635468.9,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 16160.74,
+          "ars": 24709771.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3866": {
+      "id": "3866",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,3 Diesel 350m Confort Larga",
+      "precios": {
+        "2013": {
+          "usd": 12985.7,
+          "ars": 19855135.3,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13753.53,
+          "ars": 21029147.37,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14563.96,
+          "ars": 22268294.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3867": {
+      "id": "3867",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,3 Diesel 350mh Confort Larga Alta A/c",
+      "precios": {
+        "2013": {
+          "usd": 13387.56,
+          "ars": 20469579.24,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14179.15,
+          "ars": 21679920.35,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15014.67,
+          "ars": 22957430.43,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15651.55,
+          "ars": 23931219.95,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17085.85,
+          "ars": 26124264.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3868": {
+      "id": "3868",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,3 Diesel 350lh Confort Larga Alta Full",
+      "precios": {
+        "2013": {
+          "usd": 14170.64,
+          "ars": 21666908.56,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15008.54,
+          "ars": 22948057.66,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15892.92,
+          "ars": 24300274.68,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16567.06,
+          "ars": 25331034.74,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18085.25,
+          "ars": 27652347.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3869": {
+      "id": "3869",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,2 Diesel 435m Premium 2017",
+      "precios": {
+        "2017": {
+          "usd": 18705.18,
+          "ars": 28600220.22,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 19665.9,
+          "ars": 30069161.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 21248.45,
+          "ars": 32488880.05,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 22161.59,
+          "ars": 33885071.11,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 23269.67,
+          "ars": 35579325.43,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 24433.16,
+          "ars": 37358301.64,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 25654.81,
+          "ars": 39226204.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3870": {
+      "id": "3870",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,2 Diesel 435mh Premium 2017",
+      "precios": {
+        "2017": {
+          "usd": 19756.55,
+          "ars": 30207764.95,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20771.26,
+          "ars": 31759256.54,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 22442.77,
+          "ars": 34314995.33,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 23407.23,
+          "ars": 35789654.67,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 24577.59,
+          "ars": 37579135.11,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 25806.47,
+          "ars": 39458092.63,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 27096.8,
+          "ars": 41431007.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3871": {
+      "id": "3871",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,2 Diesel 435lh Premium 2017",
+      "precios": {
+        "2017": {
+          "usd": 21399.87,
+          "ars": 32720401.23,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 22498.99,
+          "ars": 34400955.71,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 24309.52,
+          "ars": 37169256.08,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 25354.21,
+          "ars": 38766587.09,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 26621.92,
+          "ars": 40704915.68,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 27953.02,
+          "ars": 42740167.58,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 29350.67,
+          "ars": 44877174.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3875": {
+      "id": "3875",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,2 Diesel L2h2 140 6MT",
+      "precios": {
+        "0": {
+          "usd": 46410.42,
+          "ars": 70961532.18,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 32237.24,
+          "ars": 49290739.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "3876": {
+      "id": "3876",
+      "marcaId": "49",
+      "modeloId": "488",
+      "marca": "PEUGEOT",
+      "modelo": "BOXER",
+      "version": "Furgon 2,2 Diesel L3h2 140 6MT",
+      "precios": {
+        "0": {
+          "usd": 49902.28,
+          "ars": 76300586.12,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 33111.39,
+          "ars": 50627315.31,
           "cotizacion": 1529
         }
       }
