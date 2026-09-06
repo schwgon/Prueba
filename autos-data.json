@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-06T02:09:30.850Z",
+  "actualizado": "2026-09-06T04:12:42.765Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6163,
-  "versionesProcesadas": 913,
-  "versionesConValuacion": 712,
+  "versionesProcesadas": 1262,
+  "versionesConValuacion": 1057,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -19618,6 +19618,616 @@
         }
       }
     },
+    "879": {
+      "id": "879",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Lt",
+      "precios": {
+        "2013": {
+          "usd": 6197.82,
+          "ars": 9476466.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "880": {
+      "id": "880",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Lt AT",
+      "precios": {
+        "2013": {
+          "usd": 6460.97,
+          "ars": 9878823.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "881": {
+      "id": "881",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Ltz",
+      "precios": {
+        "2013": {
+          "usd": 7610.88,
+          "ars": 11637035.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "882": {
+      "id": "882",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Ltz AT",
+      "precios": {
+        "2013": {
+          "usd": 7880.77,
+          "ars": 12049697.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "883": {
+      "id": "883",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 2,0 Diesel Lt",
+      "precios": {
+        "2013": {
+          "usd": 6564.23,
+          "ars": 10036707.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "884": {
+      "id": "884",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 2,0 Diesel Ltz",
+      "precios": {
+        "2013": {
+          "usd": 7597.74,
+          "ars": 11616944.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "885": {
+      "id": "885",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 2,0 Diesel Ltz AT",
+      "precios": {
+        "2013": {
+          "usd": 7923.91,
+          "ars": 12115658.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "886": {
+      "id": "886",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Lt 2013",
+      "precios": {
+        "2013": {
+          "usd": 6412.58,
+          "ars": 9804834.82,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6603.09,
+          "ars": 10096124.61,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6797.95,
+          "ars": 10394065.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "887": {
+      "id": "887",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Ltz 2013",
+      "precios": {
+        "2013": {
+          "usd": 7582.37,
+          "ars": 11593443.73,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7807.63,
+          "ars": 11937866.27,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8038.04,
+          "ars": 12290163.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "888": {
+      "id": "888",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Ltz AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 7907.62,
+          "ars": 12090750.98,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8142.54,
+          "ars": 12449943.66,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8382.83,
+          "ars": 12817347.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "889": {
+      "id": "889",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 2,0 Diesel Lt AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 7419.74,
+          "ars": 11344782.46,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7640.17,
+          "ars": 11681819.93,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7865.64,
+          "ars": 12026563.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "890": {
+      "id": "890",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 2,0 Diesel Ltz AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 8333.55,
+          "ars": 12741997.95,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8581.13,
+          "ars": 13120547.77,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8834.36,
+          "ars": 13507736.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "891": {
+      "id": "891",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Lt 2015",
+      "precios": {
+        "2015": {
+          "usd": 6988.38,
+          "ars": 10685233.02,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7015.5,
+          "ars": 10726699.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "892": {
+      "id": "892",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Ltz 2015",
+      "precios": {
+        "2015": {
+          "usd": 8901.61,
+          "ars": 13610561.69,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8936.16,
+          "ars": 13663388.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "893": {
+      "id": "893",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,8 Ltz AT 2015",
+      "precios": {
+        "2015": {
+          "usd": 9051.93,
+          "ars": 13840400.97,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9087.07,
+          "ars": 13894130.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "894": {
+      "id": "894",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 2,0 Diesel Lt AT 2015",
+      "precios": {
+        "2015": {
+          "usd": 7955.45,
+          "ars": 12163883.05,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7986.32,
+          "ars": 12211083.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "895": {
+      "id": "895",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 2,0 Diesel Ltz AT 2015",
+      "precios": {
+        "2015": {
+          "usd": 8785.4,
+          "ars": 13432876.6,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8819.5,
+          "ars": 13485015.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "896": {
+      "id": "896",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Lt MT",
+      "precios": {
+        "2016": {
+          "usd": 8167.7,
+          "ars": 12488413.3,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8433.82,
+          "ars": 12895310.78,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8714.73,
+          "ars": 13324822.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "897": {
+      "id": "897",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Ltz MT",
+      "precios": {
+        "2016": {
+          "usd": 9712.94,
+          "ars": 14851085.26,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10029.41,
+          "ars": 15334967.89,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10363.46,
+          "ars": 15845730.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "898": {
+      "id": "898",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Ltz AT",
+      "precios": {
+        "2016": {
+          "usd": 10077.18,
+          "ars": 15408008.22,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10405.51,
+          "ars": 15910024.79,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10752.09,
+          "ars": 16439945.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "899": {
+      "id": "899",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Ltz Plus AT",
+      "precios": {
+        "2016": {
+          "usd": 11169.89,
+          "ars": 17078761.81,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11533.82,
+          "ars": 17635210.78,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11917.98,
+          "ars": 18222591.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "900": {
+      "id": "900",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Sedan MT",
+      "precios": {
+        "2018": {
+          "usd": 8506.64,
+          "ars": 13006652.56,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9633.15,
+          "ars": 14729086.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "901": {
+      "id": "901",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Lt MT 2018",
+      "precios": {
+        "2018": {
+          "usd": 9558.7,
+          "ars": 14615252.3,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10824.53,
+          "ars": 16550706.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "902": {
+      "id": "902",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Ltz MT 2018",
+      "precios": {
+        "2018": {
+          "usd": 11855.7,
+          "ars": 18127365.3,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13087.01,
+          "ars": 20010038.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "903": {
+      "id": "903",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Ltz AT 2018",
+      "precios": {
+        "2018": {
+          "usd": 12470.61,
+          "ars": 19067562.69,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13431.4,
+          "ars": 20536610.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "904": {
+      "id": "904",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Ltz Plus AT 2018",
+      "precios": {
+        "2018": {
+          "usd": 13058.31,
+          "ars": 19966155.99,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13982.43,
+          "ars": 21379135.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "905": {
+      "id": "905",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Lt 6MT 2020",
+      "precios": {
+        "2019": {
+          "usd": 11222.35,
+          "ars": 17158973.15,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11492.58,
+          "ars": 17572154.82,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11984.94,
+          "ars": 18324973.26,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12615.72,
+          "ars": 19289435.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "906": {
+      "id": "906",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Premier AT",
+      "precios": {
+        "2019": {
+          "usd": 14052.95,
+          "ars": 21486960.55,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14263.68,
+          "ars": 21809166.72,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14874.75,
+          "ars": 22743492.75,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 15657.63,
+          "ars": 23940516.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "907": {
+      "id": "907",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Lt 6MT 2021",
+      "precios": {
+        "2021": {
+          "usd": 12424.79,
+          "ars": 18997503.91,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13078.73,
+          "ars": 19997378.17,
+          "cotizacion": 1529
+        }
+      }
+    },
     "908": {
       "id": "908",
       "marcaId": "9",
@@ -19639,6 +20249,7812 @@
         "2024": {
           "usd": 14675.12,
           "ars": 22438258.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "909": {
+      "id": "909",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Midnight 6AT 2022",
+      "precios": {
+        "2022": {
+          "usd": 13727.7,
+          "ars": 20989653.3,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14414.09,
+          "ars": 22039143.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "910": {
+      "id": "910",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Ltz 6AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 13273.52,
+          "ars": 20295212.08,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13972.12,
+          "ars": 21363371.48,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14670.73,
+          "ars": 22431546.17,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15124.46,
+          "ars": 23125299.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "911": {
+      "id": "911",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Premier 6AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 15717.35,
+          "ars": 24031828.15,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16544.58,
+          "ars": 25296662.82,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17371.81,
+          "ars": 26561497.49,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 17909.08,
+          "ars": 27382983.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "912": {
+      "id": "912",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Lt",
+      "precios": {
+        "2013": {
+          "usd": 6278.25,
+          "ars": 9599444.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "913": {
+      "id": "913",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Ltz S/cc",
+      "precios": {
+        "2013": {
+          "usd": 7545.24,
+          "ars": 11536671.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "914": {
+      "id": "914",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Ltz",
+      "precios": {
+        "2013": {
+          "usd": 7665.36,
+          "ars": 11720335.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "915": {
+      "id": "915",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Ltz AT S/cc",
+      "precios": {
+        "2013": {
+          "usd": 8047.81,
+          "ars": 12305101.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "916": {
+      "id": "916",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Ltz AT",
+      "precios": {
+        "2013": {
+          "usd": 8167.93,
+          "ars": 12488764.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "917": {
+      "id": "917",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Lt 2013",
+      "precios": {
+        "2013": {
+          "usd": 6616.79,
+          "ars": 10117071.91,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6813.36,
+          "ars": 10417627.44,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7014.43,
+          "ars": 10725063.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "918": {
+      "id": "918",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Ltz 2013",
+      "precios": {
+        "2013": {
+          "usd": 7748.04,
+          "ars": 11846753.16,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7978.23,
+          "ars": 12198713.67,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8213.67,
+          "ars": 12558701.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "919": {
+      "id": "919",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Ltz AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 8110.9,
+          "ars": 12401566.1,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8351.86,
+          "ars": 12769993.94,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8598.33,
+          "ars": 13146846.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "920": {
+      "id": "920",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 2,0 Diesel Ltz AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 8638.29,
+          "ars": 13207945.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8894.93,
+          "ars": 13600347.97,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9157.42,
+          "ars": 14001695.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "921": {
+      "id": "921",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Lt 2015",
+      "precios": {
+        "2015": {
+          "usd": 7292.78,
+          "ars": 11150660.62,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7321.09,
+          "ars": 11193946.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "922": {
+      "id": "922",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Ltz 2015",
+      "precios": {
+        "2015": {
+          "usd": 9260.03,
+          "ars": 14158585.87,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9295.97,
+          "ars": 14213538.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "923": {
+      "id": "923",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,8 Ltz AT 2015",
+      "precios": {
+        "2015": {
+          "usd": 9529.29,
+          "ars": 14570284.41,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9566.28,
+          "ars": 14626842.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "924": {
+      "id": "924",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 2,0 Diesel Lt AT 2015",
+      "precios": {
+        "2015": {
+          "usd": 8105.62,
+          "ars": 12393492.98,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8137.08,
+          "ars": 12441595.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "925": {
+      "id": "925",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 2,0 Diesel Ltz AT 2015",
+      "precios": {
+        "2015": {
+          "usd": 9209.79,
+          "ars": 14081768.91,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9245.54,
+          "ars": 14136430.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "926": {
+      "id": "926",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Lt MT",
+      "precios": {
+        "2017": {
+          "usd": 9291.65,
+          "ars": 14206932.85,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9749.87,
+          "ars": 14907551.23,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11041.02,
+          "ars": 16881719.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "927": {
+      "id": "927",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Ltz MT",
+      "precios": {
+        "2017": {
+          "usd": 10948.25,
+          "ars": 16739874.25,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11488.17,
+          "ars": 17565411.93,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13009.52,
+          "ars": 19891556.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "928": {
+      "id": "928",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Ltz AT",
+      "precios": {
+        "2017": {
+          "usd": 11516.09,
+          "ars": 17608101.61,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12084.02,
+          "ars": 18476466.58,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13684.27,
+          "ars": 20923248.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "929": {
+      "id": "929",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Ltz Plus AT",
+      "precios": {
+        "2017": {
+          "usd": 12256.76,
+          "ars": 18740586.04,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12861.21,
+          "ars": 19664790.09,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13741.36,
+          "ars": 21010539.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "930": {
+      "id": "930",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Lt 6MT 2020",
+      "precios": {
+        "2019": {
+          "usd": 11222.35,
+          "ars": 17158973.15,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11492.58,
+          "ars": 17572154.82,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12014.98,
+          "ars": 18370904.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "931": {
+      "id": "931",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Premier AT",
+      "precios": {
+        "2019": {
+          "usd": 14792.58,
+          "ars": 22617854.82,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15014.4,
+          "ars": 22957017.6,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15696.88,
+          "ars": 24000529.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "932": {
+      "id": "932",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Lt 6MT 2021",
+      "precios": {
+        "2021": {
+          "usd": 12652.36,
+          "ars": 19345458.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "933": {
+      "id": "933",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Lt 6AT 2022",
+      "precios": {
+        "2022": {
+          "usd": 13557.02,
+          "ars": 20728683.58,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14234.87,
+          "ars": 21765116.23,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14675.12,
+          "ars": 22438258.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "934": {
+      "id": "934",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Ltz 6AT 2022",
+      "precios": {
+        "2021": {
+          "usd": 13905.59,
+          "ars": 21261647.11,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14637.46,
+          "ars": 22380676.34,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15369.34,
+          "ars": 23499720.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "935": {
+      "id": "935",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Premier 6AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 15599.18,
+          "ars": 23851146.22,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16420.19,
+          "ars": 25106470.51,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17241.2,
+          "ars": 26361794.8,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 17774.43,
+          "ars": 27177103.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "936": {
+      "id": "936",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "5P 1,4 T Rs 6AT 2022",
+      "precios": {
+        "2022": {
+          "usd": 14927.44,
+          "ars": 22824055.76,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15673.81,
+          "ars": 23965255.49,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16158.57,
+          "ars": 24706453.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "937": {
+      "id": "937",
+      "marcaId": "9",
+      "modeloId": "132",
+      "marca": "CHEVROLET",
+      "modelo": "EQUINOX",
+      "version": "5P 1,5 T 6AT Lt 2wd",
+      "precios": {
+        "2018": {
+          "usd": 10735.14,
+          "ars": 16414029.06,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11593.95,
+          "ars": 17727149.55,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12814.36,
+          "ars": 19593156.44,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13196.21,
+          "ars": 20177005.09,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13856.02,
+          "ars": 21185854.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "938": {
+      "id": "938",
+      "marcaId": "9",
+      "modeloId": "132",
+      "marca": "CHEVROLET",
+      "modelo": "EQUINOX",
+      "version": "5P 1,5 T 6AT Premier AWD",
+      "precios": {
+        "2018": {
+          "usd": 12115.9,
+          "ars": 18525211.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13085.17,
+          "ars": 20007224.93,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15113.38,
+          "ars": 23108358.02,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15869.04,
+          "ars": 24263762.16,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16662.5,
+          "ars": 25476962.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "939": {
+      "id": "939",
+      "marcaId": "9",
+      "modeloId": "132",
+      "marca": "CHEVROLET",
+      "modelo": "EQUINOX",
+      "version": "5P 1,5 T 6AT Rs 2wd",
+      "precios": {
+        "2022": {
+          "usd": 16165.35,
+          "ars": 24716820.15,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 16973.62,
+          "ars": 25952664.98,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 17822.3,
+          "ars": 27250296.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "940": {
+      "id": "940",
+      "marcaId": "9",
+      "modeloId": "132",
+      "marca": "CHEVROLET",
+      "modelo": "EQUINOX",
+      "version": "5P 1,5 T 6AT Premier AWD 2022",
+      "precios": {
+        "2022": {
+          "usd": 17495.62,
+          "ars": 26750802.98,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18370.4,
+          "ars": 28088341.6,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 19288.92,
+          "ars": 29492758.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "941": {
+      "id": "941",
+      "marcaId": "9",
+      "modeloId": "133",
+      "marca": "CHEVROLET",
+      "modelo": "JOY",
+      "version": "5P 1,4 Base",
+      "precios": {
+        "2020": {
+          "usd": 9072.36,
+          "ars": 13871638.44,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 9525.98,
+          "ars": 14565223.42,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 10002.28,
+          "ars": 15293486.12,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 10502.39,
+          "ars": 16058154.31,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 11027.51,
+          "ars": 16861062.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "942": {
+      "id": "942",
+      "marcaId": "9",
+      "modeloId": "133",
+      "marca": "CHEVROLET",
+      "modelo": "JOY",
+      "version": "5P 1,4 Black Edition",
+      "precios": {
+        "2020": {
+          "usd": 9329.15,
+          "ars": 14264270.35,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 9795.61,
+          "ars": 14977487.69,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 10285.39,
+          "ars": 15726361.31,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 10799.66,
+          "ars": 16512680.14,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 11339.64,
+          "ars": 17338309.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "943": {
+      "id": "943",
+      "marcaId": "9",
+      "modeloId": "133",
+      "marca": "CHEVROLET",
+      "modelo": "JOY",
+      "version": "4P 1,4 Base Plus",
+      "precios": {
+        "2020": {
+          "usd": 9757.13,
+          "ars": 14918651.77,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10244.99,
+          "ars": 15664589.71,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 10757.24,
+          "ars": 16447819.96,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11295.1,
+          "ars": 17270207.9,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 11859.86,
+          "ars": 18133725.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "944": {
+      "id": "944",
+      "marcaId": "9",
+      "modeloId": "133",
+      "marca": "CHEVROLET",
+      "modelo": "JOY",
+      "version": "4P 1,4 Black Edition Plus",
+      "precios": {
+        "2020": {
+          "usd": 10031.04,
+          "ars": 15337460.16,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10532.59,
+          "ars": 16104330.11,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 11059.22,
+          "ars": 16909547.38,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11612.18,
+          "ars": 17755023.22,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 12192.79,
+          "ars": 18642775.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "945": {
+      "id": "945",
+      "marcaId": "9",
+      "modeloId": "134",
+      "marca": "CHEVROLET",
+      "modelo": "MERIVA",
+      "version": "5P 1,8 Gl",
+      "precios": {
+        "2013": {
+          "usd": 5399.08,
+          "ars": 8255193.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "946": {
+      "id": "946",
+      "marcaId": "9",
+      "modeloId": "134",
+      "marca": "CHEVROLET",
+      "modelo": "MERIVA",
+      "version": "5P 1,8 Gl Plus ABG",
+      "precios": {
+        "2013": {
+          "usd": 5875.12,
+          "ars": 8983058.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "947": {
+      "id": "947",
+      "marcaId": "9",
+      "modeloId": "134",
+      "marca": "CHEVROLET",
+      "modelo": "MERIVA",
+      "version": "5P 1,8 Gls",
+      "precios": {
+        "2013": {
+          "usd": 6191.17,
+          "ars": 9466298.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "948": {
+      "id": "948",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls",
+      "precios": {
+        "2013": {
+          "usd": 4729.19,
+          "ars": 7230931.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "949": {
+      "id": "949",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls A/c",
+      "precios": {
+        "2013": {
+          "usd": 5110.58,
+          "ars": 7814076.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "950": {
+      "id": "950",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls A/c 2013",
+      "precios": {
+        "2013": {
+          "usd": 5731.81,
+          "ars": 8763937.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "951": {
+      "id": "951",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls A/c 2014",
+      "precios": {
+        "2013": {
+          "usd": 6376.27,
+          "ars": 9749316.83,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6646.06,
+          "ars": 10161825.74,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7181.4,
+          "ars": 10980360.6,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7549.98,
+          "ars": 11543919.42,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7820.08,
+          "ars": 11956902.32,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8666.01,
+          "ars": 13250329.29,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9517.92,
+          "ars": 14552899.68,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10018.86,
+          "ars": 15318836.94,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10820.37,
+          "ars": 16544345.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "952": {
+      "id": "952",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls A/c Pack",
+      "precios": {
+        "2013": {
+          "usd": 5320.63,
+          "ars": 8135243.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "953": {
+      "id": "953",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls A/c Pack 2013",
+      "precios": {
+        "2013": {
+          "usd": 5951.01,
+          "ars": 9099094.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "954": {
+      "id": "954",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls A/c Pack 2014",
+      "precios": {
+        "2013": {
+          "usd": 6597.26,
+          "ars": 10087210.54,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6876.4,
+          "ars": 10514015.6,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7422.69,
+          "ars": 11349293.01,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7752.67,
+          "ars": 11853832.43,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8091.11,
+          "ars": 12371307.19,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8966.36,
+          "ars": 13709564.44,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9847.8,
+          "ars": 15057286.2,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10366.1,
+          "ars": 15849766.9,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11195.39,
+          "ars": 17117751.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "955": {
+      "id": "955",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls Sport",
+      "precios": {
+        "2013": {
+          "usd": 5845.42,
+          "ars": 8937647.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "956": {
+      "id": "956",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls Sport 2013",
+      "precios": {
+        "2013": {
+          "usd": 6239.87,
+          "ars": 9540761.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "957": {
+      "id": "957",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "C/S 1,8 Ls Sport 2014",
+      "precios": {
+        "2013": {
+          "usd": 6529.75,
+          "ars": 9983987.75,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6792.65,
+          "ars": 10385961.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "958": {
+      "id": "958",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "D/C 1,2 T Lt MT",
+      "precios": {
+        "2024": {
+          "usd": 13031.92,
+          "ars": 19925805.68,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13683.52,
+          "ars": 20922102.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "959": {
+      "id": "959",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "D/C 1,2 T Ltz AT",
+      "precios": {
+        "2023": {
+          "usd": 13717.81,
+          "ars": 20974531.49,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14439.8,
+          "ars": 22078454.2,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15161.79,
+          "ars": 23182376.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "960": {
+      "id": "960",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "D/C 1,2 T Premier AT",
+      "precios": {
+        "2023": {
+          "usd": 15895.3,
+          "ars": 24303913.7,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16731.9,
+          "ars": 25583075.1,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17568.49,
+          "ars": 26862221.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "961": {
+      "id": "961",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "D/C 1,2 T Lt AT 2025",
+      "precios": {
+        "0": {
+          "usd": 26478.76,
+          "ars": 40486024.04,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15395.82,
+          "ars": 23540208.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "962": {
+      "id": "962",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "D/C 1,2 T Ltz AT 2025",
+      "precios": {
+        "0": {
+          "usd": 28123.71,
+          "ars": 43001152.59,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16336.45,
+          "ars": 24978432.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "963": {
+      "id": "963",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "D/C 1,2 T Premier AT 2025",
+      "precios": {
+        "0": {
+          "usd": 30669.64,
+          "ars": 46893879.56,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17815.41,
+          "ars": 27239761.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "964": {
+      "id": "964",
+      "marcaId": "9",
+      "modeloId": "135",
+      "marca": "CHEVROLET",
+      "modelo": "MONTANA PICK - UP",
+      "version": "D/C 1,2 T Rs AT 2025",
+      "precios": {
+        "0": {
+          "usd": 30994.07,
+          "ars": 47389933.03,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 18003.94,
+          "ars": 27528024.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "965": {
+      "id": "965",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Lt",
+      "precios": {
+        "2013": {
+          "usd": 6391.72,
+          "ars": 9772939.88,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6499.14,
+          "ars": 9937185.06,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6631.09,
+          "ars": 10138936.61,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6831.71,
+          "ars": 10445684.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "966": {
+      "id": "966",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Ltz",
+      "precios": {
+        "2013": {
+          "usd": 6669.69,
+          "ars": 10197956.01,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6769.72,
+          "ars": 10350901.88,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6894.15,
+          "ars": 10541155.35,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7102.72,
+          "ars": 10860058.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "967": {
+      "id": "967",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Ltz AT",
+      "precios": {
+        "2013": {
+          "usd": 6836.43,
+          "ars": 10452901.47,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6933.24,
+          "ars": 10600923.96,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7054.47,
+          "ars": 10786284.63,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7267.9,
+          "ars": 11112619.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "968": {
+      "id": "968",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Effect",
+      "precios": {
+        "2015": {
+          "usd": 6958.28,
+          "ars": 10639210.12,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7168.79,
+          "ars": 10961079.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "969": {
+      "id": "969",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Joy Ls",
+      "precios": {
+        "2016": {
+          "usd": 6067.1,
+          "ars": 9276595.9,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 6307.38,
+          "ars": 9643984.02,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 6749.48,
+          "ars": 10319954.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "970": {
+      "id": "970",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Joy Ls + Lv",
+      "precios": {
+        "2016": {
+          "usd": 6212.95,
+          "ars": 9499600.55,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 6459,
+          "ars": 9875811,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 6911.73,
+          "ars": 10568035.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "971": {
+      "id": "971",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Lt 2016",
+      "precios": {
+        "2016": {
+          "usd": 6945.94,
+          "ars": 10620342.26,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7221.03,
+          "ars": 11040954.87,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 7727.16,
+          "ars": 11814827.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "972": {
+      "id": "972",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Ltz 2016",
+      "precios": {
+        "2016": {
+          "usd": 7524.77,
+          "ars": 11505373.33,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7822.78,
+          "ars": 11961030.62,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8371.09,
+          "ars": 12799396.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "973": {
+      "id": "973",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Ltz AT 2016",
+      "precios": {
+        "2016": {
+          "usd": 7814.18,
+          "ars": 11947881.22,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8123.66,
+          "ars": 12421076.14,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8693.06,
+          "ars": 13291688.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "974": {
+      "id": "974",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Ltz Activ 2017",
+      "precios": {
+        "2017": {
+          "usd": 8311.08,
+          "ars": 12707641.32,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8893.62,
+          "ars": 13598344.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "975": {
+      "id": "975",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Effect 2017",
+      "precios": {
+        "2017": {
+          "usd": 8125.57,
+          "ars": 12423996.53,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8695.1,
+          "ars": 13294807.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "976": {
+      "id": "976",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Joy Ls 2019",
+      "precios": {
+        "2018": {
+          "usd": 7007.42,
+          "ars": 10714345.18,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 7568.02,
+          "ars": 11571502.58,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 7966.33,
+          "ars": 12180518.57,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 8364.65,
+          "ars": 12789549.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "977": {
+      "id": "977",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Joy Ls + Lv 2019",
+      "precios": {
+        "2018": {
+          "usd": 7086.17,
+          "ars": 10834753.93,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 7653.07,
+          "ars": 11701544.03,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 8055.86,
+          "ars": 12317409.94,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 8458.66,
+          "ars": 12933291.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "978": {
+      "id": "978",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Lt 2019",
+      "precios": {
+        "2018": {
+          "usd": 8253.12,
+          "ars": 12619020.48,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8913.37,
+          "ars": 13628542.73,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9382.49,
+          "ars": 14345827.21,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 9851.62,
+          "ars": 15063126.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "979": {
+      "id": "979",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Ltz 2019",
+      "precios": {
+        "2018": {
+          "usd": 8959.94,
+          "ars": 13699748.26,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9676.73,
+          "ars": 14795720.17,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10186.03,
+          "ars": 15574439.87,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10695.34,
+          "ars": 16353174.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "980": {
+      "id": "980",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Ltz AT 2019",
+      "precios": {
+        "2018": {
+          "usd": 9376.68,
+          "ars": 14336943.72,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10126.81,
+          "ars": 15483892.49,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10659.8,
+          "ars": 16298834.2,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11192.79,
+          "ars": 17113775.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "981": {
+      "id": "981",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Ltz Activ 2019",
+      "precios": {
+        "2018": {
+          "usd": 9051.34,
+          "ars": 13839498.86,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9775.45,
+          "ars": 14946663.05,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10289.95,
+          "ars": 15733333.55,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10804.44,
+          "ars": 16519988.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "982": {
+      "id": "982",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Effect 2019",
+      "precios": {
+        "2018": {
+          "usd": 8999.42,
+          "ars": 13760113.18,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9719.38,
+          "ars": 14860932.02,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10230.92,
+          "ars": 15643076.68,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10742.47,
+          "ars": 16425236.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "983": {
+      "id": "983",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,4 Joy Black Edition",
+      "precios": {
+        "2019": {
+          "usd": 7215.62,
+          "ars": 11032682.98,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 7595.39,
+          "ars": 11613351.31,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 7975.16,
+          "ars": 12194019.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "984": {
+      "id": "984",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,2 90CV Ls",
+      "precios": {
+        "2019": {
+          "usd": 8832.79,
+          "ars": 13505335.91,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9297.68,
+          "ars": 14216152.72,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 9762.56,
+          "ars": 14926954.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "985": {
+      "id": "985",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,2 90CV Lt",
+      "precios": {
+        "2019": {
+          "usd": 9518.48,
+          "ars": 14553755.92,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10019.45,
+          "ars": 15319739.05,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10520.43,
+          "ars": 16085737.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "986": {
+      "id": "986",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,2 90CV Lt Tech",
+      "precios": {
+        "2019": {
+          "usd": 9833.58,
+          "ars": 15035543.82,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10351.14,
+          "ars": 15826893.06,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10868.7,
+          "ars": 16618242.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "987": {
+      "id": "987",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,2 90CV Lt Tech Onstar",
+      "precios": {
+        "2019": {
+          "usd": 9938.62,
+          "ars": 15196149.98,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10461.7,
+          "ars": 15995939.3,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10984.79,
+          "ars": 16795743.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "988": {
+      "id": "988",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,2 90CV Plus",
+      "precios": {
+        "2019": {
+          "usd": 9275.04,
+          "ars": 14181536.16,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9763.2,
+          "ars": 14927932.8,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10251.36,
+          "ars": 15674329.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "989": {
+      "id": "989",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,2 90CV Plus Lt",
+      "precios": {
+        "2019": {
+          "usd": 9808.06,
+          "ars": 14996523.74,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10324.27,
+          "ars": 15785808.83,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10840.49,
+          "ars": 16575109.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "990": {
+      "id": "990",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,2 90CV Plus Lt Tech",
+      "precios": {
+        "2019": {
+          "usd": 10123.16,
+          "ars": 15478311.64,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10655.96,
+          "ars": 16292962.84,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11188.76,
+          "ars": 17107614.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "991": {
+      "id": "991",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,2 90CV Plus Lt Tech Onstar",
+      "precios": {
+        "2019": {
+          "usd": 10228.2,
+          "ars": 15638917.8,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10766.52,
+          "ars": 16462009.08,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11304.85,
+          "ars": 17285115.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "992": {
+      "id": "992",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,2 Ls",
+      "precios": {
+        "2021": {
+          "usd": 9685.62,
+          "ars": 14809312.98,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 10169.9,
+          "ars": 15549777.1,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 10678.4,
+          "ars": 16327273.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "993": {
+      "id": "993",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,2 Lt",
+      "precios": {
+        "2021": {
+          "usd": 10749.23,
+          "ars": 16435572.67,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 11286.69,
+          "ars": 17257349.01,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11851.02,
+          "ars": 18120209.58,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 12474.76,
+          "ars": 19073908.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "994": {
+      "id": "994",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,2 Lt Tech",
+      "precios": {
+        "2022": {
+          "usd": 11413.75,
+          "ars": 17451623.75,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11984.44,
+          "ars": 18324208.76,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 12615.2,
+          "ars": 19288640.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "995": {
+      "id": "995",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Lt",
+      "precios": {
+        "2024": {
+          "usd": 12615.2,
+          "ars": 19288640.8,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13245.96,
+          "ars": 20253072.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "996": {
+      "id": "996",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Ltz",
+      "precios": {
+        "2021": {
+          "usd": 11442.36,
+          "ars": 17495368.44,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12014.48,
+          "ars": 18370139.92,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12615.2,
+          "ars": 19288640.8,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13279.16,
+          "ars": 20303835.64,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13943.12,
+          "ars": 21319030.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "997": {
+      "id": "997",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Ltz AT",
+      "precios": {
+        "2021": {
+          "usd": 12032.73,
+          "ars": 18398044.17,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12634.37,
+          "ars": 19317951.73,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13266.09,
+          "ars": 20283851.61,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13964.3,
+          "ars": 21351414.7,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14662.52,
+          "ars": 22418993.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "998": {
+      "id": "998",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Premier I",
+      "precios": {
+        "2020": {
+          "usd": 11921.33,
+          "ars": 18227713.57,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12517.4,
+          "ars": 19139104.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "999": {
+      "id": "999",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Premier Ii AT",
+      "precios": {
+        "2020": {
+          "usd": 12315.32,
+          "ars": 18830124.28,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12931.09,
+          "ars": 19771636.61,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13611.67,
+          "ars": 20812243.43,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14292.25,
+          "ars": 21852850.25,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15044.48,
+          "ars": 23003009.92,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15796.7,
+          "ars": 24153154.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1000": {
+      "id": "1000",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Rs",
+      "precios": {
+        "2021": {
+          "usd": 11950.25,
+          "ars": 18271932.25,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12547.77,
+          "ars": 19185540.33,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13175.15,
+          "ars": 20144804.35,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13868.58,
+          "ars": 21205058.82,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14562.01,
+          "ars": 22265313.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1001": {
+      "id": "1001",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,2 Plus Ls",
+      "precios": {
+        "2021": {
+          "usd": 9332.02,
+          "ars": 14268658.58,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 9798.62,
+          "ars": 14982089.98,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 10288.55,
+          "ars": 15731192.95,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 10830.05,
+          "ars": 16559146.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1002": {
+      "id": "1002",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,2 Plus Lt",
+      "precios": {
+        "2021": {
+          "usd": 9777.4,
+          "ars": 14949644.6,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 10266.27,
+          "ars": 15697126.83,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 10779.59,
+          "ars": 16481993.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1003": {
+      "id": "1003",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,2 Plus Lt Tech",
+      "precios": {
+        "2022": {
+          "usd": 11625.93,
+          "ars": 17776046.97,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12207.23,
+          "ars": 18664854.67,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 12849.71,
+          "ars": 19647206.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1004": {
+      "id": "1004",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,0 T Plus Lt",
+      "precios": {
+        "2024": {
+          "usd": 12721.21,
+          "ars": 19450730.09,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13357.27,
+          "ars": 20423265.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1005": {
+      "id": "1005",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,0 T Plus Ltz",
+      "precios": {
+        "2021": {
+          "usd": 11538.52,
+          "ars": 17642397.08,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12115.44,
+          "ars": 18524507.76,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12721.21,
+          "ars": 19450730.09,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13390.75,
+          "ars": 20474456.75,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14060.29,
+          "ars": 21498183.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1006": {
+      "id": "1006",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,0 T Plus Ltz AT",
+      "precios": {
+        "2021": {
+          "usd": 12114.39,
+          "ars": 18522902.31,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12720.11,
+          "ars": 19449048.19,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13356.11,
+          "ars": 20421492.19,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14059.07,
+          "ars": 21496318.03,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14762.02,
+          "ars": 22571128.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1007": {
+      "id": "1007",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,0 T Plus Premier I",
+      "precios": {
+        "2020": {
+          "usd": 11490.07,
+          "ars": 17568317.03,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12064.57,
+          "ars": 18446727.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1008": {
+      "id": "1008",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,0 T Plus Premier Ii AT",
+      "precios": {
+        "2020": {
+          "usd": 12064.57,
+          "ars": 18446727.53,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12667.8,
+          "ars": 19369066.2,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13334.53,
+          "ars": 20388496.37,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14001.25,
+          "ars": 21407911.25,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14738.16,
+          "ars": 22534646.64,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15475.07,
+          "ars": 23661382.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1009": {
+      "id": "1009",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Lt 2026",
+      "precios": {
+        "0": {
+          "usd": 21145.21,
+          "ars": 32331026.09,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13276.6,
+          "ars": 20299921.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1010": {
+      "id": "1010",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Ltz AT 2026",
+      "precios": {
+        "0": {
+          "usd": 23286.58,
+          "ars": 35605180.82,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14621.23,
+          "ars": 22355860.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1011": {
+      "id": "1011",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Premier AT 2026",
+      "precios": {
+        "0": {
+          "usd": 25216.22,
+          "ars": 38555600.38,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15832.8,
+          "ars": 24208351.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1012": {
+      "id": "1012",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "5P 1,0 T Rs 2026",
+      "precios": {
+        "0": {
+          "usd": 25521.76,
+          "ars": 39022771.04,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16024.77,
+          "ars": 24501873.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1013": {
+      "id": "1013",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,0 T Plus Lt 2026",
+      "precios": {
+        "0": {
+          "usd": 21145.21,
+          "ars": 32331026.09,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13276.6,
+          "ars": 20299921.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1014": {
+      "id": "1014",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,0 T Plus Ltz AT 2026",
+      "precios": {
+        "0": {
+          "usd": 23286.58,
+          "ars": 35605180.82,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14621.23,
+          "ars": 22355860.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1015": {
+      "id": "1015",
+      "marcaId": "9",
+      "modeloId": "136",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX",
+      "version": "4P 1,0 T Plus Premier AT 2026",
+      "precios": {
+        "0": {
+          "usd": 25216.22,
+          "ars": 38555600.38,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15832.8,
+          "ars": 24208351.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1016": {
+      "id": "1016",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ls",
+      "precios": {
+        "2013": {
+          "usd": 5255.41,
+          "ars": 8035521.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1017": {
+      "id": "1017",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Lt",
+      "precios": {
+        "2013": {
+          "usd": 5443.1,
+          "ars": 8322499.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1018": {
+      "id": "1018",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Lt 2013",
+      "precios": {
+        "2013": {
+          "usd": 6141.41,
+          "ars": 9390215.89,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6233.52,
+          "ars": 9531052.08,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6348.09,
+          "ars": 9706229.61,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6540.15,
+          "ars": 9999889.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1019": {
+      "id": "1019",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz 2013",
+      "precios": {
+        "2013": {
+          "usd": 6584.24,
+          "ars": 10067302.96,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6672.23,
+          "ars": 10201839.67,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6783.21,
+          "ars": 10371528.09,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6988.43,
+          "ars": 10685309.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1020": {
+      "id": "1020",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz AT 2014",
+      "precios": {
+        "2014": {
+          "usd": 6825.97,
+          "ars": 10436908.13,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6933.95,
+          "ars": 10602009.55,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7143.73,
+          "ars": 10922763.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1021": {
+      "id": "1021",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Joy Ls",
+      "precios": {
+        "2016": {
+          "usd": 6377.25,
+          "ars": 9750815.25,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 6646.43,
+          "ars": 10162391.47,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 7183.41,
+          "ars": 10983433.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1022": {
+      "id": "1022",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Joy Ls + Lv",
+      "precios": {
+        "2016": {
+          "usd": 6523.52,
+          "ars": 9974462.08,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 6798.87,
+          "ars": 10395472.23,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 7348.17,
+          "ars": 11235351.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1023": {
+      "id": "1023",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Lt 2016",
+      "precios": {
+        "2016": {
+          "usd": 7331.69,
+          "ars": 11210154.01,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7641.16,
+          "ars": 11683333.64,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8258.51,
+          "ars": 12627261.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1024": {
+      "id": "1024",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz 2016",
+      "precios": {
+        "2016": {
+          "usd": 7918.23,
+          "ars": 12106973.67,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8252.45,
+          "ars": 12617996.05,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8919.19,
+          "ars": 13637441.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1025": {
+      "id": "1025",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz AT 2016",
+      "precios": {
+        "2016": {
+          "usd": 8211.49,
+          "ars": 12555368.21,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8558.1,
+          "ars": 13085334.9,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9249.53,
+          "ars": 14142531.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1026": {
+      "id": "1026",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Joy Ls 2019",
+      "precios": {
+        "2018": {
+          "usd": 7598.82,
+          "ars": 11618595.78,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8206.72,
+          "ars": 12548074.88,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 8638.65,
+          "ars": 13208495.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1027": {
+      "id": "1027",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Joy Ls + Lv 2019",
+      "precios": {
+        "2018": {
+          "usd": 7695.84,
+          "ars": 11766939.36,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8311.51,
+          "ars": 12708298.79,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 8748.96,
+          "ars": 13377159.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1028": {
+      "id": "1028",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Lt 2019",
+      "precios": {
+        "2018": {
+          "usd": 8222.64,
+          "ars": 12572416.56,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8880.45,
+          "ars": 13578208.05,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9347.84,
+          "ars": 14292847.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1029": {
+      "id": "1029",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz 2019",
+      "precios": {
+        "2018": {
+          "usd": 8946.49,
+          "ars": 13679183.21,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9662.21,
+          "ars": 14773519.09,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10170.74,
+          "ars": 15551061.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1030": {
+      "id": "1030",
+      "marcaId": "9",
+      "modeloId": "137",
+      "marca": "CHEVROLET",
+      "modelo": "PRISMA",
+      "version": "4P 1,4 Ltz AT 2019",
+      "precios": {
+        "2018": {
+          "usd": 9454.72,
+          "ars": 14456266.88,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10211.1,
+          "ars": 15612771.9,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10748.53,
+          "ars": 16434502.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1031": {
+      "id": "1031",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td 4X2 Elec",
+      "precios": {
+        "2013": {
+          "usd": 7822.56,
+          "ars": 11960694.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1032": {
+      "id": "1032",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Std 4X2 Elec",
+      "precios": {
+        "2013": {
+          "usd": 8301.46,
+          "ars": 12692932.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1033": {
+      "id": "1033",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Dlx 4X2 Elec",
+      "precios": {
+        "2013": {
+          "usd": 9979.14,
+          "ars": 15258105.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1034": {
+      "id": "1034",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Std 4X4 A/c Elec",
+      "precios": {
+        "2013": {
+          "usd": 9626.96,
+          "ars": 14719621.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1035": {
+      "id": "1035",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Dlx 4X4 Elec",
+      "precios": {
+        "2013": {
+          "usd": 11151.22,
+          "ars": 17050215.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1036": {
+      "id": "1036",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ltd 4X4 Elec",
+      "precios": {
+        "2013": {
+          "usd": 12274.23,
+          "ars": 18767297.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1037": {
+      "id": "1037",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi Ls 4X2 Cv180",
+      "precios": {
+        "2013": {
+          "usd": 8788.76,
+          "ars": 13438014.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1038": {
+      "id": "1038",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi Ls 4X4 Cv180",
+      "precios": {
+        "2013": {
+          "usd": 10413.54,
+          "ars": 15922302.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1039": {
+      "id": "1039",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ls 4X2 Cv180 2012",
+      "precios": {
+        "2013": {
+          "usd": 10440.06,
+          "ars": 15962851.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1040": {
+      "id": "1040",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Lt 4X2 Cv180 2012",
+      "precios": {
+        "2013": {
+          "usd": 11737.93,
+          "ars": 17947294.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1041": {
+      "id": "1041",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ltz 4X2 Cv180 2012",
+      "precios": {
+        "2013": {
+          "usd": 12806.6,
+          "ars": 19581291.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1042": {
+      "id": "1042",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ls 4X4 Cv180 2012",
+      "precios": {
+        "2013": {
+          "usd": 12390.04,
+          "ars": 18944371.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1043": {
+      "id": "1043",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Lt 4X4 Cv180 2012",
+      "precios": {
+        "2013": {
+          "usd": 13302.99,
+          "ars": 20340271.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1044": {
+      "id": "1044",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ltz 4X4 AT Cv180 2012",
+      "precios": {
+        "2013": {
+          "usd": 15976.63,
+          "ars": 24428267.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1045": {
+      "id": "1045",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi 6v Ls 4X2 Cv200",
+      "precios": {
+        "2013": {
+          "usd": 8881.44,
+          "ars": 13579721.76,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8979.18,
+          "ars": 13729166.22,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9076.25,
+          "ars": 13877586.25,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9356.36,
+          "ars": 14305874.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1046": {
+      "id": "1046",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi 6v Ls 4X4 Cv200",
+      "precios": {
+        "2013": {
+          "usd": 10555.6,
+          "ars": 16139512.4,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10671.76,
+          "ars": 16317121.04,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10787.13,
+          "ars": 16493521.77,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11120.04,
+          "ars": 17002541.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1047": {
+      "id": "1047",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ls 4X2 Cv200 2014",
+      "precios": {
+        "2013": {
+          "usd": 10204.52,
+          "ars": 15602711.08,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10316.82,
+          "ars": 15774417.78,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10428.35,
+          "ars": 15944947.15,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10750.19,
+          "ars": 16437040.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1048": {
+      "id": "1048",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X2 Cv200 2014",
+      "precios": {
+        "2013": {
+          "usd": 11643.65,
+          "ars": 17803140.85,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11771.79,
+          "ars": 17999066.91,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11899.05,
+          "ars": 18193647.45,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12266.28,
+          "ars": 18755142.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1049": {
+      "id": "1049",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ltz 4X2 Cv200 2014",
+      "precios": {
+        "2013": {
+          "usd": 13213.35,
+          "ars": 20203212.15,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13358.77,
+          "ars": 20425559.33,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13503.19,
+          "ars": 20646377.51,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13919.92,
+          "ars": 21283557.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1050": {
+      "id": "1050",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ls 4X4 Cv200 2014",
+      "precios": {
+        "2013": {
+          "usd": 12244.26,
+          "ars": 18721473.54,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12379.01,
+          "ars": 18927506.29,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12512.83,
+          "ars": 19132117.07,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12899,
+          "ars": 19722571,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1051": {
+      "id": "1051",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X4 Cv200 2014",
+      "precios": {
+        "2013": {
+          "usd": 13535.42,
+          "ars": 20695657.18,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13684.38,
+          "ars": 20923417.02,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13832.31,
+          "ars": 21149601.99,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14259.21,
+          "ars": 21802332.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1052": {
+      "id": "1052",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ltz 4X4 Cv200 2014",
+      "precios": {
+        "2014": {
+          "usd": 15784.7,
+          "ars": 24134806.3,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15955.35,
+          "ars": 24395730.15,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16447.76,
+          "ars": 25148625.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1053": {
+      "id": "1053",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ltz 4X4 AT Cv200 2014",
+      "precios": {
+        "2013": {
+          "usd": 16468.82,
+          "ars": 25180825.78,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16650.06,
+          "ars": 25457941.74,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16830.06,
+          "ars": 25733161.74,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 17349.46,
+          "ars": 26527324.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1054": {
+      "id": "1054",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X2",
+      "precios": {
+        "2015": {
+          "usd": 14579.97,
+          "ars": 22292774.13,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15029.94,
+          "ars": 22980778.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1055": {
+      "id": "1055",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X4",
+      "precios": {
+        "2015": {
+          "usd": 17157.85,
+          "ars": 26234352.65,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 17687.38,
+          "ars": 27044004.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1056": {
+      "id": "1056",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X4 AT",
+      "precios": {
+        "2015": {
+          "usd": 18073.19,
+          "ars": 27633907.51,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 18630.96,
+          "ars": 28486737.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1057": {
+      "id": "1057",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi 6v Ls 4X2 Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 9938.24,
+          "ars": 15195568.96,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10337.1,
+          "ars": 15805425.9,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10803.77,
+          "ars": 16518964.33,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11383.13,
+          "ars": 17404805.77,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11731.33,
+          "ars": 17937203.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1058": {
+      "id": "1058",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Ctdi 6v Ls 4X4 Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 12038.81,
+          "ars": 18407340.49,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12521.98,
+          "ars": 19146107.42,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13401.9,
+          "ars": 20491505.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14342.47,
+          "ars": 21929636.63,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14958.83,
+          "ars": 22872051.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1059": {
+      "id": "1059",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ls 4X2 Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 11873.65,
+          "ars": 18154810.85,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12350.19,
+          "ars": 18883440.51,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13218.05,
+          "ars": 20210398.45,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14145.71,
+          "ars": 21628790.59,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14753.62,
+          "ars": 22558284.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1060": {
+      "id": "1060",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X2 Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 12971.13,
+          "ars": 19832857.77,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13491.72,
+          "ars": 20628839.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14439.79,
+          "ars": 22078438.91,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15453.2,
+          "ars": 23627942.8,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16117.29,
+          "ars": 24643336.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1061": {
+      "id": "1061",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ltz 4X2 Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 14399.21,
+          "ars": 22016392.09,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14977.11,
+          "ars": 22900001.19,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16029.56,
+          "ars": 24509197.24,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17154.54,
+          "ars": 26229291.66,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17891.74,
+          "ars": 27356470.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1062": {
+      "id": "1062",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ls 4X4 Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 13194.13,
+          "ars": 20173824.77,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13723.67,
+          "ars": 20983491.43,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14688.04,
+          "ars": 22458013.16,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15718.87,
+          "ars": 24034152.23,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16394.38,
+          "ars": 25067007.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1063": {
+      "id": "1063",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X4 Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 13954.07,
+          "ars": 21335773.03,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14514.11,
+          "ars": 22192074.19,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15534.02,
+          "ars": 23751516.58,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16624.23,
+          "ars": 25418447.67,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17338.64,
+          "ars": 26510780.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1064": {
+      "id": "1064",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Lt 4X4 AT Cv200 2020",
+      "precios": {
+        "2020": {
+          "usd": 18126.47,
+          "ars": 27715372.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1065": {
+      "id": "1065",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi 6v Ltz 4X4 Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 16202.07,
+          "ars": 24772965.03,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 16852.33,
+          "ars": 25767212.57,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18036.55,
+          "ars": 27577884.95,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 19302.39,
+          "ars": 29513354.31,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20131.9,
+          "ars": 30781675.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1066": {
+      "id": "1066",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Ltz 4X4 AT Cv200 2016",
+      "precios": {
+        "2016": {
+          "usd": 16869.38,
+          "ars": 25793282.02,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17546.42,
+          "ars": 26828476.18,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18779.41,
+          "ars": 28713717.89,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 20097.39,
+          "ars": 30728909.31,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20961.06,
+          "ars": 32049460.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1067": {
+      "id": "1067",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X2 2016",
+      "precios": {
+        "2016": {
+          "usd": 16883.62,
+          "ars": 25815054.98,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17573.62,
+          "ars": 26870064.98,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18808.52,
+          "ars": 28758227.08,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 20128.53,
+          "ars": 30776522.37,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20993.55,
+          "ars": 32099137.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1068": {
+      "id": "1068",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X4 2016",
+      "precios": {
+        "2016": {
+          "usd": 17155.22,
+          "ars": 26230331.38,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17843.73,
+          "ars": 27283063.17,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 19097.62,
+          "ars": 29200260.98,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 20437.92,
+          "ars": 31249579.68,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 21316.23,
+          "ars": 32592515.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1069": {
+      "id": "1069",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc 4X4 AT 2016",
+      "precios": {
+        "2016": {
+          "usd": 17526.31,
+          "ars": 26797727.99,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18229.72,
+          "ars": 27873241.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 19510.73,
+          "ars": 29831906.17,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 20880.03,
+          "ars": 31925565.87,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 21777.33,
+          "ars": 33297537.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1070": {
+      "id": "1070",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td 100 Years  4X2",
+      "precios": {
+        "2017": {
+          "usd": 18525.22,
+          "ars": 28325061.38,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 19827,
+          "ars": 30315483,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1071": {
+      "id": "1071",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td 100 Years  4X4",
+      "precios": {
+        "2017": {
+          "usd": 18793.7,
+          "ars": 28735567.3,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20114.34,
+          "ars": 30754825.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1072": {
+      "id": "1072",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Midnight 4X4",
+      "precios": {
+        "2018": {
+          "usd": 16156.4,
+          "ars": 24703135.6,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17290.29,
+          "ars": 26436853.41,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18033.32,
+          "ars": 27572946.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1073": {
+      "id": "1073",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Ctdi Midnight 4X4 AT",
+      "precios": {
+        "2018": {
+          "usd": 17887.44,
+          "ars": 27349895.76,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 19142.82,
+          "ars": 29269371.78,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 19965.47,
+          "ars": 30527203.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1074": {
+      "id": "1074",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td Ls MT 4X2 2021",
+      "precios": {
+        "2020": {
+          "usd": 12780.56,
+          "ars": 19541476.24,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14125.88,
+          "ars": 21598470.52,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14832.18,
+          "ars": 22678403.22,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15573.78,
+          "ars": 23812309.62,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16393.46,
+          "ars": 25065600.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1075": {
+      "id": "1075",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td Ls MT 4X4 2021",
+      "precios": {
+        "2020": {
+          "usd": 15305.72,
+          "ars": 23402445.88,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16916.85,
+          "ars": 25865863.65,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17762.69,
+          "ars": 27159153.01,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18650.83,
+          "ars": 28517119.07,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 19632.45,
+          "ars": 30018016.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1076": {
+      "id": "1076",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ls MT 4X2 2021",
+      "precios": {
+        "2020": {
+          "usd": 14447.39,
+          "ars": 22090059.31,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15968.17,
+          "ars": 24415331.93,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16766.57,
+          "ars": 25636085.53,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17604.9,
+          "ars": 26917892.1,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 18531.48,
+          "ars": 28334632.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1077": {
+      "id": "1077",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Lt MT 4X2 2021",
+      "precios": {
+        "2020": {
+          "usd": 16283.41,
+          "ars": 24897333.89,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17997.46,
+          "ars": 27518116.34,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18897.33,
+          "ars": 28894017.57,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19842.2,
+          "ars": 30338723.8,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20886.52,
+          "ars": 31935489.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1078": {
+      "id": "1078",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Lt MT 4X4 2021",
+      "precios": {
+        "2020": {
+          "usd": 18917.49,
+          "ars": 28924842.21,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20908.8,
+          "ars": 31969555.2,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 21954.24,
+          "ars": 33568032.96,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23051.96,
+          "ars": 35246446.84,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24265.22,
+          "ars": 37101521.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1079": {
+      "id": "1079",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Lt AT 4X4 2021",
+      "precios": {
+        "2020": {
+          "usd": 19104.51,
+          "ars": 29210795.79,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21115.51,
+          "ars": 32285614.79,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 22171.28,
+          "ars": 33899887.12,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23279.85,
+          "ars": 35594890.65,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24505.1,
+          "ars": 37468297.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1080": {
+      "id": "1080",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ltz MT 4X2 2021",
+      "precios": {
+        "2020": {
+          "usd": 18243.33,
+          "ars": 27894051.57,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20163.68,
+          "ars": 30830266.72,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 21171.86,
+          "ars": 32371773.94,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 22230.45,
+          "ars": 33990358.05,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23400.48,
+          "ars": 35779333.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1081": {
+      "id": "1081",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ltz AT 4X4 2021",
+      "precios": {
+        "2020": {
+          "usd": 21774.02,
+          "ars": 33292476.58,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 24066.03,
+          "ars": 36796959.87,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 25269.33,
+          "ars": 38636805.57,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 26532.79,
+          "ars": 40568635.91,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 27929.26,
+          "ars": 42703838.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1082": {
+      "id": "1082",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Ltz AT 4X4 2025",
+      "precios": {
+        "0": {
+          "usd": 46003.84,
+          "ars": 70339871.36,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28767.13,
+          "ars": 43984941.77,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30205.49,
+          "ars": 46184194.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1083": {
+      "id": "1083",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc AT 4X4 2021",
+      "precios": {
+        "2020": {
+          "usd": 22213.78,
+          "ars": 33964869.62,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 24552.07,
+          "ars": 37540115.03,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 25779.67,
+          "ars": 39417115.43,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 27068.66,
+          "ars": 41387981.14,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28493.32,
+          "ars": 43566286.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1084": {
+      "id": "1084",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Hc AT 4X4 2025",
+      "precios": {
+        "0": {
+          "usd": 48594.07,
+          "ars": 74300333.03,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 29630.15,
+          "ars": 45304499.35,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 31111.65,
+          "ars": 47569712.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1085": {
+      "id": "1085",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Wt MT 4X2 2025",
+      "precios": {
+        "0": {
+          "usd": 34637.85,
+          "ars": 52961272.65,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 19087.42,
+          "ars": 29184665.18,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20041.79,
+          "ars": 30643896.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1086": {
+      "id": "1086",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Wt MT 4X4 2025",
+      "precios": {
+        "0": {
+          "usd": 38136.74,
+          "ars": 58311075.46,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 21369.89,
+          "ars": 32674561.81,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 22438.39,
+          "ars": 34308298.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1087": {
+      "id": "1087",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Wt AT 4X4 2025",
+      "precios": {
+        "0": {
+          "usd": 38136.74,
+          "ars": 58311075.46,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23305.13,
+          "ars": 35633543.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1088": {
+      "id": "1088",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Z71 AT 4X4 2022",
+      "precios": {
+        "2022": {
+          "usd": 23763.29,
+          "ars": 36334070.41,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 24951.45,
+          "ars": 38150767.05,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 26264.68,
+          "ars": 40158695.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1089": {
+      "id": "1089",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Z71 AT 4X4 2025",
+      "precios": {
+        "0": {
+          "usd": 42525.67,
+          "ars": 65021749.43,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 27037.18,
+          "ars": 41339848.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1090": {
+      "id": "1090",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Midnight Ss AT 4X4 2024",
+      "precios": {
+        "2024": {
+          "usd": 25749.69,
+          "ars": 39371276.01,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 27037.18,
+          "ars": 41339848.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1091": {
+      "id": "1091",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td 4X2 Wt",
+      "precios": {
+        "0": {
+          "usd": 32874.85,
+          "ars": 50265645.65,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 18987.62,
+          "ars": 29032070.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1092": {
+      "id": "1092",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "C/S 2,8 Td 4X4 Wt",
+      "precios": {
+        "0": {
+          "usd": 34742.62,
+          "ars": 53121465.98,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 22684.07,
+          "ars": 34683943.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1093": {
+      "id": "1093",
+      "marcaId": "9",
+      "modeloId": "139",
+      "marca": "CHEVROLET",
+      "modelo": "SILVERADO",
+      "version": "D/C V8 AT 4X4 Z71 Trail Boss",
+      "precios": {
+        "0": {
+          "usd": 71343.03,
+          "ars": 109083492.87,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 45634.78,
+          "ars": 69775578.62,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 49285.57,
+          "ars": 75357636.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1094": {
+      "id": "1094",
+      "marcaId": "9",
+      "modeloId": "139",
+      "marca": "CHEVROLET",
+      "modelo": "SILVERADO",
+      "version": "D/C V8 AT 4X4 High Country",
+      "precios": {
+        "0": {
+          "usd": 93073.34,
+          "ars": 142309136.86,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 52583.68,
+          "ars": 80400446.72,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 56790.37,
+          "ars": 86832475.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1095": {
+      "id": "1095",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Lt",
+      "precios": {
+        "2013": {
+          "usd": 5801.59,
+          "ars": 8870631.11,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6204.29,
+          "ars": 9486359.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1096": {
+      "id": "1096",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Lt Mx",
+      "precios": {
+        "2015": {
+          "usd": 6821.91,
+          "ars": 10430700.39,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7165.49,
+          "ars": 10956034.21,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7595.42,
+          "ars": 11613397.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1097": {
+      "id": "1097",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Ltz",
+      "precios": {
+        "2013": {
+          "usd": 6214.09,
+          "ars": 9501343.61,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6645.43,
+          "ars": 10160862.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1098": {
+      "id": "1098",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Ltz Mx",
+      "precios": {
+        "2014": {
+          "usd": 6793.36,
+          "ars": 10387047.44,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7217.97,
+          "ars": 11036276.13,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7581.49,
+          "ars": 11592098.21,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8036.38,
+          "ars": 12287625.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1099": {
+      "id": "1099",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Ltz AT",
+      "precios": {
+        "2013": {
+          "usd": 6681.74,
+          "ars": 10216380.46,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7145.53,
+          "ars": 10925515.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1100": {
+      "id": "1100",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Ltz AT Mx",
+      "precios": {
+        "2014": {
+          "usd": 7259.19,
+          "ars": 11099301.51,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7421.73,
+          "ars": 11347825.17,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7795.52,
+          "ars": 11919350.08,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8263.25,
+          "ars": 12634509.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1101": {
+      "id": "1101",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,6 16V Effect",
+      "precios": {
+        "2014": {
+          "usd": 6822.56,
+          "ars": 10431694.24,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7238.69,
+          "ars": 11067957.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1102": {
+      "id": "1102",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Lt",
+      "precios": {
+        "2013": {
+          "usd": 5919.26,
+          "ars": 9050548.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1103": {
+      "id": "1103",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz",
+      "precios": {
+        "2013": {
+          "usd": 6353.95,
+          "ars": 9715189.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1104": {
+      "id": "1104",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz AT",
+      "precios": {
+        "2013": {
+          "usd": 6762.88,
+          "ars": 10340443.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1105": {
+      "id": "1105",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Lt 2013",
+      "precios": {
+        "2013": {
+          "usd": 6146.62,
+          "ars": 9398181.98,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6573.26,
+          "ars": 10050514.54,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7071.6,
+          "ars": 10812476.4,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7427.75,
+          "ars": 11357029.75,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7873.42,
+          "ars": 12038459.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1106": {
+      "id": "1106",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz 2013",
+      "precios": {
+        "2013": {
+          "usd": 6628.97,
+          "ars": 10135695.13,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7089.1,
+          "ars": 10839233.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1107": {
+      "id": "1107",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz Mx 2014",
+      "precios": {
+        "2014": {
+          "usd": 7229.69,
+          "ars": 11054196.01,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7473.39,
+          "ars": 11426813.31,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7849.78,
+          "ars": 12002313.62,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8320.77,
+          "ars": 12722457.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1108": {
+      "id": "1108",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 7054.57,
+          "ars": 10786437.53,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7544.25,
+          "ars": 11535158.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1109": {
+      "id": "1109",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "4P 1,6 16V Ltz AT Mx 2014",
+      "precios": {
+        "2014": {
+          "usd": 7600.95,
+          "ars": 11621852.55,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7720.21,
+          "ars": 11804201.09,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8109.03,
+          "ars": 12398706.87,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8595.57,
+          "ars": 13142626.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1110": {
+      "id": "1110",
+      "marcaId": "9",
+      "modeloId": "141",
+      "marca": "CHEVROLET",
+      "modelo": "SPARK",
+      "version": "5P 1,2 Lt Full",
+      "precios": {
+        "2013": {
+          "usd": 5579.89,
+          "ars": 8531651.81,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5852.93,
+          "ars": 8949129.97,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6161.32,
+          "ars": 9420658.28,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6428.68,
+          "ars": 9829451.72,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 6814.4,
+          "ars": 10419217.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1111": {
+      "id": "1111",
+      "marcaId": "9",
+      "modeloId": "142",
+      "marca": "CHEVROLET",
+      "modelo": "SPARK EUV",
+      "version": "5P Electrico",
+      "precios": {
+        "0": {
+          "usd": 24201.89,
+          "ars": 37004689.81,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17146.78,
+          "ars": 26217426.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1112": {
+      "id": "1112",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt",
+      "precios": {
+        "2013": {
+          "usd": 5572.72,
+          "ars": 8520688.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1113": {
+      "id": "1113",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz",
+      "precios": {
+        "2013": {
+          "usd": 6173.66,
+          "ars": 9439526.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1114": {
+      "id": "1114",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a",
+      "precios": {
+        "2013": {
+          "usd": 6767.36,
+          "ars": 10347293.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1115": {
+      "id": "1115",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a AT",
+      "precios": {
+        "2013": {
+          "usd": 7145.07,
+          "ars": 10924812.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1116": {
+      "id": "1116",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,3 Diesel Ltz",
+      "precios": {
+        "2013": {
+          "usd": 6426.73,
+          "ars": 9826470.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1117": {
+      "id": "1117",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,3 Diesel Ltz 7a",
+      "precios": {
+        "2013": {
+          "usd": 6926.98,
+          "ars": 10591352.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1118": {
+      "id": "1118",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt 2014",
+      "precios": {
+        "2013": {
+          "usd": 5806.39,
+          "ars": 8877970.31,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6149.72,
+          "ars": 9402921.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1119": {
+      "id": "1119",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt My Link 2014",
+      "precios": {
+        "2014": {
+          "usd": 6333.87,
+          "ars": 9684487.23,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6699.67,
+          "ars": 10243795.43,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7177.14,
+          "ars": 10973847.06,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7532.45,
+          "ars": 11517116.05,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8214.8,
+          "ars": 12560429.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1120": {
+      "id": "1120",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 2014",
+      "precios": {
+        "2013": {
+          "usd": 6401.92,
+          "ars": 9788535.68,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6780.46,
+          "ars": 10367323.34,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7157.74,
+          "ars": 10944184.46,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7667.86,
+          "ars": 11724157.94,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8047.46,
+          "ars": 12304566.34,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8776.46,
+          "ars": 13419207.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1121": {
+      "id": "1121",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a 2014",
+      "precios": {
+        "2013": {
+          "usd": 6848.57,
+          "ars": 10471463.53,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7253.51,
+          "ars": 11090616.79,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7550.8,
+          "ars": 11545173.2,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8088.93,
+          "ars": 12367973.97,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8489.37,
+          "ars": 12980246.73,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9258.41,
+          "ars": 14156108.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1122": {
+      "id": "1122",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a AT 2014",
+      "precios": {
+        "2013": {
+          "usd": 7295.21,
+          "ars": 11154376.09,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7726.57,
+          "ars": 11813925.53,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7976.36,
+          "ars": 12195854.44,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8544.82,
+          "ars": 13065029.78,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8967.83,
+          "ars": 13711812.07,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9780.21,
+          "ars": 14953941.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1123": {
+      "id": "1123",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ",
+      "precios": {
+        "2015": {
+          "usd": 7666.06,
+          "ars": 11721405.74,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8212.4,
+          "ars": 12556759.6,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8618.95,
+          "ars": 13178374.55,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9399.73,
+          "ars": 14372187.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1124": {
+      "id": "1124",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ AT",
+      "precios": {
+        "2015": {
+          "usd": 8085.71,
+          "ars": 12363050.59,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8661.96,
+          "ars": 13244136.84,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9090.77,
+          "ars": 13899787.33,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9914.29,
+          "ars": 15158949.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1125": {
+      "id": "1125",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,3 Diesel Ltz 2014",
+      "precios": {
+        "2013": {
+          "usd": 6947.82,
+          "ars": 10623216.78,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7358.64,
+          "ars": 11251360.56,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7575.8,
+          "ars": 11583398.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1126": {
+      "id": "1126",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,3 Diesel Ltz 7a 2014",
+      "precios": {
+        "2013": {
+          "usd": 7320.02,
+          "ars": 11192310.58,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7752.85,
+          "ars": 11854107.65,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7981.64,
+          "ars": 12203927.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1127": {
+      "id": "1127",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt 2018",
+      "precios": {
+        "2018": {
+          "usd": 8918.31,
+          "ars": 13636095.99,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9818.8,
+          "ars": 15012945.2,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10604.31,
+          "ars": 16213989.99,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10932.28,
+          "ars": 16715456.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1128": {
+      "id": "1128",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 2018",
+      "precios": {
+        "2018": {
+          "usd": 9645.09,
+          "ars": 14747342.61,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10618.97,
+          "ars": 16236405.13,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11468.49,
+          "ars": 17535321.21,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11823.18,
+          "ars": 18077642.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1129": {
+      "id": "1129",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a 2018",
+      "precios": {
+        "2018": {
+          "usd": 9911.94,
+          "ars": 15155356.26,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10912.76,
+          "ars": 16685610.04,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11785.78,
+          "ars": 18020457.62,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12150.28,
+          "ars": 18577778.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1130": {
+      "id": "1130",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz 7a AT 2018",
+      "precios": {
+        "2018": {
+          "usd": 10325.55,
+          "ars": 15787765.95,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11368.13,
+          "ars": 17381870.77,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12277.58,
+          "ars": 18772419.82,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12657.3,
+          "ars": 19353011.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1131": {
+      "id": "1131",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ 2018",
+      "precios": {
+        "2018": {
+          "usd": 10045.36,
+          "ars": 15359355.44,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11059.65,
+          "ars": 16910204.85,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11944.42,
+          "ars": 18263018.18,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12313.84,
+          "ars": 18827861.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1132": {
+      "id": "1132",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ AT 2017",
+      "precios": {
+        "2018": {
+          "usd": 10249.79,
+          "ars": 15671928.91,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11284.72,
+          "ars": 17254336.88,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12187.5,
+          "ars": 18634687.5,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12564.43,
+          "ars": 19211013.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1133": {
+      "id": "1133",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Ltz Activ 7a AT 2018",
+      "precios": {
+        "2018": {
+          "usd": 10511.3,
+          "ars": 16071777.7,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11572.63,
+          "ars": 17694551.27,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12498.44,
+          "ars": 19110114.76,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12884.99,
+          "ars": 19701149.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1134": {
+      "id": "1134",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Lt 2021",
+      "precios": {
+        "0": {
+          "usd": 19478.77,
+          "ars": 29783039.33,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11659.56,
+          "ars": 17827467.24,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12242.54,
+          "ars": 18718843.66,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12854.67,
+          "ars": 19654790.43,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13497.4,
+          "ars": 20637524.6,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14170.59,
+          "ars": 21666832.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1135": {
+      "id": "1135",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Premier 7a 2021",
+      "precios": {
+        "2021": {
+          "usd": 12454.37,
+          "ars": 19042731.73,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13077.09,
+          "ars": 19994870.61,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13730.94,
+          "ars": 20994607.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1136": {
+      "id": "1136",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Premier 7a AT 2025",
+      "precios": {
+        "0": {
+          "usd": 22835.91,
+          "ars": 34916106.39,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15813.65,
+          "ars": 24179070.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1137": {
+      "id": "1137",
+      "marcaId": "9",
+      "modeloId": "143",
+      "marca": "CHEVROLET",
+      "modelo": "SPIN",
+      "version": "5P 1,8 Activ 7a AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 12921.27,
+          "ars": 19756621.83,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13567.33,
+          "ars": 20744447.57,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14245.7,
+          "ars": 21781675.3,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14957.99,
+          "ars": 22870766.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1138": {
+      "id": "1138",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz 4X2 Fwd",
+      "precios": {
+        "2013": {
+          "usd": 6934.01,
+          "ars": 10602101.29,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7356.46,
+          "ars": 11248027.34,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7889.12,
+          "ars": 12062464.48,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8444.19,
+          "ars": 12911166.51,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9029.43,
+          "ars": 13805998.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1139": {
+      "id": "1139",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz AT 4X4 AWD",
+      "precios": {
+        "2013": {
+          "usd": 7800.76,
+          "ars": 11927362.04,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8239.24,
+          "ars": 12597797.96,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8793.34,
+          "ars": 13445016.86,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9412.03,
+          "ars": 14390993.87,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10064.35,
+          "ars": 15388391.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1140": {
+      "id": "1140",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz + AT 4X4 AWD",
+      "precios": {
+        "2013": {
+          "usd": 8580.84,
+          "ars": 13120104.36,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9011.67,
+          "ars": 13778843.43,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9557.97,
+          "ars": 14614136.13,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10230.46,
+          "ars": 15642373.34,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10939.51,
+          "ars": 16726510.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1141": {
+      "id": "1141",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz 4X2 Fwd 2017",
+      "precios": {
+        "2017": {
+          "usd": 9528.72,
+          "ars": 14569412.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10289.27,
+          "ars": 15732293.83,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11314.45,
+          "ars": 17299794.05,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11880.17,
+          "ars": 18164779.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1142": {
+      "id": "1142",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz AT 4X4 AWD 2017",
+      "precios": {
+        "2017": {
+          "usd": 10706.71,
+          "ars": 16370559.59,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11561.28,
+          "ars": 17677197.12,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12713.21,
+          "ars": 19438498.09,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13348.87,
+          "ars": 20410422.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1143": {
+      "id": "1143",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz + AT 4X4 AWD 2017",
+      "precios": {
+        "2017": {
+          "usd": 11168.48,
+          "ars": 17076605.92,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12059.91,
+          "ars": 18439602.39,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13261.52,
+          "ars": 20276864.08,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13924.59,
+          "ars": 21290698.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1144": {
+      "id": "1144",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,8 Ltz 4X2 Fwd Midnight",
+      "precios": {
+        "2019": {
+          "usd": 11339.36,
+          "ars": 17337881.44,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11906.33,
+          "ars": 18204778.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1145": {
+      "id": "1145",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T MT",
+      "precios": {
+        "2020": {
+          "usd": 12192.5,
+          "ars": 18642332.5,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12346.85,
+          "ars": 18878333.65,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12996.68,
+          "ars": 19871923.72,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13646.52,
+          "ars": 20865529.08,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14055.91,
+          "ars": 21491486.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1146": {
+      "id": "1146",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT",
+      "precios": {
+        "2020": {
+          "usd": 12927.08,
+          "ars": 19765505.32,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13114.31,
+          "ars": 20051779.99,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13804.54,
+          "ars": 21107141.66,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14494.77,
+          "ars": 22162503.33,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14929.61,
+          "ars": 22827373.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1147": {
+      "id": "1147",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Ltz",
+      "precios": {
+        "2020": {
+          "usd": 13595.33,
+          "ars": 20787259.57,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13813.81,
+          "ars": 21121315.49,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14540.86,
+          "ars": 22232974.94,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15267.9,
+          "ars": 23344619.1,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15725.94,
+          "ars": 24044962.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1148": {
+      "id": "1148",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Premier",
+      "precios": {
+        "2020": {
+          "usd": 14570.09,
+          "ars": 22277667.61,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15928.35,
+          "ars": 24354447.15,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16766.68,
+          "ars": 25636253.72,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17605.01,
+          "ars": 26918060.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1149": {
+      "id": "1149",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 14055.91,
+          "ars": 21491486.39,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14477.59,
+          "ars": 22136235.11,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15239.57,
+          "ars": 23301302.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1150": {
+      "id": "1150",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT 2024",
+      "precios": {
+        "2023": {
+          "usd": 14929.61,
+          "ars": 22827373.69,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15377.5,
+          "ars": 23512197.5,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16186.84,
+          "ars": 24749678.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1151": {
+      "id": "1151",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Ltz 2024",
+      "precios": {
+        "2023": {
+          "usd": 15765.35,
+          "ars": 24105220.15,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16238.31,
+          "ars": 24828375.99,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17092.96,
+          "ars": 26135135.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1152": {
+      "id": "1152",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Premier 2024",
+      "precios": {
+        "2023": {
+          "usd": 18129.4,
+          "ars": 27719852.6,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 18673.28,
+          "ars": 28551445.12,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 19656.08,
+          "ars": 30054146.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1153": {
+      "id": "1153",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Premier 170 2024",
+      "precios": {
+        "2024": {
+          "usd": 19233.48,
+          "ars": 29407990.92,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20245.77,
+          "ars": 30955782.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1154": {
+      "id": "1154",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Rs",
+      "precios": {
+        "2024": {
+          "usd": 18673.28,
+          "ars": 28551445.12,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 19656.08,
+          "ars": 30054146.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1155": {
+      "id": "1155",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT 2026",
+      "precios": {
+        "0": {
+          "usd": 26411.01,
+          "ars": 40382434.29,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16502.07,
+          "ars": 25231665.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1156": {
+      "id": "1156",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Ltz 2026",
+      "precios": {
+        "0": {
+          "usd": 30005.15,
+          "ars": 45877874.35,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 19782.13,
+          "ars": 30246876.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1157": {
+      "id": "1157",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Premier 2026",
+      "precios": {
+        "0": {
+          "usd": 32648.79,
+          "ars": 49919999.91,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21524.75,
+          "ars": 32911342.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1158": {
+      "id": "1158",
+      "marcaId": "9",
+      "modeloId": "144",
+      "marca": "CHEVROLET",
+      "modelo": "TRACKER",
+      "version": "5P 1,2 T 6AT Rs 2026",
+      "precios": {
+        "0": {
+          "usd": 32925.67,
+          "ars": 50343349.43,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21707.53,
+          "ars": 33190813.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1159": {
+      "id": "1159",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Ctdi 4X4 Lt AT",
+      "precios": {
+        "2013": {
+          "usd": 13757.91,
+          "ars": 21035844.39,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14616.38,
+          "ars": 22348445.02,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15433.56,
+          "ars": 23597913.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1160": {
+      "id": "1160",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Ctdi 4X4 Ltz AT",
+      "precios": {
+        "2013": {
+          "usd": 15950.58,
+          "ars": 24388436.82,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16822.89,
+          "ars": 25722198.81,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17652.13,
+          "ars": 26990106.77,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 18455.92,
+          "ars": 28219101.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1161": {
+      "id": "1161",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Ctdi 4X4 Ltz 7a 6AT 2016",
+      "precios": {
+        "2016": {
+          "usd": 19734.28,
+          "ars": 30173714.12,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 21556.5,
+          "ars": 32959888.5,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 22228.54,
+          "ars": 33987437.66,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 23605,
+          "ars": 36092045,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 25745.31,
+          "ars": 39364578.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1162": {
+      "id": "1162",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Td 4X4 Premier 7a 6AT 2021",
+      "precios": {
+        "2021": {
+          "usd": 28000.67,
+          "ars": 42813024.43,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 29400.7,
+          "ars": 44953670.3,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 30870.73,
+          "ars": 47201346.17,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 31796.86,
+          "ars": 48617398.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1163": {
+      "id": "1163",
+      "marcaId": "9",
+      "modeloId": "145",
+      "marca": "CHEVROLET",
+      "modelo": "TRAILBLAZER",
+      "version": "5P 2,8 Ctdi 4X4 High Country 7a 8AT 2025",
+      "precios": {
+        "0": {
+          "usd": 52981.04,
+          "ars": 81008010.16,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 35231.97,
+          "ars": 53869682.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1164": {
+      "id": "1164",
+      "marcaId": "9",
+      "modeloId": "146",
+      "marca": "CHEVROLET",
+      "modelo": "VECTRA",
+      "version": "5P 2,0 Gt Gls",
+      "precios": {}
+    },
+    "1165": {
+      "id": "1165",
+      "marcaId": "10",
+      "modeloId": "147",
+      "marca": "CHRYSLER",
+      "modelo": "300",
+      "version": "4P 3,6 C",
+      "precios": {
+        "2013": {
+          "usd": 23025.65,
+          "ars": 35206218.85,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 24232.92,
+          "ars": 37052134.68,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 25650.05,
+          "ars": 39218926.45,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 27110.31,
+          "ars": 41451663.99,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 29282.06,
+          "ars": 44772269.74,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 30823.22,
+          "ars": 47128703.38,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 32445.49,
+          "ars": 49609154.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1166": {
+      "id": "1166",
+      "marcaId": "10",
+      "modeloId": "148",
+      "marca": "CHRYSLER",
+      "modelo": "TOWN & COUNTRY",
+      "version": "Van 3,6 Ltd Atx Full",
+      "precios": {
+        "2013": {
+          "usd": 13022.51,
+          "ars": 19911417.79,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13855.52,
+          "ars": 21185090.08,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14861.73,
+          "ars": 22723585.17,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15777.27,
+          "ars": 24123445.83,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17026.5,
+          "ars": 26033518.5,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18483.97,
+          "ars": 28261990.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1167": {
+      "id": "1167",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P Vti Live Pk",
+      "precios": {
+        "0": {
+          "usd": 22037.28,
+          "ars": 33695001.12,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 12901.88,
+          "ars": 19726974.52,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13687.94,
+          "ars": 20928860.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1168": {
+      "id": "1168",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P Vti Feel",
+      "precios": {
+        "0": {
+          "usd": 23328.89,
+          "ars": 35669872.81,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14566.22,
+          "ars": 22271750.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1169": {
+      "id": "1169",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P T200 CVT Shine",
+      "precios": {
+        "0": {
+          "usd": 27381.11,
+          "ars": 41865717.19,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16397.42,
+          "ars": 25071655.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1170": {
+      "id": "1170",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P T200 CVT Shine Bitono",
+      "precios": {
+        "0": {
+          "usd": 27543.97,
+          "ars": 42114730.13,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16507.21,
+          "ars": 25239524.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1171": {
+      "id": "1171",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P T200 CVT Dark Edition",
+      "precios": {
+        "0": {
+          "usd": 27752.44,
+          "ars": 42433480.76,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16621.38,
+          "ars": 25414090.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1172": {
+      "id": "1172",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P T200 CVT Dark Edition Bitono",
+      "precios": {
+        "0": {
+          "usd": 27915.31,
+          "ars": 42682508.99,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16731.17,
+          "ars": 25581958.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1173": {
+      "id": "1173",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I",
+      "precios": {
+        "2013": {
+          "usd": 5017.47,
+          "ars": 7671711.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1174": {
+      "id": "1174",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Full",
+      "precios": {
+        "2013": {
+          "usd": 5523.92,
+          "ars": 8446073.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1175": {
+      "id": "1175",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Full Seg",
+      "precios": {
+        "2013": {
+          "usd": 5675.75,
+          "ars": 8678221.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1176": {
+      "id": "1176",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Club",
+      "precios": {
+        "2014": {
+          "usd": 5995.61,
+          "ars": 9167287.69,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6234.94,
+          "ars": 9533223.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1177": {
+      "id": "1177",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Business",
+      "precios": {
+        "2014": {
+          "usd": 6992.96,
+          "ars": 10692235.84,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7272.1,
+          "ars": 11119040.9,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7567.21,
+          "ars": 11570264.09,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7959.61,
+          "ars": 12170243.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1178": {
+      "id": "1178",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,4 I Business Mixto",
+      "precios": {
+        "2014": {
+          "usd": 7731.65,
+          "ars": 11821692.85,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8040.28,
+          "ars": 12293588.12,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8399.6,
+          "ars": 12842988.4,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8835.17,
+          "ars": 13508974.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1179": {
+      "id": "1179",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business 2017",
+      "precios": {
+        "2017": {
+          "usd": 8763.9,
+          "ars": 13400003.1,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9548.75,
+          "ars": 14600038.75,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10399.76,
+          "ars": 15901233.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1180": {
+      "id": "1180",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business 2020",
+      "precios": {
+        "2019": {
+          "usd": 10919.75,
+          "ars": 16696297.75,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11360.55,
+          "ars": 17370280.95,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11958.47,
+          "ars": 18284500.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1181": {
+      "id": "1181",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business 2022",
+      "precios": {
+        "2022": {
+          "usd": 12657.25,
+          "ars": 19352935.25,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13290.11,
+          "ars": 20320578.19,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13954.62,
+          "ars": 21336613.98,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14652.35,
+          "ars": 22403443.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1182": {
+      "id": "1182",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business Mixto 2017",
+      "precios": {
+        "2017": {
+          "usd": 9593.53,
+          "ars": 14668507.37,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10452.67,
+          "ars": 15982132.43,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11384.25,
+          "ars": 17406518.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1183": {
+      "id": "1183",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Vti 115 Business Mixto 2020",
+      "precios": {
+        "2019": {
+          "usd": 11953.46,
+          "ars": 18276840.34,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12435.99,
+          "ars": 19014628.71,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13090.51,
+          "ars": 20015389.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1184": {
+      "id": "1184",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel",
+      "precios": {}
+    },
+    "1185": {
+      "id": "1185",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel PLC",
+      "precios": {}
+    },
+    "1186": {
+      "id": "1186",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel PLC Full",
+      "precios": {
+        "2013": {
+          "usd": 6347.95,
+          "ars": 9706015.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1187": {
+      "id": "1187",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel PLC Full Seg",
+      "precios": {
+        "2013": {
+          "usd": 6499.79,
+          "ars": 9938178.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1188": {
+      "id": "1188",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel Business",
+      "precios": {
+        "2013": {
+          "usd": 7471.45,
+          "ars": 11423847.05,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7830.14,
+          "ars": 11972284.06,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8142.7,
+          "ars": 12450188.3,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8437.43,
+          "ars": 12900830.47,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8874.97,
+          "ars": 13569829.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1189": {
+      "id": "1189",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel Business Mixto",
+      "precios": {
+        "2014": {
+          "usd": 8568.84,
+          "ars": 13101756.36,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8910.88,
+          "ars": 13624735.52,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9231.99,
+          "ars": 14115712.71,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9710.73,
+          "ars": 14847706.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1190": {
+      "id": "1190",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business",
+      "precios": {
+        "2017": {
+          "usd": 9518.11,
+          "ars": 14553190.19,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10370.5,
+          "ars": 15856494.5,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11294.75,
+          "ars": 17269672.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1191": {
+      "id": "1191",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business 2020",
+      "precios": {
+        "2019": {
+          "usd": 11859.49,
+          "ars": 18133160.21,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12338.22,
+          "ars": 18865138.38,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12987.6,
+          "ars": 19858040.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1192": {
+      "id": "1192",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business 2022",
+      "precios": {
+        "0": {
+          "usd": 25872.17,
+          "ars": 39558547.93,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13701.02,
+          "ars": 20948859.58,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14386.07,
+          "ars": 21996301.03,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15105.37,
+          "ars": 23096110.73,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15860.64,
+          "ars": 24250918.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1193": {
+      "id": "1193",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business Mixto",
+      "precios": {
+        "2017": {
+          "usd": 10377.91,
+          "ars": 15867824.39,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11307.29,
+          "ars": 17288846.41,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12315.04,
+          "ars": 18829696.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1194": {
+      "id": "1194",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Business Mixto 2020",
+      "precios": {
+        "2019": {
+          "usd": 12930.79,
+          "ars": 19771177.91,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13452.76,
+          "ars": 20569270.04,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14160.8,
+          "ars": 21651863.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1195": {
+      "id": "1195",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,4 I X",
+      "precios": {
+        "2013": {
+          "usd": 6642.05,
+          "ars": 10155694.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1196": {
+      "id": "1196",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,4 I X 2014",
+      "precios": {
+        "2013": {
+          "usd": 6698.63,
+          "ars": 10242205.27,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7446.16,
+          "ars": 11385178.64,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7743.39,
+          "ars": 11839643.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1197": {
+      "id": "1197",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Sx",
+      "precios": {
+        "2013": {
+          "usd": 7164.3,
+          "ars": 10954214.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1198": {
+      "id": "1198",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Sx Pack",
+      "precios": {
+        "2013": {
+          "usd": 7488.22,
+          "ars": 11449488.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1199": {
+      "id": "1199",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Sx 2014",
+      "precios": {
+        "2013": {
+          "usd": 7315.22,
+          "ars": 11184971.38,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8365.44,
+          "ars": 12790757.76,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8699.37,
+          "ars": 13301336.73,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9049.28,
+          "ars": 13836349.12,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9585.18,
+          "ars": 14655740.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1200": {
+      "id": "1200",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Sx Pack 2014",
+      "precios": {
+        "2013": {
+          "usd": 7642.87,
+          "ars": 11685948.23,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8597.96,
+          "ars": 13146280.84,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8941.17,
+          "ars": 13671048.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1201": {
+      "id": "1201",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 110 Xtr",
+      "precios": {
+        "2014": {
+          "usd": 8922.41,
+          "ars": 13642364.89,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9278.57,
+          "ars": 14186933.53,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9651.79,
+          "ars": 14757586.91,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10223.36,
+          "ars": 15631517.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1202": {
+      "id": "1202",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Vti 115 Xtr 2017",
+      "precios": {
+        "2017": {
+          "usd": 11365.02,
+          "ars": 17377115.58,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12382.8,
+          "ars": 18933301.2,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13486.4,
+          "ars": 20620705.6,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14030.8,
+          "ars": 21453093.2,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14769.27,
+          "ars": 22582213.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1203": {
+      "id": "1203",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Vti 115 Xtr 2021",
+      "precios": {
+        "2021": {
+          "usd": 15445.78,
+          "ars": 23616597.62,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16218.07,
+          "ars": 24797429.03,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17028.98,
+          "ars": 26037310.42,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 17880.43,
+          "ars": 27339177.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1204": {
+      "id": "1204",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel Sx",
+      "precios": {
+        "2013": {
+          "usd": 7432.38,
+          "ars": 11364109.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1205": {
+      "id": "1205",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel Sx Pack",
+      "precios": {
+        "2013": {
+          "usd": 7745.01,
+          "ars": 11842120.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1206": {
+      "id": "1206",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel Sx 2014",
+      "precios": {
+        "2013": {
+          "usd": 8036.91,
+          "ars": 12288435.39,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8685.69,
+          "ars": 13280420.01,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9032.4,
+          "ars": 13810539.6,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9395.71,
+          "ars": 14366040.59,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9952.12,
+          "ars": 15216791.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1207": {
+      "id": "1207",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel Sx Pack 2014",
+      "precios": {
+        "2013": {
+          "usd": 8250.61,
+          "ars": 12615182.69,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8905.73,
+          "ars": 13616861.17,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9261.22,
+          "ars": 14160405.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1208": {
+      "id": "1208",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel 92 Xtr",
+      "precios": {
+        "2014": {
+          "usd": 9119.97,
+          "ars": 13944434.13,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9484.02,
+          "ars": 14501066.58,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9865.5,
+          "ars": 15084349.5,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10449.73,
+          "ars": 15977637.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1209": {
+      "id": "1209",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel 92 Xtr 2017",
+      "precios": {
+        "2017": {
+          "usd": 11783.34,
+          "ars": 18016726.86,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12838.59,
+          "ars": 19630204.11,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13982.8,
+          "ars": 21379701.2,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14547.25,
+          "ars": 22242745.25,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15312.89,
+          "ars": 23413408.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1210": {
+      "id": "1210",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1,6 Diesel 92 Xtr 2021",
+      "precios": {
+        "2020": {
+          "usd": 15078.03,
+          "ars": 23054307.87,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15813.54,
+          "ars": 24178902.66,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16604.22,
+          "ars": 25387852.38,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17434.43,
+          "ars": 26657243.47,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 18306.15,
+          "ars": 27990103.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1211": {
+      "id": "1211",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,4 I Sx",
+      "precios": {
+        "2013": {
+          "usd": 5673.67,
+          "ars": 8675041.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1212": {
+      "id": "1212",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,4 I Sx Pack Seg",
+      "precios": {
+        "2013": {
+          "usd": 6020.84,
+          "ars": 9205864.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1213": {
+      "id": "1213",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,4 I Sx Pack Premium",
+      "precios": {}
+    },
+    "1239": {
+      "id": "1239",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Live M22",
+      "precios": {
+        "2022": {
+          "usd": 10293.95,
+          "ars": 15739449.55,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 10808.65,
+          "ars": 16526425.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1240": {
+      "id": "1240",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Live Pack M22",
+      "precios": {
+        "2022": {
+          "usd": 10679.26,
+          "ars": 16328588.54,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11213.23,
+          "ars": 17145028.67,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 11937.98,
+          "ars": 18253171.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1241": {
+      "id": "1241",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Feel M22",
+      "precios": {
+        "2022": {
+          "usd": 11729.67,
+          "ars": 17934665.43,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12316.15,
+          "ars": 18831393.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1242": {
+      "id": "1242",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Feel Confort M22",
+      "precios": {
+        "2022": {
+          "usd": 11767.37,
+          "ars": 17992308.73,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12355.74,
+          "ars": 18891926.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1243": {
+      "id": "1243",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech First Edition",
+      "precios": {
+        "2022": {
+          "usd": 11928.8,
+          "ars": 18239135.2,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12525.24,
+          "ars": 19151091.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1244": {
+      "id": "1244",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 82 Pure Tech Feel Look",
+      "precios": {
+        "2023": {
+          "usd": 13072.77,
+          "ars": 19988265.33,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13477.08,
+          "ars": 20606455.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "1245": {
+      "id": "1245",
+      "marcaId": "11",
+      "modeloId": "151",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "5P 1,2 Feel Design",
+      "precios": {
+        "2023": {
+          "usd": 12769.49,
+          "ars": 19524550.21,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13164.43,
+          "ars": 20128413.47,
           "cotizacion": 1529
         }
       }
@@ -20028,6 +28444,36 @@
         }
       }
     },
+    "6498": {
+      "id": "6498",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,0 T Premier AT",
+      "precios": {
+        "0": {
+          "usd": 25510.68,
+          "ars": 39005829.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6499": {
+      "id": "6499",
+      "marcaId": "9",
+      "modeloId": "140",
+      "marca": "CHEVROLET",
+      "modelo": "SONIC",
+      "version": "5P 1,0 T Rs AT",
+      "precios": {
+        "0": {
+          "usd": 26374.53,
+          "ars": 40326656.37,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6589": {
       "id": "6589",
       "marcaId": "3",
@@ -20118,6 +28564,51 @@
         }
       }
     },
+    "6595": {
+      "id": "6595",
+      "marcaId": "9",
+      "modeloId": "139",
+      "marca": "CHEVROLET",
+      "modelo": "SILVERADO",
+      "version": "D/C 5,3 V8 10at 4X4 Z71 Trail Boss 2026",
+      "precios": {
+        "0": {
+          "usd": 68786.25,
+          "ars": 105174176.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6596": {
+      "id": "6596",
+      "marcaId": "9",
+      "modeloId": "139",
+      "marca": "CHEVROLET",
+      "modelo": "SILVERADO",
+      "version": "D/C 5,3 V8 10at  4X4 High Country 2026",
+      "precios": {
+        "0": {
+          "usd": 74623.39,
+          "ars": 114099163.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6597": {
+      "id": "6597",
+      "marcaId": "11",
+      "modeloId": "150",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Furgon 1,6 Diesel 92 Van 2026",
+      "precios": {
+        "0": {
+          "usd": 27244.3,
+          "ars": 41656534.7,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6660": {
       "id": "6660",
       "marcaId": "6",
@@ -20129,6 +28620,36 @@
         "0": {
           "usd": 47990,
           "ars": 73376710,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6661": {
+      "id": "6661",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P 1,3 Firefly Live Pk",
+      "precios": {
+        "0": {
+          "usd": 23211.73,
+          "ars": 35490735.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6662": {
+      "id": "6662",
+      "marcaId": "11",
+      "modeloId": "149",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "5P 1,3 Firefly Feel",
+      "precios": {
+        "0": {
+          "usd": 24566.78,
+          "ars": 37562606.62,
           "cotizacion": 1529
         }
       }
@@ -20189,6 +28710,21 @@
         "0": {
           "usd": 36500,
           "ars": 55808500,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6688": {
+      "id": "6688",
+      "marcaId": "9",
+      "modeloId": "138",
+      "marca": "CHEVROLET",
+      "modelo": "S-10 PICK - UP",
+      "version": "D/C 2,8 Td Trail Boss AT 4X4 2026",
+      "precios": {
+        "0": {
+          "usd": 43062.48,
+          "ars": 65842531.92,
           "cotizacion": 1529
         }
       }
