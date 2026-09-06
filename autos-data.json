@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-06T00:06:10.999Z",
+  "actualizado": "2026-09-06T02:09:30.850Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6163,
-  "versionesProcesadas": 565,
-  "versionesConValuacion": 388,
+  "versionesProcesadas": 913,
+  "versionesConValuacion": 712,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -11582,6 +11582,26 @@
       "version": "Coupe 2,0 I Active",
       "precios": {}
     },
+    "547": {
+      "id": "547",
+      "marcaId": "5",
+      "modeloId": "47",
+      "marca": "BMW",
+      "modelo": "120",
+      "version": "Coupe 2,0 I Executive",
+      "precios": {
+        "2013": {
+          "usd": 22548.61,
+          "ars": 34476824.69,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 24137.45,
+          "ars": 36906161.05,
+          "cotizacion": 1529
+        }
+      }
+    },
     "548": {
       "id": "548",
       "marcaId": "5",
@@ -11598,6 +11618,8042 @@
         "2014": {
           "usd": 38092.96,
           "ars": 58244135.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "549": {
+      "id": "549",
+      "marcaId": "5",
+      "modeloId": "48",
+      "marca": "BMW",
+      "modelo": "125",
+      "version": "3P 1,6 I AT",
+      "precios": {
+        "2013": {
+          "usd": 25168.24,
+          "ars": 38482238.96,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 26941.67,
+          "ars": 41193813.43,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 27884.59,
+          "ars": 42635538.11,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 29320.69,
+          "ars": 44831335.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "550": {
+      "id": "550",
+      "marcaId": "5",
+      "modeloId": "48",
+      "marca": "BMW",
+      "modelo": "125",
+      "version": "5P 2,0 D Sport Line",
+      "precios": {
+        "2013": {
+          "usd": 26080.11,
+          "ars": 39876488.19,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 27917.79,
+          "ars": 42686300.91,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 29036.85,
+          "ars": 44397343.65,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 30532.29,
+          "ars": 46683871.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "551": {
+      "id": "551",
+      "marcaId": "5",
+      "modeloId": "48",
+      "marca": "BMW",
+      "modelo": "125",
+      "version": "Coupe 3,0 Executive",
+      "precios": {
+        "2013": {
+          "usd": 26879.81,
+          "ars": 41099229.49,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 28773.84,
+          "ars": 43995201.36,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 28816.62,
+          "ars": 44060611.98,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 30300.72,
+          "ars": 46329800.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "552": {
+      "id": "552",
+      "marcaId": "5",
+      "modeloId": "49",
+      "marca": "BMW",
+      "modelo": "130",
+      "version": "3P 3,0 I Limited Edition",
+      "precios": {}
+    },
+    "553": {
+      "id": "553",
+      "marcaId": "5",
+      "modeloId": "50",
+      "marca": "BMW",
+      "modelo": "135",
+      "version": "Coupe 3,0 I Sportive",
+      "precios": {
+        "2013": {
+          "usd": 38133,
+          "ars": 58305357,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 40819.96,
+          "ars": 62413718.84,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 44408.88,
+          "ars": 67901177.52,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 47648.99,
+          "ars": 72855305.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "554": {
+      "id": "554",
+      "marcaId": "5",
+      "modeloId": "50",
+      "marca": "BMW",
+      "modelo": "135",
+      "version": "3P 3,0 I M",
+      "precios": {
+        "2013": {
+          "usd": 39561.61,
+          "ars": 60489701.69,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 42349.24,
+          "ars": 64751987.96,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 46106.04,
+          "ars": 70496135.16,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 49469.97,
+          "ars": 75639584.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "555": {
+      "id": "555",
+      "marcaId": "5",
+      "modeloId": "51",
+      "marca": "BMW",
+      "modelo": "218 i",
+      "version": "4P 1,5 T 7sept Gran Coupe Advantage",
+      "precios": {
+        "2020": {
+          "usd": 44284.63,
+          "ars": 67711199.27,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 46498.86,
+          "ars": 71096756.94,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 48823.81,
+          "ars": 74651605.49,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 52729.71,
+          "ars": 80623726.59,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 55366.2,
+          "ars": 84654919.8,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 57275.68,
+          "ars": 87574514.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "556": {
+      "id": "556",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T Sport Line",
+      "precios": {
+        "2015": {
+          "usd": 30811.87,
+          "ars": 47111349.23,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 31623.54,
+          "ars": 48352392.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "557": {
+      "id": "557",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T Sport 2017",
+      "precios": {
+        "2017": {
+          "usd": 33175.74,
+          "ars": 50725706.46,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 35450.15,
+          "ars": 54203279.35,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 40590.11,
+          "ars": 62062278.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "558": {
+      "id": "558",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Conv 2,0 T Sport 2017",
+      "precios": {
+        "2017": {
+          "usd": 38099.78,
+          "ars": 58254563.62,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 40711.77,
+          "ars": 62248296.33,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 46614.61,
+          "ars": 71273738.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "559": {
+      "id": "559",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T Sport Lci 8AT",
+      "precios": {
+        "2019": {
+          "usd": 45100.12,
+          "ars": 68958083.48,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 47095.14,
+          "ars": 72008469.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "560": {
+      "id": "560",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Conv 2,0 T Sport Lci 8AT",
+      "precios": {
+        "2019": {
+          "usd": 51794.01,
+          "ars": 79193041.29,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 54085.14,
+          "ars": 82696179.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "561": {
+      "id": "561",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T 8AT Sportline Lci 2020",
+      "precios": {
+        "2019": {
+          "usd": 45996.58,
+          "ars": 70328770.82,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 48031.26,
+          "ars": 73439796.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "562": {
+      "id": "562",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T 8AT M Sport Lcii 2021",
+      "precios": {
+        "2021": {
+          "usd": 49683.12,
+          "ars": 75965490.48,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 52167.28,
+          "ars": 79763771.12,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 56340.66,
+          "ars": 86144869.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "563": {
+      "id": "563",
+      "marcaId": "5",
+      "modeloId": "52",
+      "marca": "BMW",
+      "modelo": "220 i",
+      "version": "Coupe 2,0 T 8AT Advantage 2023",
+      "precios": {
+        "0": {
+          "usd": 59900,
+          "ars": 91587100,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 57275.68,
+          "ars": 87574514.72,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 59373.32,
+          "ars": 90781806.28,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 61868.14,
+          "ars": 94596386.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "564": {
+      "id": "564",
+      "marcaId": "5",
+      "modeloId": "53",
+      "marca": "BMW",
+      "modelo": "235 i",
+      "version": "Coupe 3,0 T M Package",
+      "precios": {
+        "2015": {
+          "usd": 52526.47,
+          "ars": 80312972.63,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 54847.74,
+          "ars": 83862194.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "565": {
+      "id": "565",
+      "marcaId": "5",
+      "modeloId": "54",
+      "marca": "BMW",
+      "modelo": "318",
+      "version": "4P 1,8 I Executive",
+      "precios": {
+        "2013": {
+          "usd": 17102.72,
+          "ars": 26150058.88,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 18307.83,
+          "ars": 27992672.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "566": {
+      "id": "566",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 I Executive",
+      "precios": {}
+    },
+    "567": {
+      "id": "567",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 D Executive",
+      "precios": {}
+    },
+    "568": {
+      "id": "568",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "Coupe 2,0 I Executive",
+      "precios": {}
+    },
+    "569": {
+      "id": "569",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 D Sport/luxyry",
+      "precios": {}
+    },
+    "570": {
+      "id": "570",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 D Sport/luxyry 2013",
+      "precios": {
+        "2013": {
+          "usd": 27978.59,
+          "ars": 42779264.11,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 29950.04,
+          "ars": 45793611.16,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 33045.23,
+          "ars": 50526156.67,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 35456.24,
+          "ars": 54212590.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "571": {
+      "id": "571",
+      "marcaId": "5",
+      "modeloId": "55",
+      "marca": "BMW",
+      "modelo": "320",
+      "version": "4P 2,0 I 2013",
+      "precios": {
+        "2013": {
+          "usd": 23236.45,
+          "ars": 35528532.05,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 24873.76,
+          "ars": 38031979.04,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 27037.01,
+          "ars": 41339588.29,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 29009.65,
+          "ars": 44355754.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "572": {
+      "id": "572",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Executive",
+      "precios": {
+        "2016": {
+          "usd": 29890.15,
+          "ars": 45702039.35,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 32366.98,
+          "ars": 49489112.42,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 36291.24,
+          "ars": 55489305.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "573": {
+      "id": "573",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Sportline",
+      "precios": {
+        "2016": {
+          "usd": 32139.95,
+          "ars": 49141983.55,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 34803.21,
+          "ars": 53214108.09,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 37063.34,
+          "ars": 56669846.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "574": {
+      "id": "574",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Sportline 2019",
+      "precios": {
+        "2019": {
+          "usd": 46390.51,
+          "ars": 70931089.79,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 46974.85,
+          "ars": 71824545.65,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 49323.59,
+          "ars": 75415769.11,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 51789.77,
+          "ars": 79186558.33,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 54379.26,
+          "ars": 83145888.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "575": {
+      "id": "575",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Sportline Ii",
+      "precios": {
+        "0": {
+          "usd": 61400,
+          "ars": 93880600,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 54515.55,
+          "ars": 83354275.95,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 57241.32,
+          "ars": 87521978.28,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 61820.63,
+          "ars": 94523743.27,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 63933.85,
+          "ars": 97754856.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "576": {
+      "id": "576",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "Coupe 2,5 I Executive",
+      "precios": {
+        "2013": {
+          "usd": 25844.29,
+          "ars": 39515919.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 27931.37,
+          "ars": 42707064.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "577": {
+      "id": "577",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "Coupe 2,5 I Executive Tronic",
+      "precios": {
+        "2013": {
+          "usd": 27169.71,
+          "ars": 41542486.59,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 29363.83,
+          "ars": 44897296.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "578": {
+      "id": "578",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "4P 2,5 I Executive",
+      "precios": {}
+    },
+    "579": {
+      "id": "579",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "Conv 3,0 I Executive",
+      "precios": {
+        "2013": {
+          "usd": 35091.04,
+          "ars": 53654200.16,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 37924.85,
+          "ars": 57987095.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "580": {
+      "id": "580",
+      "marcaId": "5",
+      "modeloId": "57",
+      "marca": "BMW",
+      "modelo": "325",
+      "version": "Coupe 3,0 I Sportive",
+      "precios": {
+        "2013": {
+          "usd": 31038.91,
+          "ars": 47458493.39,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 33545.49,
+          "ars": 51291054.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "581": {
+      "id": "581",
+      "marcaId": "5",
+      "modeloId": "58",
+      "marca": "BMW",
+      "modelo": "328",
+      "version": "4P 2,0 I Sport/luxury",
+      "precios": {
+        "2013": {
+          "usd": 27234.59,
+          "ars": 41641688.11,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 29153.62,
+          "ars": 44575884.98,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 32223.64,
+          "ars": 49269945.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "582": {
+      "id": "582",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 3,0 I Executive",
+      "precios": {}
+    },
+    "583": {
+      "id": "583",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 3,0 I Executive Tronic",
+      "precios": {}
+    },
+    "584": {
+      "id": "584",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 2,0 T Sportline 8AT",
+      "precios": {
+        "0": {
+          "usd": 73900,
+          "ars": 112993100,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 54175.12,
+          "ars": 82833758.48,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 57628.98,
+          "ars": 88114710.42,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 60510.43,
+          "ars": 92520447.47,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 63535.95,
+          "ars": 97146467.55,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 68618.83,
+          "ars": 104918191.07,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 72708.46,
+          "ars": 111171235.34,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 80950.18,
+          "ars": 123772825.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "585": {
+      "id": "585",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 2,0 T Sportline 8AT Shadow",
+      "precios": {
+        "2019": {
+          "usd": 56883.87,
+          "ars": 86975437.23,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 60510.43,
+          "ars": 92520447.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "586": {
+      "id": "586",
+      "marcaId": "5",
+      "modeloId": "60",
+      "marca": "BMW",
+      "modelo": "330e",
+      "version": "4P 2,0 T Sportline",
+      "precios": {
+        "2023": {
+          "usd": 69077.7,
+          "ars": 105619803.3,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 72713.37,
+          "ars": 111178742.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "587": {
+      "id": "587",
+      "marcaId": "5",
+      "modeloId": "61",
+      "marca": "BMW",
+      "modelo": "335",
+      "version": "4P 3,0 I 2013",
+      "precios": {
+        "2013": {
+          "usd": 35426.21,
+          "ars": 54166675.09,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 37861.67,
+          "ars": 57890493.43,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 40528.59,
+          "ars": 61968214.11,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 42916.93,
+          "ars": 65619985.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "588": {
+      "id": "588",
+      "marcaId": "5",
+      "modeloId": "61",
+      "marca": "BMW",
+      "modelo": "335",
+      "version": "Coupe 3,0 Sportive Bt",
+      "precios": {
+        "2013": {
+          "usd": 35579.91,
+          "ars": 54401682.39,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 38025.94,
+          "ars": 58141662.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "589": {
+      "id": "589",
+      "marcaId": "5",
+      "modeloId": "61",
+      "marca": "BMW",
+      "modelo": "335",
+      "version": "Coupe 3,0 Sportive Bt AT",
+      "precios": {}
+    },
+    "590": {
+      "id": "590",
+      "marcaId": "5",
+      "modeloId": "62",
+      "marca": "BMW",
+      "modelo": "428 i",
+      "version": "Coupe 2,0 T Sport Line",
+      "precios": {
+        "2015": {
+          "usd": 36224.71,
+          "ars": 55387581.59,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 37999.47,
+          "ars": 58101189.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "591": {
+      "id": "591",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Coupe 2,0 T Sport",
+      "precios": {
+        "2016": {
+          "usd": 35082,
+          "ars": 53640378,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 39421.66,
+          "ars": 60275718.14,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 45861.28,
+          "ars": 70121897.12,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 49377.31,
+          "ars": 75497906.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "592": {
+      "id": "592",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Coupe 2,0 T Sportline Lci 8AT",
+      "precios": {
+        "2019": {
+          "usd": 55944.49,
+          "ars": 85539125.21,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 60655.6,
+          "ars": 92742412.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "593": {
+      "id": "593",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Coupe 2,0 T M Sportpackage 8AT",
+      "precios": {
+        "0": {
+          "usd": 74900,
+          "ars": 114522100,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 62657.25,
+          "ars": 95802935.25,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 65790.11,
+          "ars": 100593078.19,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 71053.32,
+          "ars": 108640526.28,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 74792.97,
+          "ars": 114358451.13,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 78766.97,
+          "ars": 120434697.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "594": {
+      "id": "594",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Gran Coupe 2,0 T Sport",
+      "precios": {
+        "2016": {
+          "usd": 38000.39,
+          "ars": 58102596.31,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 42701.07,
+          "ars": 65289936.03,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 49676.38,
+          "ars": 75955185.02,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 53484.9,
+          "ars": 81778412.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "595": {
+      "id": "595",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Gran Coupe 2,0 T Sportline Lci 8AT",
+      "precios": {
+        "2019": {
+          "usd": 60598.39,
+          "ars": 92654938.31,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 65701.42,
+          "ars": 100457471.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "596": {
+      "id": "596",
+      "marcaId": "5",
+      "modeloId": "63",
+      "marca": "BMW",
+      "modelo": "430 i",
+      "version": "Gran Coupe 2,0 T Sportline 8AT 2023",
+      "precios": {
+        "2023": {
+          "usd": 73075.16,
+          "ars": 111731919.64,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 76921.22,
+          "ars": 117612545.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "597": {
+      "id": "597",
+      "marcaId": "5",
+      "modeloId": "64",
+      "marca": "BMW",
+      "modelo": "435 i",
+      "version": "Coupe 3,0 T V6  M Package",
+      "precios": {
+        "2015": {
+          "usd": 47051.57,
+          "ars": 71941850.53,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 51308.44,
+          "ars": 78450604.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "598": {
+      "id": "598",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Coupe 3,0 T M Package",
+      "precios": {
+        "2016": {
+          "usd": 41561.48,
+          "ars": 63547502.92,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 47655.77,
+          "ars": 72865672.33,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 55440.45,
+          "ars": 84768448.05,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 63202.11,
+          "ars": 96636026.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "599": {
+      "id": "599",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Gran Coupe 3,0 T M Package",
+      "precios": {
+        "2016": {
+          "usd": 42357.67,
+          "ars": 64764877.43,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 48568.72,
+          "ars": 74261572.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 56502.52,
+          "ars": 86392353.08,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 64412.88,
+          "ars": 98487293.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "600": {
+      "id": "600",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Cabrio 3,0 T Sport Line",
+      "precios": {
+        "2016": {
+          "usd": 48864.59,
+          "ars": 74713958.11,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 56029.77,
+          "ars": 85669518.33,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 65182.35,
+          "ars": 99663813.15,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 74307.88,
+          "ars": 113616748.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "601": {
+      "id": "601",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Coupe 3,0 T M Sport Lci 8AT",
+      "precios": {
+        "2019": {
+          "usd": 78575.38,
+          "ars": 120141756.02,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 85192.25,
+          "ars": 130258950.25,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 89451.86,
+          "ars": 136771893.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "602": {
+      "id": "602",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Gran Coupe 3,0 T Msport Lci 8AT",
+      "precios": {
+        "2019": {
+          "usd": 80080.65,
+          "ars": 122443313.85,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 86824.28,
+          "ars": 132754324.12,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 91165.5,
+          "ars": 139392049.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "603": {
+      "id": "603",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Cabrio 3,0 T M Package 8AT",
+      "precios": {
+        "2019": {
+          "usd": 92382.51,
+          "ars": 141252857.79,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 100162.09,
+          "ars": 153147835.61,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 105170.2,
+          "ars": 160805235.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "604": {
+      "id": "604",
+      "marcaId": "5",
+      "modeloId": "65",
+      "marca": "BMW",
+      "modelo": "440 i",
+      "version": "Cabrio 3,0 T M Sport Lci 8AT",
+      "precios": {
+        "2019": {
+          "usd": 92382.51,
+          "ars": 141252857.79,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 100162.09,
+          "ars": 153147835.61,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 105170.2,
+          "ars": 160805235.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "605": {
+      "id": "605",
+      "marcaId": "5",
+      "modeloId": "66",
+      "marca": "BMW",
+      "modelo": "525",
+      "version": "4P 2,0 D Executive",
+      "precios": {
+        "2013": {
+          "usd": 30883.28,
+          "ars": 47220535.12,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 33629.4,
+          "ars": 51419352.6,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 37517.79,
+          "ars": 57364700.91,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 40630.79,
+          "ars": 62124477.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "606": {
+      "id": "606",
+      "marcaId": "5",
+      "modeloId": "67",
+      "marca": "BMW",
+      "modelo": "528",
+      "version": "4P 2,8 I Executive",
+      "precios": {}
+    },
+    "607": {
+      "id": "607",
+      "marcaId": "5",
+      "modeloId": "68",
+      "marca": "BMW",
+      "modelo": "530",
+      "version": "4P 3,0 I Executive",
+      "precios": {
+        "2013": {
+          "usd": 28757.41,
+          "ars": 43970079.89,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 31314.5,
+          "ars": 47879870.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "608": {
+      "id": "608",
+      "marcaId": "5",
+      "modeloId": "68",
+      "marca": "BMW",
+      "modelo": "530",
+      "version": "4P 3,0 D Executive",
+      "precios": {
+        "2013": {
+          "usd": 32051.88,
+          "ars": 49007324.52,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 34901.91,
+          "ars": 53365020.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "609": {
+      "id": "609",
+      "marcaId": "5",
+      "modeloId": "69",
+      "marca": "BMW",
+      "modelo": "530 i",
+      "version": "4P Sportline",
+      "precios": {
+        "2019": {
+          "usd": 53909.19,
+          "ars": 82427151.51,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 58448.91,
+          "ars": 89368383.39,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 61525.17,
+          "ars": 94071984.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "610": {
+      "id": "610",
+      "marcaId": "5",
+      "modeloId": "70",
+      "marca": "BMW",
+      "modelo": "535",
+      "version": "4P 3,0 I Executive",
+      "precios": {
+        "2013": {
+          "usd": 28513.29,
+          "ars": 43596820.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 31048.67,
+          "ars": 47473416.43,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 34608.02,
+          "ars": 52915662.58,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 42596.25,
+          "ars": 65129666.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "611": {
+      "id": "611",
+      "marcaId": "5",
+      "modeloId": "70",
+      "marca": "BMW",
+      "modelo": "535",
+      "version": "5P 3,0 Gran Turismo",
+      "precios": {
+        "2013": {
+          "usd": 31986.08,
+          "ars": 48906716.32,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 34830.25,
+          "ars": 53255452.25,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 38525.91,
+          "ars": 58906116.39,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 47418.47,
+          "ars": 72502840.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "612": {
+      "id": "612",
+      "marcaId": "5",
+      "modeloId": "71",
+      "marca": "BMW",
+      "modelo": "535 i",
+      "version": "4P 3,0 T M Package",
+      "precios": {
+        "2016": {
+          "usd": 51904.55,
+          "ars": 79362056.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "613": {
+      "id": "613",
+      "marcaId": "5",
+      "modeloId": "72",
+      "marca": "BMW",
+      "modelo": "540 i",
+      "version": "4P 3,0 T M Package",
+      "precios": {
+        "2017": {
+          "usd": 54947.9,
+          "ars": 84015339.1,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 63923.76,
+          "ars": 97739429.04,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 71265.44,
+          "ars": 108964857.76,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 77266.74,
+          "ars": 118140845.46,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 85851.93,
+          "ars": 131267600.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "614": {
+      "id": "614",
+      "marcaId": "5",
+      "modeloId": "73",
+      "marca": "BMW",
+      "modelo": "550",
+      "version": "4P 4,4 I Premium",
+      "precios": {
+        "2013": {
+          "usd": 25584.6,
+          "ars": 39118853.4,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 27859.57,
+          "ars": 42597282.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "615": {
+      "id": "615",
+      "marcaId": "5",
+      "modeloId": "74",
+      "marca": "BMW",
+      "modelo": "550e",
+      "version": "4P 3,0 8AT Xdrive M Sport Pro",
+      "precios": {
+        "0": {
+          "usd": 139900,
+          "ars": 213907100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 139721.22,
+          "ars": 213633745.38,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 149051.35,
+          "ars": 227899514.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "616": {
+      "id": "616",
+      "marcaId": "5",
+      "modeloId": "75",
+      "marca": "BMW",
+      "modelo": "640",
+      "version": "Coupe 3,0 I Sportive",
+      "precios": {
+        "2013": {
+          "usd": 48506.82,
+          "ars": 74166927.78,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 52820.01,
+          "ars": 80761795.29,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 58421.18,
+          "ars": 89325984.22,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 63348.33,
+          "ars": 96859596.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "617": {
+      "id": "617",
+      "marcaId": "5",
+      "modeloId": "75",
+      "marca": "BMW",
+      "modelo": "640",
+      "version": "Conv Sportive",
+      "precios": {
+        "2013": {
+          "usd": 52724.8,
+          "ars": 80616219.2,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 57413.06,
+          "ars": 87784568.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "618": {
+      "id": "618",
+      "marcaId": "5",
+      "modeloId": "75",
+      "marca": "BMW",
+      "modelo": "640",
+      "version": "4P Gran Coupe 3,0 I",
+      "precios": {
+        "2013": {
+          "usd": 47758.71,
+          "ars": 73023067.59,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 52005.38,
+          "ars": 79516226.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "619": {
+      "id": "619",
+      "marcaId": "5",
+      "modeloId": "76",
+      "marca": "BMW",
+      "modelo": "640 i",
+      "version": "Coupe 3,0 T Sportive",
+      "precios": {
+        "2016": {
+          "usd": 66823.41,
+          "ars": 102172993.89,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 76420.5,
+          "ars": 116846944.5,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 88903.96,
+          "ars": 135934154.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "620": {
+      "id": "620",
+      "marcaId": "5",
+      "modeloId": "77",
+      "marca": "BMW",
+      "modelo": "650",
+      "version": "Coupe 4,8 Ci Premium",
+      "precios": {}
+    },
+    "621": {
+      "id": "621",
+      "marcaId": "5",
+      "modeloId": "77",
+      "marca": "BMW",
+      "modelo": "650",
+      "version": "Coupe 4,8 Ci Premium Tronic",
+      "precios": {}
+    },
+    "622": {
+      "id": "622",
+      "marcaId": "5",
+      "modeloId": "78",
+      "marca": "BMW",
+      "modelo": "650 i",
+      "version": "Coupe 4,4 Bt 8AT M Sport",
+      "precios": {
+        "2017": {
+          "usd": 54891.67,
+          "ars": 83929363.43,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 63858.35,
+          "ars": 97639417.15,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 76630.02,
+          "ars": 117167300.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "623": {
+      "id": "623",
+      "marcaId": "5",
+      "modeloId": "78",
+      "marca": "BMW",
+      "modelo": "650 i",
+      "version": "Coupe Gran 4,4 Bt 8AT M Sport",
+      "precios": {
+        "2017": {
+          "usd": 56460.9,
+          "ars": 86328716.1,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 65683.92,
+          "ars": 100430713.68,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 78820.7,
+          "ars": 120516850.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "624": {
+      "id": "624",
+      "marcaId": "5",
+      "modeloId": "78",
+      "marca": "BMW",
+      "modelo": "650 i",
+      "version": "Coupe Gran 4,4 V8 Bt 8AT M Sport 2019",
+      "precios": {
+        "2019": {
+          "usd": 82760.42,
+          "ars": 126540682.18,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 89729.72,
+          "ars": 137196741.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "625": {
+      "id": "625",
+      "marcaId": "5",
+      "modeloId": "78",
+      "marca": "BMW",
+      "modelo": "650 i",
+      "version": "Coupe Gran 4,4 V8 Bt 8AT M Sport M6 2019",
+      "precios": {
+        "2019": {
+          "usd": 85126.36,
+          "ars": 130158204.44,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 92294.89,
+          "ars": 141118886.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "626": {
+      "id": "626",
+      "marcaId": "5",
+      "modeloId": "79",
+      "marca": "BMW",
+      "modelo": "750",
+      "version": "4P 4,8 I Premium Tronic",
+      "precios": {
+        "2013": {
+          "usd": 43912.56,
+          "ars": 67142304.24,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 47817.24,
+          "ars": 73112559.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "627": {
+      "id": "627",
+      "marcaId": "5",
+      "modeloId": "79",
+      "marca": "BMW",
+      "modelo": "750",
+      "version": "4P 4,8 Ia Individual Tronic",
+      "precios": {}
+    },
+    "628": {
+      "id": "628",
+      "marcaId": "5",
+      "modeloId": "80",
+      "marca": "BMW",
+      "modelo": "750 i",
+      "version": "4P 4,4 Bt 8AT M Sport Excellence",
+      "precios": {
+        "2017": {
+          "usd": 98992.61,
+          "ars": 151359700.69,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 115163.27,
+          "ars": 176084639.83,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 138195.92,
+          "ars": 211301561.68,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 149640.04,
+          "ars": 228799621.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "629": {
+      "id": "629",
+      "marcaId": "5",
+      "modeloId": "80",
+      "marca": "BMW",
+      "modelo": "750 i",
+      "version": "4P Li Xdrive M Sport Pure Exc",
+      "precios": {
+        "2021": {
+          "usd": 161150.82,
+          "ars": 246399603.78,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 169208.36,
+          "ars": 258719582.44,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 182745.03,
+          "ars": 279417150.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "630": {
+      "id": "630",
+      "marcaId": "5",
+      "modeloId": "81",
+      "marca": "BMW",
+      "modelo": "760 i",
+      "version": "4P 4,4 Bt V8 8AT Mildhybrid Xdrive Msport Pro",
+      "precios": {
+        "0": {
+          "usd": 227900,
+          "ars": 348459100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 232945.17,
+          "ars": 356173164.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "631": {
+      "id": "631",
+      "marcaId": "5",
+      "modeloId": "82",
+      "marca": "BMW",
+      "modelo": "M1",
+      "version": "Coupe",
+      "precios": {
+        "2013": {
+          "usd": 45962.29,
+          "ars": 70276341.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 50049.23,
+          "ars": 76525272.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "632": {
+      "id": "632",
+      "marcaId": "5",
+      "modeloId": "83",
+      "marca": "BMW",
+      "modelo": "M2",
+      "version": "Coupe 3,0 T",
+      "precios": {
+        "2017": {
+          "usd": 73635.65,
+          "ars": 112588908.85,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 85664.19,
+          "ars": 130980546.51,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 102797.03,
+          "ars": 157176658.87,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 111453.62,
+          "ars": 170412584.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "633": {
+      "id": "633",
+      "marcaId": "5",
+      "modeloId": "83",
+      "marca": "BMW",
+      "modelo": "M2",
+      "version": "Coupe 3,0 Bt 8AT 2025",
+      "precios": {
+        "0": {
+          "usd": 127900,
+          "ars": 195559100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 130408.28,
+          "ars": 199394260.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "634": {
+      "id": "634",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "Coupe 4,0 M Sport",
+      "precios": {
+        "2013": {
+          "usd": 60752.36,
+          "ars": 92890358.44,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 66822.64,
+          "ars": 102171816.56,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 74199,
+          "ars": 113450271,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "635": {
+      "id": "635",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "4P 3,0 Bt",
+      "precios": {
+        "2016": {
+          "usd": 100542.04,
+          "ars": 153728779.16,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 108202.8,
+          "ars": 165442081.2,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 116532.73,
+          "ars": 178178544.17,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 126666.01,
+          "ars": 193672329.29,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 137332.62,
+          "ars": 209981575.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "636": {
+      "id": "636",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "4P Competition Mrace Track 510CV",
+      "precios": {
+        "2024": {
+          "usd": 160747.94,
+          "ars": 245783600.26,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 168785.34,
+          "ars": 258072784.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "637": {
+      "id": "637",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe 3,0 Bt",
+      "precios": {
+        "2016": {
+          "usd": 117666.67,
+          "ars": 179912338.43,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 122633.32,
+          "ars": 187506346.28,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 127903.41,
+          "ars": 195564313.89,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 134635.17,
+          "ars": 205857174.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "638": {
+      "id": "638",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe 3,0 Bt F82 Lci",
+      "precios": {
+        "2018": {
+          "usd": 127754.21,
+          "ars": 195336187.09,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 137222.57,
+          "ars": 209813309.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "639": {
+      "id": "639",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe 3,0 Bt Lci 2019",
+      "precios": {
+        "2019": {
+          "usd": 140023.03,
+          "ars": 214095212.87,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 151814.44,
+          "ars": 232124278.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "640": {
+      "id": "640",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe Competition Mrace Track 510CV",
+      "precios": {
+        "2024": {
+          "usd": 169208.36,
+          "ars": 258719582.44,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 177668.78,
+          "ars": 271655564.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "641": {
+      "id": "641",
+      "marcaId": "5",
+      "modeloId": "86",
+      "marca": "BMW",
+      "modelo": "M5",
+      "version": "4P 5,0 Sport 7 Vel",
+      "precios": {
+        "2013": {
+          "usd": 79529.89,
+          "ars": 121601201.81,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 83977.34,
+          "ars": 128401352.86,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 91834.52,
+          "ars": 140414981.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "642": {
+      "id": "642",
+      "marcaId": "5",
+      "modeloId": "86",
+      "marca": "BMW",
+      "modelo": "M5",
+      "version": "4P 4,4 V8 Bt",
+      "precios": {
+        "2016": {
+          "usd": 99139.82,
+          "ars": 151584784.78,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 109064.71,
+          "ars": 166759941.59,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 120071.24,
+          "ars": 183588925.96,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 137224.27,
+          "ars": 209815908.83,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 149020.31,
+          "ars": 227852053.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "643": {
+      "id": "643",
+      "marcaId": "5",
+      "modeloId": "86",
+      "marca": "BMW",
+      "modelo": "M5",
+      "version": "4P 35 J",
+      "precios": {
+        "2020": {
+          "usd": 170837.02,
+          "ars": 261209803.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "644": {
+      "id": "644",
+      "marcaId": "5",
+      "modeloId": "86",
+      "marca": "BMW",
+      "modelo": "M5",
+      "version": "4P 4,4 Bt 8step Mxdrive Plug-In Hybrid",
+      "precios": {
+        "0": {
+          "usd": 199900,
+          "ars": 305647100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 214302.1,
+          "ars": 327667910.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "645": {
+      "id": "645",
+      "marcaId": "5",
+      "modeloId": "87",
+      "marca": "BMW",
+      "modelo": "M6",
+      "version": "Coupe 5,0 V10 Sport",
+      "precios": {}
+    },
+    "646": {
+      "id": "646",
+      "marcaId": "5",
+      "modeloId": "87",
+      "marca": "BMW",
+      "modelo": "M6",
+      "version": "Coupe Gran",
+      "precios": {
+        "2014": {
+          "usd": 98028.14,
+          "ars": 149885026.06,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 108460.35,
+          "ars": 165835875.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "647": {
+      "id": "647",
+      "marcaId": "5",
+      "modeloId": "87",
+      "marca": "BMW",
+      "modelo": "M6",
+      "version": "Coupe Gran 4,4 Bt 2017",
+      "precios": {
+        "2017": {
+          "usd": 112906.33,
+          "ars": 172633778.57,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 132846.21,
+          "ars": 203121855.09,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 154364.87,
+          "ars": 236023886.23,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 167364.01,
+          "ars": 255899571.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "648": {
+      "id": "648",
+      "marcaId": "5",
+      "modeloId": "87",
+      "marca": "BMW",
+      "modelo": "M6",
+      "version": "Coupe Gran 4,4 V8 Bt 8AT M Sport M6 2019",
+      "precios": {
+        "2019": {
+          "usd": 162083.11,
+          "ars": 247825075.19,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 175732.21,
+          "ars": 268694549.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "649": {
+      "id": "649",
+      "marcaId": "5",
+      "modeloId": "88",
+      "marca": "BMW",
+      "modelo": "M135",
+      "version": "5P 2,0 8AT Xdrive M Package",
+      "precios": {
+        "2019": {
+          "usd": 56222.09,
+          "ars": 85963575.61,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 63225.2,
+          "ars": 96671330.8,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 66386.46,
+          "ars": 101504897.34,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 69705.79,
+          "ars": 106580152.91,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 75282.25,
+          "ars": 115106560.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "650": {
+      "id": "650",
+      "marcaId": "5",
+      "modeloId": "88",
+      "marca": "BMW",
+      "modelo": "M135",
+      "version": "5P Xdrive M Performance",
+      "precios": {
+        "2022": {
+          "usd": 73191.08,
+          "ars": 111909161.32,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 79046.36,
+          "ars": 120861884.44,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 83206.7,
+          "ars": 127223044.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "651": {
+      "id": "651",
+      "marcaId": "5",
+      "modeloId": "88",
+      "marca": "BMW",
+      "modelo": "M135",
+      "version": "5P 2,0 T Xdrive 8AT 2025",
+      "precios": {
+        "0": {
+          "usd": 71900,
+          "ars": 109935100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 82525.28,
+          "ars": 126181153.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "652": {
+      "id": "652",
+      "marcaId": "5",
+      "modeloId": "89",
+      "marca": "BMW",
+      "modelo": "M140i",
+      "version": "3P 3,0 M Package",
+      "precios": {
+        "2017": {
+          "usd": 44383.71,
+          "ars": 67862692.59,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 49175.13,
+          "ars": 75188773.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "653": {
+      "id": "653",
+      "marcaId": "5",
+      "modeloId": "89",
+      "marca": "BMW",
+      "modelo": "M140i",
+      "version": "5P 3,0 M Package",
+      "precios": {
+        "2017": {
+          "usd": 45042.22,
+          "ars": 68869554.38,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 49904.73,
+          "ars": 76304332.17,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 59885.68,
+          "ars": 91565204.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "654": {
+      "id": "654",
+      "marcaId": "5",
+      "modeloId": "90",
+      "marca": "BMW",
+      "modelo": "M235i",
+      "version": "4P Gran Coupe 2,0 T 8sept  Xdrive",
+      "precios": {
+        "2022": {
+          "usd": 69788.54,
+          "ars": 106706677.66,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 75371.62,
+          "ars": 115243206.98,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 79338.55,
+          "ars": 121308642.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "655": {
+      "id": "655",
+      "marcaId": "5",
+      "modeloId": "91",
+      "marca": "BMW",
+      "modelo": "M240i",
+      "version": "Coupe 3,0 T 8AT",
+      "precios": {
+        "2017": {
+          "usd": 50237.72,
+          "ars": 76813473.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 53033.21,
+          "ars": 81087778.09,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 56089.65,
+          "ars": 85761074.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "656": {
+      "id": "656",
+      "marcaId": "5",
+      "modeloId": "91",
+      "marca": "BMW",
+      "modelo": "M240i",
+      "version": "Coupe 3,0 T 8AT M Performance Lci 2020",
+      "precios": {
+        "2019": {
+          "usd": 62334.68,
+          "ars": 95309725.72,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 64026.23,
+          "ars": 97896105.67,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 67227.55,
+          "ars": 102790923.95,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 70588.92,
+          "ars": 107930458.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "657": {
+      "id": "657",
+      "marcaId": "5",
+      "modeloId": "91",
+      "marca": "BMW",
+      "modelo": "M240i",
+      "version": "Coupe 3,0 T 8AT 388CV Xdrive 2022",
+      "precios": {
+        "0": {
+          "usd": 83500,
+          "ars": 127671500,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 74118.37,
+          "ars": 113326987.73,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 80047.84,
+          "ars": 122393147.36,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 84260.88,
+          "ars": 128834885.52,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 90788.14,
+          "ars": 138815066.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "658": {
+      "id": "658",
+      "marcaId": "5",
+      "modeloId": "91",
+      "marca": "BMW",
+      "modelo": "M240i",
+      "version": "Conv 3,0 T M Package 8AT",
+      "precios": {
+        "2017": {
+          "usd": 56095.46,
+          "ars": 85769958.34,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 64061.37,
+          "ars": 97949834.73,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 71844.53,
+          "ars": 109850286.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "659": {
+      "id": "659",
+      "marcaId": "5",
+      "modeloId": "92",
+      "marca": "BMW",
+      "modelo": "M340i",
+      "version": "4P 3,0 T Xdrive 8AT",
+      "precios": {
+        "2020": {
+          "usd": 77982.38,
+          "ars": 119235059.02,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 81881.49,
+          "ars": 125196798.21,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 85975.57,
+          "ars": 131456646.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "660": {
+      "id": "660",
+      "marcaId": "5",
+      "modeloId": "92",
+      "marca": "BMW",
+      "modelo": "M340i",
+      "version": "4P 3,0 T Xdrive 8AT Performance Ii",
+      "precios": {
+        "0": {
+          "usd": 87900,
+          "ars": 134399100,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 90274.35,
+          "ars": 138029481.15,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 97496.29,
+          "ars": 149071827.41,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 102627.68,
+          "ars": 156917722.72,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 108346.71,
+          "ars": 165662119.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "661": {
+      "id": "661",
+      "marcaId": "5",
+      "modeloId": "93",
+      "marca": "BMW",
+      "modelo": "M440i",
+      "version": "Coupe 3,0 T Xdrive M Performance 8AT",
+      "precios": {
+        "2021": {
+          "usd": 95371.13,
+          "ars": 145822457.77,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 100139.68,
+          "ars": 153113570.72,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 108150.86,
+          "ars": 165362664.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "662": {
+      "id": "662",
+      "marcaId": "5",
+      "modeloId": "94",
+      "marca": "BMW",
+      "modelo": "M850i",
+      "version": "Coupe 4,4 8AT Mpa",
+      "precios": {
+        "2019": {
+          "usd": 115439.67,
+          "ars": 176507255.43,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 129353.22,
+          "ars": 197781073.38,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 135820.88,
+          "ars": 207670125.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "663": {
+      "id": "663",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I Sdrive Active 4X2",
+      "precios": {
+        "2013": {
+          "usd": 16395.1,
+          "ars": 25068107.9,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 17852.94,
+          "ars": 27297145.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "664": {
+      "id": "664",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I Sdrive Active 4X2",
+      "precios": {
+        "2013": {
+          "usd": 18506.33,
+          "ars": 28296178.57,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 20151.9,
+          "ars": 30812255.1,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 22187.46,
+          "ars": 33924626.34,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 22496.93,
+          "ars": 34397805.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "665": {
+      "id": "665",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 D Sdrive Active 4X2",
+      "precios": {
+        "2013": {
+          "usd": 20265.9,
+          "ars": 30986561.1,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 22067.93,
+          "ars": 33741864.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "666": {
+      "id": "666",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 D Xdrive Active 4X4",
+      "precios": {
+        "2013": {
+          "usd": 22071.77,
+          "ars": 33747736.33,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 24034.38,
+          "ars": 36748567.02,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 26107.25,
+          "ars": 39917985.25,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 26471.39,
+          "ars": 40474755.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "667": {
+      "id": "667",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 D Xdrive Active 4X4 AT",
+      "precios": {
+        "2013": {
+          "usd": 23409.46,
+          "ars": 35793064.34,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 25491.01,
+          "ars": 38975754.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "668": {
+      "id": "668",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I Xdrive Executive 4X4",
+      "precios": {
+        "2013": {
+          "usd": 19600.87,
+          "ars": 29969730.23,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 21343.76,
+          "ars": 32634609.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "669": {
+      "id": "669",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I Sdrive Sport Line",
+      "precios": {
+        "2016": {
+          "usd": 26850.17,
+          "ars": 41053909.93,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 28711.35,
+          "ars": 43899654.15,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 31949.18,
+          "ars": 48850296.22,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 38339.02,
+          "ars": 58620361.58,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 42461.49,
+          "ars": 64923618.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "670": {
+      "id": "670",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,5 I  Xdrive Xline",
+      "precios": {
+        "2016": {
+          "usd": 31780.92,
+          "ars": 48593026.68,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 33983.89,
+          "ars": 51961367.81,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 37816.31,
+          "ars": 57821137.99,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 45379.57,
+          "ars": 69385362.53,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 50259.1,
+          "ars": 76846163.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "671": {
+      "id": "671",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,8 I Xdrive Executive 4X4",
+      "precios": {
+        "2013": {
+          "usd": 18506.33,
+          "ars": 28296178.57,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 20151.9,
+          "ars": 30812255.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "672": {
+      "id": "672",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I  1,5 T 7AT Sdrive Advantage Lci 2020",
+      "precios": {
+        "2020": {
+          "usd": 43135.73,
+          "ars": 65954531.17,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 45292.52,
+          "ars": 69252263.08,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 47557.15,
+          "ars": 72714882.35,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 53807.52,
+          "ars": 82271698.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "673": {
+      "id": "673",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I  2,0 T 7AT Sdrive Sportline Lci 2020",
+      "precios": {
+        "2020": {
+          "usd": 46397.42,
+          "ars": 70941655.18,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 48717.29,
+          "ars": 74488736.41,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 51153.15,
+          "ars": 78213166.35,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 57876.14,
+          "ars": 88492618.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "674": {
+      "id": "674",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I Sdrive Xline",
+      "precios": {
+        "0": {
+          "usd": 61900,
+          "ars": 94645100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 56639.49,
+          "ars": 86601780.21,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 61718.38,
+          "ars": 94367403.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "675": {
+      "id": "675",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I Sdrive Xline",
+      "precios": {
+        "0": {
+          "usd": 71900,
+          "ars": 109935100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 67166.78,
+          "ars": 102698006.62,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 76436.59,
+          "ars": 116871546.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "676": {
+      "id": "676",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 I Sdrive Black Edition",
+      "precios": {
+        "0": {
+          "usd": 77900,
+          "ars": 119109100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 67166.78,
+          "ars": 102698006.62,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 76436.59,
+          "ars": 116871546.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "677": {
+      "id": "677",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,5 I Sdrive Xline",
+      "precios": {
+        "0": {
+          "usd": 89900,
+          "ars": 137457100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 93945.5,
+          "ars": 143642669.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "678": {
+      "id": "678",
+      "marcaId": "5",
+      "modeloId": "96",
+      "marca": "BMW",
+      "modelo": "X2",
+      "version": "5P 2,0 I T Sdrive Msportx 4X4",
+      "precios": {
+        "2018": {
+          "usd": 40816.9,
+          "ars": 62409040.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 42395.56,
+          "ars": 64822811.24,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 45093.41,
+          "ars": 68947823.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "679": {
+      "id": "679",
+      "marcaId": "5",
+      "modeloId": "96",
+      "marca": "BMW",
+      "modelo": "X2",
+      "version": "5P 2,0 I T Sdrive Msportx 4X4 Ii",
+      "precios": {
+        "2021": {
+          "usd": 51834.74,
+          "ars": 79255317.46,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 54426.48,
+          "ars": 83218087.92,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 58780.59,
+          "ars": 89875522.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "680": {
+      "id": "680",
+      "marcaId": "5",
+      "modeloId": "96",
+      "marca": "BMW",
+      "modelo": "X2",
+      "version": "5P 2,0 T M35i Mpa 4X4",
+      "precios": {
+        "2019": {
+          "usd": 54165.13,
+          "ars": 82818483.77,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 59503.19,
+          "ars": 90980377.51,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 64108.22,
+          "ars": 98021468.38,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 69184.94,
+          "ars": 105783773.26,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 74719.73,
+          "ars": 114246467.17,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 78652.35,
+          "ars": 120259443.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "681": {
+      "id": "681",
+      "marcaId": "5",
+      "modeloId": "96",
+      "marca": "BMW",
+      "modelo": "X2",
+      "version": "5P 2,0 I Xdrive M Sport",
+      "precios": {
+        "0": {
+          "usd": 74900,
+          "ars": 114522100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 72252.16,
+          "ars": 110473552.64,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 78399.02,
+          "ars": 119872101.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "682": {
+      "id": "682",
+      "marcaId": "5",
+      "modeloId": "96",
+      "marca": "BMW",
+      "modelo": "X2",
+      "version": "5P 3,0 I Xdrive M Sport",
+      "precios": {
+        "0": {
+          "usd": 87900,
+          "ars": 134399100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 95079.66,
+          "ars": 145376800.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "683": {
+      "id": "683",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,0 D Xdrive Active",
+      "precios": {}
+    },
+    "684": {
+      "id": "684",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,0 D Xdrive Executive",
+      "precios": {
+        "2013": {
+          "usd": 21844.9,
+          "ars": 33400852.1,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 23551.81,
+          "ars": 36010717.49,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 26156.01,
+          "ars": 39992539.29,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 29018.39,
+          "ars": 44369118.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "685": {
+      "id": "685",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,0 I Xdrive Executive",
+      "precios": {
+        "2013": {
+          "usd": 20169.16,
+          "ars": 30838645.64,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 21745.14,
+          "ars": 33248319.06,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 24350.7,
+          "ars": 37232220.3,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 27015.52,
+          "ars": 41306730.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "686": {
+      "id": "686",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,0 I Xdrive Active",
+      "precios": {
+        "2017": {
+          "usd": 29787.67,
+          "ars": 45545347.43,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 36691.99,
+          "ars": 56102052.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "687": {
+      "id": "687",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,5i Xdrive Limited Edition",
+      "precios": {}
+    },
+    "688": {
+      "id": "688",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,8 I Xdrive Executive",
+      "precios": {}
+    },
+    "689": {
+      "id": "689",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,8 I Xdrive Xline",
+      "precios": {
+        "2016": {
+          "usd": 29373.96,
+          "ars": 44912784.84,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 34113.52,
+          "ars": 52159572.08,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 42020.52,
+          "ars": 64249375.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "690": {
+      "id": "690",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 3,0i Xdrive Xline 2018",
+      "precios": {
+        "2018": {
+          "usd": 44354.09,
+          "ars": 67817403.61,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 52389.95,
+          "ars": 80104233.55,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 56383.98,
+          "ars": 86211105.42,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 59203.18,
+          "ars": 90521662.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "691": {
+      "id": "691",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 3,5 I Xdrive Executive",
+      "precios": {
+        "2013": {
+          "usd": 25381.34,
+          "ars": 38808068.86,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 27364.59,
+          "ars": 41840458.11,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 30626.2,
+          "ars": 46827459.8,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 35207.53,
+          "ars": 53832313.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "692": {
+      "id": "692",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 3,5 I Xdrive M Package",
+      "precios": {
+        "2016": {
+          "usd": 41588.9,
+          "ars": 63589428.1,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 47516.81,
+          "ars": 72653202.49,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 58530.48,
+          "ars": 89493103.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "693": {
+      "id": "693",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 4,0i M Xdrive 2018",
+      "precios": {
+        "2018": {
+          "usd": 66439.39,
+          "ars": 101585827.31,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 79727.27,
+          "ars": 121902995.83,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 90499.71,
+          "ars": 138374056.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "694": {
+      "id": "694",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P M 480CV",
+      "precios": {
+        "2021": {
+          "usd": 98001.38,
+          "ars": 149844110.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "695": {
+      "id": "695",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,0 I Xdrive Lci Xline",
+      "precios": {
+        "2022": {
+          "usd": 65513.35,
+          "ars": 100169912.15,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 70754.42,
+          "ars": 108183508.18,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 74478.33,
+          "ars": 113877366.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "696": {
+      "id": "696",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 3,0 I Xdrive Lci Xline 252CV",
+      "precios": {
+        "2022": {
+          "usd": 70099.28,
+          "ars": 107181799.12,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 75707.23,
+          "ars": 115756354.67,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 79691.82,
+          "ars": 121848792.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "697": {
+      "id": "697",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 3,0 I Xdrive Lci Xline 292CV",
+      "precios": {
+        "2024": {
+          "usd": 88004.97,
+          "ars": 134559599.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "698": {
+      "id": "698",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,0 T Xdrive  8AT Mildhybrid",
+      "precios": {
+        "0": {
+          "usd": 82900,
+          "ars": 126754100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 90173.59,
+          "ars": 137875419.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "699": {
+      "id": "699",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 3,0 T Xdrive 8AT Mildhybrid M50",
+      "precios": {
+        "0": {
+          "usd": 125900,
+          "ars": 192501100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 135309.44,
+          "ars": 206888133.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "700": {
+      "id": "700",
+      "marcaId": "5",
+      "modeloId": "98",
+      "marca": "BMW",
+      "modelo": "X4",
+      "version": "5P 2,8i Xdrive Xline",
+      "precios": {
+        "2015": {
+          "usd": 28529.22,
+          "ars": 43621177.38,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 30940.77,
+          "ars": 47308437.33,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 37388.35,
+          "ars": 57166787.15,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 43495.82,
+          "ars": 66505108.78,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 52194.99,
+          "ars": 79806139.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "701": {
+      "id": "701",
+      "marcaId": "5",
+      "modeloId": "98",
+      "marca": "BMW",
+      "modelo": "X4",
+      "version": "5P 3,5i Xdrive M Package",
+      "precios": {
+        "2015": {
+          "usd": 38282.8,
+          "ars": 58534401.2,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 41518.81,
+          "ars": 63482260.49,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 48323.08,
+          "ars": 73885989.32,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 57490.54,
+          "ars": 87903035.66,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 67460.11,
+          "ars": 103146508.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "702": {
+      "id": "702",
+      "marcaId": "5",
+      "modeloId": "98",
+      "marca": "BMW",
+      "modelo": "X4",
+      "version": "5P 2,0 T Xline 3,0i 8AT Xdrive",
+      "precios": {
+        "2019": {
+          "usd": 65298.4,
+          "ars": 99841253.6,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 70440.77,
+          "ars": 107703937.33,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 73962.81,
+          "ars": 113089136.49,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 77660.95,
+          "ars": 118743592.55,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 83873.83,
+          "ars": 128243086.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "703": {
+      "id": "703",
+      "marcaId": "5",
+      "modeloId": "98",
+      "marca": "BMW",
+      "modelo": "X4",
+      "version": "5P 3,0 M40i 8AT Xdrive",
+      "precios": {
+        "2019": {
+          "usd": 73743.9,
+          "ars": 112754423.1,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 86965.89,
+          "ars": 132970845.81,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 91314.18,
+          "ars": 139619381.22,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 95879.89,
+          "ars": 146600351.81,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 103550.28,
+          "ars": 158328378.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "704": {
+      "id": "704",
+      "marcaId": "5",
+      "modeloId": "98",
+      "marca": "BMW",
+      "modelo": "X4",
+      "version": "5P 3,0 Xdrive Msport",
+      "precios": {
+        "0": {
+          "usd": 86100,
+          "ars": 131646900,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 84413.23,
+          "ars": 129067828.67,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 94664.85,
+          "ars": 144742555.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "705": {
+      "id": "705",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 3,0d Xdrive Executive",
+      "precios": {
+        "2013": {
+          "usd": 33685.67,
+          "ars": 51505389.43,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 36680.98,
+          "ars": 56085218.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "706": {
+      "id": "706",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 3,5 I Xdrive Executive",
+      "precios": {
+        "2013": {
+          "usd": 29816.93,
+          "ars": 45590085.97,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 32468.23,
+          "ars": 49643923.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "707": {
+      "id": "707",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 5,0 I Xdrive Premium",
+      "precios": {
+        "2013": {
+          "usd": 36725.4,
+          "ars": 56153136.6,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 39990.99,
+          "ars": 61146223.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "708": {
+      "id": "708",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P M 555CV AT",
+      "precios": {
+        "2013": {
+          "usd": 49436.97,
+          "ars": 75589127.13,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 53832.87,
+          "ars": 82310458.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "709": {
+      "id": "709",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 3,5 I Xdrive Pure Excellence",
+      "precios": {
+        "2015": {
+          "usd": 43900.98,
+          "ars": 67124598.42,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 45413.33,
+          "ars": 69436981.57,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 50079.43,
+          "ars": 76571448.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "710": {
+      "id": "710",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 5,0 I Xdrive M Package",
+      "precios": {
+        "2015": {
+          "usd": 58546.85,
+          "ars": 89518133.65,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 60563.73,
+          "ars": 92601943.17,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 66786.5,
+          "ars": 102116558.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "711": {
+      "id": "711",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 4,0 D Xdrive Pure Excellence",
+      "precios": {
+        "2015": {
+          "usd": 51846.32,
+          "ars": 79273023.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "712": {
+      "id": "712",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 4,0 D Xdrive M Pakcage",
+      "precios": {
+        "2016": {
+          "usd": 54882.33,
+          "ars": 83915082.57,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 60521.35,
+          "ars": 92537144.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "713": {
+      "id": "713",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 3,0 T 35i Xdrive Excellence 8AT",
+      "precios": {
+        "2017": {
+          "usd": 59509.52,
+          "ars": 90990056.08,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 67325.11,
+          "ars": 102940093.19,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 78532.11,
+          "ars": 120075596.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "714": {
+      "id": "714",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 3,0 Bt 40d Xdrive M Sport 8AT",
+      "precios": {
+        "2017": {
+          "usd": 68671.88,
+          "ars": 104999304.52,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 77690.79,
+          "ars": 118789217.91,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 90623.27,
+          "ars": 138562979.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "715": {
+      "id": "715",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 4,4 Bt 50i Xdrive M Sport 8AT",
+      "precios": {
+        "2017": {
+          "usd": 75543.65,
+          "ars": 115506240.85,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 85465.05,
+          "ars": 130676061.45,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 99691.65,
+          "ars": 152428532.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "716": {
+      "id": "716",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 4,4 Bt Xdrive M 8atm",
+      "precios": {
+        "2017": {
+          "usd": 100740.14,
+          "ars": 154031674.06,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 113970.68,
+          "ars": 174261169.72,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 132942.35,
+          "ars": 203268853.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "717": {
+      "id": "717",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 4,4 Bt Xdrive Security 8atm",
+      "precios": {
+        "2017": {
+          "usd": 121355.45,
+          "ars": 185552483.05,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 137293.47,
+          "ars": 209921715.63,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 160147.47,
+          "ars": 244865481.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "718": {
+      "id": "718",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 3,0 T Xdrive Xline 8AT",
+      "precios": {
+        "2019": {
+          "usd": 99482.54,
+          "ars": 152108803.66,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 109121.6,
+          "ars": 166846926.4,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 114577.68,
+          "ars": 175189272.72,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 120306.56,
+          "ars": 183948730.24,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 129931.09,
+          "ars": 198664636.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "719": {
+      "id": "719",
+      "marcaId": "5",
+      "modeloId": "99",
+      "marca": "BMW",
+      "modelo": "X5",
+      "version": "5P 4,0 I Xdrive M Sport Pro",
+      "precios": {
+        "0": {
+          "usd": 159900,
+          "ars": 244487100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 165807.9,
+          "ars": 253520279.1,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 176520.44,
+          "ars": 269899752.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "720": {
+      "id": "720",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 3,0 D Xdrive Sportive",
+      "precios": {
+        "2013": {
+          "usd": 45818.62,
+          "ars": 70056669.98,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 51915.45,
+          "ars": 79378723.05,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 56140.43,
+          "ars": 85838717.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "721": {
+      "id": "721",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 3,5 I Xdrive",
+      "precios": {
+        "2013": {
+          "usd": 40469.62,
+          "ars": 61878048.98,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 45854.7,
+          "ars": 70111836.3,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 49576.13,
+          "ars": 75801902.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "722": {
+      "id": "722",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 3,5 I Xdrive Pure Extravagance",
+      "precios": {
+        "2016": {
+          "usd": 50693.26,
+          "ars": 77509994.54,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 55901.86,
+          "ars": 85473943.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "723": {
+      "id": "723",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 5,0 I Xdrive Premium",
+      "precios": {
+        "2013": {
+          "usd": 49999.89,
+          "ars": 76449831.81,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 56653.11,
+          "ars": 86622605.19,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 61250.92,
+          "ars": 93652656.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "724": {
+      "id": "724",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 5,0 I Xdrive M Package",
+      "precios": {
+        "2016": {
+          "usd": 67333.96,
+          "ars": 102953624.84,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 74252.35,
+          "ars": 113531843.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "725": {
+      "id": "725",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P M 555CV AT",
+      "precios": {
+        "2013": {
+          "usd": 63952.93,
+          "ars": 97784029.97,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 72462.81,
+          "ars": 110795636.49,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 78343.68,
+          "ars": 119787486.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "726": {
+      "id": "726",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 3,0 T 35i Xdrive Extravagance 8AT",
+      "precios": {
+        "2017": {
+          "usd": 72095.63,
+          "ars": 110234218.27,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 81564.19,
+          "ars": 124711646.51,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 95141.45,
+          "ars": 145471277.05,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 100224.83,
+          "ars": 153243765.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "727": {
+      "id": "727",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 4,4 Bt 50i Xdrive M Sport 8AT",
+      "precios": {
+        "2017": {
+          "usd": 90800.95,
+          "ars": 138834652.55,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 102726.14,
+          "ars": 157068268.06,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 119826.03,
+          "ars": 183213999.87,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 126228.31,
+          "ars": 193003085.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "728": {
+      "id": "728",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 4,4 Bt 50i M Package 8AT",
+      "precios": {
+        "2019": {
+          "usd": 125817.33,
+          "ars": 192374697.57,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 132539.72,
+          "ars": 202653231.88,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 139234.35,
+          "ars": 212889321.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "729": {
+      "id": "729",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 4,4 Bt Xdrive M 8atm",
+      "precios": {
+        "2017": {
+          "usd": 135461.09,
+          "ars": 207120006.61,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 153251.65,
+          "ars": 234321772.85,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 178762.07,
+          "ars": 273327205.03,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 188313.28,
+          "ars": 287931005.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "730": {
+      "id": "730",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 4,0 I Xdrive Msport",
+      "precios": {
+        "2021": {
+          "usd": 132990.08,
+          "ars": 203341832.32,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 139639.59,
+          "ars": 213508933.11,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 150810.75,
+          "ars": 230589636.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "731": {
+      "id": "731",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P M 600CV",
+      "precios": {
+        "2021": {
+          "usd": 175837.95,
+          "ars": 268856225.55,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 184629.85,
+          "ars": 282299040.65,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 199400.24,
+          "ars": 304882966.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "732": {
+      "id": "732",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P 4,0 I Xdrive Lci Msport Pro Mild Hybrid",
+      "precios": {
+        "0": {
+          "usd": 169900,
+          "ars": 259777100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 166451.17,
+          "ars": 254503838.93,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 186332.59,
+          "ars": 284902530.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "733": {
+      "id": "733",
+      "marcaId": "5",
+      "modeloId": "100",
+      "marca": "BMW",
+      "modelo": "X6",
+      "version": "5P M Competition 626CV",
+      "precios": {
+        "0": {
+          "usd": 234900,
+          "ars": 359162100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 259923.65,
+          "ars": 397423260.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "734": {
+      "id": "734",
+      "marcaId": "5",
+      "modeloId": "101",
+      "marca": "BMW",
+      "modelo": "X7",
+      "version": "5P M50i M Performance",
+      "precios": {
+        "2021": {
+          "usd": 171957.03,
+          "ars": 262922298.87,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 180554.88,
+          "ars": 276068411.52,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 194999.27,
+          "ars": 298153883.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "735": {
+      "id": "735",
+      "marcaId": "5",
+      "modeloId": "101",
+      "marca": "BMW",
+      "modelo": "X7",
+      "version": "5P M60i Xdrive Mild Hybrid",
+      "precios": {
+        "0": {
+          "usd": 229900,
+          "ars": 351517100,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 229515.82,
+          "ars": 350929688.78,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 255017.58,
+          "ars": 389921879.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "736": {
+      "id": "736",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 2,3 I Active",
+      "precios": {}
+    },
+    "737": {
+      "id": "737",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 3,0 I Executive",
+      "precios": {}
+    },
+    "738": {
+      "id": "738",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 3,0 I Executive Tronic",
+      "precios": {}
+    },
+    "739": {
+      "id": "739",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 2,0 I Executive",
+      "precios": {
+        "2013": {
+          "usd": 53926.2,
+          "ars": 82453159.8,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 57726,
+          "ars": 88263054,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 63129.57,
+          "ars": 96525112.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "740": {
+      "id": "740",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 2,8 I Executive Tronic",
+      "precios": {
+        "2013": {
+          "usd": 63023.95,
+          "ars": 96363619.55,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 67464.81,
+          "ars": 103153694.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "741": {
+      "id": "741",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 3,5 I Executive",
+      "precios": {
+        "2013": {
+          "usd": 72496.95,
+          "ars": 110847836.55,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 74304.35,
+          "ars": 113611351.15,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 76212.17,
+          "ars": 116528407.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "742": {
+      "id": "742",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 3,5 Is M Package",
+      "precios": {
+        "2016": {
+          "usd": 77111.63,
+          "ars": 117903682.27,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 85091.95,
+          "ars": 130105591.55,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 90387.2,
+          "ars": 138202028.8,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 104466.21,
+          "ars": 159728835.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "743": {
+      "id": "743",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 3,5 I M Package",
+      "precios": {
+        "2016": {
+          "usd": 78030.4,
+          "ars": 119308481.6,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 86105.81,
+          "ars": 131655783.49,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 91464.16,
+          "ars": 139848700.64,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 105710.91,
+          "ars": 161631981.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "744": {
+      "id": "744",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 2,0 T Sdrive 3,0 I M Sport 8AT",
+      "precios": {
+        "2019": {
+          "usd": 113016.19,
+          "ars": 172801754.51,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 114319.67,
+          "ars": 174794775.43,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 120035.66,
+          "ars": 183534524.14,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 126037.44,
+          "ars": 192711245.76,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 132670.99,
+          "ars": 202853943.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "745": {
+      "id": "745",
+      "marcaId": "5",
+      "modeloId": "102",
+      "marca": "BMW",
+      "modelo": "Z4",
+      "version": "Roadster 2,0 T Sdrive 3,0 I M Sport 8AT The",
+      "precios": {
+        "0": {
+          "usd": 106900,
+          "ars": 163450100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 115576.71,
+          "ars": 176716789.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "746": {
+      "id": "746",
+      "marcaId": "6",
+      "modeloId": "103",
+      "marca": "BYD",
+      "modelo": "DOLPHIN MINI",
+      "version": "5P Gl Electrico AT",
+      "precios": {
+        "0": {
+          "usd": 23990,
+          "ars": 36680710,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23332.7,
+          "ars": 35675698.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "747": {
+      "id": "747",
+      "marcaId": "6",
+      "modeloId": "103",
+      "marca": "BYD",
+      "modelo": "DOLPHIN MINI",
+      "version": "5P Gs Electrico AT",
+      "precios": {
+        "0": {
+          "usd": 24990,
+          "ars": 38209710,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24347.6,
+          "ars": 37227480.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "748": {
+      "id": "748",
+      "marcaId": "6",
+      "modeloId": "104",
+      "marca": "BYD",
+      "modelo": "SONG PRO DM-i",
+      "version": "5P 1,5 Gl Hibrido AT",
+      "precios": {
+        "0": {
+          "usd": 35490,
+          "ars": 54264210,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 35511.57,
+          "ars": 54297190.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "749": {
+      "id": "749",
+      "marcaId": "6",
+      "modeloId": "104",
+      "marca": "BYD",
+      "modelo": "SONG PRO DM-i",
+      "version": "5P 1,5 Gs Hibrido AT",
+      "precios": {
+        "0": {
+          "usd": 37490,
+          "ars": 57322210,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 37541.39,
+          "ars": 57400785.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "750": {
+      "id": "750",
+      "marcaId": "6",
+      "modeloId": "105",
+      "marca": "BYD",
+      "modelo": "YUAN PRO",
+      "version": "5P Gl Electrico AT",
+      "precios": {
+        "0": {
+          "usd": 29990,
+          "ars": 45854710,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30437.04,
+          "ars": 46538234.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "751": {
+      "id": "751",
+      "marcaId": "6",
+      "modeloId": "105",
+      "marca": "BYD",
+      "modelo": "YUAN PRO",
+      "version": "5P Gs Electrico AT",
+      "precios": {
+        "0": {
+          "usd": 31990,
+          "ars": 48912710,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 31451.95,
+          "ars": 48090031.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "752": {
+      "id": "752",
+      "marcaId": "7",
+      "modeloId": "106",
+      "marca": "CHANGAN",
+      "modelo": "CS15",
+      "version": "5P 1,5 Comfort MT",
+      "precios": {
+        "2019": {
+          "usd": 13129.18,
+          "ars": 20074516.22,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13523.06,
+          "ars": 20676758.74,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14234.8,
+          "ars": 21765009.2,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14946.54,
+          "ars": 22853259.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "753": {
+      "id": "753",
+      "marcaId": "7",
+      "modeloId": "106",
+      "marca": "CHANGAN",
+      "modelo": "CS15",
+      "version": "5P 1,5 Comfort AT",
+      "precios": {
+        "2019": {
+          "usd": 14282.96,
+          "ars": 21838645.84,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14711.45,
+          "ars": 22493807.05,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15485.73,
+          "ars": 23677681.17,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16260.02,
+          "ars": 24861570.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "754": {
+      "id": "754",
+      "marcaId": "7",
+      "modeloId": "106",
+      "marca": "CHANGAN",
+      "modelo": "CS15",
+      "version": "5P 1,5 Luxury AT",
+      "precios": {
+        "2019": {
+          "usd": 15516.31,
+          "ars": 23724437.99,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15981.8,
+          "ars": 24436172.2,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16822.94,
+          "ars": 25722275.26,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17664.09,
+          "ars": 27008393.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "755": {
+      "id": "755",
+      "marcaId": "7",
+      "modeloId": "107",
+      "marca": "CHANGAN",
+      "modelo": "CS55",
+      "version": "5P 1,5 Plus Phev Hibrido",
+      "precios": {
+        "0": {
+          "usd": 32000,
+          "ars": 48928000,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 31795.34,
+          "ars": 48615074.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "756": {
+      "id": "756",
+      "marcaId": "7",
+      "modeloId": "108",
+      "marca": "CHANGAN",
+      "modelo": "CS75",
+      "version": "5P 1,8 T Elite 6AT",
+      "precios": {
+        "2019": {
+          "usd": 17706.89,
+          "ars": 27073834.81,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18238.1,
+          "ars": 27886054.9,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19198,
+          "ars": 29353742,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20157.9,
+          "ars": 30821429.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "757": {
+      "id": "757",
+      "marcaId": "7",
+      "modeloId": "108",
+      "marca": "CHANGAN",
+      "modelo": "CS75",
+      "version": "5P 1,8 T Luxury 6AT 4WD",
+      "precios": {
+        "2019": {
+          "usd": 20770.37,
+          "ars": 31757895.73,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 21393.48,
+          "ars": 32710630.92,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 22519.45,
+          "ars": 34432239.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "758": {
+      "id": "758",
+      "marcaId": "7",
+      "modeloId": "109",
+      "marca": "CHANGAN",
+      "modelo": "M",
+      "version": "201 1,3 Cargo Van",
+      "precios": {
+        "2019": {
+          "usd": 14782.15,
+          "ars": 22601907.35,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15225.61,
+          "ars": 23279957.69,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16026.96,
+          "ars": 24505221.84,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16828.31,
+          "ars": 25730485.99,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18174.57,
+          "ars": 27788917.53,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 19083.3,
+          "ars": 29178365.7,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20037.46,
+          "ars": 30637276.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "759": {
+      "id": "759",
+      "marcaId": "7",
+      "modeloId": "110",
+      "marca": "CHANGAN",
+      "modelo": "MD",
+      "version": "201 1,3 Cargo Box",
+      "precios": {
+        "2019": {
+          "usd": 15864.43,
+          "ars": 24256713.47,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16340.36,
+          "ars": 24984410.44,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17200.38,
+          "ars": 26299381.02,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18060.4,
+          "ars": 27614351.6,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19505.23,
+          "ars": 29823496.67,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20480.49,
+          "ars": 31314669.21,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21504.52,
+          "ars": 32880411.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "760": {
+      "id": "760",
+      "marcaId": "7",
+      "modeloId": "110",
+      "marca": "CHANGAN",
+      "modelo": "MD",
+      "version": "201 1,3 Cargo Refrigerado",
+      "precios": {
+        "2023": {
+          "usd": 22750.9,
+          "ars": 34786126.1,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23888.45,
+          "ars": 36525440.05,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 25082.87,
+          "ars": 38351708.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "761": {
+      "id": "761",
+      "marcaId": "7",
+      "modeloId": "110",
+      "marca": "CHANGAN",
+      "modelo": "MD",
+      "version": "201 1,3 Pick Up",
+      "precios": {
+        "2019": {
+          "usd": 12984.76,
+          "ars": 19853698.04,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13374.3,
+          "ars": 20449304.7,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14078.21,
+          "ars": 21525583.09,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14782.13,
+          "ars": 22601876.77,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15964.7,
+          "ars": 24410026.3,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16762.93,
+          "ars": 25630519.97,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17601.08,
+          "ars": 26912051.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "762": {
+      "id": "762",
+      "marcaId": "8",
+      "modeloId": "111",
+      "marca": "CHERY",
+      "modelo": "ARRIZO 5",
+      "version": "4P 1,5 Comfort MT",
+      "precios": {
+        "2017": {
+          "usd": 9663.18,
+          "ars": 14775002.22,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11216.69,
+          "ars": 17150319.01,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12349.24,
+          "ars": 18881987.96,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13090.2,
+          "ars": 20014915.8,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13779.16,
+          "ars": 21068335.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "763": {
+      "id": "763",
+      "marcaId": "8",
+      "modeloId": "111",
+      "marca": "CHERY",
+      "modelo": "ARRIZO 5",
+      "version": "4P 1,5 Luxury MT",
+      "precios": {
+        "2017": {
+          "usd": 11253.71,
+          "ars": 17206922.59,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13062.91,
+          "ars": 19973189.39,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14381.88,
+          "ars": 21989894.52,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15244.8,
+          "ars": 23309299.2,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16047.16,
+          "ars": 24536107.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "764": {
+      "id": "764",
+      "marcaId": "8",
+      "modeloId": "111",
+      "marca": "CHERY",
+      "modelo": "ARRIZO 5",
+      "version": "4P 1,5 Luxury 7cvt",
+      "precios": {
+        "2017": {
+          "usd": 11253.71,
+          "ars": 17206922.59,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13062.91,
+          "ars": 19973189.39,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14381.88,
+          "ars": 21989894.52,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15244.8,
+          "ars": 23309299.2,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16047.16,
+          "ars": 24536107.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "765": {
+      "id": "765",
+      "marcaId": "8",
+      "modeloId": "112",
+      "marca": "CHERY",
+      "modelo": "ARRIZO 8",
+      "version": "4P 1,5 T Phev Hybrid Comfort",
+      "precios": {
+        "0": {
+          "usd": 34600,
+          "ars": 52903400,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "766": {
+      "id": "766",
+      "marcaId": "8",
+      "modeloId": "113",
+      "marca": "CHERY",
+      "modelo": "FACE",
+      "version": "5P 1,3 Luxury",
+      "precios": {
+        "2013": {
+          "usd": 6923.29,
+          "ars": 10585710.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7264.76,
+          "ars": 11107818.04,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7550.38,
+          "ars": 11544531.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "767": {
+      "id": "767",
+      "marcaId": "8",
+      "modeloId": "114",
+      "marca": "CHERY",
+      "modelo": "FULWIN",
+      "version": "5P 1,5",
+      "precios": {
+        "2013": {
+          "usd": 6833.45,
+          "ars": 10448345.05,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7170.49,
+          "ars": 10963679.21,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7452.41,
+          "ars": 11394734.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "768": {
+      "id": "768",
+      "marcaId": "8",
+      "modeloId": "114",
+      "marca": "CHERY",
+      "modelo": "FULWIN",
+      "version": "4P 1,5",
+      "precios": {
+        "2013": {
+          "usd": 6833.45,
+          "ars": 10448345.05,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7170.49,
+          "ars": 10963679.21,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7452.41,
+          "ars": 11394734.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "769": {
+      "id": "769",
+      "marcaId": "8",
+      "modeloId": "114",
+      "marca": "CHERY",
+      "modelo": "FULWIN",
+      "version": "5P 1,5 2",
+      "precios": {
+        "2015": {
+          "usd": 7952.18,
+          "ars": 12158883.22,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8245.23,
+          "ars": 12606956.67,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9026.72,
+          "ars": 13801854.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10477.9,
+          "ars": 16020709.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11535.86,
+          "ars": 17638329.94,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12228.01,
+          "ars": 18696627.29,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12871.59,
+          "ars": 19680661.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "770": {
+      "id": "770",
+      "marcaId": "8",
+      "modeloId": "114",
+      "marca": "CHERY",
+      "modelo": "FULWIN",
+      "version": "4P 1,5 2",
+      "precios": {
+        "2015": {
+          "usd": 7952.18,
+          "ars": 12158883.22,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8245.23,
+          "ars": 12606956.67,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9026.72,
+          "ars": 13801854.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10477.9,
+          "ars": 16020709.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11535.86,
+          "ars": 17638329.94,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12228.01,
+          "ars": 18696627.29,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12871.59,
+          "ars": 19680661.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "771": {
+      "id": "771",
+      "marcaId": "8",
+      "modeloId": "115",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "5P 1,1 Basic",
+      "precios": {
+        "2013": {
+          "usd": 5733.76,
+          "ars": 8766919.04,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6016.56,
+          "ars": 9199320.24,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6139.42,
+          "ars": 9387173.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "772": {
+      "id": "772",
+      "marcaId": "8",
+      "modeloId": "115",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "5P 1,1 Light",
+      "precios": {
+        "2013": {
+          "usd": 6541.76,
+          "ars": 10002351.04,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6864.42,
+          "ars": 10495698.18,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7004.58,
+          "ars": 10710002.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "773": {
+      "id": "773",
+      "marcaId": "8",
+      "modeloId": "115",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "5P 1,1 Light Security",
+      "precios": {
+        "2014": {
+          "usd": 7392.36,
+          "ars": 11302918.44,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7543.31,
+          "ars": 11533720.99,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7983.34,
+          "ars": 12206526.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "774": {
+      "id": "774",
+      "marcaId": "8",
+      "modeloId": "115",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "5P 1,1 Comfort",
+      "precios": {
+        "2013": {
+          "usd": 7098.31,
+          "ars": 10853315.99,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7448.41,
+          "ars": 11388618.89,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7600.5,
+          "ars": 11621164.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "775": {
+      "id": "775",
+      "marcaId": "8",
+      "modeloId": "115",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "5P 1,1 Comfort Security",
+      "precios": {
+        "2014": {
+          "usd": 7983.75,
+          "ars": 12207153.75,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8146.77,
+          "ars": 12456411.33,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8596.11,
+          "ars": 13143452.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "776": {
+      "id": "776",
+      "marcaId": "8",
+      "modeloId": "115",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "5P 1,0 Light Security (ln)",
+      "precios": {
+        "2016": {
+          "usd": 8765.37,
+          "ars": 13402250.73,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9152.46,
+          "ars": 13994111.34,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9416.65,
+          "ars": 14398057.85,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10328.22,
+          "ars": 15791848.38,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10706.41,
+          "ars": 16370100.89,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11269.91,
+          "ars": 17231692.39,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 11833.4,
+          "ars": 18093268.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "777": {
+      "id": "777",
+      "marcaId": "8",
+      "modeloId": "115",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "5P 1,0 Comfort Security (ln)",
+      "precios": {
+        "2016": {
+          "usd": 9788.77,
+          "ars": 14967029.33,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10243.05,
+          "ars": 15661623.45,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10538.72,
+          "ars": 16113702.88,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11558.9,
+          "ars": 17673558.1,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11982.16,
+          "ars": 18320722.64,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12612.8,
+          "ars": 19284971.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "778": {
+      "id": "778",
+      "marcaId": "8",
+      "modeloId": "116",
+      "marca": "CHERY",
+      "modelo": "SKIN",
+      "version": "5P 1,6",
+      "precios": {
+        "2013": {
+          "usd": 6719.6,
+          "ars": 10274268.4,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7051.03,
+          "ars": 10781024.87,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7328.25,
+          "ars": 11204894.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "779": {
+      "id": "779",
+      "marcaId": "8",
+      "modeloId": "116",
+      "marca": "CHERY",
+      "modelo": "SKIN",
+      "version": "4P 1,6",
+      "precios": {
+        "2013": {
+          "usd": 6719.6,
+          "ars": 10274268.4,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7051.03,
+          "ars": 10781024.87,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7328.25,
+          "ars": 11204894.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "780": {
+      "id": "780",
+      "marcaId": "8",
+      "modeloId": "117",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "5P 2,0 4X2 Comfort",
+      "precios": {
+        "2013": {
+          "usd": 9340.83,
+          "ars": 14282129.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "781": {
+      "id": "781",
+      "marcaId": "8",
+      "modeloId": "117",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "5P 2,0 4X4 Luxury",
+      "precios": {
+        "2013": {
+          "usd": 10058.08,
+          "ars": 15378804.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "782": {
+      "id": "782",
+      "marcaId": "8",
+      "modeloId": "117",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "5P 2,0 4X2 Comfort MT 2013",
+      "precios": {
+        "2013": {
+          "usd": 9902.63,
+          "ars": 15141121.27,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10216.41,
+          "ars": 15620890.89,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10649.56,
+          "ars": 16283177.24,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11338.55,
+          "ars": 17336642.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "783": {
+      "id": "783",
+      "marcaId": "8",
+      "modeloId": "117",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "5P 2,0 4X2 Luxury AT 2013",
+      "precios": {
+        "2013": {
+          "usd": 11116.91,
+          "ars": 16997755.39,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11469.17,
+          "ars": 17536360.93,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11955.43,
+          "ars": 18279852.47,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12453.41,
+          "ars": 19041263.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "784": {
+      "id": "784",
+      "marcaId": "8",
+      "modeloId": "117",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "5P 2,0 4X4 Luxury MT 2013",
+      "precios": {
+        "2013": {
+          "usd": 11343.79,
+          "ars": 17344654.91,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11703.23,
+          "ars": 17894238.67,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12199.42,
+          "ars": 18652913.18,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12613.11,
+          "ars": 19285445.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "785": {
+      "id": "785",
+      "marcaId": "8",
+      "modeloId": "117",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "5P 1,6 4X2 Comfort",
+      "precios": {
+        "2015": {
+          "usd": 9489.76,
+          "ars": 14509843.04,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9985.43,
+          "ars": 15267722.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "786": {
+      "id": "786",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Comfort MT",
+      "precios": {
+        "2018": {
+          "usd": 12875.01,
+          "ars": 19685890.29,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13788.42,
+          "ars": 21082494.18,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14210.95,
+          "ars": 21728542.55,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14958.9,
+          "ars": 22872158.1,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 15706.84,
+          "ars": 24015758.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "787": {
+      "id": "787",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Comfort AT",
+      "precios": {
+        "2020": {
+          "usd": 16717.6,
+          "ars": 25561210.4,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17597.47,
+          "ars": 26906531.63,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18477.35,
+          "ars": 28251868.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "788": {
+      "id": "788",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Luxury MT",
+      "precios": {
+        "2018": {
+          "usd": 14407.75,
+          "ars": 22029449.75,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15429.9,
+          "ars": 23592317.1,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15902.73,
+          "ars": 24315274.17,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16739.72,
+          "ars": 25595031.88,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17576.7,
+          "ars": 26874774.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "789": {
+      "id": "789",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Comfort MT Pro",
+      "precios": {
+        "2021": {
+          "usd": 17946.89,
+          "ars": 27440794.81,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18844.24,
+          "ars": 28812842.96,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 20351.78,
+          "ars": 31117871.62,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 22613.09,
+          "ars": 34575414.61,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23743.74,
+          "ars": 36304178.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "790": {
+      "id": "790",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Comfort CVT Pro",
+      "precios": {
+        "2021": {
+          "usd": 19840.83,
+          "ars": 30336629.07,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20832.87,
+          "ars": 31853458.23,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 22499.5,
+          "ars": 34401735.5,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24999.45,
+          "ars": 38224159.05,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 26249.42,
+          "ars": 40135363.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "791": {
+      "id": "791",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Luxury MT Pro",
+      "precios": {
+        "2021": {
+          "usd": 18434.85,
+          "ars": 28186885.65,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19356.59,
+          "ars": 29596226.11,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 20905.12,
+          "ars": 31963928.48,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23227.91,
+          "ars": 35515474.39,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24389.31,
+          "ars": 37291254.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "792": {
+      "id": "792",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Std Pro",
+      "precios": {
+        "2024": {
+          "usd": 20905.12,
+          "ars": 31963928.48,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21950.38,
+          "ars": 33562131.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "793": {
+      "id": "793",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Confort Pro Max",
+      "precios": {
+        "0": {
+          "usd": 23000,
+          "ars": 35167000,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23989.25,
+          "ars": 36679563.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "794": {
+      "id": "794",
+      "marcaId": "8",
+      "modeloId": "118",
+      "marca": "CHERY",
+      "modelo": "TIGGO 2",
+      "version": "5P 1,5 4X2 Confort Pro Max Cvt9",
+      "precios": {
+        "0": {
+          "usd": 25500,
+          "ars": 38989500,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 26388.17,
+          "ars": 40347511.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "795": {
+      "id": "795",
+      "marcaId": "8",
+      "modeloId": "119",
+      "marca": "CHERY",
+      "modelo": "TIGGO 3",
+      "version": "5P 1,6 4X2 Comfort Fl",
+      "precios": {
+        "2016": {
+          "usd": 11105.57,
+          "ars": 16980416.53,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12174.1,
+          "ars": 18614198.9,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13751.63,
+          "ars": 21026242.27,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14727.24,
+          "ars": 22517949.96,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15513.28,
+          "ars": 23719805.12,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16329.76,
+          "ars": 24968203.04,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17146.25,
+          "ars": 26216616.25,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18517.95,
+          "ars": 28313945.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "796": {
+      "id": "796",
+      "marcaId": "8",
+      "modeloId": "119",
+      "marca": "CHERY",
+      "modelo": "TIGGO 3",
+      "version": "5P 1,6 4X2 Comfort",
+      "precios": {
+        "2016": {
+          "usd": 11690.08,
+          "ars": 17874132.32,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12814.84,
+          "ars": 19593890.36,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14475.4,
+          "ars": 22132886.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "797": {
+      "id": "797",
+      "marcaId": "8",
+      "modeloId": "119",
+      "marca": "CHERY",
+      "modelo": "TIGGO 3",
+      "version": "5P 1,6 4X2 Luxury",
+      "precios": {
+        "2017": {
+          "usd": 13397.23,
+          "ars": 20484364.67,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15133.27,
+          "ars": 23138769.83,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16206.89,
+          "ars": 24780334.81,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17045.45,
+          "ars": 26062493.05,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17942.58,
+          "ars": 27434204.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "798": {
+      "id": "798",
+      "marcaId": "8",
+      "modeloId": "119",
+      "marca": "CHERY",
+      "modelo": "TIGGO 3",
+      "version": "5P 1,6 4X2 Luxury CVT",
+      "precios": {
+        "2017": {
+          "usd": 14185.28,
+          "ars": 21689293.12,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16023.43,
+          "ars": 24499824.47,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17160.2,
+          "ars": 26237945.8,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18216.64,
+          "ars": 27853242.56,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19175.41,
+          "ars": 29319201.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "799": {
+      "id": "799",
+      "marcaId": "8",
+      "modeloId": "120",
+      "marca": "CHERY",
+      "modelo": "TIGGO 4",
+      "version": "5P 2,0 4X2 Comfort MT",
+      "precios": {
+        "2021": {
+          "usd": 15379.61,
+          "ars": 23515423.69,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16148.59,
+          "ars": 24691194.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "800": {
+      "id": "800",
+      "marcaId": "8",
+      "modeloId": "120",
+      "marca": "CHERY",
+      "modelo": "TIGGO 4",
+      "version": "5P 2,0 4X2 Comfort CVT",
+      "precios": {
+        "2021": {
+          "usd": 18358.47,
+          "ars": 28070100.63,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19276.39,
+          "ars": 29473600.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "801": {
+      "id": "801",
+      "marcaId": "8",
+      "modeloId": "120",
+      "marca": "CHERY",
+      "modelo": "TIGGO 4",
+      "version": "5P 1,5 4X2 Comfort MT Pro",
+      "precios": {
+        "2021": {
+          "usd": 16790.65,
+          "ars": 25672903.85,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17630.18,
+          "ars": 26956545.22,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19040.59,
+          "ars": 29113062.11,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23506.91,
+          "ars": 35942065.39,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24682.25,
+          "ars": 37739160.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "802": {
+      "id": "802",
+      "marcaId": "8",
+      "modeloId": "120",
+      "marca": "CHERY",
+      "modelo": "TIGGO 4",
+      "version": "5P 1,5 4X2 Comfort CVT Pro",
+      "precios": {
+        "2021": {
+          "usd": 18731.76,
+          "ars": 28640861.04,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19668.35,
+          "ars": 30072907.15,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21241.82,
+          "ars": 32478742.78,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 26224.47,
+          "ars": 40097214.63,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 27535.69,
+          "ars": 42102070.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "803": {
+      "id": "803",
+      "marcaId": "8",
+      "modeloId": "120",
+      "marca": "CHERY",
+      "modelo": "TIGGO 4",
+      "version": "5P 1,5 T 4X2 Luxury CVT Pro",
+      "precios": {
+        "2022": {
+          "usd": 21328.02,
+          "ars": 32610542.58,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23034.26,
+          "ars": 35219383.54,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28437.35,
+          "ars": 43480708.15,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29859.22,
+          "ars": 45654747.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "804": {
+      "id": "804",
+      "marcaId": "8",
+      "modeloId": "120",
+      "marca": "CHERY",
+      "modelo": "TIGGO 4",
+      "version": "5P 1,5 4X2 Hev Premium Hybrid",
+      "precios": {
+        "0": {
+          "usd": 34500,
+          "ars": 52750500,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 32145.59,
+          "ars": 49150607.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "805": {
+      "id": "805",
+      "marcaId": "8",
+      "modeloId": "121",
+      "marca": "CHERY",
+      "modelo": "TIGGO 5",
+      "version": "5P 2,0 4X2 Comfort MT",
+      "precios": {
+        "2016": {
+          "usd": 12859.72,
+          "ars": 19662511.88,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14094.55,
+          "ars": 21550566.95,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15920.95,
+          "ars": 24343132.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "806": {
+      "id": "806",
+      "marcaId": "8",
+      "modeloId": "121",
+      "marca": "CHERY",
+      "modelo": "TIGGO 5",
+      "version": "5P 2,0 4X2 Comfort CVT",
+      "precios": {
+        "2016": {
+          "usd": 14100.06,
+          "ars": 21558991.74,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 15298.6,
+          "ars": 23391559.4,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 17281.01,
+          "ars": 26422664.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "807": {
+      "id": "807",
+      "marcaId": "8",
+      "modeloId": "121",
+      "marca": "CHERY",
+      "modelo": "TIGGO 5",
+      "version": "5P 2,0 4X2 Luxury CVT",
+      "precios": {
+        "2016": {
+          "usd": 14954.61,
+          "ars": 22865598.69,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 16333.54,
+          "ars": 24973982.66,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18450.06,
+          "ars": 28210141.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "808": {
+      "id": "808",
+      "marcaId": "8",
+      "modeloId": "121",
+      "marca": "CHERY",
+      "modelo": "TIGGO 5",
+      "version": "5P 2,0 4X2 Comfort MT 2018",
+      "precios": {
+        "2017": {
+          "usd": 14451.4,
+          "ars": 22096190.6,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16324.03,
+          "ars": 24959441.87,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17278.3,
+          "ars": 26418520.7,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18407.77,
+          "ars": 28145480.33,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19376.6,
+          "ars": 29626821.4,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20345.43,
+          "ars": 31108162.47,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21973.06,
+          "ars": 33596808.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "809": {
+      "id": "809",
+      "marcaId": "8",
+      "modeloId": "121",
+      "marca": "CHERY",
+      "modelo": "TIGGO 5",
+      "version": "5P 2,0 4X2 Comfort CVT 2018",
+      "precios": {
+        "2017": {
+          "usd": 15153.26,
+          "ars": 23169334.54,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 17116.84,
+          "ars": 26171648.36,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 18150.95,
+          "ars": 27752802.55,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 19228.05,
+          "ars": 29399688.45,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20240.05,
+          "ars": 30947036.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "810": {
+      "id": "810",
+      "marcaId": "8",
+      "modeloId": "121",
+      "marca": "CHERY",
+      "modelo": "TIGGO 5",
+      "version": "5P 2,0 4X2 Luxury 2018",
+      "precios": {
+        "2018": {
+          "usd": 17588.54,
+          "ars": 26892877.66,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 18836.35,
+          "ars": 28800779.15,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 19995.97,
+          "ars": 30573838.13,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21048.39,
+          "ars": 32182988.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "811": {
+      "id": "811",
+      "marcaId": "8",
+      "modeloId": "121",
+      "marca": "CHERY",
+      "modelo": "TIGGO 5",
+      "version": "5P 2,0 4X2 Luxury CVT 2018",
+      "precios": {
+        "2017": {
+          "usd": 16795.91,
+          "ars": 25680946.39,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18590.32,
+          "ars": 28424599.28,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 19666.47,
+          "ars": 30070032.63,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20877.2,
+          "ars": 31921238.8,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21976,
+          "ars": 33601304,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "812": {
+      "id": "812",
+      "marcaId": "8",
+      "modeloId": "122",
+      "marca": "CHERY",
+      "modelo": "TIGGO 7",
+      "version": "5P 1,5 T 4X2 Premium CVT Pro Hybrid",
+      "precios": {
+        "0": {
+          "usd": 32900,
+          "ars": 50304100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 32533.99,
+          "ars": 49744470.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "813": {
+      "id": "813",
+      "marcaId": "8",
+      "modeloId": "123",
+      "marca": "CHERY",
+      "modelo": "TIGGO 8",
+      "version": "5P 1,6 T 4X2 Luxury CVT Pro Adas",
+      "precios": {
+        "2023": {
+          "usd": 28849.76,
+          "ars": 44111283.04,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 32089.51,
+          "ars": 49064860.79,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 33693.99,
+          "ars": 51518110.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "814": {
+      "id": "814",
+      "marcaId": "8",
+      "modeloId": "123",
+      "marca": "CHERY",
+      "modelo": "TIGGO 8",
+      "version": "5P 1,6 T 4X2 Luxury CVT Pro Adas 2026",
+      "precios": {
+        "0": {
+          "usd": 44800,
+          "ars": 68499200,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 45328.25,
+          "ars": 69306894.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "815": {
+      "id": "815",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Ls",
+      "precios": {}
+    },
+    "816": {
+      "id": "816",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Lt",
+      "precios": {}
+    },
+    "817": {
+      "id": "817",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Ltz",
+      "precios": {}
+    },
+    "818": {
+      "id": "818",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Ls Spirit",
+      "precios": {
+        "2013": {
+          "usd": 6054.03,
+          "ars": 9256611.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "819": {
+      "id": "819",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Lt Spirit",
+      "precios": {
+        "2013": {
+          "usd": 6477.39,
+          "ars": 9903929.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "820": {
+      "id": "820",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Ltz Spirit",
+      "precios": {
+        "2013": {
+          "usd": 6676.53,
+          "ars": 10208414.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "821": {
+      "id": "821",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Ls ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "usd": 6405.73,
+          "ars": 9794361.17,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6581.57,
+          "ars": 10063220.53,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6818.42,
+          "ars": 10425364.18,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7197.47,
+          "ars": 11004931.63,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7807.74,
+          "ars": 11938034.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "822": {
+      "id": "822",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Lt ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "usd": 6769.9,
+          "ars": 10351177.1,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6980.92,
+          "ars": 10673826.68,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7222,
+          "ars": 11042438,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7619.59,
+          "ars": 11650353.11,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8229.16,
+          "ars": 12582385.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "823": {
+      "id": "823",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Lt ABG ABS Llantas 2014",
+      "precios": {
+        "2014": {
+          "usd": 7073.38,
+          "ars": 10815198.02,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7305.01,
+          "ars": 11169360.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "824": {
+      "id": "824",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Ltz ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "usd": 7003.35,
+          "ars": 10708122.15,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7212.08,
+          "ars": 11027270.32,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7415.31,
+          "ars": 11338008.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "825": {
+      "id": "825",
+      "marcaId": "9",
+      "modeloId": "124",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "5P 1,4 Ltz ABG ABS Effect 2014",
+      "precios": {
+        "2014": {
+          "usd": 7304.54,
+          "ars": 11168641.66,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7554.04,
+          "ars": 11550127.16,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7870.84,
+          "ars": 12034514.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "826": {
+      "id": "826",
+      "marcaId": "9",
+      "modeloId": "125",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "4P 1,6 16V Ls G3",
+      "precios": {
+        "2013": {
+          "usd": 5227.8,
+          "ars": 7993306.2,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5694.2,
+          "ars": 8706431.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "827": {
+      "id": "827",
+      "marcaId": "9",
+      "modeloId": "125",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "4P 1,6 16V Lt G3",
+      "precios": {
+        "2013": {
+          "usd": 5554.77,
+          "ars": 8493243.33,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5979.85,
+          "ars": 9143190.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "828": {
+      "id": "828",
+      "marcaId": "9",
+      "modeloId": "125",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "4P 1,6 16V Lt G3 AT",
+      "precios": {
+        "2013": {
+          "usd": 5780.73,
+          "ars": 8838736.17,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6172.74,
+          "ars": 9438119.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "829": {
+      "id": "829",
+      "marcaId": "9",
+      "modeloId": "126",
+      "marca": "CHEVROLET",
+      "modelo": "CAMARO SS",
+      "version": "2P 6,2 V8 405CV",
+      "precios": {
+        "2013": {
+          "usd": 38973.65,
+          "ars": 59590710.85,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 41218.17,
+          "ars": 63022581.93,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 45193.43,
+          "ars": 69100754.47,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 47610.8,
+          "ars": 72796913.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "830": {
+      "id": "830",
+      "marcaId": "9",
+      "modeloId": "126",
+      "marca": "CHEVROLET",
+      "modelo": "CAMARO SS",
+      "version": "Coupe 6,2 V8 8AT",
+      "precios": {
+        "2017": {
+          "usd": 49316.21,
+          "ars": 75404485.09,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 53750.15,
+          "ars": 82183979.35,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 58050.16,
+          "ars": 88758694.64,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 62694.17,
+          "ars": 95859385.93,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 65993.87,
+          "ars": 100904627.23,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 69467.23,
+          "ars": 106215394.67,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 73123.4,
+          "ars": 111805678.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "831": {
+      "id": "831",
+      "marcaId": "9",
+      "modeloId": "126",
+      "marca": "CHEVROLET",
+      "modelo": "CAMARO SS",
+      "version": "Conv 6,2 V8 8AT",
+      "precios": {
+        "2017": {
+          "usd": 53469.16,
+          "ars": 81754345.64,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 58276.48,
+          "ars": 89104737.92,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 62938.59,
+          "ars": 96233104.11,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 67973.68,
+          "ars": 103931756.72,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 71551.24,
+          "ars": 109401845.96,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 75317.1,
+          "ars": 115159845.9,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 79281.16,
+          "ars": 121220893.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "832": {
+      "id": "832",
+      "marcaId": "9",
+      "modeloId": "127",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "5P 2,4 Ls Fwd 4X2 2012",
+      "precios": {
+        "2013": {
+          "usd": 7409.82,
+          "ars": 11329614.78,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7777.09,
+          "ars": 11891170.61,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8133.69,
+          "ars": 12436412.01,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8535.11,
+          "ars": 13050183.19,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9069.56,
+          "ars": 13867357.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "833": {
+      "id": "833",
+      "marcaId": "9",
+      "modeloId": "127",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "5P 2,4 Lt AWD 2012",
+      "precios": {
+        "2013": {
+          "usd": 8669.49,
+          "ars": 13255650.21,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9099.2,
+          "ars": 13912676.8,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9516.42,
+          "ars": 14550606.18,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9986.08,
+          "ars": 15268716.32,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10611.38,
+          "ars": 16224800.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "834": {
+      "id": "834",
+      "marcaId": "9",
+      "modeloId": "127",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "5P 2,2 Diesel Lt AWD 2012",
+      "precios": {
+        "2013": {
+          "usd": 9168.6,
+          "ars": 14018789.4,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9980.47,
+          "ars": 15260138.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "835": {
+      "id": "835",
+      "marcaId": "9",
+      "modeloId": "127",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "5P 2,2 Diesel Ltz AWD AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 9723.14,
+          "ars": 14866681.06,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10348.11,
+          "ars": 15822260.19,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11024.27,
+          "ars": 16856108.83,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11685.19,
+          "ars": 17866655.51,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11796.05,
+          "ars": 18036160.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "836": {
+      "id": "836",
+      "marcaId": "9",
+      "modeloId": "127",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "5P 2,4 Ls Fwd 4X2 2017",
+      "precios": {
+        "2017": {
+          "usd": 10713.83,
+          "ars": 16381446.07,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11779.53,
+          "ars": 18010901.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "837": {
+      "id": "837",
+      "marcaId": "9",
+      "modeloId": "127",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "5P 2,4 Lt AWD 2017",
+      "precios": {
+        "2017": {
+          "usd": 12426.8,
+          "ars": 19000577.2,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13662.88,
+          "ars": 20890543.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "838": {
+      "id": "838",
+      "marcaId": "9",
+      "modeloId": "127",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "5P 2,2 Diesel Ltz AWD AT 2017",
+      "precios": {
+        "2017": {
+          "usd": 11999.8,
+          "ars": 18347694.2,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13193.41,
+          "ars": 20172723.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "839": {
+      "id": "839",
+      "marcaId": "9",
+      "modeloId": "127",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "5P 1,5 T Phev Premier",
+      "precios": {
+        "0": {
+          "usd": 35747.17,
+          "ars": 54657422.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "840": {
+      "id": "840",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "3P 1,4 Ls",
+      "precios": {}
+    },
+    "841": {
+      "id": "841",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "3P 1,4 Ls A/c",
+      "precios": {
+        "2013": {
+          "usd": 4346.37,
+          "ars": 6645599.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "842": {
+      "id": "842",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "3P 1,4 Ls A/c ABG ABS",
+      "precios": {
+        "2013": {
+          "usd": 4525.97,
+          "ars": 6920208.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "843": {
+      "id": "843",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "3P 1,4 Lt",
+      "precios": {
+        "2013": {
+          "usd": 4705.58,
+          "ars": 7194831.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "844": {
+      "id": "844",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "3P 1,4 Lt Spirit",
+      "precios": {
+        "2013": {
+          "usd": 4741.5,
+          "ars": 7249753.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "845": {
+      "id": "845",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Ls A/c",
+      "precios": {
+        "2013": {
+          "usd": 4525.97,
+          "ars": 6920208.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "846": {
+      "id": "846",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Ls Spirit",
+      "precios": {
+        "2013": {
+          "usd": 4561.89,
+          "ars": 6975129.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "847": {
+      "id": "847",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Lt",
+      "precios": {
+        "2013": {
+          "usd": 4885.18,
+          "ars": 7469440.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "848": {
+      "id": "848",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Lt Spirit",
+      "precios": {
+        "2013": {
+          "usd": 4921.1,
+          "ars": 7524361.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "849": {
+      "id": "849",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Lt Spirit ABS ABG",
+      "precios": {
+        "2013": {
+          "usd": 4957.02,
+          "ars": 7579283.58,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5121.83,
+          "ars": 7831278.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "850": {
+      "id": "850",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Lt Spirit Pack",
+      "precios": {
+        "2013": {
+          "usd": 4973.37,
+          "ars": 7604282.73,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5121.83,
+          "ars": 7831278.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "851": {
+      "id": "851",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Lt Spirit Plus",
+      "precios": {
+        "2013": {
+          "usd": 5028.86,
+          "ars": 7689126.94,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5192.97,
+          "ars": 7940051.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "852": {
+      "id": "852",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Advantage",
+      "precios": {
+        "2014": {
+          "usd": 5548.65,
+          "ars": 8483885.85,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 5775.44,
+          "ars": 8830647.76,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6123.54,
+          "ars": 9362892.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "853": {
+      "id": "853",
+      "marcaId": "9",
+      "modeloId": "128",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "5P 1,4 Advantage  Pack",
+      "precios": {
+        "2014": {
+          "usd": 5690.92,
+          "ars": 8701416.68,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 5916.31,
+          "ars": 9046037.99,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6272.9,
+          "ars": 9591264.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "854": {
+      "id": "854",
+      "marcaId": "9",
+      "modeloId": "129",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "4P 1,4 Ls",
+      "precios": {
+        "2013": {
+          "usd": 4523.21,
+          "ars": 6915988.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "855": {
+      "id": "855",
+      "marcaId": "9",
+      "modeloId": "129",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "4P 1,4 Ls A/c Dh",
+      "precios": {
+        "2013": {
+          "usd": 5072.75,
+          "ars": 7756234.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "856": {
+      "id": "856",
+      "marcaId": "9",
+      "modeloId": "129",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "4P 1,4 Ls A/c Dh Spirit",
+      "precios": {
+        "2013": {
+          "usd": 5157.3,
+          "ars": 7885511.7,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5357.89,
+          "ars": 8192213.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "857": {
+      "id": "857",
+      "marcaId": "9",
+      "modeloId": "129",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "4P 1,4 Ls A/c Dh ABG ABS",
+      "precios": {
+        "2014": {
+          "usd": 5567.18,
+          "ars": 8512218.22,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 5802.17,
+          "ars": 8871517.93,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6151.88,
+          "ars": 9406224.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "858": {
+      "id": "858",
+      "marcaId": "9",
+      "modeloId": "129",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "4P 1,4 Ls A/c Dh ABG ABS Pack",
+      "precios": {
+        "2015": {
+          "usd": 6009.39,
+          "ars": 9188357.31,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6371.59,
+          "ars": 9742161.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "859": {
+      "id": "859",
+      "marcaId": "9",
+      "modeloId": "129",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "4P 1,4 Lt Spirit",
+      "precios": {
+        "2013": {
+          "usd": 5468.43,
+          "ars": 8361229.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "860": {
+      "id": "860",
+      "marcaId": "9",
+      "modeloId": "129",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "4P 1,4 Lt Spirit 2013",
+      "precios": {
+        "2013": {
+          "usd": 5592.71,
+          "ars": 8551253.59,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5784.01,
+          "ars": 8843751.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "861": {
+      "id": "861",
+      "marcaId": "9",
+      "modeloId": "129",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "4P 1,4 Lt Spirit Pack",
+      "precios": {
+        "2013": {
+          "usd": 5799.85,
+          "ars": 8867970.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "862": {
+      "id": "862",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Lt",
+      "precios": {
+        "2013": {
+          "usd": 5194.8,
+          "ars": 7942849.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "863": {
+      "id": "863",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Ltz",
+      "precios": {
+        "2013": {
+          "usd": 5483.99,
+          "ars": 8385020.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "864": {
+      "id": "864",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Ltz AT",
+      "precios": {
+        "2013": {
+          "usd": 5749.98,
+          "ars": 8791719.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "865": {
+      "id": "865",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Lt 2014",
+      "precios": {
+        "2013": {
+          "usd": 5348.28,
+          "ars": 8177520.12,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5574.57,
+          "ars": 8523517.53,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 5809.87,
+          "ars": 8883291.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "866": {
+      "id": "866",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Ltz 2014",
+      "precios": {
+        "2013": {
+          "usd": 5754.81,
+          "ars": 8799104.49,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5998.31,
+          "ars": 9171415.99,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6251.49,
+          "ars": 9558528.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "867": {
+      "id": "867",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Ltz AT 2014",
+      "precios": {
+        "2013": {
+          "usd": 6032.67,
+          "ars": 9223952.43,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6262.28,
+          "ars": 9575026.12,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6526.6,
+          "ars": 9979171.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "868": {
+      "id": "868",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Lt Advantage",
+      "precios": {
+        "2015": {
+          "usd": 6263.92,
+          "ars": 9577533.68,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6517.33,
+          "ars": 9964997.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "869": {
+      "id": "869",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Ltz Advantage",
+      "precios": {
+        "2015": {
+          "usd": 6727.27,
+          "ars": 10285995.83,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6999.41,
+          "ars": 10702097.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "870": {
+      "id": "870",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Ltz Advantage AT",
+      "precios": {
+        "2015": {
+          "usd": 7017.59,
+          "ars": 10729895.11,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7301.48,
+          "ars": 11163962.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "871": {
+      "id": "871",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Lt 2016",
+      "precios": {
+        "2016": {
+          "usd": 7514.84,
+          "ars": 11490190.36,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7994.51,
+          "ars": 12223605.79,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8289.66,
+          "ars": 12674890.14,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8875.22,
+          "ars": 13570211.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "872": {
+      "id": "872",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Ltz 2016",
+      "precios": {
+        "2016": {
+          "usd": 8072.62,
+          "ars": 12343035.98,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8587.9,
+          "ars": 13130899.1,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8904.95,
+          "ars": 13615668.55,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9617.35,
+          "ars": 14704928.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "873": {
+      "id": "873",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Ltz AT 2016",
+      "precios": {
+        "2016": {
+          "usd": 8437.42,
+          "ars": 12900815.18,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8975.98,
+          "ars": 13724273.42,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9307.36,
+          "ars": 14230953.44,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10051.95,
+          "ars": 15369431.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "874": {
+      "id": "874",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,8 Lt 2020",
+      "precios": {
+        "2019": {
+          "usd": 8873.04,
+          "ars": 13566878.16,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9575.83,
+          "ars": 14641444.07,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10155.19,
+          "ars": 15527285.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "875": {
+      "id": "875",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,3 Td Lt",
+      "precios": {
+        "2013": {
+          "usd": 5736.06,
+          "ars": 8770435.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "876": {
+      "id": "876",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,3 Td Ltz",
+      "precios": {
+        "2013": {
+          "usd": 6233.96,
+          "ars": 9531724.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "877": {
+      "id": "877",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,3 Td Lt 2014",
+      "precios": {
+        "2013": {
+          "usd": 6076.84,
+          "ars": 9291488.36,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6335.56,
+          "ars": 9687071.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "878": {
+      "id": "878",
+      "marcaId": "9",
+      "modeloId": "130",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "4P 1,3 Td Ltz 2014",
+      "precios": {
+        "2013": {
+          "usd": 6398.29,
+          "ars": 9782985.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6652.34,
+          "ars": 10171427.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "908": {
+      "id": "908",
+      "marcaId": "9",
+      "modeloId": "131",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "4P 1,4 T Lt 6AT 2022",
+      "precios": {
+        "2022": {
+          "usd": 13557.02,
+          "ars": 20728683.58,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14234.87,
+          "ars": 21765116.23,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14675.12,
+          "ars": 22438258.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5847": {
+      "id": "5847",
+      "marcaId": "6",
+      "modeloId": "624",
+      "marca": "BYD",
+      "modelo": "ATTO 2",
+      "version": "5P 1,5 Gs Dm-I Hibrido",
+      "precios": {
+        "0": {
+          "usd": 33900,
+          "ars": 51833100,
           "cotizacion": 1529
         }
       }
@@ -11792,6 +19848,56 @@
         }
       }
     },
+    "6337": {
+      "id": "6337",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I Sdrive Xline Black Edition",
+      "precios": {
+        "0": {
+          "usd": 54900,
+          "ars": 83942100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6338": {
+      "id": "6338",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,0 D Sdrive Mildhybrid",
+      "precios": {
+        "0": {
+          "usd": 44900,
+          "ars": 68652100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6339": {
+      "id": "6339",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 2,5e I Sdrive Xline",
+      "precios": {
+        "0": {
+          "usd": 75900,
+          "ars": 116051100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 80238.91,
+          "ars": 122685293.39,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6490": {
       "id": "6490",
       "marcaId": "2",
@@ -11847,6 +19953,81 @@
         }
       }
     },
+    "6493": {
+      "id": "6493",
+      "marcaId": "5",
+      "modeloId": "56",
+      "marca": "BMW",
+      "modelo": "320 i",
+      "version": "4P 2,0 T Sportline 50 Jahre",
+      "precios": {
+        "0": {
+          "usd": 64400,
+          "ars": 98467600,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6494": {
+      "id": "6494",
+      "marcaId": "5",
+      "modeloId": "59",
+      "marca": "BMW",
+      "modelo": "330",
+      "version": "4P 2,0 T Msport AT 50 Jahre",
+      "precios": {
+        "0": {
+          "usd": 76900,
+          "ars": 117580100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6495": {
+      "id": "6495",
+      "marcaId": "5",
+      "modeloId": "92",
+      "marca": "BMW",
+      "modelo": "M340i",
+      "version": "4P 3,0 T Xdrive 8AT Performance 50 Jahre",
+      "precios": {
+        "0": {
+          "usd": 94900,
+          "ars": 145102100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6496": {
+      "id": "6496",
+      "marcaId": "5",
+      "modeloId": "97",
+      "marca": "BMW",
+      "modelo": "X3",
+      "version": "5P 2,0 T Xdrive  8AT Mildhybrid 30 Msport",
+      "precios": {
+        "0": {
+          "usd": 97900,
+          "ars": 149689100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6497": {
+      "id": "6497",
+      "marcaId": "6",
+      "modeloId": "670",
+      "marca": "BYD",
+      "modelo": "SHARK DMO",
+      "version": "D/C 1,5 T Hibrido",
+      "precios": {
+        "0": {
+          "usd": 59990,
+          "ars": 91724710,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6589": {
       "id": "6589",
       "marcaId": "3",
@@ -11892,6 +20073,66 @@
         }
       }
     },
+    "6592": {
+      "id": "6592",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "4P 3,0 T Competition Xdrive",
+      "precios": {
+        "0": {
+          "usd": 177900,
+          "ars": 272009100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6593": {
+      "id": "6593",
+      "marcaId": "5",
+      "modeloId": "84",
+      "marca": "BMW",
+      "modelo": "M3",
+      "version": "Touring 3,0 T Competition Xdrive",
+      "precios": {
+        "0": {
+          "usd": 181900,
+          "ars": 278125100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6594": {
+      "id": "6594",
+      "marcaId": "5",
+      "modeloId": "85",
+      "marca": "BMW",
+      "modelo": "M4",
+      "version": "Coupe 3,0 Bt 530CV Competition Xdrive",
+      "precios": {
+        "0": {
+          "usd": 179900,
+          "ars": 275067100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6660": {
+      "id": "6660",
+      "marcaId": "6",
+      "modeloId": "698",
+      "marca": "BYD",
+      "modelo": "SEAL U DM-i",
+      "version": "5P 1,5 T Hibrido",
+      "precios": {
+        "0": {
+          "usd": 47990,
+          "ars": 73376710,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6684": {
       "id": "6684",
       "marcaId": "5",
@@ -11903,6 +20144,51 @@
         "0": {
           "usd": 45900,
           "ars": 70181100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6685": {
+      "id": "6685",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I Sdrive Efficient",
+      "precios": {
+        "0": {
+          "usd": 48500,
+          "ars": 74156500,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6686": {
+      "id": "6686",
+      "marcaId": "5",
+      "modeloId": "95",
+      "marca": "BMW",
+      "modelo": "X1",
+      "version": "5P 1,8 I Sdrive Comfort",
+      "precios": {
+        "0": {
+          "usd": 54900,
+          "ars": 83942100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6687": {
+      "id": "6687",
+      "marcaId": "8",
+      "modeloId": "122",
+      "marca": "CHERY",
+      "modelo": "TIGGO 7",
+      "version": "5P 1,5 T 4X2 Csh AT Hybrid",
+      "precios": {
+        "0": {
+          "usd": 36500,
+          "ars": 55808500,
           "cotizacion": 1529
         }
       }
