@@ -1,13 +1,13 @@
 {
   "version": 7,
-  "actualizado": "2026-09-07T09:01:02.294Z",
+  "actualizado": "2026-09-07T09:09:03.406Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6163,
-  "versionesProcesadas": 6141,
-  "versionesConValuacion": 5506,
-  "completo": false,
+  "versionesProcesadas": 6163,
+  "versionesConValuacion": 5528,
+  "completo": true,
   "vehiculos": {
     "1": {
       "id": "1",
@@ -138689,6 +138689,106 @@
         }
       }
     },
+    "5820": {
+      "id": "5820",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 3,0 T6 Plus",
+      "precios": {
+        "2013": {
+          "usd": 26427.66,
+          "ars": 40407892.14,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 29752.89,
+          "ars": 45492168.81,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 32469.51,
+          "ars": 49645880.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5821": {
+      "id": "5821",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 3,0 T6 Highline Plus",
+      "precios": {
+        "2013": {
+          "usd": 26654.51,
+          "ars": 40754745.79,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 30008.28,
+          "ars": 45882660.12,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 32748.22,
+          "ars": 50072028.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5822": {
+      "id": "5822",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 3,0 T6 Premium",
+      "precios": {
+        "2013": {
+          "usd": 29452.28,
+          "ars": 45032536.12,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 33158.08,
+          "ars": 50698704.32,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 36185.62,
+          "ars": 55327812.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5823": {
+      "id": "5823",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 3,0 T6 Luxury R-Design",
+      "precios": {
+        "2013": {
+          "usd": 32076.61,
+          "ars": 49045136.69,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 36112.61,
+          "ars": 55216180.69,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 39409.92,
+          "ars": 60257767.68,
+          "cotizacion": 1529
+        }
+      }
+    },
     "5824": {
       "id": "5824",
       "marcaId": "62",
@@ -138728,6 +138828,241 @@
         "2015": {
           "usd": 26633.7,
           "ars": 40722927.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5827": {
+      "id": "5827",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 2,0 T5 Highline Plus",
+      "precios": {
+        "2013": {
+          "usd": 23742.31,
+          "ars": 36301991.99,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 26729.66,
+          "ars": 40869650.14,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 29170.25,
+          "ars": 44601312.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5828": {
+      "id": "5828",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 2,0 T5 Highline Luxury AWD",
+      "precios": {
+        "2016": {
+          "usd": 34136.36,
+          "ars": 52194494.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5829": {
+      "id": "5829",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 2,0 T5 Highline Luxury Fwd",
+      "precios": {
+        "2016": {
+          "usd": 38693.95,
+          "ars": 59163049.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5830": {
+      "id": "5830",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 2,0 T5 Inscription Fwd",
+      "precios": {
+        "2017": {
+          "usd": 41002.67,
+          "ars": 62693082.43,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 44689.15,
+          "ars": 68329710.35,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 49229.57,
+          "ars": 75272012.53,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 53344.73,
+          "ars": 81564092.17,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 58679.21,
+          "ars": 89720512.09,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 67634.46,
+          "ars": 103413089.34,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 72368.87,
+          "ars": 110652002.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5831": {
+      "id": "5831",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 2,0 T5 Inscription AWD",
+      "precios": {
+        "2017": {
+          "usd": 43160.71,
+          "ars": 65992725.59,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 47041.21,
+          "ars": 71926010.09,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 51820.6,
+          "ars": 79233697.4,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 56152.35,
+          "ars": 85856943.15,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 61767.59,
+          "ars": 94442645.11,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 71194.16,
+          "ars": 108855870.64,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 76177.76,
+          "ars": 116475795.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5832": {
+      "id": "5832",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 2,0 T5 Momentum AWD New",
+      "precios": {
+        "2017": {
+          "usd": 45215.98,
+          "ars": 69135233.42,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 49281.27,
+          "ars": 75351061.83,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 54288.25,
+          "ars": 83006734.25,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 58826.27,
+          "ars": 89945366.83,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 64708.9,
+          "ars": 98939908.1,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 74584.36,
+          "ars": 114039486.44,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 79805.27,
+          "ars": 122022257.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5833": {
+      "id": "5833",
+      "marcaId": "62",
+      "modeloId": "620",
+      "marca": "VOLVO",
+      "modelo": "XC60",
+      "version": "5P 2,0 T6 Inscription Fwd New",
+      "precios": {
+        "2017": {
+          "usd": 49326.52,
+          "ars": 75420249.08,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 53761.39,
+          "ars": 82201165.31,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 59223.54,
+          "ars": 90552792.66,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 64174.12,
+          "ars": 98122229.48,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 70591.53,
+          "ars": 107934449.37,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 81364.76,
+          "ars": 124406718.04,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 87060.29,
+          "ars": 133115183.41,
           "cotizacion": 1529
         }
       }
@@ -138773,6 +139108,311 @@
         "2025": {
           "usd": 105336.08,
           "ars": 161058866.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5836": {
+      "id": "5836",
+      "marcaId": "62",
+      "modeloId": "621",
+      "marca": "VOLVO",
+      "modelo": "XC90",
+      "version": "5P 2,5 D5 Highline Luxury",
+      "precios": {
+        "2013": {
+          "usd": 46133.45,
+          "ars": 70538045.05,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 59438.44,
+          "ars": 90881374.76,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 51739.32,
+          "ars": 79109420.28,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 56522.8,
+          "ars": 86423361.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5837": {
+      "id": "5837",
+      "marcaId": "62",
+      "modeloId": "621",
+      "marca": "VOLVO",
+      "modelo": "XC90",
+      "version": "5P 2,0 T T6 Highline Luxury 8AT",
+      "precios": {
+        "2016": {
+          "usd": 62260.13,
+          "ars": 95195738.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5838": {
+      "id": "5838",
+      "marcaId": "62",
+      "modeloId": "621",
+      "marca": "VOLVO",
+      "modelo": "XC90",
+      "version": "5P 2,0 T T6 R Design 8AT",
+      "precios": {
+        "2016": {
+          "usd": 66279.5,
+          "ars": 101341355.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5839": {
+      "id": "5839",
+      "marcaId": "62",
+      "modeloId": "621",
+      "marca": "VOLVO",
+      "modelo": "XC90",
+      "version": "5P 2,0 D5 Momentum 8AT",
+      "precios": {
+        "2017": {
+          "usd": 64669.54,
+          "ars": 98879726.66,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 69178.61,
+          "ars": 105774094.69,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 71906.97,
+          "ars": 109945757.13,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 82484.37,
+          "ars": 126118601.73,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 90939.02,
+          "ars": 139045761.58,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 95485.97,
+          "ars": 145998048.13,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 102169.99,
+          "ars": 156217914.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5840": {
+      "id": "5840",
+      "marcaId": "62",
+      "modeloId": "621",
+      "marca": "VOLVO",
+      "modelo": "XC90",
+      "version": "5P 2,0 T6 Inscription 8AT",
+      "precios": {
+        "2017": {
+          "usd": 71860.75,
+          "ars": 109875086.75,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 76871.22,
+          "ars": 117536095.38,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 79902.98,
+          "ars": 122171656.42,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 91656.58,
+          "ars": 140142910.82,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 101051.38,
+          "ars": 154507560.02,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 106103.95,
+          "ars": 162232939.55,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 113531.23,
+          "ars": 173589250.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5841": {
+      "id": "5841",
+      "marcaId": "62",
+      "modeloId": "621",
+      "marca": "VOLVO",
+      "modelo": "XC90",
+      "version": "5P 2,0 T6 R Design 8AT",
+      "precios": {
+        "2017": {
+          "usd": 76997.33,
+          "ars": 117728917.57,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 82365.95,
+          "ars": 125937537.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5842": {
+      "id": "5842",
+      "marcaId": "62",
+      "modeloId": "621",
+      "marca": "VOLVO",
+      "modelo": "XC90",
+      "version": "5P 2,0 T T8 AWD Hibrido Recargable",
+      "precios": {
+        "2023": {
+          "usd": 117313.11,
+          "ars": 179371745.19,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 124402.08,
+          "ars": 190210780.32,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 130949.56,
+          "ars": 200221877.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5843": {
+      "id": "5843",
+      "marcaId": "63",
+      "modeloId": "622",
+      "marca": "ZANELLA",
+      "modelo": "FORCE TRUCK",
+      "version": "Chasis 1,2 MT",
+      "precios": {
+        "2018": {
+          "usd": 8764.32,
+          "ars": 13400645.28,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9225.6,
+          "ars": 14105942.4,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10148.16,
+          "ars": 15516536.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5844": {
+      "id": "5844",
+      "marcaId": "63",
+      "modeloId": "622",
+      "marca": "ZANELLA",
+      "modelo": "FORCE TRUCK",
+      "version": "C/S 1,2 MT",
+      "precios": {
+        "2018": {
+          "usd": 8972.61,
+          "ars": 13719120.69,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9444.86,
+          "ars": 14441190.94,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10389.34,
+          "ars": 15885300.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5845": {
+      "id": "5845",
+      "marcaId": "63",
+      "modeloId": "622",
+      "marca": "ZANELLA",
+      "modelo": "FORCE TRUCK",
+      "version": "D/C 1,2 MT",
+      "precios": {
+        "2018": {
+          "usd": 9885.9,
+          "ars": 15115541.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10406.21,
+          "ars": 15911095.09,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11446.83,
+          "ars": 17502203.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5846": {
+      "id": "5846",
+      "marcaId": "63",
+      "modeloId": "623",
+      "marca": "ZANELLA",
+      "modelo": "Z TRUCK",
+      "version": "C/S 1,2 MT",
+      "precios": {
+        "2021": {
+          "usd": 12019.17,
+          "ars": 18377310.93,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12620.13,
+          "ars": 19296178.77,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13503.54,
+          "ars": 20646912.66,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14178.71,
+          "ars": 21679247.59,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14887.65,
+          "ars": 22763216.85,
           "cotizacion": 1529
         }
       }
