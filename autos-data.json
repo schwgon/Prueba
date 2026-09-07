@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-07T04:53:56.913Z",
+  "actualizado": "2026-09-07T06:57:47.592Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6163,
-  "versionesProcesadas": 5443,
-  "versionesConValuacion": 4974,
+  "versionesProcesadas": 5792,
+  "versionesConValuacion": 5212,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -125311,6 +125311,46 @@
         }
       }
     },
+    "5196": {
+      "id": "5196",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Trendline 2014",
+      "precios": {
+        "2013": {
+          "usd": 7448.3,
+          "ars": 11388450.7,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7888.72,
+          "ars": 12061852.88,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8198.86,
+          "ars": 12536056.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5197": {
+      "id": "5197",
+      "marcaId": "61",
+      "modeloId": "581",
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "version": "5P 1,6 Trendline CRO Full",
+      "precios": {
+        "2013": {
+          "usd": 7434.65,
+          "ars": 11367579.85,
+          "cotizacion": 1529
+        }
+      }
+    },
     "5198": {
       "id": "5198",
       "marcaId": "61",
@@ -125432,6 +125472,6225 @@
         "2018": {
           "usd": 11106.71,
           "ars": 16982159.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5204": {
+      "id": "5204",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Comfortline",
+      "precios": {
+        "2013": {
+          "usd": 5854.48,
+          "ars": 8951499.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5205": {
+      "id": "5205",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Comfortline 2014",
+      "precios": {
+        "2013": {
+          "usd": 6211.43,
+          "ars": 9497276.47,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6578.71,
+          "ars": 10058847.59,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6901.86,
+          "ars": 10552943.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5206": {
+      "id": "5206",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Comfortline Pack",
+      "precios": {
+        "2013": {
+          "usd": 6255.55,
+          "ars": 9564735.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5207": {
+      "id": "5207",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Comfortline Pack 2014",
+      "precios": {
+        "2013": {
+          "usd": 6601.87,
+          "ars": 10094259.23,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6992.23,
+          "ars": 10691119.67,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7335.69,
+          "ars": 11216270.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5208": {
+      "id": "5208",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Trendline",
+      "precios": {
+        "2013": {
+          "usd": 6601.62,
+          "ars": 10093876.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5209": {
+      "id": "5209",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Trendline 2014",
+      "precios": {
+        "2013": {
+          "usd": 6956.81,
+          "ars": 10636962.49,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7368.16,
+          "ars": 11265916.64,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7730.08,
+          "ars": 11819292.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5210": {
+      "id": "5210",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Highline",
+      "precios": {
+        "2013": {
+          "usd": 7131.31,
+          "ars": 10903772.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5211": {
+      "id": "5211",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "3P 1,6 Highline 2014",
+      "precios": {
+        "2013": {
+          "usd": 7489.22,
+          "ars": 11451017.38,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7932.04,
+          "ars": 12128089.16,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8321.67,
+          "ars": 12723833.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5212": {
+      "id": "5212",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Comfortline",
+      "precios": {
+        "2013": {
+          "usd": 6221.7,
+          "ars": 9512979.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5213": {
+      "id": "5213",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Comfortline 2014",
+      "precios": {
+        "2013": {
+          "usd": 6566.37,
+          "ars": 10039979.73,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6954.64,
+          "ars": 10633644.56,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7296.25,
+          "ars": 11155966.25,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5214": {
+      "id": "5214",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Comfortline 2015",
+      "precios": {
+        "2015": {
+          "usd": 8018.66,
+          "ars": 12260531.14,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8126.09,
+          "ars": 12424791.61,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8338.2,
+          "ars": 12749107.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5215": {
+      "id": "5215",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Comfortline 2018",
+      "precios": {
+        "2017": {
+          "usd": 8776.69,
+          "ars": 13419559.01,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9391.86,
+          "ars": 14360153.94,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10143.21,
+          "ars": 15508968.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5216": {
+      "id": "5216",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Comfortline Pack",
+      "precios": {
+        "2013": {
+          "usd": 6622.78,
+          "ars": 10126230.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5217": {
+      "id": "5217",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Comfortline Pack 2014",
+      "precios": {
+        "2013": {
+          "usd": 6992.3,
+          "ars": 10691226.7,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7405.75,
+          "ars": 11323391.75,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7769.52,
+          "ars": 11879596.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5218": {
+      "id": "5218",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Connect",
+      "precios": {
+        "2017": {
+          "usd": 9454.72,
+          "ars": 14456266.88,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10117.41,
+          "ars": 15469519.89,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10926.81,
+          "ars": 16707092.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5219": {
+      "id": "5219",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Track",
+      "precios": {
+        "2016": {
+          "usd": 8434.92,
+          "ars": 12896992.68,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8768.98,
+          "ars": 13407770.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5220": {
+      "id": "5220",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Track 2018",
+      "precios": {
+        "2017": {
+          "usd": 9153.37,
+          "ars": 13995502.73,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9794.95,
+          "ars": 14976478.55,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10578.54,
+          "ars": 16174587.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5221": {
+      "id": "5221",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Trendline",
+      "precios": {
+        "2013": {
+          "usd": 6759.78,
+          "ars": 10335703.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5222": {
+      "id": "5222",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Trendline 2014",
+      "precios": {
+        "2013": {
+          "usd": 7134.28,
+          "ars": 10908314.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5223": {
+      "id": "5223",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Trendline 2015",
+      "precios": {
+        "2015": {
+          "usd": 8433.08,
+          "ars": 12894179.32,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8612.12,
+          "ars": 13167931.48,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8953.2,
+          "ars": 13689442.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5224": {
+      "id": "5224",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI Trendline 2018",
+      "precios": {
+        "2017": {
+          "usd": 9431.36,
+          "ars": 14420549.44,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10092.42,
+          "ars": 15431310.18,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10899.82,
+          "ars": 16665824.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5225": {
+      "id": "5225",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Trendline  I Motion",
+      "precios": {
+        "2013": {
+          "usd": 6613.61,
+          "ars": 10112209.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5226": {
+      "id": "5226",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Highline",
+      "precios": {
+        "2013": {
+          "usd": 6916.07,
+          "ars": 10574671.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5227": {
+      "id": "5227",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Highline 2014",
+      "precios": {
+        "2013": {
+          "usd": 7702.18,
+          "ars": 11776633.22,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8157.6,
+          "ars": 12472970.4,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8558.31,
+          "ars": 13085655.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5228": {
+      "id": "5228",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline 2015",
+      "precios": {
+        "2015": {
+          "usd": 8909.62,
+          "ars": 13622808.98,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9221.83,
+          "ars": 14100178.07,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9587.05,
+          "ars": 14658599.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5229": {
+      "id": "5229",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline 2018",
+      "precios": {
+        "2017": {
+          "usd": 10032.15,
+          "ars": 15339157.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5230": {
+      "id": "5230",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline Pepper",
+      "precios": {
+        "2016": {
+          "usd": 9273.24,
+          "ars": 14178783.96,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9640.5,
+          "ars": 14740324.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5231": {
+      "id": "5231",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Highline I Motion",
+      "precios": {
+        "2013": {
+          "usd": 7096.26,
+          "ars": 10850181.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5232": {
+      "id": "5232",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 Highline I Motion 2014",
+      "precios": {
+        "2013": {
+          "usd": 7553.1,
+          "ars": 11548689.9,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7999.71,
+          "ars": 12231556.59,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8392.66,
+          "ars": 12832377.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5233": {
+      "id": "5233",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline I Motion 2015",
+      "precios": {
+        "2015": {
+          "usd": 8725.58,
+          "ars": 13341411.82,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8978.34,
+          "ars": 13727881.86,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9333.92,
+          "ars": 14271563.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5234": {
+      "id": "5234",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "5P 1,6 MSI 16V Highline I Motion 2018",
+      "precios": {
+        "2017": {
+          "usd": 10247.28,
+          "ars": 15668091.12,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10965.53,
+          "ars": 16766295.37,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11842.77,
+          "ars": 18107595.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5235": {
+      "id": "5235",
+      "marcaId": "61",
+      "modeloId": "583",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "3P 1,4l Power 4g",
+      "precios": {
+        "2013": {
+          "usd": 4525.74,
+          "ars": 6919856.46,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 4731.81,
+          "ars": 7234937.49,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 5010.63,
+          "ars": 7661253.27,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 5209.58,
+          "ars": 7965447.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5236": {
+      "id": "5236",
+      "marcaId": "61",
+      "modeloId": "583",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "3P 1,4l Power 4g Dh A/c",
+      "precios": {
+        "2013": {
+          "usd": 5091.46,
+          "ars": 7784842.34,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5343.53,
+          "ars": 8170257.37,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 5658.39,
+          "ars": 8651678.31,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 5883.07,
+          "ars": 8995214.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5237": {
+      "id": "5237",
+      "marcaId": "61",
+      "modeloId": "583",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "5P 1,4l Power 4g",
+      "precios": {
+        "2013": {
+          "usd": 4902.89,
+          "ars": 7496518.81,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5099.64,
+          "ars": 7797349.56,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 5400.14,
+          "ars": 8256814.06,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 5614.55,
+          "ars": 8584646.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5238": {
+      "id": "5238",
+      "marcaId": "61",
+      "modeloId": "583",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "5P 1,4l Power 4g Dh A/c",
+      "precios": {
+        "2013": {
+          "usd": 5506.32,
+          "ars": 8419163.28,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5762.33,
+          "ars": 8810602.57,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6101.88,
+          "ars": 9329774.52,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6344.16,
+          "ars": 9700220.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5239": {
+      "id": "5239",
+      "marcaId": "61",
+      "modeloId": "584",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL COUNTRY",
+      "version": "5P 1,4 Power 4g",
+      "precios": {
+        "2013": {
+          "usd": 5047.22,
+          "ars": 7717199.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5240": {
+      "id": "5240",
+      "marcaId": "61",
+      "modeloId": "584",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL COUNTRY",
+      "version": "5P 1,4 Power 4g Dh A/c",
+      "precios": {
+        "2013": {
+          "usd": 5444.64,
+          "ars": 8324854.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5241": {
+      "id": "5241",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Serie",
+      "precios": {
+        "2013": {
+          "usd": 5285.83,
+          "ars": 8082034.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5242": {
+      "id": "5242",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Serie ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "usd": 5489.13,
+          "ars": 8392879.77,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5582.42,
+          "ars": 8535520.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5243": {
+      "id": "5243",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Pack I 2014",
+      "precios": {
+        "2013": {
+          "usd": 6099.03,
+          "ars": 9325416.87,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6180.54,
+          "ars": 9450045.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5244": {
+      "id": "5244",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Pack I ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "usd": 6302.33,
+          "ars": 9636262.57,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6379.91,
+          "ars": 9754882.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5245": {
+      "id": "5245",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Pack Ii 2014",
+      "precios": {
+        "2013": {
+          "usd": 6586.95,
+          "ars": 10071446.55,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6659.03,
+          "ars": 10181656.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5246": {
+      "id": "5246",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Gp Pack Iii 2014",
+      "precios": {
+        "2013": {
+          "usd": 6871.58,
+          "ars": 10506645.82,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6938.15,
+          "ars": 10608431.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5247": {
+      "id": "5247",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Serie 2015",
+      "precios": {
+        "2014": {
+          "usd": 6180.54,
+          "ars": 9450045.66,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6255.42,
+          "ars": 9564537.18,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6444.67,
+          "ars": 9853900.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5248": {
+      "id": "5248",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Trendline 2015",
+      "precios": {
+        "2014": {
+          "usd": 6682.16,
+          "ars": 10217022.64,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6733.76,
+          "ars": 10295919.04,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6937.48,
+          "ars": 10607406.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5249": {
+      "id": "5249",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Highline 2015",
+      "precios": {
+        "2014": {
+          "usd": 7954.95,
+          "ars": 12163118.55,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7985.43,
+          "ars": 12209722.47,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8227.02,
+          "ars": 12579113.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5250": {
+      "id": "5250",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Serie 2017",
+      "precios": {
+        "2016": {
+          "usd": 6850.72,
+          "ars": 10474750.88,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7189.86,
+          "ars": 10993295.94,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 7547.26,
+          "ars": 11539760.54,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8071.91,
+          "ars": 12341950.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5251": {
+      "id": "5251",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "3P 1,6 Trendline 2017",
+      "precios": {
+        "2016": {
+          "usd": 7396.22,
+          "ars": 11308820.38,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7762.37,
+          "ars": 11868663.73,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8148.23,
+          "ars": 12458643.67,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8714.66,
+          "ars": 13324715.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5252": {
+      "id": "5252",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6",
+      "precios": {}
+    },
+    "5253": {
+      "id": "5253",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack I",
+      "precios": {}
+    },
+    "5254": {
+      "id": "5254",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack I Plus",
+      "precios": {}
+    },
+    "5255": {
+      "id": "5255",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack I Plus I Motion",
+      "precios": {}
+    },
+    "5256": {
+      "id": "5256",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack Iii",
+      "precios": {
+        "2013": {
+          "usd": 6424.31,
+          "ars": 9822769.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5257": {
+      "id": "5257",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack Iii ABS",
+      "precios": {
+        "2013": {
+          "usd": 6505.63,
+          "ars": 9947108.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5258": {
+      "id": "5258",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Pack Iii I Motion",
+      "precios": {
+        "2013": {
+          "usd": 6912.24,
+          "ars": 10568814.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5259": {
+      "id": "5259",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Serie",
+      "precios": {
+        "2013": {
+          "usd": 5489.13,
+          "ars": 8392879.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5260": {
+      "id": "5260",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack I",
+      "precios": {
+        "2013": {
+          "usd": 6099.03,
+          "ars": 9325416.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5261": {
+      "id": "5261",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Ii",
+      "precios": {
+        "2013": {
+          "usd": 6383.65,
+          "ars": 9760600.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5262": {
+      "id": "5262",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Iii",
+      "precios": {
+        "2013": {
+          "usd": 6668.27,
+          "ars": 10195784.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5263": {
+      "id": "5263",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Iii I Mottion",
+      "precios": {
+        "2013": {
+          "usd": 7074.88,
+          "ars": 10817491.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5264": {
+      "id": "5264",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Serie ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "usd": 5895.73,
+          "ars": 9014571.17,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 5981.17,
+          "ars": 9145208.93,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6216.32,
+          "ars": 9504753.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5265": {
+      "id": "5265",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack I 2014",
+      "precios": {
+        "2013": {
+          "usd": 6505.63,
+          "ars": 9947108.27,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6579.28,
+          "ars": 10059719.12,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 6837.95,
+          "ars": 10455225.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5266": {
+      "id": "5266",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack I ABG ABS 2014",
+      "precios": {
+        "2013": {
+          "usd": 6708.93,
+          "ars": 10257953.97,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6778.66,
+          "ars": 10364571.14,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7045.16,
+          "ars": 10772049.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5267": {
+      "id": "5267",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Ii 2014",
+      "precios": {
+        "2013": {
+          "usd": 6993.56,
+          "ars": 10693153.24,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7057.78,
+          "ars": 10791345.62,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7335.26,
+          "ars": 11215612.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5268": {
+      "id": "5268",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Iii 2014",
+      "precios": {
+        "2013": {
+          "usd": 7278.18,
+          "ars": 11128337.22,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7336.9,
+          "ars": 11218120.1,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7625.35,
+          "ars": 11659160.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5269": {
+      "id": "5269",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Pack Iii I Mottion 2014",
+      "precios": {
+        "2013": {
+          "usd": 7684.78,
+          "ars": 11750028.62,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7735.64,
+          "ars": 11827793.56,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8039.77,
+          "ars": 12292808.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5270": {
+      "id": "5270",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Serie 2015",
+      "precios": {
+        "2015": {
+          "usd": 6440.34,
+          "ars": 9847279.86,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 6635.19,
+          "ars": 10145205.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5271": {
+      "id": "5271",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Trendline 2015",
+      "precios": {
+        "2015": {
+          "usd": 7239.7,
+          "ars": 11069501.3,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7458.73,
+          "ars": 11404398.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5272": {
+      "id": "5272",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Sportline 2015",
+      "precios": {
+        "2015": {
+          "usd": 7766.3,
+          "ars": 11874672.7,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8001.26,
+          "ars": 12233926.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5273": {
+      "id": "5273",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Highline 2015",
+      "precios": {
+        "2015": {
+          "usd": 8523.98,
+          "ars": 13033165.42,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8781.87,
+          "ars": 13427479.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5274": {
+      "id": "5274",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Gp Cup 2015",
+      "precios": {
+        "2015": {
+          "usd": 8523.98,
+          "ars": 13033165.42,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8781.87,
+          "ars": 13427479.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5275": {
+      "id": "5275",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Highline I Mottion 2015",
+      "precios": {
+        "2015": {
+          "usd": 9092.25,
+          "ars": 13902050.25,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9367.33,
+          "ars": 14322647.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5276": {
+      "id": "5276",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Serie 2017",
+      "precios": {
+        "2016": {
+          "usd": 7290.07,
+          "ars": 11146517.03,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 7650.96,
+          "ars": 11698317.84,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8031.28,
+          "ars": 12279827.12,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 8589.58,
+          "ars": 13133467.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5277": {
+      "id": "5277",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Trendline 2017",
+      "precios": {
+        "2016": {
+          "usd": 7835.57,
+          "ars": 11980586.53,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8223.47,
+          "ars": 12573685.63,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8632.25,
+          "ars": 13198710.25,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9232.32,
+          "ars": 14116217.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5278": {
+      "id": "5278",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Comfortline 2017",
+      "precios": {
+        "2016": {
+          "usd": 8937.63,
+          "ars": 13665636.27,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9380.09,
+          "ars": 14342157.61,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9846.37,
+          "ars": 15055099.73,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10530.83,
+          "ars": 16101639.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5279": {
+      "id": "5279",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Connect 2017",
+      "precios": {
+        "2016": {
+          "usd": 8937.63,
+          "ars": 13665636.27,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9380.09,
+          "ars": 14342157.61,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9846.37,
+          "ars": 15055099.73,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10530.83,
+          "ars": 16101639.07,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5280": {
+      "id": "5280",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Sportline 2017",
+      "precios": {
+        "2016": {
+          "usd": 8827.8,
+          "ars": 13497706.2,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9264.82,
+          "ars": 14165909.78,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9725.37,
+          "ars": 14870090.73,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10401.43,
+          "ars": 15903786.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5281": {
+      "id": "5281",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Highline 2017",
+      "precios": {
+        "2016": {
+          "usd": 9592.95,
+          "ars": 14667620.55,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10067.85,
+          "ars": 15393742.65,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10568.31,
+          "ars": 16158945.99,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11302.96,
+          "ars": 17282225.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5282": {
+      "id": "5282",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Highline I Mottion 2017",
+      "precios": {
+        "2016": {
+          "usd": 9592.95,
+          "ars": 14667620.55,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10067.85,
+          "ars": 15393742.65,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10568.31,
+          "ars": 16158945.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5283": {
+      "id": "5283",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Trendline 2019",
+      "precios": {
+        "2019": {
+          "usd": 9662.28,
+          "ars": 14773626.12,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10332.95,
+          "ars": 15799080.55,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11438.43,
+          "ars": 17489359.47,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12010.35,
+          "ars": 18363825.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5284": {
+      "id": "5284",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Trendline Tipt 2020",
+      "precios": {
+        "2020": {
+          "usd": 10539.61,
+          "ars": 16115063.69,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11667.2,
+          "ars": 17839148.8,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12250.56,
+          "ars": 18731106.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5285": {
+      "id": "5285",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Comfortline 2019",
+      "precios": {
+        "2019": {
+          "usd": 10401.32,
+          "ars": 15903618.28,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11123.3,
+          "ars": 17007525.7,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12313.33,
+          "ars": 18827081.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5286": {
+      "id": "5286",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "5P 1,6 Comfortline Tipt 2019",
+      "precios": {
+        "2019": {
+          "usd": 10609.35,
+          "ars": 16221696.15,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11345.76,
+          "ars": 17347667.04,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12559.6,
+          "ars": 19203628.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5287": {
+      "id": "5287",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Format",
+      "precios": {}
+    },
+    "5288": {
+      "id": "5288",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Concepline",
+      "precios": {}
+    },
+    "5289": {
+      "id": "5289",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Advance",
+      "precios": {}
+    },
+    "5290": {
+      "id": "5290",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Advance",
+      "precios": {}
+    },
+    "5291": {
+      "id": "5291",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Advance AT",
+      "precios": {}
+    },
+    "5292": {
+      "id": "5292",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Conceptline",
+      "precios": {}
+    },
+    "5293": {
+      "id": "5293",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Highline T/c",
+      "precios": {}
+    },
+    "5294": {
+      "id": "5294",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 Highline T/c Tipt",
+      "precios": {}
+    },
+    "5295": {
+      "id": "5295",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,9 Diesel Conceptline",
+      "precios": {}
+    },
+    "5296": {
+      "id": "5296",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,9 Diesel Advance",
+      "precios": {}
+    },
+    "5297": {
+      "id": "5297",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,8 Gti 180CV",
+      "precios": {}
+    },
+    "5298": {
+      "id": "5298",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,8 Gti 180CV Tipt",
+      "precios": {}
+    },
+    "5299": {
+      "id": "5299",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti 211CV 2011",
+      "precios": {
+        "2013": {
+          "usd": 11985.06,
+          "ars": 18325156.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5300": {
+      "id": "5300",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti 211CV Nav 2011",
+      "precios": {
+        "2013": {
+          "usd": 12316.71,
+          "ars": 18832249.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5301": {
+      "id": "5301",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti 211CV DSG 2011",
+      "precios": {
+        "2013": {
+          "usd": 12944.26,
+          "ars": 19791773.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5302": {
+      "id": "5302",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti 211CV DSG Nav 2011",
+      "precios": {
+        "2013": {
+          "usd": 13225.74,
+          "ars": 20222156.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5303": {
+      "id": "5303",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Trendline",
+      "precios": {
+        "2015": {
+          "usd": 8290.26,
+          "ars": 12675807.54,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8715.38,
+          "ars": 13325816.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5304": {
+      "id": "5304",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Comfortline",
+      "precios": {
+        "2015": {
+          "usd": 10836.92,
+          "ars": 16569650.68,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11392.64,
+          "ars": 17419346.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5305": {
+      "id": "5305",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Comfortline DSG",
+      "precios": {
+        "2015": {
+          "usd": 11265.75,
+          "ars": 17225331.75,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11843.46,
+          "ars": 18108650.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5306": {
+      "id": "5306",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Highline DSG",
+      "precios": {
+        "2015": {
+          "usd": 12846.92,
+          "ars": 19642940.68,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13505.71,
+          "ars": 20650230.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5307": {
+      "id": "5307",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti",
+      "precios": {
+        "2016": {
+          "usd": 17407.61,
+          "ars": 26616235.69,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18904.98,
+          "ars": 28905714.42,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20769.4,
+          "ars": 31756412.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5308": {
+      "id": "5308",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti CRO",
+      "precios": {
+        "2016": {
+          "usd": 18056.75,
+          "ars": 27608770.75,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 19609.95,
+          "ars": 29983613.55,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21543.9,
+          "ars": 32940623.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5309": {
+      "id": "5309",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti App Connect",
+      "precios": {
+        "2016": {
+          "usd": 17456.22,
+          "ars": 26690560.38,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18957.76,
+          "ars": 28986415.04,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20827.39,
+          "ars": 31845079.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5310": {
+      "id": "5310",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti App Connect CRO",
+      "precios": {
+        "2016": {
+          "usd": 18098.31,
+          "ars": 27672315.99,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 19655.08,
+          "ars": 30052617.32,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21593.48,
+          "ars": 33016430.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5311": {
+      "id": "5311",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,6 Trendline 2018",
+      "precios": {
+        "2017": {
+          "usd": 9280.73,
+          "ars": 14190236.17,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10196,
+          "ars": 15589684,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11198.32,
+          "ars": 17122231.28,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11787.7,
+          "ars": 18023393.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5312": {
+      "id": "5312",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Comfortline 2018",
+      "precios": {
+        "2017": {
+          "usd": 12493.28,
+          "ars": 19102225.12,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13725.38,
+          "ars": 20986106.02,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15074.66,
+          "ars": 23049155.14,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 15868.06,
+          "ars": 24262263.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5313": {
+      "id": "5313",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Comfortline DSG 2018",
+      "precios": {
+        "2017": {
+          "usd": 13300.14,
+          "ars": 20335914.06,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14611.81,
+          "ars": 22341457.49,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16048.23,
+          "ars": 24537743.67,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 16892.87,
+          "ars": 25829198.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5314": {
+      "id": "5314",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 1,4 TSI Highline DSG 2018",
+      "precios": {
+        "2017": {
+          "usd": 14027.2,
+          "ars": 21447588.8,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15410.57,
+          "ars": 23562761.53,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16925.51,
+          "ars": 25879104.79,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17816.33,
+          "ars": 27241168.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5315": {
+      "id": "5315",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti DSG 2018",
+      "precios": {
+        "2017": {
+          "usd": 18369.31,
+          "ars": 28086674.99,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20180.9,
+          "ars": 30856596.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 22164.79,
+          "ars": 33889963.91,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 23331.35,
+          "ars": 35673634.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5316": {
+      "id": "5316",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 2,0 TSI Gti DSG CRO 2018",
+      "precios": {
+        "2017": {
+          "usd": 18961.87,
+          "ars": 28992699.23,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20831.9,
+          "ars": 31851975.1,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 22879.78,
+          "ars": 34983183.62,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 24083.98,
+          "ars": 36824405.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5317": {
+      "id": "5317",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P 250 TSI Highline DSG 2020",
+      "precios": {
+        "2020": {
+          "usd": 19275.7,
+          "ars": 29472545.3,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21304.73,
+          "ars": 32574932.17,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 22369.96,
+          "ars": 34203668.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5318": {
+      "id": "5318",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "5P Gti 2020",
+      "precios": {
+        "2020": {
+          "usd": 26871.93,
+          "ars": 41087180.97,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 29700.55,
+          "ars": 45412140.95,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 31185.58,
+          "ars": 47682751.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5319": {
+      "id": "5319",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Comfortline",
+      "precios": {
+        "2015": {
+          "usd": 9827.38,
+          "ars": 15026064.02,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10331.33,
+          "ars": 15796603.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5320": {
+      "id": "5320",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Comfortline DSG",
+      "precios": {
+        "2015": {
+          "usd": 10468.74,
+          "ars": 16006703.46,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11005.58,
+          "ars": 16827531.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5321": {
+      "id": "5321",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Highline DSG",
+      "precios": {
+        "2015": {
+          "usd": 11306.22,
+          "ars": 17287210.38,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11886,
+          "ars": 18173694,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5322": {
+      "id": "5322",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,6 Trendline",
+      "precios": {
+        "2016": {
+          "usd": 9294.37,
+          "ars": 14211091.73,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10093.84,
+          "ars": 15433481.36,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11089.31,
+          "ars": 16955554.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5323": {
+      "id": "5323",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,6 Trendline AT",
+      "precios": {
+        "2016": {
+          "usd": 10445.3,
+          "ars": 15970863.7,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11343.78,
+          "ars": 17344639.62,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12462.52,
+          "ars": 19055193.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5324": {
+      "id": "5324",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,6 Trendline 2018",
+      "precios": {
+        "2017": {
+          "usd": 10730.82,
+          "ars": 16407423.78,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11789.1,
+          "ars": 18025533.9,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12948.03,
+          "ars": 19797537.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5325": {
+      "id": "5325",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Comfortline 2018",
+      "precios": {
+        "2018": {
+          "usd": 13353.49,
+          "ars": 20417486.21,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14666.21,
+          "ars": 22424635.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5326": {
+      "id": "5326",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Comfortline DSG 2018",
+      "precios": {
+        "2017": {
+          "usd": 13216.77,
+          "ars": 20208441.33,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14520.22,
+          "ars": 22201416.38,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15947.63,
+          "ars": 24383926.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5327": {
+      "id": "5327",
+      "marcaId": "61",
+      "modeloId": "587",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF VARIANT",
+      "version": "5P 1,4 TSI Highline DSG 2018",
+      "precios": {
+        "2017": {
+          "usd": 13481.77,
+          "ars": 20613626.33,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14811.35,
+          "ars": 22646554.15,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16267.38,
+          "ars": 24872824.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5328": {
+      "id": "5328",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 2,0 Advance",
+      "precios": {}
+    },
+    "5329": {
+      "id": "5329",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 2,0 Advance AT",
+      "precios": {}
+    },
+    "5330": {
+      "id": "5330",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 2,0 Luxury CRO",
+      "precios": {}
+    },
+    "5331": {
+      "id": "5331",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 2,0 Luxury CRO AT",
+      "precios": {}
+    },
+    "5332": {
+      "id": "5332",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 1,8 T Sport",
+      "precios": {}
+    },
+    "5333": {
+      "id": "5333",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 1,8 T Sport Tipt",
+      "precios": {}
+    },
+    "5334": {
+      "id": "5334",
+      "marcaId": "61",
+      "modeloId": "588",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2P 1,8 T Cabriolet Sport Tipt",
+      "precios": {}
+    },
+    "5335": {
+      "id": "5335",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT",
+      "precios": {
+        "2022": {
+          "usd": 12574.93,
+          "ars": 19227067.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5336": {
+      "id": "5336",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT 2022",
+      "precios": {
+        "2022": {
+          "usd": 13203.68,
+          "ars": 20188426.72,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14127.94,
+          "ars": 21601620.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5337": {
+      "id": "5337",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 14834.34,
+          "ars": 22681705.86,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15615.09,
+          "ars": 23875472.61,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16108.2,
+          "ars": 24629437.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5338": {
+      "id": "5338",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT 2025",
+      "precios": {
+        "0": {
+          "usd": 29231.24,
+          "ars": 44694565.96,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16436.94,
+          "ars": 25132081.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5339": {
+      "id": "5339",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Comfortline",
+      "precios": {
+        "2020": {
+          "usd": 12006.14,
+          "ars": 18357388.06,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12606.45,
+          "ars": 19275262.05,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13236.77,
+          "ars": 20239021.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5340": {
+      "id": "5340",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Comfortline 2022",
+      "precios": {
+        "2022": {
+          "usd": 13898.61,
+          "ars": 21250974.69,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14871.51,
+          "ars": 22738538.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5341": {
+      "id": "5341",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Comfortline 2024",
+      "precios": {
+        "2023": {
+          "usd": 15615.09,
+          "ars": 23875472.61,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16436.94,
+          "ars": 25132081.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5342": {
+      "id": "5342",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Comfortline Ph4 2024",
+      "precios": {
+        "2024": {
+          "usd": 16564.42,
+          "ars": 25326998.18,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17087.51,
+          "ars": 26126802.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5343": {
+      "id": "5343",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Comfortline 2025",
+      "precios": {
+        "0": {
+          "usd": 33479.51,
+          "ars": 51190170.79,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17436.23,
+          "ars": 26659995.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5344": {
+      "id": "5344",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Highline",
+      "precios": {
+        "2020": {
+          "usd": 15195.41,
+          "ars": 23233781.89,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15955.18,
+          "ars": 24395470.22,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16794.92,
+          "ars": 25679432.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5345": {
+      "id": "5345",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Highline 2022",
+      "precios": {
+        "2022": {
+          "usd": 17298.77,
+          "ars": 26449819.33,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18509.68,
+          "ars": 28301300.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5346": {
+      "id": "5346",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Highline 2024",
+      "precios": {
+        "2023": {
+          "usd": 19435.17,
+          "ars": 29716374.93,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20458.07,
+          "ars": 31280389.03,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21104.12,
+          "ars": 32268199.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5347": {
+      "id": "5347",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Highline 2025",
+      "precios": {
+        "0": {
+          "usd": 35446.68,
+          "ars": 54197973.72,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21534.81,
+          "ars": 32926724.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5348": {
+      "id": "5348",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Hero",
+      "precios": {
+        "2020": {
+          "usd": 16262.33,
+          "ars": 24865102.57,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17075.45,
+          "ars": 26108363.05,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17974.16,
+          "ars": 27482490.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5349": {
+      "id": "5349",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Hero 2022",
+      "precios": {
+        "2022": {
+          "usd": 18513.38,
+          "ars": 28306958.02,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19809.32,
+          "ars": 30288450.28,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20851.91,
+          "ars": 31882570.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5350": {
+      "id": "5350",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Outfit 2025",
+      "precios": {
+        "0": {
+          "usd": 36261.11,
+          "ars": 55443237.19,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 22099.38,
+          "ars": 33789952.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5351": {
+      "id": "5351",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 200 6AT Trendline 2025",
+      "precios": {
+        "0": {
+          "usd": 31028.63,
+          "ars": 47442775.27,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17436.23,
+          "ars": 26659995.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5352": {
+      "id": "5352",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Advance",
+      "precios": {}
+    },
+    "5353": {
+      "id": "5353",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Advance DSG",
+      "precios": {}
+    },
+    "5354": {
+      "id": "5354",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Exclusive",
+      "precios": {}
+    },
+    "5355": {
+      "id": "5355",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Exclusive DSG",
+      "precios": {}
+    },
+    "5356": {
+      "id": "5356",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Exclusive Wood",
+      "precios": {}
+    },
+    "5357": {
+      "id": "5357",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Exclusive Wood DSG",
+      "precios": {}
+    },
+    "5358": {
+      "id": "5358",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Luxury",
+      "precios": {}
+    },
+    "5359": {
+      "id": "5359",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Luxury DSG",
+      "precios": {}
+    },
+    "5360": {
+      "id": "5360",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Luxury Wood",
+      "precios": {}
+    },
+    "5361": {
+      "id": "5361",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Luxury Wood DSG",
+      "precios": {}
+    },
+    "5362": {
+      "id": "5362",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 3,2 V6 FSI Highline 4m",
+      "precios": {}
+    },
+    "5363": {
+      "id": "5363",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 3,2 V6 FSI Highline 4m Wood",
+      "precios": {}
+    },
+    "5364": {
+      "id": "5364",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Cc Advance 2010",
+      "precios": {}
+    },
+    "5365": {
+      "id": "5365",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Cc Advance DSG 2010",
+      "precios": {}
+    },
+    "5366": {
+      "id": "5366",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Cc Luxury 2010",
+      "precios": {}
+    },
+    "5367": {
+      "id": "5367",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Cc Luxury DSG 2010",
+      "precios": {}
+    },
+    "5368": {
+      "id": "5368",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Cc Exclusive 2010",
+      "precios": {}
+    },
+    "5369": {
+      "id": "5369",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Cc Exclusive DSG 2010",
+      "precios": {}
+    },
+    "5370": {
+      "id": "5370",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 3,6 V6 300CV Cc DSG Dq 2010",
+      "precios": {}
+    },
+    "5371": {
+      "id": "5371",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 1,8 TSI Confort 2011",
+      "precios": {
+        "2013": {
+          "usd": 8714,
+          "ars": 13323706,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 9388.37,
+          "ars": 14354817.73,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9941.58,
+          "ars": 15200675.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5372": {
+      "id": "5372",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 1,8 TSI Confort DSG 2011",
+      "precios": {
+        "2013": {
+          "usd": 9354.83,
+          "ars": 14303535.07,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10078.79,
+          "ars": 15410469.91,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10672.69,
+          "ars": 16318543.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5373": {
+      "id": "5373",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Advance 2011",
+      "precios": {
+        "2013": {
+          "usd": 9469.9,
+          "ars": 14479477.1,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10202.77,
+          "ars": 15600035.33,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10803.98,
+          "ars": 16519285.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5374": {
+      "id": "5374",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Advance DSG 2011",
+      "precios": {
+        "2013": {
+          "usd": 9999.08,
+          "ars": 15288593.32,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 10772.91,
+          "ars": 16471779.39,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11407.71,
+          "ars": 17442388.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5375": {
+      "id": "5375",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Luxury 2011",
+      "precios": {
+        "2013": {
+          "usd": 11717.29,
+          "ars": 17915736.41,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12624.08,
+          "ars": 19302218.32,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13367.96,
+          "ars": 20439610.84,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13772.4,
+          "ars": 21057999.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5376": {
+      "id": "5376",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Luxury DSG 2011",
+      "precios": {
+        "2013": {
+          "usd": 12294.2,
+          "ars": 18797831.8,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13245.64,
+          "ars": 20252583.56,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14026.15,
+          "ars": 21445983.35,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14450.49,
+          "ars": 22094799.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5377": {
+      "id": "5377",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI Highline DSG 2017",
+      "precios": {
+        "2017": {
+          "usd": 22476.51,
+          "ars": 34366583.79,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 24497.33,
+          "ars": 37456417.57,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 26457.12,
+          "ars": 40452936.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5378": {
+      "id": "5378",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 TSI R-Line DSG 2017",
+      "precios": {
+        "2017": {
+          "usd": 23659.48,
+          "ars": 36175344.92,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 25786.66,
+          "ars": 39427803.14,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 27849.6,
+          "ars": 42582038.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5379": {
+      "id": "5379",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Advance",
+      "precios": {}
+    },
+    "5380": {
+      "id": "5380",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Advance DSG",
+      "precios": {}
+    },
+    "5381": {
+      "id": "5381",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Luxury",
+      "precios": {}
+    },
+    "5382": {
+      "id": "5382",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Luxury 17",
+      "precios": {}
+    },
+    "5383": {
+      "id": "5383",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Luxury Wood",
+      "precios": {}
+    },
+    "5384": {
+      "id": "5384",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Luxury DSG",
+      "precios": {}
+    },
+    "5385": {
+      "id": "5385",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Luxury DSG Wood",
+      "precios": {}
+    },
+    "5386": {
+      "id": "5386",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Exclusive",
+      "precios": {}
+    },
+    "5387": {
+      "id": "5387",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Exclusive Wood",
+      "precios": {}
+    },
+    "5388": {
+      "id": "5388",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Exclusive DSG",
+      "precios": {}
+    },
+    "5389": {
+      "id": "5389",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Exclusive DSG Wood",
+      "precios": {}
+    },
+    "5390": {
+      "id": "5390",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Exclusive DSG Wood 17",
+      "precios": {}
+    },
+    "5391": {
+      "id": "5391",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Cc Advance 2010",
+      "precios": {}
+    },
+    "5392": {
+      "id": "5392",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Cc Advance DSG 2010",
+      "precios": {}
+    },
+    "5393": {
+      "id": "5393",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Cc Luxury 2010",
+      "precios": {}
+    },
+    "5394": {
+      "id": "5394",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Cc Luxury DSG 2010",
+      "precios": {}
+    },
+    "5395": {
+      "id": "5395",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Cc Exclusive 2010",
+      "precios": {}
+    },
+    "5396": {
+      "id": "5396",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Cc Exclusive DSG 2010",
+      "precios": {}
+    },
+    "5397": {
+      "id": "5397",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Advance Bluemotion 2011",
+      "precios": {
+        "2013": {
+          "usd": 11636.86,
+          "ars": 17792758.94,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12537.44,
+          "ars": 19169745.76,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13276.21,
+          "ars": 20299325.09,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13677.87,
+          "ars": 20913463.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5398": {
+      "id": "5398",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Advance Bluemotion DSG 2011",
+      "precios": {
+        "2013": {
+          "usd": 12065.41,
+          "ars": 18448011.89,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12999.15,
+          "ars": 19875700.35,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13765.13,
+          "ars": 21046883.77,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14181.58,
+          "ars": 21683635.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5399": {
+      "id": "5399",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Luxury Bluemotion",
+      "precios": {
+        "2013": {
+          "usd": 13021.13,
+          "ars": 19909307.77,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14028.84,
+          "ars": 21450096.36,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14855.49,
+          "ars": 22714044.21,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15304.93,
+          "ars": 23401237.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5400": {
+      "id": "5400",
+      "marcaId": "61",
+      "modeloId": "590",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "4P 2,0 Diesel Luxury Bluemotion DSG",
+      "precios": {
+        "2013": {
+          "usd": 13450.1,
+          "ars": 20565202.9,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14491,
+          "ars": 22156739,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15344.89,
+          "ars": 23462336.81,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15809.13,
+          "ars": 24172159.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5401": {
+      "id": "5401",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 TSI Advance Mq",
+      "precios": {
+        "2013": {
+          "usd": 11518.05,
+          "ars": 17611098.45,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12766.9,
+          "ars": 19520590.1,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13519.19,
+          "ars": 20670841.51,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14326.15,
+          "ars": 21904683.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5402": {
+      "id": "5402",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 TSI Advance Dq AT",
+      "precios": {
+        "2013": {
+          "usd": 12301.85,
+          "ars": 18809528.65,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13635.69,
+          "ars": 20848970.01,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14439.18,
+          "ars": 22077506.22,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15301.05,
+          "ars": 23395305.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5403": {
+      "id": "5403",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 TSI Luxury Mq",
+      "precios": {
+        "2013": {
+          "usd": 12215.88,
+          "ars": 18678080.52,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13540.4,
+          "ars": 20703271.6,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14338.27,
+          "ars": 21923214.83,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15194.12,
+          "ars": 23231809.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5404": {
+      "id": "5404",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 TSI Luxury Dq AT",
+      "precios": {
+        "2013": {
+          "usd": 13000.32,
+          "ars": 19877489.28,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14409.89,
+          "ars": 22032721.81,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15258.99,
+          "ars": 23330995.71,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16169.8,
+          "ars": 24723624.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5405": {
+      "id": "5405",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 TSI Exclusive Mq",
+      "precios": {
+        "2013": {
+          "usd": 12851.59,
+          "ars": 19650081.11,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14245.03,
+          "ars": 21780650.87,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15084.42,
+          "ars": 23064078.18,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15984.81,
+          "ars": 24440774.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5406": {
+      "id": "5406",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 TSI Exclusive Dq AT",
+      "precios": {
+        "2013": {
+          "usd": 13635.19,
+          "ars": 20848205.51,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15113.59,
+          "ars": 23108679.11,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16004.17,
+          "ars": 24470375.93,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16959.45,
+          "ars": 25930999.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5407": {
+      "id": "5407",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 3,6 V6 Highline DSG",
+      "precios": {
+        "2013": {
+          "usd": 16343.48,
+          "ars": 24989180.92,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 18115.54,
+          "ars": 27698660.66,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 19183,
+          "ars": 29330807,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 20328.03,
+          "ars": 31081557.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5408": {
+      "id": "5408",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 Diesel Advance Mq",
+      "precios": {
+        "2013": {
+          "usd": 12057.64,
+          "ars": 18436131.56,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13365,
+          "ars": 20435085,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14152.54,
+          "ars": 21639233.66,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14997.3,
+          "ars": 22930871.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5409": {
+      "id": "5409",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 Diesel Advance Dq AT",
+      "precios": {
+        "2013": {
+          "usd": 12785.86,
+          "ars": 19549579.94,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14172.18,
+          "ars": 21669263.22,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15007.28,
+          "ars": 22946131.12,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15903.06,
+          "ars": 24315778.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5410": {
+      "id": "5410",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 Diesel Luxury Mq",
+      "precios": {
+        "2013": {
+          "usd": 12786.49,
+          "ars": 19550543.21,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14172.88,
+          "ars": 21670333.52,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15008.02,
+          "ars": 22947262.58,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15903.84,
+          "ars": 24316971.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5411": {
+      "id": "5411",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 Diesel Luxury Dq AT",
+      "precios": {
+        "2013": {
+          "usd": 13514.51,
+          "ars": 20663685.79,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14979.83,
+          "ars": 22904160.07,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15862.52,
+          "ars": 24253793.08,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16809.35,
+          "ars": 25701496.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5412": {
+      "id": "5412",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 Diesel Exclusive Mq",
+      "precios": {
+        "2013": {
+          "usd": 13448.78,
+          "ars": 20563184.62,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14906.97,
+          "ars": 22792757.13,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15785.37,
+          "ars": 24135830.73,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16727.6,
+          "ars": 25576500.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5413": {
+      "id": "5413",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 Diesel Exclusive Dq AT",
+      "precios": {
+        "2013": {
+          "usd": 14176.79,
+          "ars": 21676311.91,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15713.92,
+          "ars": 24026583.68,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16639.87,
+          "ars": 25442361.23,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 17633.1,
+          "ars": 26961009.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5414": {
+      "id": "5414",
+      "marcaId": "61",
+      "modeloId": "591",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "version": "4P 2,0 TSI Elegance DSG",
+      "precios": {
+        "2016": {
+          "usd": 18899.22,
+          "ars": 28896907.38,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 20961.1,
+          "ars": 32049521.9,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 22845.67,
+          "ars": 34931029.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5415": {
+      "id": "5415",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Advance",
+      "precios": {}
+    },
+    "5416": {
+      "id": "5416",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Advance DSG",
+      "precios": {}
+    },
+    "5417": {
+      "id": "5417",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Elegance",
+      "precios": {}
+    },
+    "5418": {
+      "id": "5418",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Elegance Wood",
+      "precios": {}
+    },
+    "5419": {
+      "id": "5419",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Elegance DSG",
+      "precios": {}
+    },
+    "5420": {
+      "id": "5420",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Elegance DSG Wood",
+      "precios": {}
+    },
+    "5421": {
+      "id": "5421",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Luxury 2011",
+      "precios": {
+        "2013": {
+          "usd": 11331.7,
+          "ars": 17326169.3,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12208.66,
+          "ars": 18667041.14,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12928.06,
+          "ars": 19767003.74,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13446.04,
+          "ars": 20558995.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5422": {
+      "id": "5422",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Luxury T/c 2012",
+      "precios": {
+        "2013": {
+          "usd": 11821.32,
+          "ars": 18074798.28,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12736.16,
+          "ars": 19473588.64,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13486.65,
+          "ars": 20621087.85,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14027,
+          "ars": 21447283,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5423": {
+      "id": "5423",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Luxury DSG 2011",
+      "precios": {
+        "2013": {
+          "usd": 11926.5,
+          "ars": 18235618.5,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12849.49,
+          "ars": 19646870.21,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13606.65,
+          "ars": 20804567.85,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14151.82,
+          "ars": 21638132.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5424": {
+      "id": "5424",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 TSI Luxury DSG T/c 2012",
+      "precios": {
+        "2013": {
+          "usd": 12416.11,
+          "ars": 18984232.19,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13377,
+          "ars": 20453433,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14165.24,
+          "ars": 21658651.96,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14732.78,
+          "ars": 22526420.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5425": {
+      "id": "5425",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Advance",
+      "precios": {}
+    },
+    "5426": {
+      "id": "5426",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Advance DSG",
+      "precios": {}
+    },
+    "5427": {
+      "id": "5427",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Luxury",
+      "precios": {}
+    },
+    "5428": {
+      "id": "5428",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Luxury Wood",
+      "precios": {}
+    },
+    "5429": {
+      "id": "5429",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Luxury DSG",
+      "precios": {}
+    },
+    "5430": {
+      "id": "5430",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Luxury DSG Wood",
+      "precios": {}
+    },
+    "5431": {
+      "id": "5431",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Elegance",
+      "precios": {}
+    },
+    "5432": {
+      "id": "5432",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Elegance  Wood",
+      "precios": {}
+    },
+    "5433": {
+      "id": "5433",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Elegance  DSG",
+      "precios": {}
+    },
+    "5434": {
+      "id": "5434",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Elegance  DSG Wood",
+      "precios": {}
+    },
+    "5435": {
+      "id": "5435",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Advance 2011",
+      "precios": {
+        "2013": {
+          "usd": 10844.07,
+          "ars": 16580583.03,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11683.29,
+          "ars": 17863750.41,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12371.73,
+          "ars": 18916375.17,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12867.42,
+          "ars": 19674285.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5436": {
+      "id": "5436",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Advance T/c 2012",
+      "precios": {
+        "2013": {
+          "usd": 11330.56,
+          "ars": 17324426.24,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12207.43,
+          "ars": 18665160.47,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12926.76,
+          "ars": 19765016.04,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13444.68,
+          "ars": 20556915.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5437": {
+      "id": "5437",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Advance DSG 2011",
+      "precios": {
+        "2013": {
+          "usd": 11427.63,
+          "ars": 17472846.27,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12312.01,
+          "ars": 18825063.29,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13037.5,
+          "ars": 19934337.5,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13559.86,
+          "ars": 20733025.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5438": {
+      "id": "5438",
+      "marcaId": "61",
+      "modeloId": "592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT VARIANT",
+      "version": "5P 2,0 Diesel Advance DSG T/c 2012",
+      "precios": {
+        "2013": {
+          "usd": 11914.5,
+          "ars": 18217270.5,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12836.56,
+          "ars": 19627100.24,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13592.96,
+          "ars": 20783635.84,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14137.57,
+          "ars": 21616344.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5439": {
+      "id": "5439",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "4P 1,6 Comfortline",
+      "precios": {
+        "2015": {
+          "usd": 7406.84,
+          "ars": 11325058.36,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7731.44,
+          "ars": 11821371.76,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8114.18,
+          "ars": 12406581.22,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8602.52,
+          "ars": 13153253.08,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9055.28,
+          "ars": 13845523.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5440": {
+      "id": "5440",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "4P 1,6 Comfortline Tipt",
+      "precios": {
+        "2015": {
+          "usd": 7797.82,
+          "ars": 11922866.78,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8139.55,
+          "ars": 12445371.95,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8542.49,
+          "ars": 13061467.21,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9056.61,
+          "ars": 13847556.69,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9533.28,
+          "ars": 14576385.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5441": {
+      "id": "5441",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Trendline",
+      "precios": {
+        "2017": {
+          "usd": 9405.29,
+          "ars": 14380688.41,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9809.47,
+          "ars": 14998679.63,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10325.76,
+          "ars": 15788087.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5442": {
+      "id": "5442",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Trendline Tipt",
+      "precios": {
+        "2018": {
+          "usd": 10155.58,
+          "ars": 15527881.82,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10690.08,
+          "ars": 16345132.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5443": {
+      "id": "5443",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Comfortline",
+      "precios": {
+        "2017": {
+          "usd": 10650.66,
+          "ars": 16284859.14,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11108.36,
+          "ars": 16984682.44,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11693.01,
+          "ars": 17878612.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5444": {
+      "id": "5444",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Comfortline Plus Tipt",
+      "precios": {
+        "2018": {
+          "usd": 11838.39,
+          "ars": 18100898.31,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12461.46,
+          "ars": 19053572.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5445": {
+      "id": "5445",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Highline",
+      "precios": {
+        "2018": {
+          "usd": 12675.78,
+          "ars": 19381267.62,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13342.92,
+          "ars": 20401324.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5446": {
+      "id": "5446",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Highline Tipt",
+      "precios": {
+        "2018": {
+          "usd": 13308.36,
+          "ars": 20348482.44,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14008.8,
+          "ars": 21419455.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5447": {
+      "id": "5447",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Trendline 2020",
+      "precios": {
+        "2020": {
+          "usd": 11081.7,
+          "ars": 16943919.3,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11635.79,
+          "ars": 17791122.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5448": {
+      "id": "5448",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Trendline Tipt 2020",
+      "precios": {
+        "2019": {
+          "usd": 11612.71,
+          "ars": 17755833.59,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11870.15,
+          "ars": 18149459.35,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12463.65,
+          "ars": 19056920.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5449": {
+      "id": "5449",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Comfortline 2020",
+      "precios": {
+        "2020": {
+          "usd": 12002.07,
+          "ars": 18351165.03,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12602.17,
+          "ars": 19268717.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5450": {
+      "id": "5450",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Comfortline Plus Tipt 2020",
+      "precios": {
+        "2020": {
+          "usd": 13001.81,
+          "ars": 19879767.49,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13651.9,
+          "ars": 20873755.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5451": {
+      "id": "5451",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Highline Tipt 2020",
+      "precios": {
+        "2020": {
+          "usd": 14421.48,
+          "ars": 22050442.92,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15142.55,
+          "ars": 23152958.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5452": {
+      "id": "5452",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,4 TSI Gts Tipt",
+      "precios": {
+        "2020": {
+          "usd": 19849.2,
+          "ars": 30349426.8,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20841.66,
+          "ars": 31866898.14,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 21883.75,
+          "ars": 33460253.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5453": {
+      "id": "5453",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Trend 2022",
+      "precios": {
+        "2022": {
+          "usd": 12031.61,
+          "ars": 18396331.69,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12873.82,
+          "ars": 19684070.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5454": {
+      "id": "5454",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI 2021",
+      "precios": {
+        "2021": {
+          "usd": 12217.58,
+          "ars": 18680679.82,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12828.45,
+          "ars": 19614700.05,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13726.45,
+          "ars": 20987742.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5455": {
+      "id": "5455",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Tipt 2021",
+      "precios": {
+        "2021": {
+          "usd": 13086.84,
+          "ars": 20009778.36,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13741.18,
+          "ars": 21010264.22,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14703.06,
+          "ars": 22480978.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5456": {
+      "id": "5456",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Highline Tipt 2021",
+      "precios": {
+        "2021": {
+          "usd": 15899.68,
+          "ars": 24310610.72,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16694.66,
+          "ars": 25526135.14,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17863.29,
+          "ars": 27312970.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5457": {
+      "id": "5457",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Highline Tipt 2022",
+      "precios": {
+        "2021": {
+          "usd": 16186.92,
+          "ars": 24749800.68,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16996.27,
+          "ars": 25987296.83,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18186.01,
+          "ars": 27806409.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5458": {
+      "id": "5458",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Track 2023",
+      "precios": {
+        "2023": {
+          "usd": 12873.82,
+          "ars": 19684070.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5459": {
+      "id": "5459",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Track 2024",
+      "precios": {
+        "2023": {
+          "usd": 13002.56,
+          "ars": 19880914.24,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13652.69,
+          "ars": 20874963.01,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14335.33,
+          "ars": 21918719.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5460": {
+      "id": "5460",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Track 2025",
+      "precios": {
+        "0": {
+          "usd": 25213.06,
+          "ars": 38550768.74,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13789.22,
+          "ars": 21083717.38,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14478.68,
+          "ars": 22137901.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5461": {
+      "id": "5461",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Track Phu 2024",
+      "precios": {
+        "2023": {
+          "usd": 13132.59,
+          "ars": 20079730.11,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13789.22,
+          "ars": 21083717.38,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14478.68,
+          "ars": 22137901.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5462": {
+      "id": "5462",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Track 1st Edition 2023",
+      "precios": {
+        "2023": {
+          "usd": 12387.52,
+          "ars": 18940518.08,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13006.89,
+          "ars": 19887534.81,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 13657.24,
+          "ars": 20881919.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5463": {
+      "id": "5463",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI 2023",
+      "precios": {
+        "2023": {
+          "usd": 15401.07,
+          "ars": 23548236.03,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16171.13,
+          "ars": 24725657.77,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16979.68,
+          "ars": 25961930.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5464": {
+      "id": "5464",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI 2025",
+      "precios": {
+        "0": {
+          "usd": 29850.68,
+          "ars": 45641689.72,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 16171.13,
+          "ars": 24725657.77,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16979.68,
+          "ars": 25961930.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5465": {
+      "id": "5465",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,0 TSI 170 Comfortline 6AT 2025",
+      "precios": {
+        "0": {
+          "usd": 29374.63,
+          "ars": 44913809.27,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 17828.67,
+          "ars": 27260036.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5466": {
+      "id": "5466",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,0 TSI 170 Highline 6AT 2023",
+      "precios": {
+        "0": {
+          "usd": 31458.31,
+          "ars": 48099755.99,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17972.9,
+          "ars": 27480564.1,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 18871.54,
+          "ars": 28854584.66,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 19815.12,
+          "ars": 30297318.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5467": {
+      "id": "5467",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,4 TSI 250 Gts 6AT 2023",
+      "precios": {
+        "0": {
+          "usd": 31772.9,
+          "ars": 48580764.1,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19519.7,
+          "ars": 29845621.3,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20495.68,
+          "ars": 31337894.72,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21520.46,
+          "ars": 32904783.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5468": {
+      "id": "5468",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 5g",
+      "precios": {
+        "2013": {
+          "usd": 5325.68,
+          "ars": 8142964.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5469": {
+      "id": "5469",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 5g Pack",
+      "precios": {
+        "2013": {
+          "usd": 5892.53,
+          "ars": 9009678.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5470": {
+      "id": "5470",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 5g",
+      "precios": {
+        "2013": {
+          "usd": 6202.57,
+          "ars": 9483729.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5471": {
+      "id": "5471",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 5g Llantas",
+      "precios": {
+        "2013": {
+          "usd": 6356.7,
+          "ars": 9719394.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5472": {
+      "id": "5472",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 5g Pack + Seg",
+      "precios": {
+        "2013": {
+          "usd": 6746.2,
+          "ars": 10314939.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5473": {
+      "id": "5473",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 A/c Ps 2014",
+      "precios": {
+        "2013": {
+          "usd": 5983.84,
+          "ars": 9149291.36,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6337.66,
+          "ars": 9690282.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5474": {
+      "id": "5474",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 A/c Ps Safety 2014",
+      "precios": {
+        "2013": {
+          "usd": 6241.71,
+          "ars": 9543574.59,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6610.77,
+          "ars": 10107867.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5475": {
+      "id": "5475",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 A/c Ps Safety 2015",
+      "precios": {
+        "2015": {
+          "usd": 6799.06,
+          "ars": 10395762.74,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7004.76,
+          "ars": 10710278.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5476": {
+      "id": "5476",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 A/c Ps Power Safety Pack 2014",
+      "precios": {
+        "2013": {
+          "usd": 6702.78,
+          "ars": 10248550.62,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7099.11,
+          "ars": 10854539.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5477": {
+      "id": "5477",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 A/c Ps Power Safety Pack Radio 2014",
+      "precios": {
+        "2013": {
+          "usd": 6761.42,
+          "ars": 10338211.18,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7161.21,
+          "ars": 10949490.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5478": {
+      "id": "5478",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 A/c Ps Power Safety Pack Radio 2015",
+      "precios": {
+        "2015": {
+          "usd": 7299.73,
+          "ars": 11161287.17,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7520.58,
+          "ars": 11498966.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5479": {
+      "id": "5479",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 A/c Ps Power Safety Highline Pack 2014",
+      "precios": {
+        "2013": {
+          "usd": 7137.71,
+          "ars": 10913558.59,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7559.75,
+          "ars": 11558857.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5480": {
+      "id": "5480",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 A/c Ps Power Safety Highline Pack 2015",
+      "precios": {
+        "2015": {
+          "usd": 7648.11,
+          "ars": 11693960.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5481": {
+      "id": "5481",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 Gp Power",
+      "precios": {
+        "2015": {
+          "usd": 7587.03,
+          "ars": 11600568.87,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7816.57,
+          "ars": 11951535.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5482": {
+      "id": "5482",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 Gp Pack Highline",
+      "precios": {
+        "2015": {
+          "usd": 7945.94,
+          "ars": 12149342.26,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8186.34,
+          "ars": 12516913.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5483": {
+      "id": "5483",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 Safety 2017",
+      "precios": {
+        "2016": {
+          "usd": 8174.49,
+          "ars": 12498795.21,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8579.17,
+          "ars": 13117550.93,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9010.49,
+          "ars": 13777039.21,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9731.33,
+          "ars": 14879203.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5484": {
+      "id": "5484",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 Safety 2017",
+      "precios": {
+        "2016": {
+          "usd": 8826.48,
+          "ars": 13495687.92,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9263.43,
+          "ars": 14163784.47,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9729.15,
+          "ars": 14875870.35,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10507.48,
+          "ars": 16065936.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5485": {
+      "id": "5485",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 Safety Highline Pack 2017",
+      "precios": {
+        "2016": {
+          "usd": 9345.45,
+          "ars": 14289193.05,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9808.1,
+          "ars": 14996584.9,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10301.2,
+          "ars": 15750534.8,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11125.3,
+          "ars": 17010583.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5486": {
+      "id": "5486",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 Gp Power 2017",
+      "precios": {
+        "2016": {
+          "usd": 9150.82,
+          "ars": 13991603.78,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9603.84,
+          "ars": 14684271.36,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10086.67,
+          "ars": 15422518.43,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10893.6,
+          "ars": 16656314.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5487": {
+      "id": "5487",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 Gp Pack Highline 2017",
+      "precios": {
+        "2016": {
+          "usd": 9637.38,
+          "ars": 14735554.02,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10114.48,
+          "ars": 15465039.92,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10622.98,
+          "ars": 16242536.42,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11472.82,
+          "ars": 17541941.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5488": {
+      "id": "5488",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 Gp Trend 2019",
+      "precios": {
+        "2018": {
+          "usd": 9020.23,
+          "ars": 13791931.67,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9741.85,
+          "ars": 14895288.65,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10423.78,
+          "ars": 15937959.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5489": {
+      "id": "5489",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 Gp Comfortline 2019",
+      "precios": {
+        "2018": {
+          "usd": 10006.37,
+          "ars": 15299739.73,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10806.88,
+          "ars": 16523719.52,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11563.36,
+          "ars": 17680377.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5490": {
+      "id": "5490",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 Gp Highline 2019",
+      "precios": {
+        "2018": {
+          "usd": 10325.41,
+          "ars": 15787551.89,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11151.45,
+          "ars": 17050567.05,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11932.05,
+          "ars": 18244104.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5491": {
+      "id": "5491",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 Gp Trend 2021",
+      "precios": {
+        "2020": {
+          "usd": 10497.86,
+          "ars": 16051227.94,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11022.75,
+          "ars": 16853784.75,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 11602.89,
+          "ars": 17740818.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5492": {
+      "id": "5492",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/ext. 1,6 Gp Comfortline 2021",
+      "precios": {
+        "2020": {
+          "usd": 11258,
+          "ars": 17213482,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11820.9,
+          "ars": 18074156.1,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 12443.05,
+          "ars": 19025423.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5493": {
+      "id": "5493",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 Gp Highline 2021",
+      "precios": {
+        "2020": {
+          "usd": 12199.36,
+          "ars": 18652821.44,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12809.32,
+          "ars": 19585450.28,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13483.5,
+          "ars": 20616271.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5494": {
+      "id": "5494",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 MSI Trend 2022",
+      "precios": {
+        "2022": {
+          "usd": 11950.98,
+          "ars": 18273048.42,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12787.55,
+          "ars": 19552163.95,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 13426.93,
+          "ars": 20529775.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5495": {
+      "id": "5495",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 MSI Comfortline 2022",
+      "precios": {
+        "2022": {
+          "usd": 12816.34,
+          "ars": 19596183.86,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 13713.48,
+          "ars": 20967910.92,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14399.16,
+          "ars": 22016315.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5496": {
+      "id": "5496",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 MSI Highline 2022",
+      "precios": {
+        "2022": {
+          "usd": 13888,
+          "ars": 21234752,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14860.16,
+          "ars": 22721184.64,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15603.17,
+          "ars": 23857246.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5497": {
+      "id": "5497",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "C/S 1,6 MSI Trend 2024",
+      "precios": {
+        "0": {
+          "usd": 21158.6,
+          "ars": 32351499.4,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 14098.27,
+          "ars": 21556254.83,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 14803.19,
+          "ars": 22634077.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5498": {
+      "id": "5498",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 MSI Comfortline 2024",
+      "precios": {
+        "0": {
+          "usd": 23316.68,
+          "ars": 35651203.72,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15119.12,
+          "ars": 23117134.48,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15875.07,
+          "ars": 24272982.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5499": {
+      "id": "5499",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 MSI Extreme 2024",
+      "precios": {
+        "2024": {
+          "usd": 14803.19,
+          "ars": 22634077.51,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 15543.35,
+          "ars": 23765782.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5500": {
+      "id": "5500",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "D/C 1,6 MSI Extreme 2025",
+      "precios": {
+        "0": {
+          "usd": 25859.09,
+          "ars": 39538548.61,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15875.07,
+          "ars": 24272982.03,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 16668.82,
+          "ars": 25486625.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5501": {
+      "id": "5501",
+      "marcaId": "61",
+      "modeloId": "595",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP CROSS",
+      "version": "D/C 1,6 Gp Pack Highline",
+      "precios": {
+        "2015": {
+          "usd": 8938.42,
+          "ars": 13666844.18,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9264.29,
+          "ars": 14165099.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5502": {
+      "id": "5502",
+      "marcaId": "61",
+      "modeloId": "595",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP CROSS",
+      "version": "D/C 1,6 Gp Pack Highline 2017",
+      "precios": {
+        "2016": {
+          "usd": 10368.82,
+          "ars": 15853925.78,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10882.12,
+          "ars": 16638761.48,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11429.23,
+          "ars": 17475292.67,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12343.56,
+          "ars": 18873303.24,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13207.61,
+          "ars": 20194435.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5503": {
+      "id": "5503",
+      "marcaId": "61",
+      "modeloId": "595",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP CROSS",
+      "version": "D/C 1,6 Gp Pack Highline 2019",
+      "precios": {
+        "2018": {
+          "usd": 11821.71,
+          "ars": 18075394.59,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12767.44,
+          "ars": 19521415.76,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 13661.17,
+          "ars": 20887928.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5504": {
+      "id": "5504",
+      "marcaId": "61",
+      "modeloId": "595",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP CROSS",
+      "version": "D/C 1,6 Gp Pack Highline 2021",
+      "precios": {
+        "2020": {
+          "usd": 13591.1,
+          "ars": 20780791.9,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14270.65,
+          "ars": 21819823.85,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 15021.74,
+          "ars": 22968240.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5505": {
+      "id": "5505",
+      "marcaId": "61",
+      "modeloId": "595",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP CROSS",
+      "version": "D/C 1,6 MSI 2022",
+      "precios": {
+        "2022": {
+          "usd": 15472.39,
+          "ars": 23657284.31,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 16555.46,
+          "ars": 25313298.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5506": {
+      "id": "5506",
+      "marcaId": "61",
+      "modeloId": "596",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SCIROCCO",
+      "version": "3P 1,4 TSI",
+      "precios": {
+        "2013": {
+          "usd": 13054.33,
+          "ars": 19960070.57,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14064.6,
+          "ars": 21504773.4,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14893.36,
+          "ars": 22771947.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5507": {
+      "id": "5507",
+      "marcaId": "61",
+      "modeloId": "596",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SCIROCCO",
+      "version": "3P 1,4 TSI DSG",
+      "precios": {
+        "2013": {
+          "usd": 13786.05,
+          "ars": 21078870.45,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14852.95,
+          "ars": 22710160.55,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15728.16,
+          "ars": 24048356.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5508": {
+      "id": "5508",
+      "marcaId": "61",
+      "modeloId": "596",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SCIROCCO",
+      "version": "3P 2,0 TSI",
+      "precios": {
+        "2013": {
+          "usd": 15438.08,
+          "ars": 23604824.32,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16632.83,
+          "ars": 25431597.07,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17612.92,
+          "ars": 26930154.68,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5509": {
+      "id": "5509",
+      "marcaId": "61",
+      "modeloId": "596",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SCIROCCO",
+      "version": "3P 2,0 TSI DSG",
+      "precios": {
+        "2013": {
+          "usd": 16082.36,
+          "ars": 24589928.44,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 17326.97,
+          "ars": 26492937.13,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 18347.96,
+          "ars": 28054030.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5510": {
+      "id": "5510",
+      "marcaId": "61",
+      "modeloId": "596",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SCIROCCO",
+      "version": "3P 2,0 TSI DSG Gts",
+      "precios": {
+        "2016": {
+          "usd": 22738.98,
+          "ars": 34767900.42,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 24269.15,
+          "ars": 37107530.35,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 25507.8,
+          "ars": 39001426.2,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 27548.43,
+          "ars": 42121549.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5511": {
+      "id": "5511",
+      "marcaId": "61",
+      "modeloId": "597",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SHARAN",
+      "version": "Van 1,4 TSI Bluemotion Comfortline",
+      "precios": {
+        "2013": {
+          "usd": 10481.79,
+          "ars": 16026656.91,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11577.66,
+          "ars": 17702242.14,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12624.83,
+          "ars": 19303365.07,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13130.66,
+          "ars": 20076779.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5512": {
+      "id": "5512",
+      "marcaId": "61",
+      "modeloId": "597",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SHARAN",
+      "version": "Van 2,0 TSI Highline DSG",
+      "precios": {
+        "2013": {
+          "usd": 12015.45,
+          "ars": 18371623.05,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12757.07,
+          "ars": 19505560.03,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13462.95,
+          "ars": 20584850.55,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14002.36,
+          "ars": 21409608.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "5513": {
+      "id": "5513",
+      "marcaId": "61",
+      "modeloId": "598",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SURAN",
+      "version": "5P 1,6 Comfortline",
+      "precios": {
+        "2013": {
+          "usd": 6081.39,
+          "ars": 9298445.31,
           "cotizacion": 1529
         }
       }
@@ -125952,6 +132211,321 @@
       "marca": "VOLKSWAGEN",
       "modelo": "BORA",
       "version": "Bora 2.0 Mpi Trendline",
+      "precios": {}
+    },
+    "5946": {
+      "id": "5946",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 3 P. Comfortline Fa",
+      "precios": {}
+    },
+    "5948": {
+      "id": "5948",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 3 P. Highline    L/10",
+      "precios": {}
+    },
+    "5950": {
+      "id": "5950",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 3 P. Trendline   L/10",
+      "precios": {}
+    },
+    "5955": {
+      "id": "5955",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 5 P. Comfortline L/10 Pack",
+      "precios": {}
+    },
+    "5957": {
+      "id": "5957",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 5 P. Highline   L/10 I Mot",
+      "precios": {}
+    },
+    "5963": {
+      "id": "5963",
+      "marcaId": "61",
+      "modeloId": "582",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX",
+      "version": "Fox 1.6 5 P. Trendline  L/10 I Mot",
+      "precios": {}
+    },
+    "6008": {
+      "id": "6008",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol 1.6 3 P Comfortline",
+      "precios": {}
+    },
+    "6011": {
+      "id": "6011",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol 1.6 3 P Trendline",
+      "precios": {}
+    },
+    "6097": {
+      "id": "6097",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 3 P L/13 Highline",
+      "precios": {}
+    },
+    "6098": {
+      "id": "6098",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 3 P L/13 Pack 1",
+      "precios": {}
+    },
+    "6112": {
+      "id": "6112",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P Cup",
+      "precios": {}
+    },
+    "6120": {
+      "id": "6120",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P L/13 Hig Imotion",
+      "precios": {}
+    },
+    "6121": {
+      "id": "6121",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P Startline",
+      "precios": {}
+    },
+    "6122": {
+      "id": "6122",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P Sportline",
+      "precios": {}
+    },
+    "6125": {
+      "id": "6125",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P L/17 Connect",
+      "precios": {}
+    },
+    "6131": {
+      "id": "6131",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Trend 1.6 5 P L/19 Comfortline AT",
+      "precios": {}
+    },
+    "6137": {
+      "id": "6137",
+      "marcaId": "61",
+      "modeloId": "585",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL TREND",
+      "version": "Gol Country 1.6  Mi 2 Ptas",
+      "precios": {}
+    },
+    "6229": {
+      "id": "6229",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Polo 1.6 L/22 MSI",
+      "precios": {}
+    },
+    "6230": {
+      "id": "6230",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Polo 1.6 Comfortline C/gnc",
+      "precios": {}
+    },
+    "6253": {
+      "id": "6253",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "Saveiro 1.6 L/13 C/ext Saf. P/highline",
+      "precios": {}
+    },
+    "6254": {
+      "id": "6254",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "Saveiro 1.6 L/13 C/ext Safety",
+      "precios": {}
+    },
+    "6255": {
+      "id": "6255",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "Saveiro 1.6 L/15 C/doble Pack Highline",
+      "precios": {}
+    },
+    "6256": {
+      "id": "6256",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "Saveiro 1.6 L/17 C/doble Cross Hig",
+      "precios": {}
+    },
+    "6257": {
+      "id": "6257",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "Saveiro 1.6 L/17 C/doble Power",
+      "precios": {}
+    },
+    "6261": {
+      "id": "6261",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "Saveiro 1.6 L/18 C/sim Trendline",
+      "precios": {}
+    },
+    "6262": {
+      "id": "6262",
+      "marcaId": "61",
+      "modeloId": "594",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO PICK - UP",
+      "version": "Saveiro 1.6 L/20 C/dob Comfortline",
+      "precios": {}
+    },
+    "6283": {
+      "id": "6283",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf 1.9  Diesel Advance",
+      "precios": {}
+    },
+    "6285": {
+      "id": "6285",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf 2.0  Advance",
+      "precios": {}
+    },
+    "6286": {
+      "id": "6286",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf 2.0  Advance Tiptronic",
+      "precios": {}
+    },
+    "6289": {
+      "id": "6289",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf 2.0  Highline",
+      "precios": {}
+    },
+    "6294": {
+      "id": "6294",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Variant 1.6 Comfortline",
+      "precios": {}
+    },
+    "6296": {
+      "id": "6296",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Vii 1.4 TSI 250 Highline DSG",
+      "precios": {}
+    },
+    "6298": {
+      "id": "6298",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Vii 1.4 TSI Variant Comfor DSG",
+      "precios": {}
+    },
+    "6299": {
+      "id": "6299",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Vii 1.6 FSI Trendline",
+      "precios": {}
+    },
+    "6300": {
+      "id": "6300",
+      "marcaId": "61",
+      "modeloId": "586",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Golf Vii 1.6 FSI Variant Trendline DSG",
       "precios": {}
     },
     "6326": {
@@ -129045,6 +135619,21 @@
         }
       }
     },
+    "6620": {
+      "id": "6620",
+      "marcaId": "61",
+      "modeloId": "589",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "5P 1,0 TSI 170 5MT Sense",
+      "precios": {
+        "0": {
+          "usd": 22336.58,
+          "ars": 34152630.82,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6660": {
       "id": "6660",
       "marcaId": "6",
@@ -129746,6 +136335,21 @@
         "0": {
           "usd": 29900,
           "ars": 45717100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6728": {
+      "id": "6728",
+      "marcaId": "61",
+      "modeloId": "593",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "5P 1,6 MSI Robust 2026",
+      "precios": {
+        "0": {
+          "usd": 19397.98,
+          "ars": 29659511.42,
           "cotizacion": 1529
         }
       }
