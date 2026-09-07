@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-07T00:47:11.744Z",
+  "actualizado": "2026-09-07T02:50:42.735Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 6163,
-  "versionesProcesadas": 4748,
-  "versionesConValuacion": 4319,
+  "versionesProcesadas": 5096,
+  "versionesConValuacion": 4637,
   "completo": false,
   "vehiculos": {
     "1": {
@@ -109720,6 +109720,191 @@
         }
       }
     },
+    "4536": {
+      "id": "4536",
+      "marcaId": "55",
+      "modeloId": "539",
+      "marca": "SMART",
+      "modelo": "FORTWO",
+      "version": "Coupe 1,0 City C453",
+      "precios": {
+        "2016": {
+          "usd": 14469.79,
+          "ars": 22124308.91,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 14911.92,
+          "ars": 22800325.68,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15957.13,
+          "ars": 24398451.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4537": {
+      "id": "4537",
+      "marcaId": "55",
+      "modeloId": "539",
+      "marca": "SMART",
+      "modelo": "FORTWO",
+      "version": "Coupe 1,0 Passion",
+      "precios": {
+        "2013": {
+          "usd": 11287.43,
+          "ars": 17258480.47,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11950.2,
+          "ars": 18271855.8,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12602.35,
+          "ars": 19268993.15,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13237.05,
+          "ars": 20239449.45,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13641.52,
+          "ars": 20857884.08,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4538": {
+      "id": "4538",
+      "marcaId": "55",
+      "modeloId": "539",
+      "marca": "SMART",
+      "modelo": "FORTWO",
+      "version": "Coupe 1,0 Passion C453",
+      "precios": {
+        "2016": {
+          "usd": 16481.29,
+          "ars": 25199892.41,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 16984.88,
+          "ars": 25969881.52,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18175.38,
+          "ars": 27790156.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4539": {
+      "id": "4539",
+      "marcaId": "55",
+      "modeloId": "539",
+      "marca": "SMART",
+      "modelo": "FORTWO",
+      "version": "Coupe 1,0 Passion High",
+      "precios": {
+        "2013": {
+          "usd": 11782.8,
+          "ars": 18015901.2,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12474.66,
+          "ars": 19073755.14,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13175.18,
+          "ars": 20144850.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4540": {
+      "id": "4540",
+      "marcaId": "55",
+      "modeloId": "539",
+      "marca": "SMART",
+      "modelo": "FORTWO",
+      "version": "Coupe 1,0 Passion Limited Edition",
+      "precios": {
+        "2014": {
+          "usd": 12900.22,
+          "ars": 19724436.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4541": {
+      "id": "4541",
+      "marcaId": "55",
+      "modeloId": "539",
+      "marca": "SMART",
+      "modelo": "FORTWO",
+      "version": "Coupe 1,0 Passion Grey Matt Plus Edition",
+      "precios": {
+        "2015": {
+          "usd": 13833.94,
+          "ars": 21152094.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4542": {
+      "id": "4542",
+      "marcaId": "55",
+      "modeloId": "539",
+      "marca": "SMART",
+      "modelo": "FORTWO",
+      "version": "Coupe 1,0 Play",
+      "precios": {
+        "2016": {
+          "usd": 18184.57,
+          "ars": 27804207.53,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18740.21,
+          "ars": 28653781.09,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20053.74,
+          "ars": 30662168.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4543": {
+      "id": "4543",
+      "marcaId": "55",
+      "modeloId": "539",
+      "marca": "SMART",
+      "modelo": "FORTWO",
+      "version": "Coupe 1,0 Sharpred Edition",
+      "precios": {
+        "2013": {
+          "usd": 12344.54,
+          "ars": 18874801.66,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13069.38,
+          "ars": 19983082.02,
+          "cotizacion": 1529
+        }
+      }
+    },
     "4544": {
       "id": "4544",
       "marcaId": "55",
@@ -109895,6 +110080,7326 @@
         "2018": {
           "usd": 15053.88,
           "ars": 23017382.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4553": {
+      "id": "4553",
+      "marcaId": "56",
+      "modeloId": "541",
+      "marca": "SOUEAST",
+      "modelo": "DX 3",
+      "version": "5P 1,5",
+      "precios": {
+        "2020": {
+          "usd": 10948.99,
+          "ars": 16741005.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4554": {
+      "id": "4554",
+      "marcaId": "56",
+      "modeloId": "541",
+      "marca": "SOUEAST",
+      "modelo": "DX 3",
+      "version": "5P 1,5 T 8cvt",
+      "precios": {
+        "2020": {
+          "usd": 12488.69,
+          "ars": 19095207.01,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13001.92,
+          "ars": 19879935.68,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13652.02,
+          "ars": 20873938.58,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14334.62,
+          "ars": 21917633.98,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 15051.35,
+          "ars": 23013514.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4555": {
+      "id": "4555",
+      "marcaId": "57",
+      "modeloId": "542",
+      "marca": "SSANGYONG",
+      "modelo": "ACTYON",
+      "version": "5P A 230 2wd Dynamic Pack 1",
+      "precios": {
+        "2013": {
+          "usd": 6802.35,
+          "ars": 10400793.15,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7204.57,
+          "ars": 11015787.53,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7558.46,
+          "ars": 11556885.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4556": {
+      "id": "4556",
+      "marcaId": "57",
+      "modeloId": "542",
+      "marca": "SSANGYONG",
+      "modelo": "ACTYON",
+      "version": "5P A 230 2wd Dynamic Pack 2",
+      "precios": {
+        "2013": {
+          "usd": 7220.96,
+          "ars": 11040847.84,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7647.93,
+          "ars": 11693684.97,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8023.6,
+          "ars": 12268084.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4557": {
+      "id": "4557",
+      "marcaId": "57",
+      "modeloId": "542",
+      "marca": "SSANGYONG",
+      "modelo": "ACTYON",
+      "version": "5P A 230 2wd Dynamic Pack 3 Luxe",
+      "precios": {
+        "2013": {
+          "usd": 7744.22,
+          "ars": 11840912.38,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8202.12,
+          "ars": 12541041.48,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8605.02,
+          "ars": 13157075.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4558": {
+      "id": "4558",
+      "marcaId": "57",
+      "modeloId": "543",
+      "marca": "SSANGYONG",
+      "modelo": "KORANDO",
+      "version": "5P Full Equip Ii",
+      "precios": {
+        "2014": {
+          "usd": 10341.31,
+          "ars": 15811862.99,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10849.28,
+          "ars": 16588549.12,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4559": {
+      "id": "4559",
+      "marcaId": "57",
+      "modeloId": "544",
+      "marca": "SSANGYONG",
+      "modelo": "KYRON",
+      "version": "5P 2,0 D I",
+      "precios": {
+        "2013": {
+          "usd": 6488.4,
+          "ars": 9920763.6,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 6872.05,
+          "ars": 10507364.45,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7209.61,
+          "ars": 11023493.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4560": {
+      "id": "4560",
+      "marcaId": "57",
+      "modeloId": "544",
+      "marca": "SSANGYONG",
+      "modelo": "KYRON",
+      "version": "5P 2,0 D Ii",
+      "precios": {
+        "2013": {
+          "usd": 6907,
+          "ars": 10560803,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7315.41,
+          "ars": 11185261.89,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7674.74,
+          "ars": 11734677.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4561": {
+      "id": "4561",
+      "marcaId": "57",
+      "modeloId": "544",
+      "marca": "SSANGYONG",
+      "modelo": "KYRON",
+      "version": "5P 2,0 D Iii",
+      "precios": {
+        "2013": {
+          "usd": 7020.28,
+          "ars": 10734008.12,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7435.38,
+          "ars": 11368696.02,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7800.61,
+          "ars": 11927132.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4562": {
+      "id": "4562",
+      "marcaId": "57",
+      "modeloId": "545",
+      "marca": "SSANGYONG",
+      "modelo": "STAVIC",
+      "version": "Van",
+      "precios": {
+        "2013": {
+          "usd": 6907,
+          "ars": 10560803,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7315.41,
+          "ars": 11185261.89,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7674.74,
+          "ars": 11734677.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4563": {
+      "id": "4563",
+      "marcaId": "58",
+      "modeloId": "546",
+      "marca": "SUBARU",
+      "modelo": "CROSSTREK",
+      "version": "5P 2,0 CVT AWD Limited Es",
+      "precios": {
+        "0": {
+          "usd": 43500,
+          "ars": 66511500,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 40081.55,
+          "ars": 61284689.95,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 42191.11,
+          "ars": 64510207.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4564": {
+      "id": "4564",
+      "marcaId": "58",
+      "modeloId": "546",
+      "marca": "SUBARU",
+      "modelo": "CROSSTREK",
+      "version": "5P 2,0 CVT AWD Limited Es Hybrid",
+      "precios": {
+        "0": {
+          "usd": 48500,
+          "ars": 74156500,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 44535.06,
+          "ars": 68094106.74,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 46879.01,
+          "ars": 71678006.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4565": {
+      "id": "4565",
+      "marcaId": "58",
+      "modeloId": "547",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "5P 2,0 X AWD",
+      "precios": {
+        "2013": {
+          "usd": 11742.61,
+          "ars": 17954450.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4566": {
+      "id": "4566",
+      "marcaId": "58",
+      "modeloId": "547",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "5P 2,0 X AWD AT",
+      "precios": {}
+    },
+    "4567": {
+      "id": "4567",
+      "marcaId": "58",
+      "modeloId": "547",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "5P 2,0 Xs AWD AT",
+      "precios": {
+        "2013": {
+          "usd": 13996.15,
+          "ars": 21400113.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4568": {
+      "id": "4568",
+      "marcaId": "58",
+      "modeloId": "547",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "5P 2,0 Xs AWD Limited",
+      "precios": {}
+    },
+    "4569": {
+      "id": "4569",
+      "marcaId": "58",
+      "modeloId": "547",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "5P 2,0 Xs AWD Limited AT",
+      "precios": {
+        "2013": {
+          "usd": 15714.76,
+          "ars": 24027868.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4570": {
+      "id": "4570",
+      "marcaId": "58",
+      "modeloId": "547",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "5P 2,5 Xt AWD Turbo",
+      "precios": {
+        "2013": {
+          "usd": 17076.42,
+          "ars": 26109846.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4571": {
+      "id": "4571",
+      "marcaId": "58",
+      "modeloId": "547",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "5P 2,5 Xt AWD Turbo AT",
+      "precios": {
+        "2013": {
+          "usd": 18141.45,
+          "ars": 27738277.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4572": {
+      "id": "4572",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 I AWD 6MT X",
+      "precios": {
+        "2013": {
+          "usd": 12884.4,
+          "ars": 19700247.6,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13734.14,
+          "ars": 20999500.06,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14543.43,
+          "ars": 22236904.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4573": {
+      "id": "4573",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 I AWD CVT Si Drive Xs",
+      "precios": {
+        "2013": {
+          "usd": 13708.56,
+          "ars": 20960388.24,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14612.66,
+          "ars": 22342757.14,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15473.71,
+          "ars": 23659302.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4574": {
+      "id": "4574",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 I AWD CVT Si Drive Xs",
+      "precios": {
+        "2013": {
+          "usd": 14258,
+          "ars": 21800482,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15198.33,
+          "ars": 23238246.57,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16093.9,
+          "ars": 24607573.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4575": {
+      "id": "4575",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 I AWD CVT Si Drive Dynamic",
+      "precios": {
+        "2013": {
+          "usd": 15082.17,
+          "ars": 23060637.93,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16076.85,
+          "ars": 24581503.65,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17024.18,
+          "ars": 26029971.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4576": {
+      "id": "4576",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 I AWD CVT Si Drive Limited Sport",
+      "precios": {
+        "2013": {
+          "usd": 16455.77,
+          "ars": 25160872.33,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 17541.04,
+          "ars": 26820250.16,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 18574.66,
+          "ars": 28400655.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4577": {
+      "id": "4577",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 Xt AWD CVT Si Drive Turbo",
+      "precios": {
+        "2013": {
+          "usd": 19202.98,
+          "ars": 29361356.42,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 20469.43,
+          "ars": 31297758.47,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 21675.6,
+          "ars": 33141992.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4578": {
+      "id": "4578",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 I AWD 6MT X 2016",
+      "precios": {
+        "2016": {
+          "usd": 16694.32,
+          "ars": 25525615.28,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17904,
+          "ars": 27375216,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 19923.73,
+          "ars": 30463383.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4579": {
+      "id": "4579",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 I AWD CVT Si Drive Xs 2016",
+      "precios": {
+        "2016": {
+          "usd": 18506.11,
+          "ars": 28295842.19,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 19437.34,
+          "ars": 29719692.86,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21630.04,
+          "ars": 33072331.16,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 25280.11,
+          "ars": 38653288.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4580": {
+      "id": "4580",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 I AWD CVT Si Drive Dynamic Sport 2016",
+      "precios": {
+        "2016": {
+          "usd": 20048.8,
+          "ars": 30654615.2,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 21085.29,
+          "ars": 32239408.41,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 23463.89,
+          "ars": 35876287.81,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 27423.42,
+          "ars": 41930409.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4581": {
+      "id": "4581",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 I AWD CVT Si Drive Limited Sport 2016",
+      "precios": {
+        "2016": {
+          "usd": 21715.56,
+          "ars": 33203091.24,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 24465.7,
+          "ars": 37408055.3,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 27225.64,
+          "ars": 41628003.56,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 31819.96,
+          "ars": 48652718.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4582": {
+      "id": "4582",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 Xt AWD CVT Si Drive Turbo 2016",
+      "precios": {
+        "2016": {
+          "usd": 24717.95,
+          "ars": 37793745.55,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 27254.53,
+          "ars": 41672176.37,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 30329.08,
+          "ars": 46373163.32,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 35447.11,
+          "ars": 54198631.19,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4583": {
+      "id": "4583",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 I AWD CVT Xs 2019",
+      "precios": {
+        "2019": {
+          "usd": 27618.52,
+          "ars": 42228717.08,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 29828,
+          "ars": 45607012,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 33161.72,
+          "ars": 50704269.88,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 35483.04,
+          "ars": 54253568.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4584": {
+      "id": "4584",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 AWD CVT Dynamic 2019",
+      "precios": {
+        "2019": {
+          "usd": 29960.09,
+          "ars": 45808977.61,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 32356.9,
+          "ars": 49473700.1,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 35973.26,
+          "ars": 55003114.54,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 38491.38,
+          "ars": 58853320.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4585": {
+      "id": "4585",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 AWD CVT Dynamic Eyesight 2019",
+      "precios": {
+        "2019": {
+          "usd": 27741.99,
+          "ars": 42417502.71,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 29961.35,
+          "ars": 45810904.15,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 33309.98,
+          "ars": 50930959.42,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 35641.67,
+          "ars": 54496113.43,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 38136.59,
+          "ars": 58310846.11,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 40143.78,
+          "ars": 61379839.62,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 42256.61,
+          "ars": 64610356.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4586": {
+      "id": "4586",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 AWD CVT Limited Sport Es",
+      "precios": {
+        "2023": {
+          "usd": 43475.72,
+          "ars": 66474375.88,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 45763.91,
+          "ars": 69973018.39,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 48172.54,
+          "ars": 73655813.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4587": {
+      "id": "4587",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,0 I Hybrid AWD CVT Limited Es",
+      "precios": {
+        "2024": {
+          "usd": 46329.3,
+          "ars": 70837499.7,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 48767.68,
+          "ars": 74565782.72,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4588": {
+      "id": "4588",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 AWD CVT Xs Es",
+      "precios": {
+        "0": {
+          "usd": 43900,
+          "ars": 67123100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 45472.64,
+          "ars": 69527666.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4589": {
+      "id": "4589",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 AWD CVT Limited Es",
+      "precios": {
+        "2025": {
+          "usd": 52035.7,
+          "ars": 79562585.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4590": {
+      "id": "4590",
+      "marcaId": "58",
+      "modeloId": "548",
+      "marca": "SUBARU",
+      "modelo": "FORESTER ALL NEW",
+      "version": "5P 2,5 AWD CVT Limited Es Hybrid Strong",
+      "precios": {
+        "0": {
+          "usd": 61000,
+          "ars": 93269000,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 58129.97,
+          "ars": 88880724.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4591": {
+      "id": "4591",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "4P 2,0r AWD Rn",
+      "precios": {}
+    },
+    "4592": {
+      "id": "4592",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "4P 2,0r AWD Rn AT",
+      "precios": {}
+    },
+    "4593": {
+      "id": "4593",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "4P 2,0r AWD Na",
+      "precios": {}
+    },
+    "4594": {
+      "id": "4594",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "4P 2,0r AWD Na AT",
+      "precios": {}
+    },
+    "4595": {
+      "id": "4595",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 1,5r AWD 2a 107CV",
+      "precios": {}
+    },
+    "4596": {
+      "id": "4596",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 1,5r AWD 2a 107CV AT",
+      "precios": {}
+    },
+    "4597": {
+      "id": "4597",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 2,0r AWD Rc 150CV",
+      "precios": {}
+    },
+    "4598": {
+      "id": "4598",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 2,0r AWD Rc 150CV Sportshift",
+      "precios": {}
+    },
+    "4599": {
+      "id": "4599",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 2,5r AWD Wrx Turbo 265CV",
+      "precios": {
+        "2013": {
+          "usd": 24490.54,
+          "ars": 37446035.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4600": {
+      "id": "4600",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 2,5r AWD 300CV Sti",
+      "precios": {
+        "2013": {
+          "usd": 35207.75,
+          "ars": 53832649.75,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4601": {
+      "id": "4601",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "4P 2,5 AWD Wrx Turbo 265CV",
+      "precios": {
+        "2013": {
+          "usd": 31410.56,
+          "ars": 48026746.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4602": {
+      "id": "4602",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 2,0i AWD Dynamic CVT",
+      "precios": {
+        "2018": {
+          "usd": 24670.92,
+          "ars": 37721836.68,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 27138.02,
+          "ars": 41494032.58,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 29309.06,
+          "ars": 44813552.74,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 30774.51,
+          "ars": 47054225.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4603": {
+      "id": "4603",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 2,0i AWD Limited Eyesight CVT",
+      "precios": {
+        "2018": {
+          "usd": 22474.2,
+          "ars": 34363051.8,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 24721.62,
+          "ars": 37799356.98,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 26699.35,
+          "ars": 40823306.15,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 28034.31,
+          "ars": 42864459.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4604": {
+      "id": "4604",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "4P 2,0i AWD Limited CVT",
+      "precios": {
+        "2018": {
+          "usd": 23093.79,
+          "ars": 35310404.91,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 25403.17,
+          "ars": 38841446.93,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 27435.42,
+          "ars": 41948757.18,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 28807.19,
+          "ars": 44046193.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4605": {
+      "id": "4605",
+      "marcaId": "58",
+      "modeloId": "549",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "5P 2,0  AWD Dynamic Eyesight CVT",
+      "precios": {
+        "0": {
+          "usd": 34900,
+          "ars": 53362100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 34690.47,
+          "ars": 53041728.63,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4606": {
+      "id": "4606",
+      "marcaId": "58",
+      "modeloId": "550",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "4P 2,0 AWD 6MT X",
+      "precios": {}
+    },
+    "4607": {
+      "id": "4607",
+      "marcaId": "58",
+      "modeloId": "550",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "4P 2,5 AWD CVT Xa",
+      "precios": {}
+    },
+    "4608": {
+      "id": "4608",
+      "marcaId": "58",
+      "modeloId": "550",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "4P 2,5 AWD CVT Limited",
+      "precios": {
+        "2013": {
+          "usd": 11091.13,
+          "ars": 16958337.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4609": {
+      "id": "4609",
+      "marcaId": "58",
+      "modeloId": "550",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "4P 2,5 AWD CVT Sport",
+      "precios": {
+        "2013": {
+          "usd": 11091.13,
+          "ars": 16958337.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4610": {
+      "id": "4610",
+      "marcaId": "58",
+      "modeloId": "550",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "4P 2,5 AWD 5at Gt Si Drive",
+      "precios": {
+        "2013": {
+          "usd": 13273.35,
+          "ars": 20294952.15,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15133.57,
+          "ars": 23139228.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4611": {
+      "id": "4611",
+      "marcaId": "58",
+      "modeloId": "550",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "Sw 2,0 AWD CVT Xa",
+      "precios": {}
+    },
+    "4612": {
+      "id": "4612",
+      "marcaId": "58",
+      "modeloId": "550",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "4P 2,5 I AWD CVT Limited 2017",
+      "precios": {
+        "2017": {
+          "usd": 24075.94,
+          "ars": 36812112.26,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 26876.58,
+          "ars": 41094290.82,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 29564.24,
+          "ars": 45203722.96,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 31929.37,
+          "ars": 48820006.73,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 33525.84,
+          "ars": 51261009.36,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4613": {
+      "id": "4613",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 AWD 6MT Xs",
+      "precios": {}
+    },
+    "4614": {
+      "id": "4614",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 AWD CVT Xs",
+      "precios": {
+        "2013": {
+          "usd": 14858.65,
+          "ars": 22718875.85,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15737.22,
+          "ars": 24062209.38,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16973.15,
+          "ars": 25951946.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4615": {
+      "id": "4615",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 AWD CVT Xa",
+      "precios": {}
+    },
+    "4616": {
+      "id": "4616",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 AWD CVT Limited",
+      "precios": {}
+    },
+    "4617": {
+      "id": "4617",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 AWD CVT Limited Tech",
+      "precios": {
+        "2013": {
+          "usd": 16932.86,
+          "ars": 25890342.94,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 17934.09,
+          "ars": 27421223.61,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 19342.54,
+          "ars": 29574743.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4618": {
+      "id": "4618",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 AWD 5at Si Drive",
+      "precios": {}
+    },
+    "4619": {
+      "id": "4619",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 I AWD CVT Limited",
+      "precios": {
+        "2017": {
+          "usd": 28103.68,
+          "ars": 42970526.72,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 30640.94,
+          "ars": 46849997.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4620": {
+      "id": "4620",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 R AWD CVT Limited Es Eyesight",
+      "precios": {
+        "2018": {
+          "usd": 32005.16,
+          "ars": 48935889.64,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 35205.67,
+          "ars": 53829469.43,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 38022.13,
+          "ars": 58135836.77,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 39923.23,
+          "ars": 61042618.67,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 41919.39,
+          "ars": 64094747.31,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 44015.36,
+          "ars": 67299485.44,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 47581.57,
+          "ars": 72752220.53,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 49960.65,
+          "ars": 76389833.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4621": {
+      "id": "4621",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 2,5 CVT Limited Es",
+      "precios": {
+        "0": {
+          "usd": 57500,
+          "ars": 87917500,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 53910.86,
+          "ars": 82429704.94,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4622": {
+      "id": "4622",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 3,6 R AWD CVT Limited",
+      "precios": {
+        "2017": {
+          "usd": 31231.27,
+          "ars": 47752611.83,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 34050.9,
+          "ars": 52063826.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4623": {
+      "id": "4623",
+      "marcaId": "58",
+      "modeloId": "551",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "5P 3,6 R AWD CVT Eyesight",
+      "precios": {
+        "2018": {
+          "usd": 36355.25,
+          "ars": 55587177.25,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 39990.78,
+          "ars": 61145902.62,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 43190.04,
+          "ars": 66037571.16,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 45349.54,
+          "ars": 69339446.66,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 47617.02,
+          "ars": 72806423.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4624": {
+      "id": "4624",
+      "marcaId": "58",
+      "modeloId": "552",
+      "marca": "SUBARU",
+      "modelo": "TRIBECA",
+      "version": "5P 3,6r 256CV AWD 7p AT",
+      "precios": {
+        "2013": {
+          "usd": 15619.61,
+          "ars": 23882383.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4625": {
+      "id": "4625",
+      "marcaId": "58",
+      "modeloId": "553",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "4P 2,0 T",
+      "precios": {
+        "2015": {
+          "usd": 35361.84,
+          "ars": 54068253.36,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 36522.98,
+          "ars": 55843636.42,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 37757.87,
+          "ars": 57731783.23,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 41166.73,
+          "ars": 62943930.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4626": {
+      "id": "4626",
+      "marcaId": "58",
+      "modeloId": "553",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "4P 2,0 T AT",
+      "precios": {
+        "2015": {
+          "usd": 37909.97,
+          "ars": 57964344.13,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 39154.79,
+          "ars": 59867673.91,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 41539.86,
+          "ars": 63514445.94,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 45290.16,
+          "ars": 69248654.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4627": {
+      "id": "4627",
+      "marcaId": "58",
+      "modeloId": "553",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "4P 2,0 T CVT 2018",
+      "precios": {
+        "2018": {
+          "usd": 47932.69,
+          "ars": 73289083.01,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 52725.96,
+          "ars": 80617992.84,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 56944.03,
+          "ars": 87067421.87,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 59791.23,
+          "ars": 91420790.67,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 62780.8,
+          "ars": 95991843.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4628": {
+      "id": "4628",
+      "marcaId": "58",
+      "modeloId": "553",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "4P 2,4 T AWD 6MT Performance Es",
+      "precios": {
+        "0": {
+          "usd": 62000,
+          "ars": 94798000,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 56144.98,
+          "ars": 85845674.42,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 58129.97,
+          "ars": 88880724.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4629": {
+      "id": "4629",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0r AWD",
+      "precios": {
+        "2013": {
+          "usd": 12669.81,
+          "ars": 19372139.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4630": {
+      "id": "4630",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0r AWD AT",
+      "precios": {
+        "2013": {
+          "usd": 13291.21,
+          "ars": 20322260.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4631": {
+      "id": "4631",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0r AWD Limited AT",
+      "precios": {
+        "2013": {
+          "usd": 15189.96,
+          "ars": 23225448.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4632": {
+      "id": "4632",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 AWD 6MT",
+      "precios": {
+        "2013": {
+          "usd": 18276.16,
+          "ars": 27944248.64,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 18866.29,
+          "ars": 28846557.41,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 19471.73,
+          "ars": 29772275.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4633": {
+      "id": "4633",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 AWD CVT",
+      "precios": {
+        "2013": {
+          "usd": 19348.98,
+          "ars": 29584590.42,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 19973.74,
+          "ars": 30539848.46,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 20614.72,
+          "ars": 31519906.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4634": {
+      "id": "4634",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 AWD CVT Limited",
+      "precios": {
+        "2013": {
+          "usd": 21571.23,
+          "ars": 32982410.67,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 22267.76,
+          "ars": 34047405.04,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 22982.35,
+          "ars": 35140013.15,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4635": {
+      "id": "4635",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 I AWD MT",
+      "precios": {
+        "2016": {
+          "usd": 21228.38,
+          "ars": 32458193.02,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 23229.99,
+          "ars": 35518654.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4636": {
+      "id": "4636",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 I AWD CVT",
+      "precios": {
+        "2016": {
+          "usd": 22480.06,
+          "ars": 34372011.74,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 24793.69,
+          "ars": 37909552.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4637": {
+      "id": "4637",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 I AWD CVT Dynamic",
+      "precios": {
+        "2016": {
+          "usd": 22780.46,
+          "ars": 34831323.34,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 27273.06,
+          "ars": 41700508.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4638": {
+      "id": "4638",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 I AWD CVT Limited",
+      "precios": {
+        "2016": {
+          "usd": 25033.47,
+          "ars": 38276175.63,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 28544.54,
+          "ars": 43644601.66,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4639": {
+      "id": "4639",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 I CVT 2018",
+      "precios": {
+        "2018": {
+          "usd": 28884.29,
+          "ars": 44164079.41,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 31772.72,
+          "ars": 48580488.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4640": {
+      "id": "4640",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 I AWD CVT Dynamic 2018",
+      "precios": {
+        "2018": {
+          "usd": 32466.45,
+          "ars": 49641202.05,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 35713.09,
+          "ars": 54605314.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4641": {
+      "id": "4641",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 I AWD CVT Dynamic Eyesight 2019",
+      "precios": {
+        "2019": {
+          "usd": 36582.65,
+          "ars": 55934871.85,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 39509.26,
+          "ars": 60409658.54,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 41484.73,
+          "ars": 63430152.17,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 43558.96,
+          "ars": 66601649.84,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 45736.91,
+          "ars": 69931735.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4642": {
+      "id": "4642",
+      "marcaId": "58",
+      "modeloId": "554",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "5P 2,0 I AWD CVT Limited Eyesight 2018",
+      "precios": {
+        "2018": {
+          "usd": 34736.83,
+          "ars": 53112613.07,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 38210.51,
+          "ars": 58423869.79,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 41267.35,
+          "ars": 63097778.15,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 43330.72,
+          "ars": 66252670.88,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 45497.26,
+          "ars": 69565310.54,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 47772.12,
+          "ars": 73043571.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4643": {
+      "id": "4643",
+      "marcaId": "59",
+      "modeloId": "555",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "5P 1,4 Glx",
+      "precios": {
+        "2017": {
+          "usd": 14777.24,
+          "ars": 22594399.96,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15813.01,
+          "ars": 24178092.29,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16603.66,
+          "ars": 25386996.14,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17477.53,
+          "ars": 26723143.37,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 18397.4,
+          "ars": 28129624.6,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19365.69,
+          "ars": 29610140.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4644": {
+      "id": "4644",
+      "marcaId": "59",
+      "modeloId": "555",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "5P 1,4 Glx AT",
+      "precios": {
+        "2017": {
+          "usd": 15808.21,
+          "ars": 24170753.09,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16916.24,
+          "ars": 25864930.96,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17762.05,
+          "ars": 27158174.45,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 18696.9,
+          "ars": 28587560.1,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19680.94,
+          "ars": 30092157.26,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20716.78,
+          "ars": 31675956.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4645": {
+      "id": "4645",
+      "marcaId": "59",
+      "modeloId": "556",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "3P 2,4 Jx 4WD",
+      "precios": {
+        "2014": {
+          "usd": 16537.34,
+          "ars": 25285592.86,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17349.66,
+          "ars": 26527630.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4646": {
+      "id": "4646",
+      "marcaId": "59",
+      "modeloId": "556",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "5P 2,4 Jxl 2wd",
+      "precios": {
+        "2014": {
+          "usd": 16537.34,
+          "ars": 25285592.86,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17349.66,
+          "ars": 26527630.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4647": {
+      "id": "4647",
+      "marcaId": "59",
+      "modeloId": "556",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "5P 2,4 Jxl 4WD",
+      "precios": {
+        "2014": {
+          "usd": 21194.86,
+          "ars": 32406940.94,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 22235.96,
+          "ars": 33998782.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4648": {
+      "id": "4648",
+      "marcaId": "59",
+      "modeloId": "556",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "5P 2,4 Jxl 4WD AT",
+      "precios": {
+        "2014": {
+          "usd": 21951.82,
+          "ars": 33564332.78,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 23030.1,
+          "ars": 35213022.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4649": {
+      "id": "4649",
+      "marcaId": "59",
+      "modeloId": "556",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "5P 2,4 Jlx-L 4WD AT",
+      "precios": {
+        "2017": {
+          "usd": 31234.44,
+          "ars": 47757458.76,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 33423.72,
+          "ars": 51104867.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4650": {
+      "id": "4650",
+      "marcaId": "59",
+      "modeloId": "557",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "3P 1,5 Gl",
+      "precios": {
+        "0": {
+          "usd": 31000,
+          "ars": 47399000,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 31895.78,
+          "ars": 48768647.62,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 33574.51,
+          "ars": 51335425.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4651": {
+      "id": "4651",
+      "marcaId": "59",
+      "modeloId": "557",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "3P 1,5 Glx",
+      "precios": {
+        "2019": {
+          "usd": 23563.01,
+          "ars": 36027842.29,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 25448.05,
+          "ars": 38910068.45,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 26720.45,
+          "ars": 40855568.05,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 28056.48,
+          "ars": 42898357.92,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 30301,
+          "ars": 46330229,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4652": {
+      "id": "4652",
+      "marcaId": "59",
+      "modeloId": "557",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "3P 1,5 Glx Bitono",
+      "precios": {
+        "2019": {
+          "usd": 23920.03,
+          "ars": 36573725.87,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 25833.63,
+          "ars": 39499620.27,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 27125.31,
+          "ars": 41474598.99,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 28481.58,
+          "ars": 43548335.82,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 30760.1,
+          "ars": 47032192.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4653": {
+      "id": "4653",
+      "marcaId": "59",
+      "modeloId": "557",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "3P 1,5 Glx AT",
+      "precios": {
+        "0": {
+          "usd": 35000,
+          "ars": 53515000,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 24634.06,
+          "ars": 37665477.74,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 26604.78,
+          "ars": 40678708.62,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 27935.02,
+          "ars": 42712645.58,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 29331.77,
+          "ars": 44848276.33,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 31678.31,
+          "ars": 48436135.99,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 33345.59,
+          "ars": 50985407.11,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 35100.62,
+          "ars": 53668847.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4654": {
+      "id": "4654",
+      "marcaId": "59",
+      "modeloId": "557",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "3P 1,5 Glx AT Bitono",
+      "precios": {
+        "0": {
+          "usd": 35000,
+          "ars": 53515000,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 24991.07,
+          "ars": 38211346.03,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 26990.36,
+          "ars": 41268260.44,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 28339.88,
+          "ars": 43331676.52,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 29756.87,
+          "ars": 45498254.23,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 32137.42,
+          "ars": 49138115.18,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 33828.86,
+          "ars": 51724326.94,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 35609.33,
+          "ars": 54446665.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4655": {
+      "id": "4655",
+      "marcaId": "59",
+      "modeloId": "558",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "5P 1,5",
+      "precios": {}
+    },
+    "4656": {
+      "id": "4656",
+      "marcaId": "59",
+      "modeloId": "558",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "5P 1,4 Wt Glx",
+      "precios": {
+        "2015": {
+          "usd": 14208.42,
+          "ars": 21724674.18,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14864.45,
+          "ars": 22727744.05,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 15800.31,
+          "ars": 24158673.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4657": {
+      "id": "4657",
+      "marcaId": "59",
+      "modeloId": "558",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "5P 1,2 Glx CVT",
+      "precios": {
+        "2018": {
+          "usd": 17740.01,
+          "ars": 27124475.29,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 19159.21,
+          "ars": 29294432.09,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20691.95,
+          "ars": 31637991.55,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21726.55,
+          "ars": 33219894.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4658": {
+      "id": "4658",
+      "marcaId": "59",
+      "modeloId": "559",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "5P 1,6 16V Gl 2wd 5MT",
+      "precios": {
+        "2016": {
+          "usd": 16891.69,
+          "ars": 25827394.01,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 17791.96,
+          "ars": 27203906.84,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 19039.03,
+          "ars": 29110676.87,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 20562.16,
+          "ars": 31439542.64,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 22207.13,
+          "ars": 33954701.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4659": {
+      "id": "4659",
+      "marcaId": "59",
+      "modeloId": "559",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "5P 1,6 16V Gl 2wd 6AT",
+      "precios": {
+        "2016": {
+          "usd": 17505.93,
+          "ars": 26766566.97,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18438.94,
+          "ars": 28193139.26,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 19731.36,
+          "ars": 30169249.44,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 21309.87,
+          "ars": 32582791.23,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 23014.66,
+          "ars": 35189415.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4660": {
+      "id": "4660",
+      "marcaId": "59",
+      "modeloId": "559",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "5P 1,6 16V Gl Plus Allgrip 4WD 6AT",
+      "precios": {
+        "2016": {
+          "usd": 20474.78,
+          "ars": 31305938.62,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 21566.02,
+          "ars": 32974444.58,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 23077.62,
+          "ars": 35285680.98,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 24923.82,
+          "ars": 38108520.78,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 26917.73,
+          "ars": 41157209.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4661": {
+      "id": "4661",
+      "marcaId": "59",
+      "modeloId": "559",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "5P 1,6 16V Glx Sr Allgrip 4WD 6AT",
+      "precios": {
+        "2016": {
+          "usd": 23984.74,
+          "ars": 36672667.46,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 25263.05,
+          "ars": 38627203.45,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 27033.78,
+          "ars": 41334649.62,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 29196.48,
+          "ars": 44641417.92,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 31532.2,
+          "ars": 48212733.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4662": {
+      "id": "4662",
+      "marcaId": "59",
+      "modeloId": "559",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "5P 1,6 16V Gl Plus Allgrip 4WD 6AT 2020",
+      "precios": {
+        "2019": {
+          "usd": 29673.8,
+          "ars": 45371240.2,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 32047.7,
+          "ars": 49000933.3,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 33650.09,
+          "ars": 51450987.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4663": {
+      "id": "4663",
+      "marcaId": "60",
+      "modeloId": "560",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "Coupe 2,0 Ft",
+      "precios": {
+        "2013": {
+          "usd": 27424.4,
+          "ars": 41931907.6,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 29045.98,
+          "ars": 44411303.42,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 30472.73,
+          "ars": 46592804.17,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 31693.65,
+          "ars": 48459590.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4664": {
+      "id": "4664",
+      "marcaId": "60",
+      "modeloId": "560",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "Coupe 2,0 Gt",
+      "precios": {
+        "2013": {
+          "usd": 31656.24,
+          "ars": 48402390.96,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 33528.04,
+          "ars": 51264373.16,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 35174.95,
+          "ars": 53782498.55,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 36584.27,
+          "ars": 55937348.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4665": {
+      "id": "4665",
+      "marcaId": "60",
+      "modeloId": "560",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "Coupe 2,0 Gt AT",
+      "precios": {
+        "2013": {
+          "usd": 33349.05,
+          "ars": 50990697.45,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 35352.98,
+          "ars": 54054706.42,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 37089.54,
+          "ars": 56709906.66,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 38575.56,
+          "ars": 58982031.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4666": {
+      "id": "4666",
+      "marcaId": "60",
+      "modeloId": "560",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "Coupe 2,0 Ft 2017",
+      "precios": {
+        "2016": {
+          "usd": 35298.94,
+          "ars": 53972079.26,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 36788.89,
+          "ars": 56250212.81,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 40096.51,
+          "ars": 61307563.79,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 43304.23,
+          "ars": 66212167.67,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 47634.66,
+          "ars": 72833395.14,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 50016.39,
+          "ars": 76475060.31,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 52517.21,
+          "ars": 80298814.09,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4667": {
+      "id": "4667",
+      "marcaId": "60",
+      "modeloId": "560",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "Coupe 2,0 Gt 2017",
+      "precios": {
+        "2016": {
+          "usd": 42884.33,
+          "ars": 65570140.57,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 44694.45,
+          "ars": 68337814.05,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 48712.85,
+          "ars": 74481947.65,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 52609.88,
+          "ars": 80440506.52,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 57870.87,
+          "ars": 88484560.23,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 60764.41,
+          "ars": 92908782.89,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 63802.63,
+          "ars": 97554221.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4668": {
+      "id": "4668",
+      "marcaId": "60",
+      "modeloId": "560",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "Coupe 2,0 Gt AT 2017",
+      "precios": {
+        "2016": {
+          "usd": 45153.97,
+          "ars": 69040420.13,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 47059.9,
+          "ars": 71954587.1,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 51290.97,
+          "ars": 78423893.13,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 55394.25,
+          "ars": 84697808.25,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 60933.67,
+          "ars": 93167581.43,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 63980.36,
+          "ars": 97825970.44,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 67179.37,
+          "ars": 102717256.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4669": {
+      "id": "4669",
+      "marcaId": "60",
+      "modeloId": "560",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "Coupe 2,4 Gr 6MT",
+      "precios": {
+        "2023": {
+          "usd": 61604.68,
+          "ars": 94193555.72,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 64847.03,
+          "ars": 99151108.87,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 68089.38,
+          "ars": 104108662.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4670": {
+      "id": "4670",
+      "marcaId": "60",
+      "modeloId": "560",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "Coupe 2,4 Gr 6MT 2025",
+      "precios": {
+        "0": {
+          "usd": 60900,
+          "ars": 93116100,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 71781.14,
+          "ars": 109753363.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4671": {
+      "id": "4671",
+      "marcaId": "60",
+      "modeloId": "561",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "4P 2,5 L4 AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 11207.5,
+          "ars": 17136267.5,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 11514.08,
+          "ars": 17605028.32,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12079.66,
+          "ars": 18469800.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4672": {
+      "id": "4672",
+      "marcaId": "60",
+      "modeloId": "561",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "4P 3,5 V6 AT 2012",
+      "precios": {
+        "2013": {
+          "usd": 14163.2,
+          "ars": 21655532.8,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14550.63,
+          "ars": 22247913.27,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15265.36,
+          "ars": 23340735.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4673": {
+      "id": "4673",
+      "marcaId": "60",
+      "modeloId": "561",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "4P 2,5 L4 AT 2016",
+      "precios": {
+        "2015": {
+          "usd": 14572.9,
+          "ars": 22281964.1,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 15682.61,
+          "ars": 23978710.69,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 16344.56,
+          "ars": 24990832.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4674": {
+      "id": "4674",
+      "marcaId": "60",
+      "modeloId": "561",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "4P 3,5 V6 AT 2016",
+      "precios": {
+        "2015": {
+          "usd": 17492.9,
+          "ars": 26746644.1,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 18193.77,
+          "ars": 27818274.33,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18961.72,
+          "ars": 28992469.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4675": {
+      "id": "4675",
+      "marcaId": "60",
+      "modeloId": "561",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "4P 2,5 L4 6AT 2018",
+      "precios": {
+        "2017": {
+          "usd": 19658.8,
+          "ars": 30058305.2,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21426.29,
+          "ars": 32760797.41,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 23140.39,
+          "ars": 35381656.31,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 25454.43,
+          "ars": 38919823.47,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 26727.15,
+          "ars": 40865812.35,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 28063.51,
+          "ars": 42909106.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4676": {
+      "id": "4676",
+      "marcaId": "60",
+      "modeloId": "561",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "4P 3,5 V6 8AT 2018",
+      "precios": {
+        "2017": {
+          "usd": 23883.28,
+          "ars": 36517535.12,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 26030.58,
+          "ars": 39800756.82,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 28113.03,
+          "ars": 42984822.87,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 30924.33,
+          "ars": 47283300.57,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 32470.55,
+          "ars": 49647470.95,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 34094.08,
+          "ars": 52129848.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4677": {
+      "id": "4677",
+      "marcaId": "60",
+      "modeloId": "561",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "4P 2,5 Hev E CVT",
+      "precios": {
+        "2023": {
+          "usd": 40107.53,
+          "ars": 61324413.37,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 42199.98,
+          "ars": 64523769.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4678": {
+      "id": "4678",
+      "marcaId": "60",
+      "modeloId": "562",
+      "marca": "TOYOTA",
+      "modelo": "C-HR",
+      "version": "5P 1,8 Hv Hibrido Ecvt",
+      "precios": {
+        "2020": {
+          "usd": 26919.05,
+          "ars": 41159227.45,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 28265,
+          "ars": 43217185,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 29678.25,
+          "ars": 45378044.25,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 31162.17,
+          "ars": 47646957.93,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 32802.28,
+          "ars": 50154686.12,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 34442.4,
+          "ars": 52662429.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4679": {
+      "id": "4679",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xli",
+      "precios": {}
+    },
+    "4680": {
+      "id": "4680",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei",
+      "precios": {}
+    },
+    "4681": {
+      "id": "4681",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei Pack",
+      "precios": {}
+    },
+    "4682": {
+      "id": "4682",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei AT",
+      "precios": {}
+    },
+    "4683": {
+      "id": "4683",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei AT Pack",
+      "precios": {}
+    },
+    "4684": {
+      "id": "4684",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Se-G AT",
+      "precios": {}
+    },
+    "4685": {
+      "id": "4685",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xli 2011",
+      "precios": {
+        "2013": {
+          "usd": 6845.1,
+          "ars": 10466157.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4686": {
+      "id": "4686",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei 2011",
+      "precios": {
+        "2013": {
+          "usd": 8145.79,
+          "ars": 12454912.91,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4687": {
+      "id": "4687",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei Pack 2011",
+      "precios": {
+        "2013": {
+          "usd": 8683.43,
+          "ars": 13276964.47,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4688": {
+      "id": "4688",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei AT 2011",
+      "precios": {
+        "2013": {
+          "usd": 8570.9,
+          "ars": 13104906.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4689": {
+      "id": "4689",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei AT Pack 2011",
+      "precios": {
+        "2013": {
+          "usd": 9189.8,
+          "ars": 14051204.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4690": {
+      "id": "4690",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xrs 2012",
+      "precios": {
+        "2013": {
+          "usd": 9205.38,
+          "ars": 14075026.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4691": {
+      "id": "4691",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Se-G 2011",
+      "precios": {
+        "2013": {
+          "usd": 9350.72,
+          "ars": 14297250.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4692": {
+      "id": "4692",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Se-G AT 2011",
+      "precios": {
+        "2013": {
+          "usd": 9629.66,
+          "ars": 14723750.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4693": {
+      "id": "4693",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xli MT 2014",
+      "precios": {
+        "2014": {
+          "usd": 8499.79,
+          "ars": 12996178.91,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8750.62,
+          "ars": 13379697.98,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4694": {
+      "id": "4694",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xli CVT 2014",
+      "precios": {
+        "2014": {
+          "usd": 8933.45,
+          "ars": 13659245.05,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9197.08,
+          "ars": 14062335.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4695": {
+      "id": "4695",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei MT 2014",
+      "precios": {
+        "2014": {
+          "usd": 9800.78,
+          "ars": 14985392.62,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10090,
+          "ars": 15427610,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4696": {
+      "id": "4696",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei CVT 2014",
+      "precios": {
+        "2014": {
+          "usd": 10234.44,
+          "ars": 15648458.76,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10536.46,
+          "ars": 16110247.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4697": {
+      "id": "4697",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei MT Pack 2014",
+      "precios": {
+        "2014": {
+          "usd": 10490.3,
+          "ars": 16039668.7,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 10799.88,
+          "ars": 16513016.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4698": {
+      "id": "4698",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei CVT Pack 2014",
+      "precios": {
+        "2014": {
+          "usd": 10872.98,
+          "ars": 16624786.42,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11186.34,
+          "ars": 17103913.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4699": {
+      "id": "4699",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Seg MT 2014",
+      "precios": {
+        "2014": {
+          "usd": 11293.5,
+          "ars": 17267761.5,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 11626.78,
+          "ars": 17777346.62,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4700": {
+      "id": "4700",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Seg CVT 2014",
+      "precios": {
+        "2014": {
+          "usd": 11718.48,
+          "ars": 17917555.92,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12064.3,
+          "ars": 18446314.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4701": {
+      "id": "4701",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xli MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 9574.87,
+          "ars": 14639976.23,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9889.27,
+          "ars": 15120693.83,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10280.93,
+          "ars": 15719541.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4702": {
+      "id": "4702",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xli CVT 2016",
+      "precios": {
+        "2015": {
+          "usd": 9957.87,
+          "ars": 15225583.23,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 10284.85,
+          "ars": 15725535.65,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10692.17,
+          "ars": 16348327.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4703": {
+      "id": "4703",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 10804.29,
+          "ars": 16519759.41,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11159.06,
+          "ars": 17062202.74,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11601,
+          "ars": 17737929,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4704": {
+      "id": "4704",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei CVT 2016",
+      "precios": {
+        "2015": {
+          "usd": 11187.28,
+          "ars": 17105351.12,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11554.63,
+          "ars": 17667029.27,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12012.24,
+          "ars": 18366714.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4705": {
+      "id": "4705",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei MT Pack 2016",
+      "precios": {
+        "2015": {
+          "usd": 11413.25,
+          "ars": 17450859.25,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 11788.01,
+          "ars": 18023867.29,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12254.87,
+          "ars": 18737696.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4706": {
+      "id": "4706",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei CVT Pack 2016",
+      "precios": {
+        "2015": {
+          "usd": 11796.24,
+          "ars": 18036450.96,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12183.59,
+          "ars": 18628709.11,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12666.1,
+          "ars": 19366466.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4707": {
+      "id": "4707",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Seg MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 11784.75,
+          "ars": 18018882.75,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12171.72,
+          "ars": 18610559.88,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 12653.77,
+          "ars": 19347614.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4708": {
+      "id": "4708",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Seg CVT 2016",
+      "precios": {
+        "2015": {
+          "usd": 12263.5,
+          "ars": 18750891.5,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 12666.18,
+          "ars": 19366589.22,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13167.81,
+          "ars": 20133581.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4709": {
+      "id": "4709",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xli MT 2017",
+      "precios": {
+        "2017": {
+          "usd": 11150.51,
+          "ars": 17049129.79,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11932.07,
+          "ars": 18244135.03,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12886.64,
+          "ars": 19703672.56,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4710": {
+      "id": "4710",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xli CVT 2017",
+      "precios": {
+        "2017": {
+          "usd": 11633.14,
+          "ars": 17787071.06,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 12448.53,
+          "ars": 19033802.37,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 13444.41,
+          "ars": 20556502.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4711": {
+      "id": "4711",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei MT 2017",
+      "precios": {
+        "2017": {
+          "usd": 12757.17,
+          "ars": 19505712.93,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13651.35,
+          "ars": 20872914.15,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14743.45,
+          "ars": 22542735.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4712": {
+      "id": "4712",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei CVT 2017",
+      "precios": {
+        "2017": {
+          "usd": 13239.8,
+          "ars": 20243654.2,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14167.8,
+          "ars": 21662566.2,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15301.22,
+          "ars": 23395565.38,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4713": {
+      "id": "4713",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei MT Pack 2017",
+      "precios": {
+        "2017": {
+          "usd": 13133.56,
+          "ars": 20081213.24,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14054.11,
+          "ars": 21488734.19,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15178.44,
+          "ars": 23207834.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4714": {
+      "id": "4714",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Xei CVT Pack 2017",
+      "precios": {
+        "2017": {
+          "usd": 13711.14,
+          "ars": 20964333.06,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 14672.18,
+          "ars": 22433763.22,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 15845.95,
+          "ars": 24228457.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4715": {
+      "id": "4715",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Seg MT 2017",
+      "precios": {
+        "2017": {
+          "usd": 14258.95,
+          "ars": 21801934.55,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15258.39,
+          "ars": 23330078.31,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 16479.06,
+          "ars": 25196482.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4716": {
+      "id": "4716",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 1,8 Seg CVT 2017",
+      "precios": {
+        "2017": {
+          "usd": 14836.53,
+          "ars": 22685054.37,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15876.45,
+          "ars": 24275092.05,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17146.57,
+          "ars": 26217105.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4717": {
+      "id": "4717",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Xli MT 2020",
+      "precios": {
+        "2020": {
+          "usd": 13651.99,
+          "ars": 20873892.71,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 14334.59,
+          "ars": 21917588.11,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 15051.32,
+          "ars": 23013468.28,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15967.94,
+          "ars": 24414980.26,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4718": {
+      "id": "4718",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Xli CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 14366.68,
+          "ars": 21966653.72,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 15085.02,
+          "ars": 23064995.58,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 15839.27,
+          "ars": 24218243.83,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 16803.88,
+          "ars": 25693132.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4719": {
+      "id": "4719",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Xei MT 2020",
+      "precios": {
+        "2020": {
+          "usd": 15281.15,
+          "ars": 23364878.35,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16045.21,
+          "ars": 24533126.09,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16847.47,
+          "ars": 25759781.63,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17873.48,
+          "ars": 27328550.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4720": {
+      "id": "4720",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Xei CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 15996.62,
+          "ars": 24458831.98,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16796.45,
+          "ars": 25681772.05,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17636.27,
+          "ars": 26965856.83,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18710.32,
+          "ars": 28608079.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4721": {
+      "id": "4721",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Seg CVT 2020",
+      "precios": {
+        "2019": {
+          "usd": 18247.33,
+          "ars": 27900167.57,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 19207.71,
+          "ars": 29368588.59,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20168.1,
+          "ars": 30837024.9,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 21176.51,
+          "ars": 32378883.79,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 22466.15,
+          "ars": 34350743.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4722": {
+      "id": "4722",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Gr-S 10cvt",
+      "precios": {
+        "2021": {
+          "usd": 18895.15,
+          "ars": 28890684.35,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19839.9,
+          "ars": 30335207.1,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21048.15,
+          "ars": 32182621.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4723": {
+      "id": "4723",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P Hv 1,8 Xei CVT 2020",
+      "precios": {
+        "2020": {
+          "usd": 16979.89,
+          "ars": 25962251.81,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 17828.89,
+          "ars": 27260372.81,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 18720.33,
+          "ars": 28623384.57,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 19860.4,
+          "ars": 30366551.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4724": {
+      "id": "4724",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P Hv 1,8 Seg CVT 2020",
+      "precios": {
+        "2019": {
+          "usd": 19043.21,
+          "ars": 29117068.09,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20045.48,
+          "ars": 30649538.92,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 21047.75,
+          "ars": 32182009.75,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 22100.14,
+          "ars": 33791114.06,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23446.04,
+          "ars": 35848995.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4725": {
+      "id": "4725",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Xli CVT 2024",
+      "precios": {
+        "2023": {
+          "usd": 17292.42,
+          "ars": 26440110.18,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 17827.24,
+          "ars": 27257849.96,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 18718.6,
+          "ars": 28620739.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4726": {
+      "id": "4726",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Xei CVT 2024",
+      "precios": {
+        "2023": {
+          "usd": 19254.29,
+          "ars": 29439809.41,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 19849.78,
+          "ars": 30350313.62,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20842.27,
+          "ars": 31867830.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4727": {
+      "id": "4727",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Seg CVT 2024",
+      "precios": {
+        "2023": {
+          "usd": 23119.31,
+          "ars": 35349424.99,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23834.34,
+          "ars": 36442705.86,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 25026.06,
+          "ars": 38264845.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4728": {
+      "id": "4728",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Gr-S 10cvt 2024",
+      "precios": {
+        "2023": {
+          "usd": 21660.09,
+          "ars": 33118277.61,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 22329.99,
+          "ars": 34142554.71,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23446.48,
+          "ars": 35849667.92,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4729": {
+      "id": "4729",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P Hev 1,8 Xei Ecvt 2024",
+      "precios": {
+        "2023": {
+          "usd": 20437.8,
+          "ars": 31249396.2,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 21069.9,
+          "ars": 32215877.1,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 22123.39,
+          "ars": 33826663.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4730": {
+      "id": "4730",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P Hev 1,8 Seg Ecvt 2024",
+      "precios": {
+        "2023": {
+          "usd": 23305.09,
+          "ars": 35633482.61,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24025.86,
+          "ars": 36735539.94,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 25227.15,
+          "ars": 38572312.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4731": {
+      "id": "4731",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Xli CVT Safety 2025",
+      "precios": {
+        "0": {
+          "usd": 28717.92,
+          "ars": 43909699.68,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 19654.53,
+          "ars": 30051776.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4732": {
+      "id": "4732",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Xei CVT Safety  2025",
+      "precios": {
+        "0": {
+          "usd": 31537.46,
+          "ars": 48220776.34,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21884.38,
+          "ars": 33461217.02,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4733": {
+      "id": "4733",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Seg CVT Safety 2025",
+      "precios": {
+        "0": {
+          "usd": 35434.53,
+          "ars": 54179396.37,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 26277.36,
+          "ars": 40178083.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4734": {
+      "id": "4734",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P 2,0 Gr-S 10cvt Safety 2025",
+      "precios": {
+        "0": {
+          "usd": 36116.61,
+          "ars": 55222296.69,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24618.81,
+          "ars": 37642160.49,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4735": {
+      "id": "4735",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P Hev 1,8 Xei Ecvt Safety 2025",
+      "precios": {
+        "0": {
+          "usd": 33071.01,
+          "ars": 50565574.29,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23229.56,
+          "ars": 35517997.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4736": {
+      "id": "4736",
+      "marcaId": "60",
+      "modeloId": "563",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "4P Hev 1,8 Seg Ecvt Safety 2025",
+      "precios": {
+        "0": {
+          "usd": 36599.35,
+          "ars": 55960406.15,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 26488.51,
+          "ars": 40500931.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4737": {
+      "id": "4737",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Xli CVT",
+      "precios": {
+        "2021": {
+          "usd": 16878.64,
+          "ars": 25807440.56,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17722.57,
+          "ars": 27097809.53,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18608.7,
+          "ars": 28452702.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4738": {
+      "id": "4738",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Xei CVT",
+      "precios": {
+        "2021": {
+          "usd": 20845.26,
+          "ars": 31872402.54,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 21887.53,
+          "ars": 33466033.37,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 22981.9,
+          "ars": 35139325.1,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4739": {
+      "id": "4739",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Seg CVT",
+      "precios": {
+        "2021": {
+          "usd": 22444.93,
+          "ars": 34318297.97,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 23567.17,
+          "ars": 36034202.93,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 24745.53,
+          "ars": 37835915.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4740": {
+      "id": "4740",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P Hev 1,8 Xei Ecvt",
+      "precios": {
+        "2021": {
+          "usd": 18915.11,
+          "ars": 28921203.19,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19860.87,
+          "ars": 30367270.23,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 20853.91,
+          "ars": 31885628.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4741": {
+      "id": "4741",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P Hev 1,8 Seg Ecvt",
+      "precios": {
+        "2021": {
+          "usd": 21729.39,
+          "ars": 33224237.31,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 22815.85,
+          "ars": 34885434.65,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 23956.65,
+          "ars": 36629717.85,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4742": {
+      "id": "4742",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Gr-Sport CVT",
+      "precios": {
+        "2022": {
+          "usd": 24697.57,
+          "ars": 37762584.53,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 25932.45,
+          "ars": 39650716.05,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4743": {
+      "id": "4743",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Xli CVT 2024",
+      "precios": {
+        "2023": {
+          "usd": 19539.13,
+          "ars": 29875329.77,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20143.44,
+          "ars": 30799319.76,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21150.61,
+          "ars": 32339282.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4744": {
+      "id": "4744",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Xei CVT 2024",
+      "precios": {
+        "2023": {
+          "usd": 24131,
+          "ars": 36896299,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24877.32,
+          "ars": 38037422.28,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 26121.18,
+          "ars": 39939284.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4745": {
+      "id": "4745",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Seg CVT 2024",
+      "precios": {
+        "2023": {
+          "usd": 25982.81,
+          "ars": 39727716.49,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 26786.4,
+          "ars": 40956405.6,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 28125.72,
+          "ars": 43004225.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4746": {
+      "id": "4746",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P Hev 1,8 Xei Ecvt 2024",
+      "precios": {
+        "2023": {
+          "usd": 21896.61,
+          "ars": 33479916.69,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 22573.82,
+          "ars": 34515370.78,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 23702.51,
+          "ars": 36241137.79,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4747": {
+      "id": "4747",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P Hev 1,8 Seg Ecvt 2024",
+      "precios": {
+        "2023": {
+          "usd": 25154.48,
+          "ars": 38461199.92,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 25932.45,
+          "ars": 39650716.05,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 27229.08,
+          "ars": 41633263.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4748": {
+      "id": "4748",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Gr-Sport CVT 2024",
+      "precios": {
+        "2023": {
+          "usd": 27229.08,
+          "ars": 41633263.32,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28071.21,
+          "ars": 42920880.09,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29474.77,
+          "ars": 45066923.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4749": {
+      "id": "4749",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Xli CVT 2027",
+      "precios": {
+        "0": {
+          "usd": 33822.8,
+          "ars": 51715061.2,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 22251.05,
+          "ars": 34021855.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4750": {
+      "id": "4750",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Xei CVT 2027",
+      "precios": {
+        "0": {
+          "usd": 36653.42,
+          "ars": 56043079.18,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 27480.23,
+          "ars": 42017271.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4751": {
+      "id": "4751",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Seg CVT 2027",
+      "precios": {
+        "0": {
+          "usd": 40216.29,
+          "ars": 61490707.41,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29589.06,
+          "ars": 45241672.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4752": {
+      "id": "4752",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P Hev 1,8 Xei Ecvt 2027",
+      "precios": {
+        "0": {
+          "usd": 37364.82,
+          "ars": 57130809.78,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24935.72,
+          "ars": 38126715.88,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4753": {
+      "id": "4753",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P Hev 1,8 Seg Ecvt 2027",
+      "precios": {
+        "0": {
+          "usd": 41487.95,
+          "ars": 63435075.55,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 28645.77,
+          "ars": 43799382.33,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4754": {
+      "id": "4754",
+      "marcaId": "60",
+      "modeloId": "564",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "5P 2,0 Gr-Sport CVT 2027",
+      "precios": {
+        "0": {
+          "usd": 41747.88,
+          "ars": 63832508.52,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 31008.31,
+          "ars": 47411705.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4755": {
+      "id": "4755",
+      "marcaId": "60",
+      "modeloId": "565",
+      "marca": "TOYOTA",
+      "modelo": "CROWN",
+      "version": "4P 2,4 T Hev E-Awd Platinum",
+      "precios": {
+        "0": {
+          "usd": 93000,
+          "ars": 142197000,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 79711.88,
+          "ars": 121879464.52,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 83907.24,
+          "ars": 128294169.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4756": {
+      "id": "4756",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 X",
+      "precios": {
+        "2013": {
+          "usd": 7046.81,
+          "ars": 10774572.49,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7331.87,
+          "ars": 11210429.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4757": {
+      "id": "4757",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xs",
+      "precios": {
+        "2013": {
+          "usd": 7366.43,
+          "ars": 11263271.47,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7664.42,
+          "ars": 11718898.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4758": {
+      "id": "4758",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls",
+      "precios": {
+        "2013": {
+          "usd": 7960,
+          "ars": 12170840,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8282.01,
+          "ars": 12663193.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4759": {
+      "id": "4759",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 X 2014",
+      "precios": {
+        "2014": {
+          "usd": 7479.67,
+          "ars": 11436415.43,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7563.41,
+          "ars": 11564453.89,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 7812.18,
+          "ars": 11944823.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4760": {
+      "id": "4760",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xs 2014",
+      "precios": {
+        "2014": {
+          "usd": 8089.58,
+          "ars": 12368967.82,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8180.15,
+          "ars": 12507449.35,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8449.2,
+          "ars": 12918826.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4761": {
+      "id": "4761",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls 2014",
+      "precios": {
+        "2014": {
+          "usd": 8588.59,
+          "ars": 13131954.11,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8684.75,
+          "ars": 13278982.75,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8970.4,
+          "ars": 13715741.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4762": {
+      "id": "4762",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Platinum",
+      "precios": {
+        "2015": {
+          "usd": 9147.44,
+          "ars": 13986435.76,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9448.32,
+          "ars": 14446481.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4763": {
+      "id": "4763",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 X 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 8187.99,
+          "ars": 12519436.71,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 8763.13,
+          "ars": 13398825.77,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 8949.5,
+          "ars": 13683785.5,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4764": {
+      "id": "4764",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xs 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 8537.85,
+          "ars": 13054372.65,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9137.55,
+          "ars": 13971313.95,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9331.89,
+          "ars": 14268459.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4765": {
+      "id": "4765",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 9184.55,
+          "ars": 14043176.95,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9829.68,
+          "ars": 15029580.72,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10038.74,
+          "ars": 15349233.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4766": {
+      "id": "4766",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls 4at 2017",
+      "precios": {
+        "2016": {
+          "usd": 9704.7,
+          "ars": 14838486.3,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10386.37,
+          "ars": 15880759.73,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10607.26,
+          "ars": 16218500.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4767": {
+      "id": "4767",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Platinum 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 9933.73,
+          "ars": 15188673.17,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10631.48,
+          "ars": 16255532.92,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10857.59,
+          "ars": 16601255.11,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4768": {
+      "id": "4768",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Platinum 4at 2017",
+      "precios": {
+        "2016": {
+          "usd": 10461.37,
+          "ars": 15995434.73,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11196.19,
+          "ars": 17118974.51,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11434.31,
+          "ars": 17483059.99,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4769": {
+      "id": "4769",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 X 6MT 2018",
+      "precios": {
+        "2018": {
+          "usd": 9115.07,
+          "ars": 13936942.03,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 9661.87,
+          "ars": 14772999.23,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 9774.42,
+          "ars": 14945088.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4770": {
+      "id": "4770",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls 6MT 2018",
+      "precios": {
+        "2018": {
+          "usd": 10224.45,
+          "ars": 15633184.05,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10837.81,
+          "ars": 16571011.49,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10964.05,
+          "ars": 16764032.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4771": {
+      "id": "4771",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls 4at 2018",
+      "precios": {
+        "2018": {
+          "usd": 10803.5,
+          "ars": 16518551.5,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11451.59,
+          "ars": 17509481.11,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11584.98,
+          "ars": 17713434.42,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4772": {
+      "id": "4772",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Platinum 4at 2018",
+      "precios": {
+        "2018": {
+          "usd": 11645.84,
+          "ars": 17806489.36,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12344.47,
+          "ars": 18874694.63,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12488.26,
+          "ars": 19094549.54,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4773": {
+      "id": "4773",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 X 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 10372.28,
+          "ars": 15859216.12,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 10785.15,
+          "ars": 16490494.35,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 11213.39,
+          "ars": 17145273.31,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 11990.55,
+          "ars": 18333550.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4774": {
+      "id": "4774",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 12176.46,
+          "ars": 18617807.34,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 12661.16,
+          "ars": 19358913.64,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13163.88,
+          "ars": 20127572.52,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14076.23,
+          "ars": 21522555.67,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4775": {
+      "id": "4775",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls Pack 6MT 2022",
+      "precios": {
+        "2022": {
+          "usd": 13822.07,
+          "ars": 21133945.03,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14780.04,
+          "ars": 22598681.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4776": {
+      "id": "4776",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls 4at 2021",
+      "precios": {
+        "2020": {
+          "usd": 12745.83,
+          "ars": 19488374.07,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13253.19,
+          "ars": 20264127.51,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13779.42,
+          "ars": 21068733.18,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14734.42,
+          "ars": 22528928.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4777": {
+      "id": "4777",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Xls Pack 4at 2022",
+      "precios": {
+        "2022": {
+          "usd": 14468.39,
+          "ars": 22122168.31,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15471.15,
+          "ars": 23655388.35,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4778": {
+      "id": "4778",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "5P 1,5 Aibo 6MT 2022",
+      "precios": {
+        "2022": {
+          "usd": 10157.16,
+          "ars": 15530297.64,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 10861.12,
+          "ars": 16606652.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4801": {
+      "id": "4801",
+      "marcaId": "60",
+      "modeloId": "568",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS CROSS",
+      "version": "5P 1,5 Xls",
+      "precios": {
+        "2013": {
+          "usd": 8712.95,
+          "ars": 13322100.55,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8873.55,
+          "ars": 13567657.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4802": {
+      "id": "4802",
+      "marcaId": "60",
+      "modeloId": "568",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS CROSS",
+      "version": "5P 1,5 Xls 2014",
+      "precios": {
+        "2014": {
+          "usd": 9209.31,
+          "ars": 14081034.99,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9238.5,
+          "ars": 14125666.5,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9542.37,
+          "ars": 14590283.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4803": {
+      "id": "4803",
+      "marcaId": "60",
+      "modeloId": "568",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS CROSS",
+      "version": "5P 1,5 Xls 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 10168.87,
+          "ars": 15548202.23,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10883.14,
+          "ars": 16640321.06,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11114.6,
+          "ars": 16994223.4,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4804": {
+      "id": "4804",
+      "marcaId": "60",
+      "modeloId": "568",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS CROSS",
+      "version": "5P 1,5 Xls 4amt 2017",
+      "precios": {
+        "2016": {
+          "usd": 10705.29,
+          "ars": 16368388.41,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11457.24,
+          "ars": 17518119.96,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11700.91,
+          "ars": 17890691.39,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4805": {
+      "id": "4805",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Furgon 2,8 Diesel L1h1 Tb 6AT 3a 4P",
+      "precios": {
+        "2019": {
+          "usd": 29443.28,
+          "ars": 45018775.12,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 30992.92,
+          "ars": 47388174.68,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 32542.57,
+          "ars": 49757589.53,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 34169.7,
+          "ars": 52245471.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4806": {
+      "id": "4806",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Furgon 2,8 Diesel L2h2 Ta 6AT 3a 5P",
+      "precios": {
+        "2019": {
+          "usd": 31826.78,
+          "ars": 48663146.62,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 33501.88,
+          "ars": 51224374.52,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 35176.97,
+          "ars": 53785587.13,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 36935.82,
+          "ars": 56474868.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4807": {
+      "id": "4807",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Furgon 2,8 Diesel L1h1 Tb 6AT 3a 4P 2021",
+      "precios": {
+        "2021": {
+          "usd": 37800.32,
+          "ars": 57796689.28,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 39690.34,
+          "ars": 60686529.86,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 42865.57,
+          "ars": 65541456.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4808": {
+      "id": "4808",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Furgon 2,8 Diesel L2h2 Ta 6AT 3a 5P 2021",
+      "precios": {
+        "2021": {
+          "usd": 40492.5,
+          "ars": 61913032.5,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 42517.12,
+          "ars": 65008676.48,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 45918.49,
+          "ars": 70209371.21,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4809": {
+      "id": "4809",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Commuter 2,8 Diesel 6AT 14a",
+      "precios": {
+        "2021": {
+          "usd": 45165.89,
+          "ars": 69058645.81,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 47424.19,
+          "ars": 72511586.51,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 51218.12,
+          "ars": 78312505.48,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4810": {
+      "id": "4810",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Wagon 2,8 Diesel 6AT 10a",
+      "precios": {
+        "2021": {
+          "usd": 57063.11,
+          "ars": 87249495.19,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 59916.26,
+          "ars": 91611961.54,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 64709.56,
+          "ars": 98940917.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4811": {
+      "id": "4811",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Furgon 2,8 Diesel L1h1 Tb 6AT 3a 4P 2024",
+      "precios": {
+        "0": {
+          "usd": 43100,
+          "ars": 65899900,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 43892.61,
+          "ars": 67111800.69,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 46087.24,
+          "ars": 70467389.96,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4812": {
+      "id": "4812",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Wagon 2,8 Diesel 6AT 10a 2024",
+      "precios": {
+        "0": {
+          "usd": 108761.4,
+          "ars": 166296180.6,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 71301.33,
+          "ars": 109019733.57,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 74866.39,
+          "ars": 114470710.31,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4813": {
+      "id": "4813",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Furgon 2,8 Diesel L2h2 6AT 3a 5P 2024",
+      "precios": {
+        "0": {
+          "usd": 69278,
+          "ars": 105926062,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 48639.59,
+          "ars": 74369933.11,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 51071.57,
+          "ars": 78088430.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4814": {
+      "id": "4814",
+      "marcaId": "60",
+      "modeloId": "569",
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "version": "Commuter 2,8 Diesel 6AT 14a 2024",
+      "precios": {
+        "0": {
+          "usd": 83633,
+          "ars": 127874857,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 58803.53,
+          "ars": 89910597.37,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 61743.71,
+          "ars": 94406132.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4815": {
+      "id": "4815",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,5 Diesel 4X2 Dx 2011",
+      "precios": {}
+    },
+    "4816": {
+      "id": "4816",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,5 Diesel 4X2 Dx Pack 2012",
+      "precios": {
+        "2013": {
+          "usd": 12018.97,
+          "ars": 18377005.13,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 12150.35,
+          "ars": 18577885.15,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 12250.53,
+          "ars": 18731060.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4817": {
+      "id": "4817",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,5 Diesel 4X4 Dx 2011",
+      "precios": {}
+    },
+    "4818": {
+      "id": "4818",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,5 Diesel 4X4 Dx Pack 2012",
+      "precios": {
+        "2013": {
+          "usd": 14126.63,
+          "ars": 21599617.27,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14706.17,
+          "ars": 22485733.93,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14876.85,
+          "ars": 22746703.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4819": {
+      "id": "4819",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,5 Diesel 4X2 Dx Pack 2011",
+      "precios": {
+        "2013": {
+          "usd": 14083.62,
+          "ars": 21533854.98,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 14661.39,
+          "ars": 22417265.31,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14831.55,
+          "ars": 22677439.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4823": {
+      "id": "4823",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,5 Diesel 4X4 Dx Pack 2011",
+      "precios": {
+        "2013": {
+          "usd": 16779.47,
+          "ars": 25655809.63,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 17467.83,
+          "ars": 26708312.07,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 17670.56,
+          "ars": 27018286.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4831": {
+      "id": "4831",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,7 N Wti 4X2 Srv",
+      "precios": {
+        "2013": {
+          "usd": 15189.4,
+          "ars": 23224592.6,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15812.53,
+          "ars": 24177358.37,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15996.05,
+          "ars": 24457960.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4832": {
+      "id": "4832",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,7 N Wti 4X2 Srv CRO",
+      "precios": {
+        "2013": {
+          "usd": 15817.37,
+          "ars": 24184758.73,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 16466.26,
+          "ars": 25176911.54,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16657.37,
+          "ars": 25469118.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4833": {
+      "id": "4833",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,7 N Wti 4X4 Srv",
+      "precios": {
+        "2013": {
+          "usd": 18497.12,
+          "ars": 28282096.48,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 19255.95,
+          "ars": 29442347.55,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 19479.44,
+          "ars": 29784063.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4834": {
+      "id": "4834",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,7 N Wti 4X4 Srv CRO",
+      "precios": {
+        "2013": {
+          "usd": 19131.31,
+          "ars": 29251772.99,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 19916.15,
+          "ars": 30451793.35,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 20147.3,
+          "ars": 30805221.7,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4835": {
+      "id": "4835",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X2 Dx 6MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 13396.92,
+          "ars": 20483890.68,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 13437.97,
+          "ars": 20546656.13,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 13595.96,
+          "ars": 20788222.84,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 13760.16,
+          "ars": 21039284.64,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4836": {
+      "id": "4836",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Std 6MT 2016",
+      "precios": {
+        "2016": {
+          "usd": 15520.28,
+          "ars": 23730508.12,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 15702.76,
+          "ars": 24009520.04,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 15892.4,
+          "ars": 24299479.6,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4837": {
+      "id": "4837",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Dx 6MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 16644.14,
+          "ars": 25448890.06,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16695.13,
+          "ars": 25526853.77,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 16891.42,
+          "ars": 25826981.18,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 17095.42,
+          "ars": 26138897.18,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4838": {
+      "id": "4838",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 18226.67,
+          "ars": 27868578.43,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 18282.5,
+          "ars": 27953942.5,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 18497.46,
+          "ars": 28282616.34,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 18720.85,
+          "ars": 28624179.65,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4839": {
+      "id": "4839",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 20229.22,
+          "ars": 30930477.38,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 20291.2,
+          "ars": 31025244.8,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 20529.77,
+          "ars": 31390018.33,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 20777.71,
+          "ars": 31769118.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4840": {
+      "id": "4840",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6AT 2017",
+      "precios": {
+        "2017": {
+          "usd": 21416.15,
+          "ars": 32745293.35,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21674.8,
+          "ars": 33140769.2,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4841": {
+      "id": "4841",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv Pack 6MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 21209.29,
+          "ars": 32429004.41,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 21274.26,
+          "ars": 32528343.54,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 21524.4,
+          "ars": 32910807.6,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 21784.34,
+          "ars": 33308255.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4844": {
+      "id": "4844",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X4 Dx 6MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 15988.83,
+          "ars": 24446921.07,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16037.81,
+          "ars": 24521811.49,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 16226.38,
+          "ars": 24810135.02,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 16422.34,
+          "ars": 25109757.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4845": {
+      "id": "4845",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X4 Dx 6MT 2016",
+      "precios": {
+        "2015": {
+          "usd": 19359.47,
+          "ars": 29600629.63,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 19418.78,
+          "ars": 29691314.62,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 19647.09,
+          "ars": 30040400.61,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 19884.37,
+          "ars": 30403201.73,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4853": {
+      "id": "4853",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X2 Dx 6MT 2019",
+      "precios": {
+        "2018": {
+          "usd": 14167.17,
+          "ars": 21661602.93,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 14452.97,
+          "ars": 22098591.13,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4854": {
+      "id": "4854",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Dx 6MT 2019",
+      "precios": {
+        "2018": {
+          "usd": 17961.08,
+          "ars": 27462491.32,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 18238.87,
+          "ars": 27887232.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4855": {
+      "id": "4855",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6MT 2019",
+      "precios": {
+        "2018": {
+          "usd": 19661.53,
+          "ars": 30062479.37,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 20058.17,
+          "ars": 30668941.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4856": {
+      "id": "4856",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6MT 2019",
+      "precios": {
+        "2018": {
+          "usd": 21813.68,
+          "ars": 33353116.72,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 22253.73,
+          "ars": 34025953.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4857": {
+      "id": "4857",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6AT 2019",
+      "precios": {
+        "2018": {
+          "usd": 22770.18,
+          "ars": 34815605.22,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 23229.53,
+          "ars": 35517951.37,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4860": {
+      "id": "4860",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X4 Dx 6MT 2019",
+      "precios": {
+        "2018": {
+          "usd": 17246.11,
+          "ars": 26369302.19,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 17594.02,
+          "ars": 26901256.58,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4861": {
+      "id": "4861",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X4 Dx 6MT 2019",
+      "precios": {
+        "2018": {
+          "usd": 20883.74,
+          "ars": 31931238.46,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 21305.03,
+          "ars": 32575390.87,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4869": {
+      "id": "4869",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X2 Dx 6MT 2020",
+      "precios": {
+        "2019": {
+          "usd": 14615.81,
+          "ars": 22347573.49,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 14929.61,
+          "ars": 22827373.69,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4870": {
+      "id": "4870",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Dx 6MT 2020",
+      "precios": {
+        "2019": {
+          "usd": 17530.75,
+          "ars": 26804516.75,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17907.13,
+          "ars": 27380001.77,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4871": {
+      "id": "4871",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6MT 2020",
+      "precios": {
+        "2019": {
+          "usd": 20110.24,
+          "ars": 30748556.96,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20542.01,
+          "ars": 31408733.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4872": {
+      "id": "4872",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6MT 2020",
+      "precios": {
+        "2019": {
+          "usd": 22652.42,
+          "ars": 34635550.18,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 23138.76,
+          "ars": 35379164.04,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4873": {
+      "id": "4873",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6AT 2020",
+      "precios": {
+        "2019": {
+          "usd": 23784.92,
+          "ars": 36367142.68,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 24295.58,
+          "ars": 37147941.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4876": {
+      "id": "4876",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X4 Dx 6MT 2020",
+      "precios": {
+        "2019": {
+          "usd": 17476.81,
+          "ars": 26722042.49,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 17852.04,
+          "ars": 27295769.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4877": {
+      "id": "4877",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X4 Dx 6MT 2020",
+      "precios": {
+        "2019": {
+          "usd": 20527.98,
+          "ars": 31387281.42,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 20968.71,
+          "ars": 32061157.59,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4886": {
+      "id": "4886",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/c 2,4 Diesel 4X2 Dx 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 15260.02,
+          "ars": 23332570.58,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16023.02,
+          "ars": 24499197.58,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 16663.94,
+          "ars": 25479164.26,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 17497.14,
+          "ars": 26753127.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4887": {
+      "id": "4887",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X2 Dx 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 16089.05,
+          "ars": 24600157.45,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 16893.5,
+          "ars": 25830161.5,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 17569.24,
+          "ars": 26863367.96,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 18447.7,
+          "ars": 28206533.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4888": {
+      "id": "4888",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Dx 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 18762.78,
+          "ars": 28688290.62,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19700.92,
+          "ars": 30122706.68,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20488.96,
+          "ars": 31327619.84,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21513.41,
+          "ars": 32894003.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4889": {
+      "id": "4889",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 21503.83,
+          "ars": 32879356.07,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 22579.02,
+          "ars": 34523321.58,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 23482.18,
+          "ars": 35904253.22,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 24656.29,
+          "ars": 37699467.41,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4890": {
+      "id": "4890",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6AT 2022",
+      "precios": {
+        "2022": {
+          "usd": 24283.8,
+          "ars": 37129930.2,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 25497.99,
+          "ars": 38986426.71,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4891": {
+      "id": "4891",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 25093.9,
+          "ars": 38368573.1,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 26348.6,
+          "ars": 40287009.4,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 27402.54,
+          "ars": 41898483.66,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 28772.67,
+          "ars": 43993412.43,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4892": {
+      "id": "4892",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6AT 2021",
+      "precios": {
+        "2020": {
+          "usd": 26362.77,
+          "ars": 40308675.33,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 27680.91,
+          "ars": 42324111.39,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 28788.15,
+          "ars": 44017081.35,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 30227.55,
+          "ars": 46217923.95,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4895": {
+      "id": "4895",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/c 2,4 Diesel 4X4 Dx 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 18260.13,
+          "ars": 27919738.77,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 19173.14,
+          "ars": 29315731.06,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 19940.06,
+          "ars": 30488351.74,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 20937.06,
+          "ars": 32012764.74,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4896": {
+      "id": "4896",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X4 Dx 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 19089.16,
+          "ars": 29187325.64,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 20043.61,
+          "ars": 30646679.69,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 20845.36,
+          "ars": 31872555.44,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 21887.63,
+          "ars": 33466186.27,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4897": {
+      "id": "4897",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X4 Dx 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 21905.75,
+          "ars": 33493891.75,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 23001.04,
+          "ars": 35168590.16,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 23921.08,
+          "ars": 36575331.32,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 25117.14,
+          "ars": 38404107.06,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4907": {
+      "id": "4907",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/c 2,4 Diesel 4X2 Dx 6MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 18372,
+          "ars": 28090788,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 19338.95,
+          "ars": 29569254.55,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20305.89,
+          "ars": 31047705.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4908": {
+      "id": "4908",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X2 Dx 6MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 19370.09,
+          "ars": 29616867.61,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 20389.57,
+          "ars": 31175652.53,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 21409.04,
+          "ars": 32734422.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4909": {
+      "id": "4909",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Dx 6MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 22589.08,
+          "ars": 34538703.32,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23777.98,
+          "ars": 36356531.42,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24966.88,
+          "ars": 38174359.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4910": {
+      "id": "4910",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 25889.1,
+          "ars": 39584433.9,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 27251.69,
+          "ars": 41667834.01,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 28614.27,
+          "ars": 43751218.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4911": {
+      "id": "4911",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6AT 2024",
+      "precios": {
+        "2023": {
+          "usd": 26772.89,
+          "ars": 40935748.81,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28181.98,
+          "ars": 43090247.42,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29591.08,
+          "ars": 45244761.32,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4912": {
+      "id": "4912",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6AT 2024",
+      "precios": {
+        "2023": {
+          "usd": 31738.93,
+          "ars": 48528823.97,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 33409.4,
+          "ars": 51082972.6,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 35079.87,
+          "ars": 53637121.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4914": {
+      "id": "4914",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/c 2,4 Diesel 4X4 Dx 6MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 21983.92,
+          "ars": 33613413.68,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23140.97,
+          "ars": 35382543.13,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 24298.01,
+          "ars": 37151657.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4915": {
+      "id": "4915",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X4 Dx 6MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 22982.01,
+          "ars": 35139493.29,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24191.59,
+          "ars": 36988941.11,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 25401.17,
+          "ars": 38838388.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4916": {
+      "id": "4916",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X4 Dx 6MT 2024",
+      "precios": {
+        "2023": {
+          "usd": 26372.99,
+          "ars": 40324301.71,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 27761.05,
+          "ars": 42446645.45,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29149.1,
+          "ars": 44568973.9,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4923": {
+      "id": "4923",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/c 2,4 Diesel 4X2 Dx 6MT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 28304.74,
+          "ars": 43277947.46,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 19919.11,
+          "ars": 30456319.19,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 20915.07,
+          "ars": 31979142.03,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4924": {
+      "id": "4924",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X2 Dx 6MT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 28515.31,
+          "ars": 43599908.99,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 21001.25,
+          "ars": 32110911.25,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 22051.32,
+          "ars": 33716468.28,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4925": {
+      "id": "4925",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Dx 6MT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 32133.55,
+          "ars": 49132197.95,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24491.32,
+          "ars": 37447228.28,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 25715.88,
+          "ars": 39319580.52,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4926": {
+      "id": "4926",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Dx 6AT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 33031.92,
+          "ars": 50505805.68,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 25231.47,
+          "ars": 38578917.63,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 26493.04,
+          "ars": 40507858.16,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4927": {
+      "id": "4927",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6MT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 39443.51,
+          "ars": 60309126.79,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28069.24,
+          "ars": 42917867.96,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 29472.7,
+          "ars": 45063758.3,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4928": {
+      "id": "4928",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X2 Sr 6AT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 38517.92,
+          "ars": 58893899.68,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 29027.44,
+          "ars": 44382955.76,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30478.82,
+          "ars": 46602115.78,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4929": {
+      "id": "4929",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,8 Diesel 4X2 Srv 6AT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 43977.85,
+          "ars": 67242132.65,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 34411.68,
+          "ars": 52615458.72,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 36132.27,
+          "ars": 55246240.83,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4931": {
+      "id": "4931",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/c 2,4 Diesel 4X4 Dx 6MT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 32525.73,
+          "ars": 49731841.17,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 23835.19,
+          "ars": 36444005.51,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 25026.95,
+          "ars": 38266206.55,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4932": {
+      "id": "4932",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "C/S 2,4 Diesel 4X4 Dx 6MT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 34278.83,
+          "ars": 52412331.07,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 24917.33,
+          "ars": 38098597.57,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 26163.2,
+          "ars": 40003532.8,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4933": {
+      "id": "4933",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X4 Dx 6MT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 37634.53,
+          "ars": 57543196.37,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 28593.88,
+          "ars": 43720042.52,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30023.57,
+          "ars": 45906038.53,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4934": {
+      "id": "4934",
+      "marcaId": "60",
+      "modeloId": "570",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP",
+      "version": "D/C 2,4 Diesel 4X4 Dx 6AT Har 2025",
+      "precios": {
+        "0": {
+          "usd": 38685.99,
+          "ars": 59150878.71,
+          "cotizacion": 1529
+        },
+        "2024": {
+          "usd": 29333.5,
+          "ars": 44850921.5,
+          "cotizacion": 1529
+        },
+        "2025": {
+          "usd": 30800.17,
+          "ars": 47093459.93,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4942": {
+      "id": "4942",
+      "marcaId": "60",
+      "modeloId": "571",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP COVER",
+      "version": "C/S 2,5 Diesel 4X2 Dx Cerrada 2011",
+      "precios": {}
+    },
+    "4943": {
+      "id": "4943",
+      "marcaId": "60",
+      "modeloId": "571",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP COVER",
+      "version": "C/S 2,5 Diesel 4X2 Dx Pack Cerrada 2012",
+      "precios": {
+        "2013": {
+          "usd": 13058.55,
+          "ars": 19966522.95,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13458.33,
+          "ars": 20577786.57,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 13883.02,
+          "ars": 21227137.58,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14058.18,
+          "ars": 21494957.22,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4944": {
+      "id": "4944",
+      "marcaId": "60",
+      "modeloId": "571",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP COVER",
+      "version": "C/S 2,5 Diesel 4X2 Dx Ventanas 2011",
+      "precios": {}
+    },
+    "4945": {
+      "id": "4945",
+      "marcaId": "60",
+      "modeloId": "571",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP COVER",
+      "version": "C/S 2,5 Diesel 4X2 Dx Pack Ventanas 2012",
+      "precios": {
+        "2013": {
+          "usd": 13179.79,
+          "ars": 20151898.91,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 13583.27,
+          "ars": 20768819.83,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 14011.91,
+          "ars": 21424210.39,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 14188.69,
+          "ars": 21694507.01,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4946": {
+      "id": "4946",
+      "marcaId": "60",
+      "modeloId": "571",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP COVER",
+      "version": "C/S 2,5 Diesel 4X4 Dx Cerrada 2011",
+      "precios": {}
+    },
+    "4947": {
+      "id": "4947",
+      "marcaId": "60",
+      "modeloId": "571",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP COVER",
+      "version": "C/S 2,5 Diesel 4X4 Dx Pack Cerrada 2012",
+      "precios": {
+        "2013": {
+          "usd": 14912.55,
+          "ars": 22801288.95,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15369.08,
+          "ars": 23499323.32,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 15854.07,
+          "ars": 24240873.03,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16054.09,
+          "ars": 24546703.61,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "4948": {
+      "id": "4948",
+      "marcaId": "60",
+      "modeloId": "571",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP COVER",
+      "version": "C/S 2,5 Diesel 4X4 Dx Ventanas 2011",
+      "precios": {}
+    },
+    "4949": {
+      "id": "4949",
+      "marcaId": "60",
+      "modeloId": "571",
+      "marca": "TOYOTA",
+      "modelo": "HILUX PICK - UP COVER",
+      "version": "C/S 2,5 Diesel 4X4 Dx Pack Ventanas 2012",
+      "precios": {
+        "2013": {
+          "usd": 15315.59,
+          "ars": 23417537.11,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 15784.46,
+          "ars": 24134439.34,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 16282.55,
+          "ars": 24896018.95,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 16487.98,
+          "ars": 25210121.42,
           "cotizacion": 1529
         }
       }
@@ -111855,6 +119360,571 @@
         }
       }
     },
+    "6404": {
+      "id": "6404",
+      "marcaId": "59",
+      "modeloId": "558",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "5P 1,2 Glx Hybrid",
+      "precios": {
+        "0": {
+          "usd": 22400,
+          "ars": 34249600,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6405": {
+      "id": "6405",
+      "marcaId": "59",
+      "modeloId": "558",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "5P 1,2 Glx Hybrid AT",
+      "precios": {
+        "0": {
+          "usd": 24400,
+          "ars": 37307600,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6406": {
+      "id": "6406",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 X",
+      "precios": {
+        "2013": {
+          "usd": 7282.72,
+          "ars": 11135278.88,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7577.33,
+          "ars": 11585737.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6407": {
+      "id": "6407",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xs",
+      "precios": {
+        "2013": {
+          "usd": 7602.33,
+          "ars": 11623962.57,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 7909.87,
+          "ars": 12094191.23,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6408": {
+      "id": "6408",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls",
+      "precios": {
+        "2013": {
+          "usd": 8195.91,
+          "ars": 12531546.39,
+          "cotizacion": 1529
+        },
+        "2014": {
+          "usd": 8527.46,
+          "ars": 13038486.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6409": {
+      "id": "6409",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 X 2014",
+      "precios": {
+        "2014": {
+          "usd": 7817.89,
+          "ars": 11953553.81,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 7905.42,
+          "ars": 12087387.18,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8165.44,
+          "ars": 12484957.76,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6410": {
+      "id": "6410",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xs 2014",
+      "precios": {
+        "2014": {
+          "usd": 8427.8,
+          "ars": 12886106.2,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 8522.15,
+          "ars": 13030367.35,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 8802.46,
+          "ars": 13458961.34,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6411": {
+      "id": "6411",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls 2014",
+      "precios": {
+        "2014": {
+          "usd": 8926.82,
+          "ars": 13649107.78,
+          "cotizacion": 1529
+        },
+        "2015": {
+          "usd": 9026.76,
+          "ars": 13801916.04,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9323.66,
+          "ars": 14255876.14,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6412": {
+      "id": "6412",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Platinum",
+      "precios": {
+        "2015": {
+          "usd": 9466.01,
+          "ars": 14473529.29,
+          "cotizacion": 1529
+        },
+        "2016": {
+          "usd": 9777.36,
+          "ars": 14949583.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6413": {
+      "id": "6413",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 X 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 8562.59,
+          "ars": 13092200.11,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9164.03,
+          "ars": 14011801.87,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9358.93,
+          "ars": 14309803.97,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6414": {
+      "id": "6414",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xs 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 8834.69,
+          "ars": 13508241.01,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 9455.25,
+          "ars": 14457077.25,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 9656.34,
+          "ars": 14764543.86,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6415": {
+      "id": "6415",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 9481.39,
+          "ars": 14497045.31,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10147.37,
+          "ars": 15515328.73,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10363.19,
+          "ars": 15845317.51,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6416": {
+      "id": "6416",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls 4at 2017",
+      "precios": {
+        "2016": {
+          "usd": 10004.51,
+          "ars": 15296895.79,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10707.24,
+          "ars": 16371369.96,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 10934.96,
+          "ars": 16719553.84,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6417": {
+      "id": "6417",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Platinum 6MT 2017",
+      "precios": {
+        "2016": {
+          "usd": 10230.58,
+          "ars": 15642556.82,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 10949.18,
+          "ars": 16741296.22,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11182.05,
+          "ars": 17097354.45,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6418": {
+      "id": "6418",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Platinum 4at 2017",
+      "precios": {
+        "2016": {
+          "usd": 10761.19,
+          "ars": 16453859.51,
+          "cotizacion": 1529
+        },
+        "2017": {
+          "usd": 11517.06,
+          "ars": 17609584.74,
+          "cotizacion": 1529
+        },
+        "2018": {
+          "usd": 11762.01,
+          "ars": 17984113.29,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6419": {
+      "id": "6419",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 X 6MT 2018",
+      "precios": {
+        "2018": {
+          "usd": 9532.07,
+          "ars": 14574535.03,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 10103.89,
+          "ars": 15448847.81,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 10221.58,
+          "ars": 15628795.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6420": {
+      "id": "6420",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls 6MT 2018",
+      "precios": {
+        "2018": {
+          "usd": 10554.91,
+          "ars": 16138457.39,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11188.09,
+          "ars": 17106589.61,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11318.41,
+          "ars": 17305848.89,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6421": {
+      "id": "6421",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls 4at 2018",
+      "precios": {
+        "2018": {
+          "usd": 11137.26,
+          "ars": 17028870.54,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 11805.38,
+          "ars": 18050426.02,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 11942.89,
+          "ars": 18260678.81,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6422": {
+      "id": "6422",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Platinum 4at 2018",
+      "precios": {
+        "2018": {
+          "usd": 11978.83,
+          "ars": 18315631.07,
+          "cotizacion": 1529
+        },
+        "2019": {
+          "usd": 12697.43,
+          "ars": 19414370.47,
+          "cotizacion": 1529
+        },
+        "2020": {
+          "usd": 12845.33,
+          "ars": 19640509.57,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6423": {
+      "id": "6423",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 X 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 11031.6,
+          "ars": 16867316.4,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 11470.72,
+          "ars": 17538730.88,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 11926.17,
+          "ars": 18235113.93,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 12752.74,
+          "ars": 19498939.46,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6424": {
+      "id": "6424",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls 6MT 2021",
+      "precios": {
+        "2020": {
+          "usd": 12514.81,
+          "ars": 19135144.49,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13012.97,
+          "ars": 19896831.13,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 13529.66,
+          "ars": 20686850.14,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 14467.36,
+          "ars": 22120593.44,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6425": {
+      "id": "6425",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls Pack 6MT 2022",
+      "precios": {
+        "2022": {
+          "usd": 14206.15,
+          "ars": 21721203.35,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15190.73,
+          "ars": 23226626.17,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6426": {
+      "id": "6426",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls 4at 2021",
+      "precios": {
+        "2020": {
+          "usd": 13084.18,
+          "ars": 20005711.22,
+          "cotizacion": 1529
+        },
+        "2021": {
+          "usd": 13605,
+          "ars": 20802045,
+          "cotizacion": 1529
+        },
+        "2022": {
+          "usd": 14145.2,
+          "ars": 21628010.8,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15125.56,
+          "ars": 23126981.24,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6427": {
+      "id": "6427",
+      "marcaId": "60",
+      "modeloId": "566",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS",
+      "version": "4P 1,5 Xls Pack 4at 2022",
+      "precios": {
+        "2022": {
+          "usd": 14852.46,
+          "ars": 22709411.34,
+          "cotizacion": 1529
+        },
+        "2023": {
+          "usd": 15881.84,
+          "ars": 24283333.36,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6490": {
       "id": "6490",
       "marcaId": "2",
@@ -112805,6 +120875,21 @@
         }
       }
     },
+    "6616": {
+      "id": "6616",
+      "marcaId": "60",
+      "modeloId": "691",
+      "marca": "TOYOTA",
+      "modelo": "bZ4X",
+      "version": "5P Electrica",
+      "precios": {
+        "0": {
+          "usd": 73900,
+          "ars": 112993100,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6660": {
       "id": "6660",
       "marcaId": "6",
@@ -113135,6 +121220,36 @@
         }
       }
     },
+    "6682": {
+      "id": "6682",
+      "marcaId": "59",
+      "modeloId": "557",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "5P 1,5 MT",
+      "precios": {
+        "0": {
+          "usd": 33900,
+          "ars": 51833100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6683": {
+      "id": "6683",
+      "marcaId": "59",
+      "modeloId": "557",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "5P 1,5 AT",
+      "precios": {
+        "0": {
+          "usd": 36000,
+          "ars": 55044000,
+          "cotizacion": 1529
+        }
+      }
+    },
     "6684": {
       "id": "6684",
       "marcaId": "5",
@@ -113446,6 +121561,36 @@
         "0": {
           "usd": 34703.58,
           "ars": 53061773.82,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6704": {
+      "id": "6704",
+      "marcaId": "59",
+      "modeloId": "708",
+      "marca": "SUZUKI",
+      "modelo": "ACROSS",
+      "version": "5P 1,5 AT Gl Hibrid",
+      "precios": {
+        "0": {
+          "usd": 27900,
+          "ars": 42659100,
+          "cotizacion": 1529
+        }
+      }
+    },
+    "6705": {
+      "id": "6705",
+      "marcaId": "59",
+      "modeloId": "708",
+      "marca": "SUZUKI",
+      "modelo": "ACROSS",
+      "version": "5P 1,5 AT Glx Hibrid",
+      "precios": {
+        "0": {
+          "usd": 29900,
+          "ars": 45717100,
           "cotizacion": 1529
         }
       }
