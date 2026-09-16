@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-16T20:35:23.678Z",
+  "actualizado": "2026-09-16T22:38:44.484Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 1742,
-  "versionesConValuacion": 890,
+  "versionesProcesadas": 2090,
+  "versionesConValuacion": 1079,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -30467,6 +30467,33 @@
       "version": "GLS 2.4 Modelo 2009",
       "precios": {}
     },
+    "11773": {
+      "id": "11773",
+      "marcaId": "106",
+      "modeloId": "1230",
+      "marca": "CHEVROLET",
+      "modelo": "VECTRA",
+      "version": "GT GLS 2.0",
+      "precios": {}
+    },
+    "11774": {
+      "id": "11774",
+      "marcaId": "106",
+      "modeloId": "1230",
+      "marca": "CHEVROLET",
+      "modelo": "VECTRA",
+      "version": "GT GLS 2.0 Modelo 2009",
+      "precios": {}
+    },
+    "11775": {
+      "id": "11775",
+      "marcaId": "106",
+      "modeloId": "1230",
+      "marca": "CHEVROLET",
+      "modelo": "VECTRA",
+      "version": "GT GLS Life 2.0",
+      "precios": {}
+    },
     "11776": {
       "id": "11776",
       "marcaId": "106",
@@ -30493,6 +30520,6300 @@
       "modelo": "VECTRA",
       "version": "GT 2.4 Automática Cabina Doble Modelo 2009",
       "precios": {}
+    },
+    "11779": {
+      "id": "11779",
+      "marcaId": "106",
+      "modeloId": "1230",
+      "marca": "CHEVROLET",
+      "modelo": "VECTRA",
+      "version": "GT 2.4 Cabina Doble Modelo 2009",
+      "precios": {}
+    },
+    "11780": {
+      "id": "11780",
+      "marcaId": "106",
+      "modeloId": "1231",
+      "marca": "CHEVROLET",
+      "modelo": "ZAFIRA",
+      "version": "GL",
+      "precios": {}
+    },
+    "11781": {
+      "id": "11781",
+      "marcaId": "106",
+      "modeloId": "1231",
+      "marca": "CHEVROLET",
+      "modelo": "ZAFIRA",
+      "version": "GLS 16 Válvulas",
+      "precios": {}
+    },
+    "11782": {
+      "id": "11782",
+      "marcaId": "106",
+      "modeloId": "1231",
+      "marca": "CHEVROLET",
+      "modelo": "ZAFIRA",
+      "version": "GLS C/Dvd 16 Válvulas",
+      "precios": {}
+    },
+    "11783": {
+      "id": "11783",
+      "marcaId": "106",
+      "modeloId": "1231",
+      "marca": "CHEVROLET",
+      "modelo": "ZAFIRA",
+      "version": "GL Serie II",
+      "precios": {}
+    },
+    "11784": {
+      "id": "11784",
+      "marcaId": "106",
+      "modeloId": "1231",
+      "marca": "CHEVROLET",
+      "modelo": "ZAFIRA",
+      "version": "GLS Serie II",
+      "precios": {}
+    },
+    "11785": {
+      "id": "11785",
+      "marcaId": "106",
+      "modeloId": "1231",
+      "marca": "CHEVROLET",
+      "modelo": "ZAFIRA",
+      "version": "GLS 16 Válvulas Serie II",
+      "precios": {}
+    },
+    "11786": {
+      "id": "11786",
+      "marcaId": "106",
+      "modeloId": "1231",
+      "marca": "CHEVROLET",
+      "modelo": "ZAFIRA",
+      "version": "GLS C/Dvd 16 Válvulas Serie II",
+      "precios": {}
+    },
+    "11787": {
+      "id": "11787",
+      "marcaId": "107",
+      "modeloId": "1232",
+      "marca": "CHRYSLER",
+      "modelo": "300",
+      "version": "C 3.5 V6",
+      "precios": {}
+    },
+    "11788": {
+      "id": "11788",
+      "marcaId": "107",
+      "modeloId": "1232",
+      "marca": "CHRYSLER",
+      "modelo": "300",
+      "version": "C 3.6 V6",
+      "precios": {
+        "2013": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11789": {
+      "id": "11789",
+      "marcaId": "107",
+      "modeloId": "1232",
+      "marca": "CHRYSLER",
+      "modelo": "300",
+      "version": "C Hemi 5.7 V8",
+      "precios": {}
+    },
+    "11790": {
+      "id": "11790",
+      "marcaId": "107",
+      "modeloId": "1232",
+      "marca": "CHRYSLER",
+      "modelo": "300",
+      "version": "M 3.5 V6",
+      "precios": {}
+    },
+    "11791": {
+      "id": "11791",
+      "marcaId": "107",
+      "modeloId": "1233",
+      "marca": "CHRYSLER",
+      "modelo": "CARAVAN",
+      "version": "2.5 Automática",
+      "precios": {}
+    },
+    "11792": {
+      "id": "11792",
+      "marcaId": "107",
+      "modeloId": "1233",
+      "marca": "CHRYSLER",
+      "modelo": "CARAVAN",
+      "version": "3.0 Automática",
+      "precios": {}
+    },
+    "11793": {
+      "id": "11793",
+      "marcaId": "107",
+      "modeloId": "1233",
+      "marca": "CHRYSLER",
+      "modelo": "CARAVAN",
+      "version": "3.0 Automática SE",
+      "precios": {}
+    },
+    "11794": {
+      "id": "11794",
+      "marcaId": "107",
+      "modeloId": "1233",
+      "marca": "CHRYSLER",
+      "modelo": "CARAVAN",
+      "version": "2.4 SE",
+      "precios": {}
+    },
+    "11795": {
+      "id": "11795",
+      "marcaId": "107",
+      "modeloId": "1233",
+      "marca": "CHRYSLER",
+      "modelo": "CARAVAN",
+      "version": "2.5 Turbodiésel SE",
+      "precios": {}
+    },
+    "11796": {
+      "id": "11796",
+      "marcaId": "107",
+      "modeloId": "1233",
+      "marca": "CHRYSLER",
+      "modelo": "CARAVAN",
+      "version": "3.3 SE",
+      "precios": {}
+    },
+    "11797": {
+      "id": "11797",
+      "marcaId": "107",
+      "modeloId": "1234",
+      "marca": "CHRYSLER",
+      "modelo": "CROSSFIRE",
+      "version": "Coupé Limited",
+      "precios": {}
+    },
+    "11798": {
+      "id": "11798",
+      "marcaId": "107",
+      "modeloId": "1234",
+      "marca": "CHRYSLER",
+      "modelo": "CROSSFIRE",
+      "version": "Roadster Limited",
+      "precios": {}
+    },
+    "11799": {
+      "id": "11799",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "2.5",
+      "precios": {}
+    },
+    "11800": {
+      "id": "11800",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Aire 2.5",
+      "precios": {}
+    },
+    "11801": {
+      "id": "11801",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "2.5 Turbodiésel",
+      "precios": {}
+    },
+    "11802": {
+      "id": "11802",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Aire 2.5 Turbodiésel",
+      "precios": {}
+    },
+    "11803": {
+      "id": "11803",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Sport 2.5 Turbodiésel",
+      "precios": {}
+    },
+    "11804": {
+      "id": "11804",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Sport 2.5 Turbodiésel Cabina Doble",
+      "precios": {}
+    },
+    "11805": {
+      "id": "11805",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Sport Clubcab 2.5 Turbodiésel",
+      "precios": {}
+    },
+    "11806": {
+      "id": "11806",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Clubcab 3.9",
+      "precios": {}
+    },
+    "11807": {
+      "id": "11807",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Clubcab 3.9 4x4",
+      "precios": {}
+    },
+    "11808": {
+      "id": "11808",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Sport 3.9",
+      "precios": {}
+    },
+    "11809": {
+      "id": "11809",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Sport 3.9 4x4",
+      "precios": {}
+    },
+    "11810": {
+      "id": "11810",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Sport 3.9 Cabina Doble",
+      "precios": {}
+    },
+    "11811": {
+      "id": "11811",
+      "marcaId": "107",
+      "modeloId": "1235",
+      "marca": "CHRYSLER",
+      "modelo": "DAKOTA",
+      "version": "Sport Clubcab 3.9",
+      "precios": {}
+    },
+    "11812": {
+      "id": "11812",
+      "marcaId": "107",
+      "modeloId": "1236",
+      "marca": "CHRYSLER",
+      "modelo": "GRAND CARAVAN",
+      "version": "2.5 Turbodiésel",
+      "precios": {}
+    },
+    "11813": {
+      "id": "11813",
+      "marcaId": "107",
+      "modeloId": "1236",
+      "marca": "CHRYSLER",
+      "modelo": "GRAND CARAVAN",
+      "version": "LE 3.3 Automática",
+      "precios": {}
+    },
+    "11814": {
+      "id": "11814",
+      "marcaId": "107",
+      "modeloId": "1236",
+      "marca": "CHRYSLER",
+      "modelo": "GRAND CARAVAN",
+      "version": "SE 3.3 Automática",
+      "precios": {}
+    },
+    "11815": {
+      "id": "11815",
+      "marcaId": "107",
+      "modeloId": "1237",
+      "marca": "CHRYSLER",
+      "modelo": "INTREPID",
+      "version": "3.3",
+      "precios": {}
+    },
+    "11816": {
+      "id": "11816",
+      "marcaId": "107",
+      "modeloId": "1237",
+      "marca": "CHRYSLER",
+      "modelo": "INTREPID",
+      "version": "24V 3.5",
+      "precios": {}
+    },
+    "11817": {
+      "id": "11817",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "2.4 Sport",
+      "precios": {}
+    },
+    "11818": {
+      "id": "11818",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "2.5 Turbodiésel Classic",
+      "precios": {}
+    },
+    "11819": {
+      "id": "11819",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "2.5 SE",
+      "precios": {}
+    },
+    "11820": {
+      "id": "11820",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "2.5 Turbodiésel Sport",
+      "precios": {}
+    },
+    "11821": {
+      "id": "11821",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "2.5 Turbodiésel Sport Modelo 2002",
+      "precios": {}
+    },
+    "11822": {
+      "id": "11822",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "2.8 Turbodiésel Sport ATX",
+      "precios": {}
+    },
+    "11823": {
+      "id": "11823",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "2.8 Turbodiésel Automática Sport",
+      "precios": {}
+    },
+    "11824": {
+      "id": "11824",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "3.2 Trailhawk",
+      "precios": {
+        "2017": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11825": {
+      "id": "11825",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "3.7 Limited",
+      "precios": {}
+    },
+    "11826": {
+      "id": "11826",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "3.7 Limited ATX",
+      "precios": {
+        "2013": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11827": {
+      "id": "11827",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "3.7 Sport",
+      "precios": {}
+    },
+    "11828": {
+      "id": "11828",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "3.7 Sport ATX",
+      "precios": {}
+    },
+    "11829": {
+      "id": "11829",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "4.0 Classic",
+      "precios": {}
+    },
+    "11830": {
+      "id": "11830",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "4.0 Automática Classic",
+      "precios": {}
+    },
+    "11831": {
+      "id": "11831",
+      "marcaId": "107",
+      "modeloId": "1238",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP CHEROKEE",
+      "version": "4.0 Sport",
+      "precios": {}
+    },
+    "11832": {
+      "id": "11832",
+      "marcaId": "107",
+      "modeloId": "1239",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMMANDER",
+      "version": "Limited 1.3 T270 Automática 4x2 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 48120.1,
+          "ars": 73720000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11833": {
+      "id": "11833",
+      "marcaId": "107",
+      "modeloId": "1239",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMMANDER",
+      "version": "Limited 1.3 T270 Automática 4x2",
+      "precios": {
+        "2022": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 30352.48,
+          "ars": 46500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11834": {
+      "id": "11834",
+      "marcaId": "107",
+      "modeloId": "1239",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMMANDER",
+      "version": "Limited AT9 2.0 Turbodiésel 4x4",
+      "precios": {
+        "2022": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11835": {
+      "id": "11835",
+      "marcaId": "107",
+      "modeloId": "1239",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMMANDER",
+      "version": "Overland AT9 2.0 Turbodiésel 4x4",
+      "precios": {
+        "2022": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11836": {
+      "id": "11836",
+      "marcaId": "107",
+      "modeloId": "1239",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMMANDER",
+      "version": "Blackhawk 2.0 Turbo Automática 4x4 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 58975.2,
+          "ars": 90350000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 45365.54,
+          "ars": 69500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11837": {
+      "id": "11837",
+      "marcaId": "107",
+      "modeloId": "1239",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMMANDER",
+      "version": "Blackhawk AT9 2.0 Turbo 4x4",
+      "precios": {
+        "2025": {
+          "usd": 38838.12,
+          "ars": 59500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 41449.09,
+          "ars": 63500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11838": {
+      "id": "11838",
+      "marcaId": "107",
+      "modeloId": "1239",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMMANDER",
+      "version": "Overland 2.0 Turbo Automática 4x4 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 58466.06,
+          "ars": 89570000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 44712.79,
+          "ars": 68500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11839": {
+      "id": "11839",
+      "marcaId": "107",
+      "modeloId": "1239",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMMANDER",
+      "version": "Overland AT9 2.0 Turbo 4x4",
+      "precios": {
+        "2025": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 40796.34,
+          "ars": 62500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11840": {
+      "id": "11840",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Limited 1.3 T270 Automática Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 41899.48,
+          "ars": 64190000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 26697.13,
+          "ars": 40900000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27676.24,
+          "ars": 42400000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 28981.72,
+          "ars": 44400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11841": {
+      "id": "11841",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Limited Plus 1.3 T270",
+      "precios": {
+        "2021": {
+          "usd": 23107.05,
+          "ars": 35400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23890.34,
+          "ars": 36600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24738.9,
+          "ars": 37900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25718.02,
+          "ars": 39400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11842": {
+      "id": "11842",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Longitude 1.3 T270 Automática",
+      "precios": {
+        "2021": {
+          "usd": 22454.31,
+          "ars": 34400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23237.6,
+          "ars": 35600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24086.16,
+          "ars": 36900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25065.27,
+          "ars": 38400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11843": {
+      "id": "11843",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Longitude 1.3 T270 Automática Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 27023.5,
+          "ars": 41400000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28002.61,
+          "ars": 42900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11844": {
+      "id": "11844",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Longitude Plus 1.3 T270 Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 27349.87,
+          "ars": 41900000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28328.98,
+          "ars": 43400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11845": {
+      "id": "11845",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Longitude Plus 1.3 T270 Automática",
+      "precios": {
+        "2021": {
+          "usd": 22780.68,
+          "ars": 34900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23563.97,
+          "ars": 36100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24412.53,
+          "ars": 37400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25391.64,
+          "ars": 38900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11846": {
+      "id": "11846",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Serie-S 1.3 T270 Automática",
+      "precios": {
+        "2023": {
+          "usd": 25065.27,
+          "ars": 38400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 26044.39,
+          "ars": 39900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11847": {
+      "id": "11847",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Serie-S 1.3 T270 Automática Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 42304.18,
+          "ars": 64810000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 27023.5,
+          "ars": 41400000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28002.61,
+          "ars": 42900000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29308.09,
+          "ars": 44900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11848": {
+      "id": "11848",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Sport 1.3 T270 Automática",
+      "precios": {
+        "2021": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11849": {
+      "id": "11849",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Sport 1.3 T270 Automática Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 39993.47,
+          "ars": 61270000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11850": {
+      "id": "11850",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Blackhawk AT9 2.0 Turbo 4x4",
+      "precios": {
+        "0": {
+          "usd": 51233.68,
+          "ars": 78490000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 33550.91,
+          "ars": 51400000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 34856.4,
+          "ars": 53400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11851": {
+      "id": "11851",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Trailhawk AT9 2.0 Turbodiésel",
+      "precios": {
+        "2022": {
+          "usd": 28002.61,
+          "ars": 42900000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 29308.09,
+          "ars": 44900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 30939.95,
+          "ars": 47400000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 32571.8,
+          "ars": 49900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11852": {
+      "id": "11852",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Limited AT9 Plus 2.0 Turbodiésel",
+      "precios": {
+        "2020": {
+          "usd": 22127.94,
+          "ars": 33900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 23107.05,
+          "ars": 35400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11853": {
+      "id": "11853",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Trailhawk AT9 2.0 Turbodiésel 2",
+      "precios": {
+        "2021": {
+          "usd": 23759.79,
+          "ars": 36400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11854": {
+      "id": "11854",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Limited 2.4",
+      "precios": {
+        "2013": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11855": {
+      "id": "11855",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Limited AT9 2.4",
+      "precios": {
+        "2017": {
+          "usd": 17232.38,
+          "ars": 26400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18537.86,
+          "ars": 28400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11856": {
+      "id": "11856",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Limited AT9 Plus 2.4",
+      "precios": {
+        "2017": {
+          "usd": 17558.75,
+          "ars": 26900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18211.49,
+          "ars": 27900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18864.23,
+          "ars": 28900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 19843.34,
+          "ars": 30400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 20822.45,
+          "ars": 31900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11857": {
+      "id": "11857",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Limited 2.4 Automática",
+      "precios": {
+        "2013": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11858": {
+      "id": "11858",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Longitude 2.4 Automática 4x2",
+      "precios": {
+        "2018": {
+          "usd": 16906.01,
+          "ars": 25900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 18864.23,
+          "ars": 28900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19843.34,
+          "ars": 30400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11859": {
+      "id": "11859",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Longitude AT9 O/E 2.4",
+      "precios": {
+        "2017": {
+          "usd": 17101.83,
+          "ars": 26200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17754.57,
+          "ars": 27200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18733.68,
+          "ars": 28700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11860": {
+      "id": "11860",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Longitude AT9 PLU 2.4",
+      "precios": {
+        "2017": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 19386.42,
+          "ars": 29700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11861": {
+      "id": "11861",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Sport 2.4",
+      "precios": {}
+    },
+    "11862": {
+      "id": "11862",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Sport 2.4 Automática 4x2",
+      "precios": {
+        "2019": {
+          "usd": 17232.38,
+          "ars": 26400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 18211.49,
+          "ars": 27900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19190.6,
+          "ars": 29400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11863": {
+      "id": "11863",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Sport MT6 2.4 4x2",
+      "precios": {
+        "2017": {
+          "usd": 15600.52,
+          "ars": 23900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 16253.26,
+          "ars": 24900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16906.01,
+          "ars": 25900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18864.23,
+          "ars": 28900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11864": {
+      "id": "11864",
+      "marcaId": "107",
+      "modeloId": "1240",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP COMPASS",
+      "version": "Sport 2.4 Automática",
+      "precios": {
+        "2013": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11865": {
+      "id": "11865",
+      "marcaId": "107",
+      "modeloId": "1241",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GLADIATOR",
+      "version": "Overland",
+      "precios": {
+        "0": {
+          "usd": 108258.49,
+          "ars": 165852000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 72454.31,
+          "ars": 111000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 81592.69,
+          "ars": 125000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11866": {
+      "id": "11866",
+      "marcaId": "107",
+      "modeloId": "1241",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GLADIATOR",
+      "version": "Rubicon",
+      "precios": {
+        "0": {
+          "usd": 117346.61,
+          "ars": 179775000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 69843.34,
+          "ars": 107000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 74412.53,
+          "ars": 114000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 78981.72,
+          "ars": 121000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 83550.91,
+          "ars": 128000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 88120.1,
+          "ars": 135000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11867": {
+      "id": "11867",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "2.5 Turbodiésel Laredo",
+      "precios": {}
+    },
+    "11868": {
+      "id": "11868",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "2.7 Turbodiésel Laredo",
+      "precios": {}
+    },
+    "11869": {
+      "id": "11869",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.0 Turbodiésel Laredo",
+      "precios": {}
+    },
+    "11870": {
+      "id": "11870",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.1 Turbodiésel Laredo",
+      "precios": {}
+    },
+    "11871": {
+      "id": "11871",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "4.0 Laredo",
+      "precios": {}
+    },
+    "11872": {
+      "id": "11872",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "4.0 Laredo 2",
+      "precios": {}
+    },
+    "11873": {
+      "id": "11873",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "2.5 Turbodiésel Limited",
+      "precios": {}
+    },
+    "11874": {
+      "id": "11874",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "2.5 Turbodiésel Limited Techo Corredizo",
+      "precios": {}
+    },
+    "11875": {
+      "id": "11875",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "2.7 Turbodiésel Limited",
+      "precios": {}
+    },
+    "11876": {
+      "id": "11876",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.0 Turbodiésel Limited",
+      "precios": {}
+    },
+    "11877": {
+      "id": "11877",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.1 Turbodiésel Limited",
+      "precios": {}
+    },
+    "11878": {
+      "id": "11878",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.1 Turbodiésel Limited SCV",
+      "precios": {}
+    },
+    "11879": {
+      "id": "11879",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.6 Limited",
+      "precios": {
+        "2013": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11880": {
+      "id": "11880",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.6 Limited Modelo 2014",
+      "precios": {
+        "2016": {
+          "usd": 25326.37,
+          "ars": 38800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 28590.08,
+          "ars": 43800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11881": {
+      "id": "11881",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.6 Limited Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 133525.46,
+          "ars": 204561000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 69190.6,
+          "ars": 106000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 78981.72,
+          "ars": 121000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 88772.85,
+          "ars": 136000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 98563.97,
+          "ars": 151000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11882": {
+      "id": "11882",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "3.6 Limited Techo Corredizo Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 56135.77,
+          "ars": 86000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11883": {
+      "id": "11883",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "4.0 Limited",
+      "precios": {}
+    },
+    "11884": {
+      "id": "11884",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "4.7 V8 Limited",
+      "precios": {}
+    },
+    "11885": {
+      "id": "11885",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "4.7 V8 Limited SCV",
+      "precios": {}
+    },
+    "11886": {
+      "id": "11886",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "5.2 V8 Limited",
+      "precios": {}
+    },
+    "11887": {
+      "id": "11887",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "5.2 V8 Limited Techo Corredizo",
+      "precios": {}
+    },
+    "11888": {
+      "id": "11888",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "Overland",
+      "precios": {}
+    },
+    "11889": {
+      "id": "11889",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "Overland ATX",
+      "precios": {
+        "2013": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11890": {
+      "id": "11890",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "SRT8",
+      "precios": {}
+    },
+    "11891": {
+      "id": "11891",
+      "marcaId": "107",
+      "modeloId": "1242",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP GRAND CHEROKEE",
+      "version": "SRT8 Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 45039.16,
+          "ars": 69000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 60052.22,
+          "ars": 92000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 84856.4,
+          "ars": 130000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 92689.3,
+          "ars": 142000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11892": {
+      "id": "11892",
+      "marcaId": "107",
+      "modeloId": "1243",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP PATRIOT",
+      "version": "2.0 Sport",
+      "precios": {
+        "2013": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11893": {
+      "id": "11893",
+      "marcaId": "107",
+      "modeloId": "1243",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP PATRIOT",
+      "version": "2.4 Sport",
+      "precios": {
+        "2013": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11894": {
+      "id": "11894",
+      "marcaId": "107",
+      "modeloId": "1243",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP PATRIOT",
+      "version": "2.4 Automática Sport",
+      "precios": {
+        "2013": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11903": {
+      "id": "11903",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Anniversary 1.8 Automática 4x2",
+      "precios": {
+        "2022": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11904": {
+      "id": "11904",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Longitude 1.8 Automática 4x2",
+      "precios": {
+        "2018": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11905": {
+      "id": "11905",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport 1.8 4x2",
+      "precios": {
+        "2016": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11906": {
+      "id": "11906",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport 1.8 Automática 4x2",
+      "precios": {
+        "2017": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13903.39,
+          "ars": 21300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11910": {
+      "id": "11910",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport Plus 1.8 4x2",
+      "precios": {
+        "2016": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11911": {
+      "id": "11911",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport Plus 1.8 Automática 4x2",
+      "precios": {
+        "2017": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11912": {
+      "id": "11912",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport W 1.8 4x2 Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11913": {
+      "id": "11913",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport Wild 1.8 4x2",
+      "precios": {
+        "2018": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11914": {
+      "id": "11914",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Trailhawk 2.0 Turbodiésel 4x4",
+      "precios": {
+        "2017": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19060.05,
+          "ars": 29200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11915": {
+      "id": "11915",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Longitude 2.4 Automática 4x4",
+      "precios": {
+        "2016": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11916": {
+      "id": "11916",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Rubicon 2.0 Automática 2 Puertas",
+      "precios": {
+        "0": {
+          "usd": 85787.86,
+          "ars": 131427000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 76370.76,
+          "ars": 117000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 78981.72,
+          "ars": 121000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11917": {
+      "id": "11917",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Rubicon UNL 2.0 Automática 4 Puertas",
+      "precios": {
+        "0": {
+          "usd": 89782.64,
+          "ars": 137547000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 78328.98,
+          "ars": 120000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 80939.95,
+          "ars": 124000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11918": {
+      "id": "11918",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Rubicon 3.6 Automática 2 Puertas",
+      "precios": {
+        "2020": {
+          "usd": 58093.99,
+          "ars": 89000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 60704.96,
+          "ars": 93000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 63968.67,
+          "ars": 98000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 67232.38,
+          "ars": 103000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 73759.79,
+          "ars": 113000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11919": {
+      "id": "11919",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Rubicon 3.6 Automática 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 39686.68,
+          "ars": 60800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 40992.17,
+          "ars": 62800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 42297.65,
+          "ars": 64800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 43603.13,
+          "ars": 66800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 44908.62,
+          "ars": 68800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 46866.84,
+          "ars": 71800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 49477.81,
+          "ars": 75800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 52741.51,
+          "ars": 80800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11920": {
+      "id": "11920",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Sport 3.6 V6 2 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 37728.46,
+          "ars": 57800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 39033.94,
+          "ars": 59800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 40339.43,
+          "ars": 61800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 41644.91,
+          "ars": 63800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 42950.39,
+          "ars": 65800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 44908.62,
+          "ars": 68800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 47519.58,
+          "ars": 72800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11921": {
+      "id": "11921",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Unli. Sahara 3.6 4 Puertas",
+      "precios": {
+        "2020": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 63968.67,
+          "ars": 98000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 67232.38,
+          "ars": 103000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 73759.79,
+          "ars": 113000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11922": {
+      "id": "11922",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Unli Rubicon 3.6 4 Puertas",
+      "precios": {
+        "2020": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 65926.89,
+          "ars": 101000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 69190.6,
+          "ars": 106000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 72454.31,
+          "ars": 111000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 75718.02,
+          "ars": 116000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 78981.72,
+          "ars": 121000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11923": {
+      "id": "11923",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Unlimited 3.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 38707.57,
+          "ars": 59300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 40013.05,
+          "ars": 61300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 41318.54,
+          "ars": 63300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 42624.02,
+          "ars": 65300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 43929.5,
+          "ars": 67300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 45887.73,
+          "ars": 70300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11924": {
+      "id": "11924",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Unlimited 3.6 Automática 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 39033.94,
+          "ars": 59800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 40339.43,
+          "ars": 61800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 41644.91,
+          "ars": 63800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 42950.39,
+          "ars": 65800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 44255.87,
+          "ars": 67800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 46214.1,
+          "ars": 70800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 48825.07,
+          "ars": 74800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 52088.77,
+          "ars": 79800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11925": {
+      "id": "11925",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Mountain 3.8 Automática 4 Puertas",
+      "precios": {}
+    },
+    "11926": {
+      "id": "11926",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Sport 3.8 2 Puertas",
+      "precios": {}
+    },
+    "11927": {
+      "id": "11927",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Sport 3.8 Automática 2 Puertas",
+      "precios": {}
+    },
+    "11928": {
+      "id": "11928",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Unlimited 3.8 4 Puertas",
+      "precios": {}
+    },
+    "11929": {
+      "id": "11929",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Unlimited 3.8 Automática 4 Puertas",
+      "precios": {}
+    },
+    "11930": {
+      "id": "11930",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Hard Top 4.0",
+      "precios": {}
+    },
+    "11931": {
+      "id": "11931",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Hard Sport Top 4.0",
+      "precios": {}
+    },
+    "11932": {
+      "id": "11932",
+      "marcaId": "107",
+      "modeloId": "1245",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP WRANGLER",
+      "version": "Soft Top 4.0",
+      "precios": {}
+    },
+    "11933": {
+      "id": "11933",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "SE 2.4 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11934": {
+      "id": "11934",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "SXT 2.4",
+      "precios": {}
+    },
+    "11935": {
+      "id": "11935",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "SXT Filas Full 2.4 Modelo 2011 2",
+      "precios": {}
+    },
+    "11936": {
+      "id": "11936",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "SXT Filas 2.4 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11937": {
+      "id": "11937",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "SXT Filas Full 2.4 Modelo 2011 3",
+      "precios": {
+        "2013": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 16710.18,
+          "ars": 25600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 17689.3,
+          "ars": 27100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 18668.41,
+          "ars": 28600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11938": {
+      "id": "11938",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "SXT Full 2.4",
+      "precios": {}
+    },
+    "11939": {
+      "id": "11939",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "RT 2.7",
+      "precios": {}
+    },
+    "11940": {
+      "id": "11940",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "RT Full 2.7",
+      "precios": {}
+    },
+    "11941": {
+      "id": "11941",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "SXT 2.7",
+      "precios": {}
+    },
+    "11942": {
+      "id": "11942",
+      "marcaId": "107",
+      "modeloId": "1246",
+      "marca": "CHRYSLER",
+      "modelo": "JOURNEY",
+      "version": "RT ATX 3.6",
+      "precios": {
+        "2013": {
+          "usd": 15469.97,
+          "ars": 23700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17036.55,
+          "ars": 26100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18015.67,
+          "ars": 27600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18994.78,
+          "ars": 29100000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 19973.89,
+          "ars": 30600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 20953,
+          "ars": 32100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11943": {
+      "id": "11943",
+      "marcaId": "107",
+      "modeloId": "1247",
+      "marca": "CHRYSLER",
+      "modelo": "LEBARON",
+      "version": "3.0 Cabriolet",
+      "precios": {}
+    },
+    "11944": {
+      "id": "11944",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "1.8",
+      "precios": {}
+    },
+    "11945": {
+      "id": "11945",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "Sport 1.8",
+      "precios": {}
+    },
+    "11946": {
+      "id": "11946",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "2.0",
+      "precios": {}
+    },
+    "11947": {
+      "id": "11947",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "2.0 Automática",
+      "precios": {}
+    },
+    "11948": {
+      "id": "11948",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "E/Limitada 2.0",
+      "precios": {}
+    },
+    "11949": {
+      "id": "11949",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "Sport LX 2.0",
+      "precios": {}
+    },
+    "11950": {
+      "id": "11950",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "LE Modelo 2000",
+      "precios": {}
+    },
+    "11951": {
+      "id": "11951",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "LE ABS Modelo 2000",
+      "precios": {}
+    },
+    "11952": {
+      "id": "11952",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "LE Automática Modelo 2000",
+      "precios": {}
+    },
+    "11953": {
+      "id": "11953",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "LE ABS Automática Modelo 2000",
+      "precios": {}
+    },
+    "11954": {
+      "id": "11954",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "LX Modelo 2000",
+      "precios": {}
+    },
+    "11955": {
+      "id": "11955",
+      "marcaId": "107",
+      "modeloId": "1248",
+      "marca": "CHRYSLER",
+      "modelo": "NEON",
+      "version": "SE Modelo 2000",
+      "precios": {}
+    },
+    "11956": {
+      "id": "11956",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.0 Classic",
+      "precios": {}
+    },
+    "11957": {
+      "id": "11957",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.0 Automática Classic",
+      "precios": {}
+    },
+    "11958": {
+      "id": "11958",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.0 Limited",
+      "precios": {}
+    },
+    "11959": {
+      "id": "11959",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.0 Automática Limited",
+      "precios": {}
+    },
+    "11960": {
+      "id": "11960",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.0 Touring",
+      "precios": {}
+    },
+    "11961": {
+      "id": "11961",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.2 Turbodiésel Classic",
+      "precios": {}
+    },
+    "11962": {
+      "id": "11962",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.4 Classic",
+      "precios": {}
+    },
+    "11963": {
+      "id": "11963",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.4 Automática Classic",
+      "precios": {}
+    },
+    "11964": {
+      "id": "11964",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.4 GT Turbo",
+      "precios": {}
+    },
+    "11965": {
+      "id": "11965",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.4 GT Turbo Cabriolet",
+      "precios": {}
+    },
+    "11966": {
+      "id": "11966",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.4 Automática Limited",
+      "precios": {}
+    },
+    "11967": {
+      "id": "11967",
+      "marcaId": "107",
+      "modeloId": "1249",
+      "marca": "CHRYSLER",
+      "modelo": "PT CRUISER",
+      "version": "2.4 Touring",
+      "precios": {}
+    },
+    "11968": {
+      "id": "11968",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie 3.0 4x4 Cabina Doble Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 89782.64,
+          "ars": 137547000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 71148.83,
+          "ars": 109000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 77676.24,
+          "ars": 119000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11969": {
+      "id": "11969",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie Nigh 3.0 4x4 Cabina Doble Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 89782.64,
+          "ars": 137547000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 71801.57,
+          "ars": 110000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 78328.98,
+          "ars": 120000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11970": {
+      "id": "11970",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "3.9 4x4 Pick-Up",
+      "precios": {}
+    },
+    "11971": {
+      "id": "11971",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "SLT 3.9 Pick-Up",
+      "precios": {}
+    },
+    "11972": {
+      "id": "11972",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie 5.7 4x4 Cabina Doble",
+      "precios": {
+        "2013": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11973": {
+      "id": "11973",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie 5.7 4x4 Cabina Doble Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11974": {
+      "id": "11974",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie Night ED 5.7 4x4 Cabina Doble",
+      "precios": {
+        "2023": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11975": {
+      "id": "11975",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Rebel 5.7 4x4 Cabina Doble",
+      "precios": {
+        "2023": {
+          "usd": 59399.48,
+          "ars": 91000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 64621.41,
+          "ars": 99000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 69843.34,
+          "ars": 107000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11976": {
+      "id": "11976",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Turbodiésel 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "11977": {
+      "id": "11977",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie Turbodiésel 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "11978": {
+      "id": "11978",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie Turbodiésel 4x4 Cabina Doble Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 109856.4,
+          "ars": 168300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 75718.02,
+          "ars": 116000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 82245.43,
+          "ars": 126000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11979": {
+      "id": "11979",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie Turbodiésel 4x4 Cabina Doble Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 41122.72,
+          "ars": 63000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11980": {
+      "id": "11980",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Laramie Turbodiésel 4x4 Cabina Doble Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 53524.8,
+          "ars": 82000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 65926.89,
+          "ars": 101000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 71148.83,
+          "ars": 109000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11981": {
+      "id": "11981",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Nigh Edition Turbodiésel 4x4 Cabina Doble Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 109856.4,
+          "ars": 168300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 76370.76,
+          "ars": 117000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 82898.17,
+          "ars": 127000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11982": {
+      "id": "11982",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "Turbodiésel Pick-Up",
+      "precios": {}
+    },
+    "11983": {
+      "id": "11983",
+      "marcaId": "107",
+      "modeloId": "1250",
+      "marca": "CHRYSLER",
+      "modelo": "RAM",
+      "version": "SLT Turbodiésel 4x4 Pick-Up",
+      "precios": {}
+    },
+    "11984": {
+      "id": "11984",
+      "marcaId": "107",
+      "modeloId": "1251",
+      "marca": "CHRYSLER",
+      "modelo": "RAM DAKOTA",
+      "version": "Laramie",
+      "precios": {
+        "0": {
+          "usd": 50633.16,
+          "ars": 77570000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 35574.41,
+          "ars": 54500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11985": {
+      "id": "11985",
+      "marcaId": "107",
+      "modeloId": "1251",
+      "marca": "CHRYSLER",
+      "modelo": "RAM DAKOTA",
+      "version": "Warlock",
+      "precios": {
+        "0": {
+          "usd": 49203.66,
+          "ars": 75380000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 34268.93,
+          "ars": 52500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11986": {
+      "id": "11986",
+      "marcaId": "107",
+      "modeloId": "1252",
+      "marca": "CHRYSLER",
+      "modelo": "RAM RAMPAGE",
+      "version": "Laramie 2.0 Turbo",
+      "precios": {
+        "0": {
+          "usd": 49014.36,
+          "ars": 75090000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 29242.82,
+          "ars": 44800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 31201.04,
+          "ars": 47800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 33159.27,
+          "ars": 50800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11987": {
+      "id": "11987",
+      "marcaId": "107",
+      "modeloId": "1252",
+      "marca": "CHRYSLER",
+      "modelo": "RAM RAMPAGE",
+      "version": "Night ED. 2.0 Turbo",
+      "precios": {
+        "0": {
+          "usd": 49014.36,
+          "ars": 75090000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11988": {
+      "id": "11988",
+      "marcaId": "107",
+      "modeloId": "1252",
+      "marca": "CHRYSLER",
+      "modelo": "RAM RAMPAGE",
+      "version": "R/T 2.0 Turbo",
+      "precios": {
+        "0": {
+          "usd": 54654.05,
+          "ars": 83730000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11989": {
+      "id": "11989",
+      "marcaId": "107",
+      "modeloId": "1252",
+      "marca": "CHRYSLER",
+      "modelo": "RAM RAMPAGE",
+      "version": "Rebel 2.0 Turbo",
+      "precios": {
+        "0": {
+          "usd": 48864.23,
+          "ars": 74860000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11990": {
+      "id": "11990",
+      "marcaId": "107",
+      "modeloId": "1252",
+      "marca": "CHRYSLER",
+      "modelo": "RAM RAMPAGE",
+      "version": "Bighorn 2.2 Turbodiésel",
+      "precios": {
+        "0": {
+          "usd": 43903.39,
+          "ars": 67260000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29242.82,
+          "ars": 44800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 31201.04,
+          "ars": 47800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11991": {
+      "id": "11991",
+      "marcaId": "107",
+      "modeloId": "1253",
+      "marca": "CHRYSLER",
+      "modelo": "SEBRING",
+      "version": "LE 2.0",
+      "precios": {}
+    },
+    "11992": {
+      "id": "11992",
+      "marcaId": "107",
+      "modeloId": "1253",
+      "marca": "CHRYSLER",
+      "modelo": "SEBRING",
+      "version": "LE 2.7",
+      "precios": {}
+    },
+    "11993": {
+      "id": "11993",
+      "marcaId": "107",
+      "modeloId": "1253",
+      "marca": "CHRYSLER",
+      "modelo": "SEBRING",
+      "version": "LX 2.7",
+      "precios": {}
+    },
+    "11994": {
+      "id": "11994",
+      "marcaId": "107",
+      "modeloId": "1254",
+      "marca": "CHRYSLER",
+      "modelo": "SHADOW",
+      "version": "2.5",
+      "precios": {}
+    },
+    "11995": {
+      "id": "11995",
+      "marcaId": "107",
+      "modeloId": "1255",
+      "marca": "CHRYSLER",
+      "modelo": "SPIRIT",
+      "version": "Highline",
+      "precios": {}
+    },
+    "11996": {
+      "id": "11996",
+      "marcaId": "107",
+      "modeloId": "1256",
+      "marca": "CHRYSLER",
+      "modelo": "STRATUS",
+      "version": "2.5 Cabriolet",
+      "precios": {}
+    },
+    "11997": {
+      "id": "11997",
+      "marcaId": "107",
+      "modeloId": "1256",
+      "marca": "CHRYSLER",
+      "modelo": "STRATUS",
+      "version": "LE 2.0",
+      "precios": {}
+    },
+    "11998": {
+      "id": "11998",
+      "marcaId": "107",
+      "modeloId": "1256",
+      "marca": "CHRYSLER",
+      "modelo": "STRATUS",
+      "version": "LE 2.5",
+      "precios": {}
+    },
+    "11999": {
+      "id": "11999",
+      "marcaId": "107",
+      "modeloId": "1256",
+      "marca": "CHRYSLER",
+      "modelo": "STRATUS",
+      "version": "LX 2.5",
+      "precios": {}
+    },
+    "12000": {
+      "id": "12000",
+      "marcaId": "107",
+      "modeloId": "1257",
+      "marca": "CHRYSLER",
+      "modelo": "TOWN & COUNTRY",
+      "version": "Limited 3.6",
+      "precios": {
+        "2013": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 17754.57,
+          "ars": 27200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 19060.05,
+          "ars": 29200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 20365.54,
+          "ars": 31200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 21671.02,
+          "ars": 33200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12001": {
+      "id": "12001",
+      "marcaId": "107",
+      "modeloId": "1257",
+      "marca": "CHRYSLER",
+      "modelo": "TOWN & COUNTRY",
+      "version": "Limited 3.8",
+      "precios": {}
+    },
+    "12002": {
+      "id": "12002",
+      "marcaId": "107",
+      "modeloId": "1257",
+      "marca": "CHRYSLER",
+      "modelo": "TOWN & COUNTRY",
+      "version": "LX 3.8",
+      "precios": {}
+    },
+    "12003": {
+      "id": "12003",
+      "marcaId": "107",
+      "modeloId": "1258",
+      "marca": "CHRYSLER",
+      "modelo": "VIPER",
+      "version": "Variante · Ref. V-12003",
+      "precios": {}
+    },
+    "12004": {
+      "id": "12004",
+      "marcaId": "108",
+      "modeloId": "1259",
+      "marca": "CITROEN",
+      "modelo": "2CV - 3CV",
+      "version": "OLT CIT Club",
+      "precios": {}
+    },
+    "12005": {
+      "id": "12005",
+      "marcaId": "108",
+      "modeloId": "1260",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "T200 1ST Edition 1.0 2",
+      "precios": {
+        "2025": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12006": {
+      "id": "12006",
+      "marcaId": "108",
+      "modeloId": "1260",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "T200 Dark Edition 1.0",
+      "precios": {
+        "0": {
+          "usd": 27806.79,
+          "ars": 42600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12007": {
+      "id": "12007",
+      "marcaId": "108",
+      "modeloId": "1260",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "T200 Shine 1.0",
+      "precios": {
+        "0": {
+          "usd": 27434.73,
+          "ars": 42030000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12008": {
+      "id": "12008",
+      "marcaId": "108",
+      "modeloId": "1260",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "Feel 1.6 VTi",
+      "precios": {
+        "0": {
+          "usd": 24092.18,
+          "ars": 34500000,
+          "cotizacion": 1432
+        },
+        "2025": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12009": {
+      "id": "12009",
+      "marcaId": "108",
+      "modeloId": "1260",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "Live Pack 1.6 VTi",
+      "precios": {
+        "0": {
+          "usd": 22758.38,
+          "ars": 32590000,
+          "cotizacion": 1432
+        },
+        "2025": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12010": {
+      "id": "12010",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "1.4 Nafta Furgón",
+      "precios": {}
+    },
+    "12011": {
+      "id": "12011",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Business 1.4 Nafta Furgón",
+      "precios": {
+        "2014": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8224.54,
+          "ars": 12600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12012": {
+      "id": "12012",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Business Mixt 1.4 Nafta Furgón",
+      "precios": {
+        "2014": {
+          "usd": 7637.08,
+          "ars": 11700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8942.56,
+          "ars": 13700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12013": {
+      "id": "12013",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Club 1.4 Nafta Furgón",
+      "precios": {
+        "2014": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12014": {
+      "id": "12014",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Full 1.4 Nafta Furgón",
+      "precios": {}
+    },
+    "12015": {
+      "id": "12015",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "L/N 1.4 Nafta Furgón",
+      "precios": {
+        "2013": {
+          "usd": 6886.42,
+          "ars": 10550000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7278.07,
+          "ars": 11150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12016": {
+      "id": "12016",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "L/N Full 1.4 Nafta Furgón",
+      "precios": {
+        "2013": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12017": {
+      "id": "12017",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "L/N Seguridad 1.4 Nafta Furgón",
+      "precios": {
+        "2013": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12018": {
+      "id": "12018",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Pack 1.4 Nafta Furgón",
+      "precios": {}
+    },
+    "12019": {
+      "id": "12019",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Pack Puerta Lateral Corrediza 1.4 Nafta Furgón",
+      "precios": {}
+    },
+    "12030": {
+      "id": "12030",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "1.6 HDi Furgón",
+      "precios": {
+        "2013": {
+          "usd": 6853.79,
+          "ars": 10500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12031": {
+      "id": "12031",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Business 1.6 HDi Furgón",
+      "precios": {
+        "2014": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7898.17,
+          "ars": 12100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8355.09,
+          "ars": 12800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8877.28,
+          "ars": 13600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12032": {
+      "id": "12032",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Business 1.6 HDi Furgón Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 25739.01,
+          "ars": 38660000,
+          "cotizacion": 1502
+        },
+        "2023": {
+          "usd": 13903.39,
+          "ars": 21300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15535.25,
+          "ars": 23800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12033": {
+      "id": "12033",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Business Mixto 1.6 HDi Furgón",
+      "precios": {
+        "2014": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8224.54,
+          "ars": 12600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12034": {
+      "id": "12034",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Full 1.6 HDi Furgón",
+      "precios": {
+        "2013": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12035": {
+      "id": "12035",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Puerta Lateral Corrediza 1.6 HDi Furgón",
+      "precios": {
+        "2013": {
+          "usd": 6951.7,
+          "ars": 10650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12036": {
+      "id": "12036",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Seguridad 1.6 HDi Furgón",
+      "precios": {
+        "2013": {
+          "usd": 6853.79,
+          "ars": 10500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12037": {
+      "id": "12037",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Business 1.6 Nafta Furgón",
+      "precios": {
+        "2018": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9856.4,
+          "ars": 15100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12038": {
+      "id": "12038",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Business 1.6 Nafta Furgón Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14621.41,
+          "ars": 22400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12039": {
+      "id": "12039",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Business Mixto 1.6 Nafta Furgón",
+      "precios": {
+        "2017": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9660.57,
+          "ars": 14800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10182.77,
+          "ars": 15600000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12042": {
+      "id": "12042",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "1.9 Diésel Furgón",
+      "precios": {}
+    },
+    "12043": {
+      "id": "12043",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Full 1.9 Diésel Furgón",
+      "precios": {}
+    },
+    "12044": {
+      "id": "12044",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "L/N 1.9 Diésel Furgón",
+      "precios": {}
+    },
+    "12045": {
+      "id": "12045",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "L/N Puerta Lateral Corrediza 1.9 Diésel Furgón",
+      "precios": {}
+    },
+    "12046": {
+      "id": "12046",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Puerta Lateral Corrediza 1.9 Diésel Furgón",
+      "precios": {}
+    },
+    "12047": {
+      "id": "12047",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Puerta Lateral Corrediza Aire 1.9 Diésel Furgón",
+      "precios": {}
+    },
+    "12048": {
+      "id": "12048",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 2PLC 1.4 Nafta",
+      "precios": {}
+    },
+    "12049": {
+      "id": "12049",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 2PLC Aire 1.4 Nafta",
+      "precios": {}
+    },
+    "12050": {
+      "id": "12050",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace X 1.4 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 7637.08,
+          "ars": 11700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8159.27,
+          "ars": 12500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12051": {
+      "id": "12051",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace SX 1.6 HDi",
+      "precios": {
+        "2013": {
+          "usd": 7963.45,
+          "ars": 12200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8550.91,
+          "ars": 13100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12052": {
+      "id": "12052",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace SX Pack 1.6 HDi",
+      "precios": {
+        "2013": {
+          "usd": 8093.99,
+          "ars": 12400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12053": {
+      "id": "12053",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace XTR 1.6 HDi",
+      "precios": {
+        "2014": {
+          "usd": 8877.28,
+          "ars": 13600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10052.22,
+          "ars": 15400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12054": {
+      "id": "12054",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace XTR 1.6 HDi Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17362.92,
+          "ars": 26600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12055": {
+      "id": "12055",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace SX 1.6 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 7898.17,
+          "ars": 12100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9660.57,
+          "ars": 14800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12056": {
+      "id": "12056",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace SX Pack 1.6 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8616.19,
+          "ars": 13200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12057": {
+      "id": "12057",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace X 1.6 Nafta",
+      "precios": {}
+    },
+    "12058": {
+      "id": "12058",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace XTR 1.6 Nafta",
+      "precios": {
+        "2014": {
+          "usd": 8812.01,
+          "ars": 13500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9986.95,
+          "ars": 15300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14751.96,
+          "ars": 22600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12059": {
+      "id": "12059",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace XTR 1.6 Nafta Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 15731.07,
+          "ars": 24100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12060": {
+      "id": "12060",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1PLC 1.8 Nafta",
+      "precios": {}
+    },
+    "12061": {
+      "id": "12061",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1PLC DAB 1.8 Nafta",
+      "precios": {}
+    },
+    "12062": {
+      "id": "12062",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 2PLC Aire 1.8 Nafta",
+      "precios": {}
+    },
+    "12063": {
+      "id": "12063",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 2PLC DAB 1.8 Nafta",
+      "precios": {}
+    },
+    "12064": {
+      "id": "12064",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1.9 Diésel",
+      "precios": {}
+    },
+    "12065": {
+      "id": "12065",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1PLC 1.9 Diésel",
+      "precios": {}
+    },
+    "12066": {
+      "id": "12066",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 1PLC DAB 1.9 Diésel",
+      "precios": {}
+    },
+    "12067": {
+      "id": "12067",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 2PL Full 1.9 Diésel",
+      "precios": {}
+    },
+    "12068": {
+      "id": "12068",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 2PL Pack 1.9 Diésel",
+      "precios": {}
+    },
+    "12069": {
+      "id": "12069",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 2PLC 1.9 Diésel",
+      "precios": {}
+    },
+    "12072": {
+      "id": "12072",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "Multispace 2PLC 2.0 HDi",
+      "precios": {}
+    },
+    "12073": {
+      "id": "12073",
+      "marcaId": "108",
+      "modeloId": "1262",
+      "marca": "CITROEN",
+      "modelo": "C 15",
+      "version": "Diésel Furgón",
+      "precios": {}
+    },
+    "12074": {
+      "id": "12074",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel You! Pack 1.0 Turbo CVT",
+      "precios": {
+        "0": {
+          "usd": 23909.92,
+          "ars": 36630000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12075": {
+      "id": "12075",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel Design 1.2 PureTech",
+      "precios": {
+        "2023": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12076": {
+      "id": "12076",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel 1.2 PureTech Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12077": {
+      "id": "12077",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel Look 1.2 PureTech Modelo 2022",
+      "precios": {
+        "2023": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12078": {
+      "id": "12078",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "First Edition 1.2 PureTech Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12079": {
+      "id": "12079",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Live 1.2 PureTech Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12080": {
+      "id": "12080",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Live Pack 1.2 PureTech Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12081": {
+      "id": "12081",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Exclusive 1.4 HDi",
+      "precios": {}
+    },
+    "12082": {
+      "id": "12082",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Exclusive 1.4 HDi Modelo 2008",
+      "precios": {}
+    },
+    "12095": {
+      "id": "12095",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel 1.5 Nafta",
+      "precios": {
+        "2016": {
+          "usd": 8355.09,
+          "ars": 12800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8746.74,
+          "ars": 13400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12096": {
+      "id": "12096",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Live 1.5 Nafta",
+      "precios": {
+        "2016": {
+          "usd": 8224.54,
+          "ars": 12600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8616.19,
+          "ars": 13200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12097": {
+      "id": "12097",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Origine 1.5 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 6527.42,
+          "ars": 10000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12098": {
+      "id": "12098",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Origine Zenith Pack 1.5 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 6592.69,
+          "ars": 10100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12103": {
+      "id": "12103",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Exclusive 1.6 VTi",
+      "precios": {
+        "2013": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12104": {
+      "id": "12104",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Exclusive MY WAY Pack 1.6 VTi",
+      "precios": {
+        "2013": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7832.9,
+          "ars": 12000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8224.54,
+          "ars": 12600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12105": {
+      "id": "12105",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel BT 1.6 VTi Automática",
+      "precios": {
+        "2017": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9856.4,
+          "ars": 15100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12106": {
+      "id": "12106",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel BT 1.6 VTi",
+      "precios": {
+        "2016": {
+          "usd": 8616.19,
+          "ars": 13200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9007.83,
+          "ars": 13800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12107": {
+      "id": "12107",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel 1.6 VTi Modelo 2022",
+      "precios": {
+        "0": {
+          "usd": 22597.91,
+          "ars": 34620000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12108": {
+      "id": "12108",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel Pack 1.6 VTi Automática Modelo 2022",
+      "precios": {
+        "0": {
+          "usd": 22767.62,
+          "ars": 34880000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14425.59,
+          "ars": 22100000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15208.88,
+          "ars": 23300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12109": {
+      "id": "12109",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel Design Pack 1.6 VTi Automática",
+      "precios": {
+        "2023": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14621.41,
+          "ars": 22400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12110": {
+      "id": "12110",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Feel Look Pack 1.6 VTi Automática Modelo 2022",
+      "precios": {
+        "2023": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12111": {
+      "id": "12111",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "First Edition 1.6 VTi Automática Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12112": {
+      "id": "12112",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Infinit 1.6 VTi Automática",
+      "precios": {
+        "2017": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12113": {
+      "id": "12113",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Live 1.6 VTi",
+      "precios": {
+        "2017": {
+          "usd": 8812.01,
+          "ars": 13500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10052.22,
+          "ars": 15400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12114": {
+      "id": "12114",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Origins 1.6 VTi",
+      "precios": {
+        "2019": {
+          "usd": 9856.4,
+          "ars": 15100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12121": {
+      "id": "12121",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Exclusive 1.6 Nafta",
+      "precios": {}
+    },
+    "12122": {
+      "id": "12122",
+      "marcaId": "108",
+      "modeloId": "1263",
+      "marca": "CITROEN",
+      "modelo": "C 3",
+      "version": "Exclusive 1.6 Nafta Modelo 2008",
+      "precios": {
+        "2013": {
+          "usd": 5228.46,
+          "ars": 8010000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12125": {
+      "id": "12125",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Feel Pack 1.0 Turbo 7 Asientos Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 16840.73,
+          "ars": 25800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17819.84,
+          "ars": 27300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12126": {
+      "id": "12126",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Feel Pack 1.0 Turbo Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 29210.18,
+          "ars": 44750000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 16710.18,
+          "ars": 25600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17689.3,
+          "ars": 27100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18994.78,
+          "ars": 29100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12127": {
+      "id": "12127",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Shine 1.0 Turbo 7 Asientos Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 30509.14,
+          "ars": 46740000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18342.04,
+          "ars": 28100000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 19321.15,
+          "ars": 29600000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 20626.63,
+          "ars": 31600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12128": {
+      "id": "12128",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Shine BT 1.0 Turbo 7 Asientos Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 30672.32,
+          "ars": 46990000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18472.58,
+          "ars": 28300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 19451.7,
+          "ars": 29800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 20757.18,
+          "ars": 31800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12129": {
+      "id": "12129",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Shine BT 1.0 Turbo Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 29458.22,
+          "ars": 45130000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18472.58,
+          "ars": 28300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19778.07,
+          "ars": 30300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12130": {
+      "id": "12130",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Shine 1.0 Turbo Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 29275.46,
+          "ars": 44850000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 17362.92,
+          "ars": 26600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18342.04,
+          "ars": 28100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19647.52,
+          "ars": 30100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12131": {
+      "id": "12131",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "XTR 1.0 Turbo",
+      "precios": {
+        "0": {
+          "usd": 29601.83,
+          "ars": 45350000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 19647.52,
+          "ars": 30100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 20953,
+          "ars": 32100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12132": {
+      "id": "12132",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Feel Pack 1.3",
+      "precios": {
+        "0": {
+          "usd": 26736.29,
+          "ars": 40960000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17689.3,
+          "ars": 27100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12133": {
+      "id": "12133",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Live 1.5",
+      "precios": {
+        "2016": {
+          "usd": 8420.37,
+          "ars": 12900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8812.01,
+          "ars": 13500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12134": {
+      "id": "12134",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "1.6",
+      "precios": {
+        "2013": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12135": {
+      "id": "12135",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Exclu 1.6 Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8093.99,
+          "ars": 12400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12136": {
+      "id": "12136",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Exclu MY WAY 1.6 Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 7506.53,
+          "ars": 11500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7832.9,
+          "ars": 12000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8159.27,
+          "ars": 12500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12137": {
+      "id": "12137",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Exclusive 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12138": {
+      "id": "12138",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Exclusive MY WAY 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12139": {
+      "id": "12139",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Feel 1.6",
+      "precios": {
+        "2016": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9530.03,
+          "ars": 14600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9986.95,
+          "ars": 15300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12140": {
+      "id": "12140",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Feel 1.6 Automática",
+      "precios": {
+        "2017": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10052.22,
+          "ars": 15400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12141": {
+      "id": "12141",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Live 1.6",
+      "precios": {
+        "2018": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12142": {
+      "id": "12142",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Pack Seguridad 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7114.88,
+          "ars": 10900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12143": {
+      "id": "12143",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Shine 1.6",
+      "precios": {
+        "2016": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9856.4,
+          "ars": 15100000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12144": {
+      "id": "12144",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Shine 1.6 Automática",
+      "precios": {
+        "2017": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12145": {
+      "id": "12145",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "SX 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7114.88,
+          "ars": 10900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12146": {
+      "id": "12146",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "SX High Tech 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7180.16,
+          "ars": 11000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7571.8,
+          "ars": 11600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12147": {
+      "id": "12147",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Tendance 1.6 Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7637.08,
+          "ars": 11700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7963.45,
+          "ars": 12200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8289.82,
+          "ars": 12700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12148": {
+      "id": "12148",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Urban 1.6",
+      "precios": {
+        "2017": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12149": {
+      "id": "12149",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Feel Pack 1.6 VTi Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 14751.96,
+          "ars": 22600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15731.07,
+          "ars": 24100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16906.01,
+          "ars": 25900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12150": {
+      "id": "12150",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Feel Pack 1.6 VTi 7 Asientos Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 15731.07,
+          "ars": 24100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12151": {
+      "id": "12151",
+      "marcaId": "108",
+      "modeloId": "1264",
+      "marca": "CITROEN",
+      "modelo": "C 3 AIRCROSS",
+      "version": "Live 1.6 VTi Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12153": {
+      "id": "12153",
+      "marcaId": "108",
+      "modeloId": "1265",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "1.6",
+      "precios": {
+        "2013": {
+          "usd": 6657.96,
+          "ars": 10200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "12157": {
+      "id": "12157",
+      "marcaId": "108",
+      "modeloId": "1265",
+      "marca": "CITROEN",
+      "modelo": "C 3 PICASSO",
+      "version": "Exc. MY WAY 1.6 VTi Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8420.37,
+          "ars": 12900000,
+          "cotizacion": 1532
+        }
+      }
     },
     "131666": {
       "id": "131666",
@@ -31772,6 +38093,316 @@
         }
       }
     },
+    "242885": {
+      "id": "242885",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Longitude 1.3 T270 Automática 4x2 Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242886": {
+      "id": "242886",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Serie-S 1.3 T270 Automática 4x2 Modelo 2022",
+      "precios": {
+        "2023": {
+          "usd": 19419.06,
+          "ars": 29750000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 21050.91,
+          "ars": 32250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242887": {
+      "id": "242887",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Trailhawk 1.3 T270 Automática 4x4 Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 20691.91,
+          "ars": 31700000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 21997.39,
+          "ars": 33700000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23302.87,
+          "ars": 35700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242888": {
+      "id": "242888",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport 1.8 4x2 Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 17232.38,
+          "ars": 26400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242889": {
+      "id": "242889",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport 1.8 Automática 4x2 Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17101.83,
+          "ars": 26200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242890": {
+      "id": "242890",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Longitude 1.3 T270 Automática 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 33894.81,
+          "ars": 50910000,
+          "cotizacion": 1502
+        },
+        "2024": {
+          "usd": 21050.91,
+          "ars": 32250000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 22356.4,
+          "ars": 34250000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23661.88,
+          "ars": 36250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242891": {
+      "id": "242891",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Serie-S 1.3 T270 Automática 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 34660.45,
+          "ars": 52060000,
+          "cotizacion": 1502
+        },
+        "2024": {
+          "usd": 22356.4,
+          "ars": 34250000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23661.88,
+          "ars": 36250000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24967.36,
+          "ars": 38250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242892": {
+      "id": "242892",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport 1.3 T270 Automática 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 30852.2,
+          "ars": 46340000,
+          "cotizacion": 1502
+        },
+        "2025": {
+          "usd": 20528.72,
+          "ars": 31450000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 21834.2,
+          "ars": 33450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242893": {
+      "id": "242893",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Trailhawk 1.3 T270 Automática 4x4 Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 24640.99,
+          "ars": 37750000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25946.48,
+          "ars": 39750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242894": {
+      "id": "242894",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Willys 1.3 T270 Automática 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 38182.42,
+          "ars": 57350000,
+          "cotizacion": 1502
+        },
+        "2025": {
+          "usd": 27251.96,
+          "ars": 41750000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 28557.44,
+          "ars": 43750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242895": {
+      "id": "242895",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sport 1.8 Automática 4x2 Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 18080.94,
+          "ars": 27700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 19386.42,
+          "ars": 29700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242988": {
+      "id": "242988",
+      "marcaId": "108",
+      "modeloId": "1260",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "Feel 1.3",
+      "precios": {
+        "0": {
+          "usd": 24614.88,
+          "ars": 37710000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "242989": {
+      "id": "242989",
+      "marcaId": "108",
+      "modeloId": "1260",
+      "marca": "CITROEN",
+      "modelo": "BASALT",
+      "version": "Live Pack 1.3",
+      "precios": {
+        "0": {
+          "usd": 23257.18,
+          "ars": 35630000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "250300": {
       "id": "250300",
       "marcaId": "102",
@@ -31808,6 +38439,106 @@
         "2025": {
           "usd": 37859.01,
           "ars": 58000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "317720": {
+      "id": "317720",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Altitude 1.3 T270 Automática 4x2 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 32552.22,
+          "ars": 49870000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "317721": {
+      "id": "317721",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Long NIG 1.3 T270 Automática 4x2 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 33655.35,
+          "ars": 51560000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "317722": {
+      "id": "317722",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Sahara 1.3 T270 Automática 4x2 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 34353.79,
+          "ars": 52630000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "317723": {
+      "id": "317723",
+      "marcaId": "107",
+      "modeloId": "1244",
+      "marca": "CHRYSLER",
+      "modelo": "JEEP RENEGADE",
+      "version": "Willys AT9 1.3 T270 4x4 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 39268.93,
+          "ars": 60160000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 31657.96,
+          "ars": 48500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "317837": {
+      "id": "317837",
+      "marcaId": "108",
+      "modeloId": "1261",
+      "marca": "CITROEN",
+      "modelo": "BERLINGO",
+      "version": "VAN L2 1.6 HDi Furgón Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 27297.65,
+          "ars": 41820000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 21540.47,
+          "ars": 33000000,
           "cotizacion": 1532
         }
       }
@@ -32518,6 +39249,21 @@
         "0": {
           "usd": 43146.87,
           "ars": 66101000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "336724": {
+      "id": "336724",
+      "marcaId": "107",
+      "modeloId": "1251",
+      "marca": "CHRYSLER",
+      "modelo": "RAM DAKOTA",
+      "version": "Laramie Night ED",
+      "precios": {
+        "0": {
+          "usd": 51331.59,
+          "ars": 78640000,
           "cotizacion": 1532
         }
       }
