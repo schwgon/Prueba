@@ -18,6 +18,7 @@ const REQUEST_INTERVAL_MS = Number(process.env.REQUEST_INTERVAL_MS || 21000);
 const JOB_SECONDS = Number(process.env.JOB_SECONDS || 7500);
 const CHECKPOINT_EVERY = Number(process.env.CHECKPOINT_EVERY || 20);
 const HTTP_TIMEOUT_MS = 15000;
+const STATE_VERSION = 5;
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 function nowIso() { return new Date().toISOString(); }
@@ -116,7 +117,7 @@ function freshCatalog() {
 
 function freshState() {
   return {
-    version: 4,
+    version: STATE_VERSION,
     actualizado: nowIso(),
     fase: 'catalogo_marcas_modelos',
     marcaIndex: 0,
@@ -180,7 +181,7 @@ function normalizeName(v) { return v?.nombre ?? v?.name ?? v?.version ?? v?.mode
 async function processCatalog(deadline, state, catalog) {
   if (state.fase === 'catalogo_marcas_modelos') {
     if (!catalog.marcas.length) {
-      catalog.marcas = await apiGetAll(`${API}/brands`);
+      catalog.marcas = await apiGetAll(`${API}/argautos/brands`);
       catalog.marcas = catalog.marcas.map(x => ({ id: normalizeId(x), nombre: normalizeName(x) })).filter(x => x.id && x.nombre);
       saveCatalog(catalog);
     }
@@ -188,7 +189,7 @@ async function processCatalog(deadline, state, catalog) {
     while (state.marcaIndex < catalog.marcas.length) {
       if (Date.now() >= deadline - 120000) return false;
       const brand = catalog.marcas[state.marcaIndex];
-      const models = await apiGetAll(`${API}/brands/${encodeURIComponent(brand.id)}/models`);
+      const models = await apiGetAll(`${API}/argautos/brands/${encodeURIComponent(brand.id)}/models`);
 
       // Reemplazar modelos de esa marca para evitar duplicados.
       catalog.modelos = catalog.modelos.filter(m => String(m.marcaId) !== String(brand.id));
@@ -213,7 +214,7 @@ async function processCatalog(deadline, state, catalog) {
     while (state.modeloIndex < catalog.modelos.length) {
       if (Date.now() >= deadline - 120000) return false;
       const model = catalog.modelos[state.modeloIndex];
-      const versions = await apiGetAll(`${API}/models/${encodeURIComponent(model.id)}/versions`);
+      const versions = await apiGetAll(`${API}/argautos/models/${encodeURIComponent(model.id)}/versions`);
 
       catalog.versiones = catalog.versiones.filter(v => String(v.modeloId) !== String(model.id));
       for (const v of versions) {
@@ -260,30 +261,39 @@ function normalizePrice(v) {
   return Number.isFinite(n) && n >= 0 ? n : null;
 }
 
-function parseUsdValuations(json, rate) {
-  if (!Array.isArray(json?.data)) throw new Error('Respuesta de valuaciones sin data[]');
+function parseArgAutosPrices(json) {
+  if (!Array.isArray(json?.data)) {
+    throw new Error('Respuesta de precios ArgAutos sin data[]');
+  }
+
   const precios = {};
+
   for (const item of json.data) {
     const year = Number(item.year);
     const usd = normalizePrice(item.price);
+
     if (!Number.isInteger(year) || usd === null) continue;
     if (year !== 0 && (year < MIN_YEAR || year > MAX_YEAR)) continue;
+
+    const arsThousands = normalizePrice(item.price_ars_thousands);
+    const exchangeRate = normalizePrice(item.exchange_rate);
+
     const p = { usd };
-    if (rate > 0) {
-      p.ars = Number((usd * rate).toFixed(2));
-      p.cotizacion = rate;
+
+    // ArgAutos entrega directamente el precio ARS de su propia fuente.
+    // price_ars_thousands está expresado en miles de ARS.
+    if (arsThousands !== null) {
+      p.ars = Number((arsThousands * 1000).toFixed(2));
     }
+
+    if (exchangeRate !== null) {
+      p.cotizacion = exchangeRate;
+    }
+
     precios[String(year)] = p;
   }
-  return precios;
-}
 
-async function getCurrentRate() {
-  // Una sola consulta ARS por lote obtiene la cotización oficial vigente.
-  const json = await apiGet(`${API}/versions/1/valuations?currency=ars`);
-  const rate = normalizePrice(json?.meta?.exchange_rate?.ars_per_usd);
-  if (!rate) throw new Error('No se pudo obtener ars_per_usd de ArgAutos.');
-  return rate;
+  return precios;
 }
 
 async function processValuations(deadline, state, catalog, data) {
@@ -292,20 +302,23 @@ async function processValuations(deadline, state, catalog, data) {
     saveDataAndState(data, state);
   }
 
-  const rate = await getCurrentRate();
-  console.log(`Cotización oficial usada para este lote: ${rate}`);
   let sinceCheckpoint = 0;
 
   while (state.siguienteIndice < catalog.versiones.length) {
     if (Date.now() >= deadline - 120000) break;
 
     const v = catalog.versiones[state.siguienteIndice];
-    console.log(`VERSIÓN ${state.siguienteIndice + 1}/${catalog.versiones.length}: ${v.marca} ${v.modelo} ${v.version} (ID ${v.id})`);
+    console.log(
+      `VERSIÓN ${state.siguienteIndice + 1}/${catalog.versiones.length}: ` +
+      `${v.marca} ${v.modelo} ${v.version} (ID ${v.id})`
+    );
 
-    // IMPORTANTE: USD es la moneda base de ArgAutos. No calculamos USD
-    // desde ARS; tomamos directamente el price del endpoint USD.
-    const json = await apiGet(`${API}/versions/${encodeURIComponent(v.id)}/valuations`);
-    const precios = parseUsdValuations(json, rate);
+    // Fuente correcta: catálogo y precios propios de ArgAutos.
+    const json = await apiGet(
+      `${API}/argautos/versions/${encodeURIComponent(v.id)}/prices`
+    );
+
+    const precios = parseArgAutosPrices(json);
 
     data.vehiculos[String(v.id)] = {
       id: String(v.id),
@@ -330,6 +343,7 @@ async function processValuations(deadline, state, catalog, data) {
   }
 
   saveDataAndState(data, state);
+
   if (state.siguienteIndice >= catalog.versiones.length) {
     state.completo = true;
     data.completo = true;
@@ -353,6 +367,20 @@ async function main() {
   const deadline = Date.now() + JOB_SECONDS * 1000;
   let state = loadState();
   let catalog = loadCatalog();
+
+  // Si el estado pertenece a una versión anterior del generador,
+  // reiniciar una vez para migrar al catálogo/fuente ArgAutos correcta.
+  if (state.version !== STATE_VERSION) {
+    console.log(
+      `Estado antiguo detectado (v${state.version ?? 'desconocido'}). ` +
+      `Reiniciando ciclo con generador v${STATE_VERSION}.`
+    );
+    state = freshState();
+    catalog = freshCatalog();
+    writeJsonAtomic(DATA, freshData(catalog));
+    saveCatalog(catalog);
+    saveState(state);
+  }
 
   // Un ciclo completado inicia automáticamente un nuevo ciclo mensual.
   // También reinicia el catálogo para incorporar marcas/modelos/versiones
