@@ -95,3 +95,24 @@ http://localhost:8000
 ```
 
 No abrir `index.html` directamente con doble clic, porque el navegador puede bloquear la carga de `autos-data.json` por CORS/origen local.
+
+MAUDAM - migración a la fuente ArgAutos
+
+REEMPLAZAR:
+- generar-autos-data.js
+
+El workflow existente puede mantenerse.
+
+Cambios:
+- /argautos/brands
+- /argautos/brands/{id}/models
+- /argautos/models/{id}/versions
+- /argautos/versions/{id}/prices
+- USD = price
+- ARS = price_ars_thousands * 1000
+- Cotización = exchange_rate
+- No se calcula ARS desde USD.
+- La ventana sigue siendo 0 km + año actual + 13 años anteriores.
+- El estado v4 se reinicia automáticamente una vez al detectar este generador v5,
+  evitando continuar el catálogo construido con la fuente anterior.
+- Se conservan checkpoints y lotes del workflow.
