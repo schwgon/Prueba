@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-16T16:28:39.179Z",
+  "actualizado": "2026-09-16T18:31:58.183Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 1045,
-  "versionesConValuacion": 503,
+  "versionesProcesadas": 1393,
+  "versionesConValuacion": 654,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -17609,6 +17609,36 @@
         }
       }
     },
+    "11041": {
+      "id": "11041",
+      "marcaId": "102",
+      "modeloId": "1158",
+      "marca": "BMW",
+      "modelo": "X 4",
+      "version": "Xline Nafta xDrive 30",
+      "precios": {
+        "2019": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 52872.06,
+          "ars": 81000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "11042": {
       "id": "11042",
       "marcaId": "102",
@@ -17670,6 +17700,5694 @@
         "2021": {
           "usd": 66579.63,
           "ars": 102000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11044": {
+      "id": "11044",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "Executive 3.0 Diésel",
+      "precios": {}
+    },
+    "11045": {
+      "id": "11045",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "Executive Stept. 3.0 Diésel Modelo 2007",
+      "precios": {}
+    },
+    "11046": {
+      "id": "11046",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "Executive Steptronic 3.0 Diésel",
+      "precios": {}
+    },
+    "11047": {
+      "id": "11047",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "Executive Steptronic 3.0 Nafta",
+      "precios": {}
+    },
+    "11048": {
+      "id": "11048",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "Premium 3.0 Nafta",
+      "precios": {}
+    },
+    "11049": {
+      "id": "11049",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "SI Executive Stept. 3.0 Modelo 2007",
+      "precios": {}
+    },
+    "11050": {
+      "id": "11050",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "30D Executive xDrive",
+      "precios": {
+        "2013": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11051": {
+      "id": "11051",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "35I Executive xDrive",
+      "precios": {
+        "2013": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11052": {
+      "id": "11052",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "35I Pure Excellence",
+      "precios": {
+        "2015": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11053": {
+      "id": "11053",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "Premium 4.4 Nafta",
+      "precios": {}
+    },
+    "11054": {
+      "id": "11054",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "Premium Security 4.4 Nafta",
+      "precios": {}
+    },
+    "11055": {
+      "id": "11055",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "Premium Steptronic 4.8 Nafta Modelo 2007",
+      "precios": {}
+    },
+    "11056": {
+      "id": "11056",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "IS Premium 4.8",
+      "precios": {}
+    },
+    "11057": {
+      "id": "11057",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "40D Pure Excellence xDrive",
+      "precios": {
+        "2015": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11058": {
+      "id": "11058",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "40I M Sport Mildhybrid xDrive",
+      "precios": {
+        "0": {
+          "usd": 162822.45,
+          "ars": 249444000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 111618.8,
+          "ars": 171000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 119451.7,
+          "ars": 183000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 127284.6,
+          "ars": 195000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11059": {
+      "id": "11059",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "40I Xline xDrive",
+      "precios": {
+        "2019": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11060": {
+      "id": "11060",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "50I Premium xDrive",
+      "precios": {
+        "2013": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11061": {
+      "id": "11061",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "50I M Package xDrive",
+      "precios": {
+        "2015": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 52872.06,
+          "ars": 81000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 58093.99,
+          "ars": 89000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11062": {
+      "id": "11062",
+      "marcaId": "102",
+      "modeloId": "1159",
+      "marca": "BMW",
+      "modelo": "X 5",
+      "version": "M",
+      "precios": {
+        "2013": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 45039.16,
+          "ars": 69000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 77676.24,
+          "ars": 119000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11063": {
+      "id": "11063",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "30D Sportive xDrive",
+      "precios": {
+        "2013": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11064": {
+      "id": "11064",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "35I Pure Extravagance xDrive",
+      "precios": {
+        "2016": {
+          "usd": 42428.2,
+          "ars": 65000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 51566.58,
+          "ars": 79000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 62010.44,
+          "ars": 95000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11065": {
+      "id": "11065",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "35I Sportive xDrive",
+      "precios": {
+        "2013": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11066": {
+      "id": "11066",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "40I M Sport xDrive",
+      "precios": {
+        "2020": {
+          "usd": 90731.07,
+          "ars": 139000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 94647.52,
+          "ars": 145000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 104438.64,
+          "ars": 160000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11067": {
+      "id": "11067",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "40I M Sport PRO xDrive",
+      "precios": {
+        "0": {
+          "usd": 173005.22,
+          "ars": 265044000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 116187.99,
+          "ars": 178000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 125979.11,
+          "ars": 193000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 135770.23,
+          "ars": 208000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11068": {
+      "id": "11068",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "50I M Package xDrive",
+      "precios": {
+        "2016": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 74412.53,
+          "ars": 114000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 80939.95,
+          "ars": 124000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11069": {
+      "id": "11069",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "50I Premium xDrive",
+      "precios": {
+        "2013": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11070": {
+      "id": "11070",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "M",
+      "precios": {
+        "2013": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 55483.03,
+          "ars": 85000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 77676.24,
+          "ars": 119000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 87467.36,
+          "ars": 134000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 97258.49,
+          "ars": 149000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 110313.32,
+          "ars": 169000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 123368.15,
+          "ars": 189000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11071": {
+      "id": "11071",
+      "marcaId": "102",
+      "modeloId": "1160",
+      "marca": "BMW",
+      "modelo": "X 6",
+      "version": "M Competition",
+      "precios": {
+        "0": {
+          "usd": 239193.21,
+          "ars": 366444000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 171018.28,
+          "ars": 262000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 184073.11,
+          "ars": 282000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11072": {
+      "id": "11072",
+      "marcaId": "102",
+      "modeloId": "1161",
+      "marca": "BMW",
+      "modelo": "X 7",
+      "version": "M 50I",
+      "precios": {
+        "2021": {
+          "usd": 128590.08,
+          "ars": 197000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 138381.2,
+          "ars": 212000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11073": {
+      "id": "11073",
+      "marcaId": "102",
+      "modeloId": "1161",
+      "marca": "BMW",
+      "modelo": "X 7",
+      "version": "M 60I xDrive",
+      "precios": {
+        "0": {
+          "usd": 234101.83,
+          "ars": 358644000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 164490.86,
+          "ars": 252000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 174281.98,
+          "ars": 267000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 187336.81,
+          "ars": 287000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11089": {
+      "id": "11089",
+      "marcaId": "102",
+      "modeloId": "1169",
+      "marca": "BMW",
+      "modelo": "Z 3",
+      "version": "1.9",
+      "precios": {}
+    },
+    "11090": {
+      "id": "11090",
+      "marcaId": "102",
+      "modeloId": "1169",
+      "marca": "BMW",
+      "modelo": "Z 3",
+      "version": "Executive 2.2",
+      "precios": {}
+    },
+    "11091": {
+      "id": "11091",
+      "marcaId": "102",
+      "modeloId": "1169",
+      "marca": "BMW",
+      "modelo": "Z 3",
+      "version": "Sportive 2.8",
+      "precios": {}
+    },
+    "11092": {
+      "id": "11092",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "Executive 2.5 Roadster",
+      "precios": {}
+    },
+    "11093": {
+      "id": "11093",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "Executive LE 2.5 Roadster",
+      "precios": {}
+    },
+    "11094": {
+      "id": "11094",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "Executive Step. 2.5 Roadster",
+      "precios": {}
+    },
+    "11095": {
+      "id": "11095",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "20I Executive Roadster",
+      "precios": {
+        "2013": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11096": {
+      "id": "11096",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "23I Active Sdrive Roadster",
+      "precios": {}
+    },
+    "11097": {
+      "id": "11097",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "28I Executive Roadster",
+      "precios": {
+        "2013": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11098": {
+      "id": "11098",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "Executive 3.0 Coupé",
+      "precios": {}
+    },
+    "11099": {
+      "id": "11099",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "Executive Steptro. 3.0 Coupé",
+      "precios": {}
+    },
+    "11100": {
+      "id": "11100",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "3.0 Roadster",
+      "precios": {}
+    },
+    "11101": {
+      "id": "11101",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "Steptronic 3.0 Roadster",
+      "precios": {}
+    },
+    "11102": {
+      "id": "11102",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "30I M Sport Roadster",
+      "precios": {
+        "0": {
+          "usd": 108853.79,
+          "ars": 166764000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 74412.53,
+          "ars": 114000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 75718.02,
+          "ars": 116000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 78328.98,
+          "ars": 120000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 80939.95,
+          "ars": 124000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 83550.91,
+          "ars": 128000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 88772.85,
+          "ars": 136000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11103": {
+      "id": "11103",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "30I Sdrive Roadster",
+      "precios": {}
+    },
+    "11104": {
+      "id": "11104",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "35I M Roadster",
+      "precios": {
+        "2013": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 64621.41,
+          "ars": 99000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 68537.86,
+          "ars": 105000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11105": {
+      "id": "11105",
+      "marcaId": "102",
+      "modeloId": "1170",
+      "marca": "BMW",
+      "modelo": "Z 4",
+      "version": "35IS M Roadster",
+      "precios": {
+        "2016": {
+          "usd": 69190.6,
+          "ars": 106000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 71148.83,
+          "ars": 109000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11106": {
+      "id": "11106",
+      "marcaId": "102",
+      "modeloId": "1171",
+      "marca": "BMW",
+      "modelo": "Z 8",
+      "version": "Sportive",
+      "precios": {}
+    },
+    "11107": {
+      "id": "11107",
+      "marcaId": "103",
+      "modeloId": "1172",
+      "marca": "BYD",
+      "modelo": "ATTO",
+      "version": "Dm-I GS",
+      "precios": {
+        "0": {
+          "usd": 33945.82,
+          "ars": 52005000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25326.37,
+          "ars": 38800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11111": {
+      "id": "11111",
+      "marcaId": "103",
+      "modeloId": "1175",
+      "marca": "BYD",
+      "modelo": "DOLPHIN MINI",
+      "version": "GL",
+      "precios": {
+        "0": {
+          "usd": 23958.88,
+          "ars": 36705000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15861.62,
+          "ars": 24300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11112": {
+      "id": "11112",
+      "marcaId": "103",
+      "modeloId": "1175",
+      "marca": "BYD",
+      "modelo": "DOLPHIN MINI",
+      "version": "GS",
+      "precios": {
+        "0": {
+          "usd": 24957.57,
+          "ars": 38235000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11113": {
+      "id": "11113",
+      "marcaId": "103",
+      "modeloId": "1176",
+      "marca": "BYD",
+      "modelo": "SHARK",
+      "version": "Dm-O",
+      "precios": {
+        "0": {
+          "usd": 59911.88,
+          "ars": 91785000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11114": {
+      "id": "11114",
+      "marcaId": "103",
+      "modeloId": "1176",
+      "marca": "BYD",
+      "modelo": "SHARK",
+      "version": "Dm-O GS",
+      "precios": {
+        "0": {
+          "usd": 59911.88,
+          "ars": 91785000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11117": {
+      "id": "11117",
+      "marcaId": "103",
+      "modeloId": "1178",
+      "marca": "BYD",
+      "modelo": "SONG PRO DMI",
+      "version": "Dm-I GL",
+      "precios": {
+        "0": {
+          "usd": 35443.86,
+          "ars": 54300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23955.61,
+          "ars": 36700000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26240.21,
+          "ars": 40200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11118": {
+      "id": "11118",
+      "marcaId": "103",
+      "modeloId": "1178",
+      "marca": "BYD",
+      "modelo": "SONG PRO DMI",
+      "version": "Dm-I GS",
+      "precios": {
+        "0": {
+          "usd": 37441.25,
+          "ars": 57360000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11121": {
+      "id": "11121",
+      "marcaId": "103",
+      "modeloId": "1180",
+      "marca": "BYD",
+      "modelo": "YUAN PRO",
+      "version": "GL",
+      "precios": {
+        "0": {
+          "usd": 30949.74,
+          "ars": 47415000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11122": {
+      "id": "11122",
+      "marcaId": "103",
+      "modeloId": "1180",
+      "marca": "BYD",
+      "modelo": "YUAN PRO",
+      "version": "GS",
+      "precios": {
+        "0": {
+          "usd": 31948.43,
+          "ars": 48945000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11123": {
+      "id": "11123",
+      "marcaId": "104",
+      "modeloId": "1181",
+      "marca": "CHANGAN",
+      "modelo": "CS 55",
+      "version": "CS55",
+      "precios": {
+        "0": {
+          "usd": 31958.22,
+          "ars": 48960000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11124": {
+      "id": "11124",
+      "marcaId": "105",
+      "modeloId": "1182",
+      "marca": "CHERY",
+      "modelo": "ARRIZO",
+      "version": "Confort",
+      "precios": {
+        "2018": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11125": {
+      "id": "11125",
+      "marcaId": "105",
+      "modeloId": "1182",
+      "marca": "CHERY",
+      "modelo": "ARRIZO",
+      "version": "Luxury",
+      "precios": {
+        "2018": {
+          "usd": 9268.93,
+          "ars": 14200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11126": {
+      "id": "11126",
+      "marcaId": "105",
+      "modeloId": "1182",
+      "marca": "CHERY",
+      "modelo": "ARRIZO",
+      "version": "Luxury Automática",
+      "precios": {
+        "2018": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9986.95,
+          "ars": 15300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11127": {
+      "id": "11127",
+      "marcaId": "105",
+      "modeloId": "1182",
+      "marca": "CHERY",
+      "modelo": "ARRIZO",
+      "version": "Hybrid Phev Comfortline Turbo",
+      "precios": {
+        "0": {
+          "usd": 34554.83,
+          "ars": 52938000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11128": {
+      "id": "11128",
+      "marcaId": "105",
+      "modeloId": "1183",
+      "marca": "CHERY",
+      "modelo": "FACE",
+      "version": "Luxury",
+      "precios": {
+        "2013": {
+          "usd": 4634.46,
+          "ars": 7100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 4895.56,
+          "ars": 7500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5221.93,
+          "ars": 8000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11129": {
+      "id": "11129",
+      "marcaId": "105",
+      "modeloId": "1184",
+      "marca": "CHERY",
+      "modelo": "FULWIN",
+      "version": "4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 4895.56,
+          "ars": 7500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5221.93,
+          "ars": 8000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5548.3,
+          "ars": 8500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11130": {
+      "id": "11130",
+      "marcaId": "105",
+      "modeloId": "1184",
+      "marca": "CHERY",
+      "modelo": "FULWIN",
+      "version": "5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 4960.84,
+          "ars": 7600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5287.21,
+          "ars": 8100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5613.58,
+          "ars": 8600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11131": {
+      "id": "11131",
+      "marcaId": "105",
+      "modeloId": "1184",
+      "marca": "CHERY",
+      "modelo": "FULWIN",
+      "version": "4 Puertas Serie II",
+      "precios": {
+        "2015": {
+          "usd": 5874.67,
+          "ars": 9000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 6201.04,
+          "ars": 9500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6527.42,
+          "ars": 10000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 8093.99,
+          "ars": 12400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11132": {
+      "id": "11132",
+      "marcaId": "105",
+      "modeloId": "1184",
+      "marca": "CHERY",
+      "modelo": "FULWIN",
+      "version": "5 Puertas Serie II",
+      "precios": {
+        "2015": {
+          "usd": 5939.95,
+          "ars": 9100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 6266.32,
+          "ars": 9600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6592.69,
+          "ars": 10100000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 8159.27,
+          "ars": 12500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11133": {
+      "id": "11133",
+      "marcaId": "105",
+      "modeloId": "1185",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "Confort Security 1.0",
+      "precios": {
+        "2016": {
+          "usd": 5874.67,
+          "ars": 9000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6201.04,
+          "ars": 9500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 6527.42,
+          "ars": 10000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 8159.27,
+          "ars": 12500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11134": {
+      "id": "11134",
+      "marcaId": "105",
+      "modeloId": "1185",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "Light Security 1.0",
+      "precios": {
+        "2016": {
+          "usd": 5744.13,
+          "ars": 8800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6070.5,
+          "ars": 9300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 6396.87,
+          "ars": 9800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 6788.51,
+          "ars": 10400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 7180.16,
+          "ars": 11000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 7571.8,
+          "ars": 11600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11135": {
+      "id": "11135",
+      "marcaId": "105",
+      "modeloId": "1185",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "Basic 1.1",
+      "precios": {
+        "2013": {
+          "usd": 4765.01,
+          "ars": 7300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11136": {
+      "id": "11136",
+      "marcaId": "105",
+      "modeloId": "1185",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "Confort 1.1",
+      "precios": {
+        "2013": {
+          "usd": 4960.84,
+          "ars": 7600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5221.93,
+          "ars": 8000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5548.3,
+          "ars": 8500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 5874.67,
+          "ars": 9000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6201.04,
+          "ars": 9500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11137": {
+      "id": "11137",
+      "marcaId": "105",
+      "modeloId": "1185",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "Edicion Especial 1.1",
+      "precios": {}
+    },
+    "11138": {
+      "id": "11138",
+      "marcaId": "105",
+      "modeloId": "1185",
+      "marca": "CHERY",
+      "modelo": "QQ",
+      "version": "Light 1.1",
+      "precios": {
+        "2013": {
+          "usd": 4830.29,
+          "ars": 7400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5091.38,
+          "ars": 7800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5417.75,
+          "ars": 8300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 5744.13,
+          "ars": 8800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6070.5,
+          "ars": 9300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11139": {
+      "id": "11139",
+      "marcaId": "105",
+      "modeloId": "1186",
+      "marca": "CHERY",
+      "modelo": "SKIN",
+      "version": "4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 4765.01,
+          "ars": 7300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5091.38,
+          "ars": 7800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5417.75,
+          "ars": 8300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11140": {
+      "id": "11140",
+      "marcaId": "105",
+      "modeloId": "1186",
+      "marca": "CHERY",
+      "modelo": "SKIN",
+      "version": "5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 4830.29,
+          "ars": 7400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5156.66,
+          "ars": 7900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5483.03,
+          "ars": 8400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11141": {
+      "id": "11141",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 1.6 4x2",
+      "precios": {
+        "2015": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8224.54,
+          "ars": 12600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11142": {
+      "id": "11142",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 1.5 4x2 2",
+      "precios": {
+        "2018": {
+          "usd": 8877.28,
+          "ars": 13600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9530.03,
+          "ars": 14600000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10182.77,
+          "ars": 15600000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11143": {
+      "id": "11143",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 1.5 CVT 4x2 Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11144": {
+      "id": "11144",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Luxury 1.5 4x2",
+      "precios": {
+        "2018": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9856.4,
+          "ars": 15100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11145": {
+      "id": "11145",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Confort 1.5 4x2 2",
+      "precios": {
+        "2021": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11146": {
+      "id": "11146",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Confort 1.5 CVT 4x2 2",
+      "precios": {
+        "2021": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11147": {
+      "id": "11147",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Luxury 1.5 4x2",
+      "precios": {
+        "2021": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11148": {
+      "id": "11148",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO STD 1.5 4x2",
+      "precios": {
+        "2024": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11149": {
+      "id": "11149",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Pro-Max Comfortline 1.5 4x2",
+      "precios": {
+        "0": {
+          "usd": 22969.97,
+          "ars": 35190000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11150": {
+      "id": "11150",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Pro-Max Comfortline 1.5 CVT 4x2",
+      "precios": {
+        "0": {
+          "usd": 25466.71,
+          "ars": 39015000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11151": {
+      "id": "11151",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 2.0 4x2",
+      "precios": {
+        "2013": {
+          "usd": 6266.32,
+          "ars": 9600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11152": {
+      "id": "11152",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 2.0 4x2 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 6657.96,
+          "ars": 10200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7898.17,
+          "ars": 12100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8355.09,
+          "ars": 12800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11153": {
+      "id": "11153",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Luxury 2.0 Automática 4x2 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 6788.51,
+          "ars": 10400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7180.16,
+          "ars": 11000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7571.8,
+          "ars": 11600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11154": {
+      "id": "11154",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Luxury 2.0 4x4",
+      "precios": {
+        "2013": {
+          "usd": 6592.69,
+          "ars": 10100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11155": {
+      "id": "11155",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Luxury 2.0 4x4 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8224.54,
+          "ars": 12600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11156": {
+      "id": "11156",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 1.6 CVT 4x2 Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11157": {
+      "id": "11157",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 1.6 4x2 Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 8224.54,
+          "ars": 12600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8746.74,
+          "ars": 13400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9268.93,
+          "ars": 14200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11158": {
+      "id": "11158",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Luxury 1.6 CVT 4x2 Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11159": {
+      "id": "11159",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Luxury 1.6 4x2 Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11160": {
+      "id": "11160",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 1.5 4x2 4",
+      "precios": {
+        "2021": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11161": {
+      "id": "11161",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 1.5 CVT 4x2",
+      "precios": {
+        "2021": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13903.39,
+          "ars": 21300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11162": {
+      "id": "11162",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "DHT HEV Premium 1.5 HYBRID 4x2",
+      "precios": {
+        "0": {
+          "usd": 32457.57,
+          "ars": 49725000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11163": {
+      "id": "11163",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Confort 1.5 4x2 4",
+      "precios": {
+        "2022": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11164": {
+      "id": "11164",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Confort 1.5 CVT 4x2 4",
+      "precios": {
+        "2022": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11165": {
+      "id": "11165",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Luxury 1.5 CVT 4x2",
+      "precios": {
+        "2022": {
+          "usd": 14425.59,
+          "ars": 22100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 15208.88,
+          "ars": 23300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11166": {
+      "id": "11166",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 2.0 4x2 4",
+      "precios": {
+        "2020": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11167": {
+      "id": "11167",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 2.0 CVT 4x2",
+      "precios": {
+        "2020": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11168": {
+      "id": "11168",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 2.0 CVT 4x2 Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11169": {
+      "id": "11169",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Confort 2.0 4x2 Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9986.95,
+          "ars": 15300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11170": {
+      "id": "11170",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Luxury 2.0 CVT 4x2 Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11171": {
+      "id": "11171",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "Luxury 2.0 4x2 Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11172": {
+      "id": "11172",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Premium 1.5 HYBRID CVT 4x2",
+      "precios": {
+        "0": {
+          "usd": 32857.05,
+          "ars": 50337000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11174": {
+      "id": "11174",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO 290T Luxury 7DCT 1.6 4x2",
+      "precios": {
+        "0": {
+          "usd": 44741.51,
+          "ars": 68544000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11175": {
+      "id": "11175",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Luxury 1.6 CVT 4x2",
+      "precios": {
+        "2023": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11176": {
+      "id": "11176",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LS",
+      "precios": {}
+    },
+    "11177": {
+      "id": "11177",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LS Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 6657.96,
+          "ars": 10200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7180.16,
+          "ars": 11000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7506.53,
+          "ars": 11500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7832.9,
+          "ars": 12000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11179": {
+      "id": "11179",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LS Spirit",
+      "precios": {
+        "2013": {
+          "usd": 6494.78,
+          "ars": 9950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11181": {
+      "id": "11181",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LT",
+      "precios": {}
+    },
+    "11182": {
+      "id": "11182",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LT Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7637.08,
+          "ars": 11700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7963.45,
+          "ars": 12200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11184": {
+      "id": "11184",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LT Spirit",
+      "precios": {
+        "2013": {
+          "usd": 6494.78,
+          "ars": 9950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11185": {
+      "id": "11185",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LTZ",
+      "precios": {}
+    },
+    "11187": {
+      "id": "11187",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LTZ Effect Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7637.08,
+          "ars": 11700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7963.45,
+          "ars": 12200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11189": {
+      "id": "11189",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LTZ Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7506.53,
+          "ars": 11500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11190": {
+      "id": "11190",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LTZ Spirit",
+      "precios": {
+        "2013": {
+          "usd": 6690.6,
+          "ars": 10250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11191": {
+      "id": "11191",
+      "marcaId": "106",
+      "modeloId": "1188",
+      "marca": "CHEVROLET",
+      "modelo": "AGILE",
+      "version": "LTZ Wi-Fi",
+      "precios": {}
+    },
+    "11192": {
+      "id": "11192",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "Full Cabina Doble 4 Puertas 2.0",
+      "precios": {}
+    },
+    "11193": {
+      "id": "11193",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "CDX 4 Puertas 2.0",
+      "precios": {}
+    },
+    "11194": {
+      "id": "11194",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GL 4 Puertas 1.8",
+      "precios": {}
+    },
+    "11195": {
+      "id": "11195",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GL 4 Puertas 2.0",
+      "precios": {}
+    },
+    "11196": {
+      "id": "11196",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GL 4 Puertas 2.0 Turbodiésel",
+      "precios": {}
+    },
+    "11197": {
+      "id": "11197",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 5 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11198": {
+      "id": "11198",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS Wagon 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11199": {
+      "id": "11199",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 3 Puertas 2.0",
+      "precios": {}
+    },
+    "11200": {
+      "id": "11200",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS Full 3 Puertas 2.0",
+      "precios": {}
+    },
+    "11201": {
+      "id": "11201",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS Full 16 Válvulas 3 Puertas 2.0",
+      "precios": {}
+    },
+    "11202": {
+      "id": "11202",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 4 Puertas 2.0",
+      "precios": {}
+    },
+    "11203": {
+      "id": "11203",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 4 Puertas 2.0 Turbodiésel",
+      "precios": {}
+    },
+    "11204": {
+      "id": "11204",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS ABS 4 Puertas 2.0 Turbodiésel",
+      "precios": {}
+    },
+    "11205": {
+      "id": "11205",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GSI 16 Válvulas 3 Puertas 2.0",
+      "precios": {}
+    },
+    "11206": {
+      "id": "11206",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "Full 16 Válvulas Cabina Doble 5 Puertas 2.0 Serie II",
+      "precios": {}
+    },
+    "11207": {
+      "id": "11207",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GL 4 Puertas 2.0 Serie II",
+      "precios": {}
+    },
+    "11208": {
+      "id": "11208",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GL 4 Puertas 2.0 Turbodiésel Serie II",
+      "precios": {}
+    },
+    "11209": {
+      "id": "11209",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GL 5 Puertas 2.0 Serie II",
+      "precios": {}
+    },
+    "11210": {
+      "id": "11210",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GL 5 Puertas 2.0 Turbodiésel Serie II",
+      "precios": {}
+    },
+    "11213": {
+      "id": "11213",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 4 Puertas 2.0 Serie II",
+      "precios": {}
+    },
+    "11214": {
+      "id": "11214",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 4 Puertas 2.0 Serie II Modelo 2010",
+      "precios": {}
+    },
+    "11215": {
+      "id": "11215",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 4 Puertas 2.0 Turbodiésel Serie II",
+      "precios": {}
+    },
+    "11216": {
+      "id": "11216",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 5 Puertas 2.0 Serie II",
+      "precios": {}
+    },
+    "11217": {
+      "id": "11217",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 5 Puertas 2.0 Serie II Modelo 2010",
+      "precios": {}
+    },
+    "11218": {
+      "id": "11218",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GLS 5 Puertas 2.0 Turbodiésel Serie II",
+      "precios": {}
+    },
+    "11219": {
+      "id": "11219",
+      "marcaId": "106",
+      "modeloId": "1189",
+      "marca": "CHEVROLET",
+      "modelo": "ASTRA",
+      "version": "GSI 5 Puertas 2.4 Serie II",
+      "precios": {}
+    },
+    "11220": {
+      "id": "11220",
+      "marcaId": "106",
+      "modeloId": "1190",
+      "marca": "CHEVROLET",
+      "modelo": "AVALANCHE",
+      "version": "4x4",
+      "precios": {}
+    },
+    "11221": {
+      "id": "11221",
+      "marcaId": "106",
+      "modeloId": "1191",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "LS",
+      "precios": {}
+    },
+    "11222": {
+      "id": "11222",
+      "marcaId": "106",
+      "modeloId": "1191",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "LS Generación 3",
+      "precios": {
+        "2013": {
+          "usd": 5646.21,
+          "ars": 8650000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5842.04,
+          "ars": 8950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11223": {
+      "id": "11223",
+      "marcaId": "106",
+      "modeloId": "1191",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "LT",
+      "precios": {}
+    },
+    "11224": {
+      "id": "11224",
+      "marcaId": "106",
+      "modeloId": "1191",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "LT Automática",
+      "precios": {}
+    },
+    "11225": {
+      "id": "11225",
+      "marcaId": "106",
+      "modeloId": "1191",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "LT Automática Generación 3",
+      "precios": {
+        "2013": {
+          "usd": 5907.31,
+          "ars": 9050000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6103.13,
+          "ars": 9350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11226": {
+      "id": "11226",
+      "marcaId": "106",
+      "modeloId": "1191",
+      "marca": "CHEVROLET",
+      "modelo": "AVEO",
+      "version": "LT Generación 3",
+      "precios": {
+        "2013": {
+          "usd": 5842.04,
+          "ars": 8950000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6037.86,
+          "ars": 9250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11227": {
+      "id": "11227",
+      "marcaId": "106",
+      "modeloId": "1192",
+      "marca": "CHEVROLET",
+      "modelo": "BALENO",
+      "version": "GLX 4 Puertas",
+      "precios": {}
+    },
+    "11228": {
+      "id": "11228",
+      "marcaId": "106",
+      "modeloId": "1192",
+      "marca": "CHEVROLET",
+      "modelo": "BALENO",
+      "version": "GLX Wagon",
+      "precios": {}
+    },
+    "11229": {
+      "id": "11229",
+      "marcaId": "106",
+      "modeloId": "1193",
+      "marca": "CHEVROLET",
+      "modelo": "BERETTA",
+      "version": "GT",
+      "precios": {}
+    },
+    "11230": {
+      "id": "11230",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "4.3 Automática Executive 4x4",
+      "precios": {}
+    },
+    "11231": {
+      "id": "11231",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.2 DLX 4x2",
+      "precios": {}
+    },
+    "11232": {
+      "id": "11232",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.4 DLX 4x2",
+      "precios": {}
+    },
+    "11233": {
+      "id": "11233",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.5 Turbodiésel DLX 4x2",
+      "precios": {}
+    },
+    "11234": {
+      "id": "11234",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.5 Turbodiésel DLX 4x4",
+      "precios": {}
+    },
+    "11235": {
+      "id": "11235",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.8 Turbodiésel DLX 4x2",
+      "precios": {}
+    },
+    "11236": {
+      "id": "11236",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.8 Turbodiésel DLX 4x2 Modelo 2006",
+      "precios": {}
+    },
+    "11237": {
+      "id": "11237",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.8 Turbodiésel DLX 4x2 Modelo 2009",
+      "precios": {}
+    },
+    "11238": {
+      "id": "11238",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.8 Turbodiésel DLX 4x4",
+      "precios": {}
+    },
+    "11239": {
+      "id": "11239",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.8 Turbodiésel DLX 4x4 Modelo 2006",
+      "precios": {}
+    },
+    "11240": {
+      "id": "11240",
+      "marcaId": "106",
+      "modeloId": "1194",
+      "marca": "CHEVROLET",
+      "modelo": "BLAZER",
+      "version": "2.8 Turbodiésel DLX 4x4 Modelo 2009",
+      "precios": {}
+    },
+    "11241": {
+      "id": "11241",
+      "marcaId": "106",
+      "modeloId": "1195",
+      "marca": "CHEVROLET",
+      "modelo": "CAMARO",
+      "version": "SS",
+      "precios": {
+        "2013": {
+          "usd": 49934.73,
+          "ars": 76500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 51892.95,
+          "ars": 79500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 52872.06,
+          "ars": 81000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11242": {
+      "id": "11242",
+      "marcaId": "106",
+      "modeloId": "1195",
+      "marca": "CHEVROLET",
+      "modelo": "CAMARO",
+      "version": "SS Convertible Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 60704.96,
+          "ars": 93000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 62010.44,
+          "ars": 95000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 69190.6,
+          "ars": 106000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11243": {
+      "id": "11243",
+      "marcaId": "106",
+      "modeloId": "1195",
+      "marca": "CHEVROLET",
+      "modelo": "CAMARO",
+      "version": "SS Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 55483.03,
+          "ars": 85000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 60052.22,
+          "ars": 92000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11244": {
+      "id": "11244",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "1.5 Turbo Phev Premier",
+      "precios": {
+        "0": {
+          "usd": 35817.23,
+          "ars": 54872000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 23642.86,
+          "ars": 33100000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 24500,
+          "ars": 34300000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 25357.14,
+          "ars": 35500000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 26214.29,
+          "ars": 36700000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 27214.29,
+          "ars": 38100000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 28357.14,
+          "ars": 39700000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 30142.86,
+          "ars": 42200000,
+          "cotizacion": 1400
+        },
+        "2026": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11245": {
+      "id": "11245",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.0 Diésel LT",
+      "precios": {}
+    },
+    "11246": {
+      "id": "11246",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.0 Diésel Automática LTZ",
+      "precios": {}
+    },
+    "11247": {
+      "id": "11247",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.2 Diésel LT",
+      "precios": {
+        "2013": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11248": {
+      "id": "11248",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.2 Diésel Automática LTZ",
+      "precios": {
+        "2013": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12989.56,
+          "ars": 19900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11249": {
+      "id": "11249",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.2 Diésel Automática LTZ Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11250": {
+      "id": "11250",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.4 LS",
+      "precios": {
+        "2013": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11251": {
+      "id": "11251",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.4 LS Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13642.3,
+          "ars": 20900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11252": {
+      "id": "11252",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.4 LT",
+      "precios": {}
+    },
+    "11253": {
+      "id": "11253",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.4 LT Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 10182.77,
+          "ars": 15600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11254": {
+      "id": "11254",
+      "marcaId": "106",
+      "modeloId": "1196",
+      "marca": "CHEVROLET",
+      "modelo": "CAPTIVA",
+      "version": "2.4 LT Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11255": {
+      "id": "11255",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LS 3 Puertas",
+      "precios": {}
+    },
+    "11256": {
+      "id": "11256",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LS Aire 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5280.68,
+          "ars": 8090000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5411.23,
+          "ars": 8290000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11257": {
+      "id": "11257",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LS Airbag ABS 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5306.79,
+          "ars": 8130000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5502.61,
+          "ars": 8430000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11258": {
+      "id": "11258",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LT 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5313.32,
+          "ars": 8140000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11259": {
+      "id": "11259",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LT Spirit 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5319.84,
+          "ars": 8150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11260": {
+      "id": "11260",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "Advantage 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 5483.03,
+          "ars": 8400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5678.85,
+          "ars": 8700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 5939.95,
+          "ars": 9100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11261": {
+      "id": "11261",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "Advantage Pack 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 5515.67,
+          "ars": 8450000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5711.49,
+          "ars": 8750000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 5972.58,
+          "ars": 9150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11262": {
+      "id": "11262",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LS Aire 5 Puertas",
+      "precios": {}
+    },
+    "11263": {
+      "id": "11263",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LS Spirit 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5313.32,
+          "ars": 8140000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11264": {
+      "id": "11264",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LT 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5326.37,
+          "ars": 8160000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5456.92,
+          "ars": 8360000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11265": {
+      "id": "11265",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LT Airbag ABS 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5352.48,
+          "ars": 8200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5483.03,
+          "ars": 8400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11266": {
+      "id": "11266",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LT Pack 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5359.01,
+          "ars": 8210000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5489.56,
+          "ars": 8410000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11267": {
+      "id": "11267",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LT Plus 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 5483.03,
+          "ars": 8400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11268": {
+      "id": "11268",
+      "marcaId": "106",
+      "modeloId": "1197",
+      "marca": "CHEVROLET",
+      "modelo": "CELTA",
+      "version": "LT Spirit 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5352.48,
+          "ars": 8200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11269": {
+      "id": "11269",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "Cargo 3 Puertas",
+      "precios": {}
+    },
+    "11270": {
+      "id": "11270",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "Cargo Aire 3 Puertas",
+      "precios": {}
+    },
+    "11271": {
+      "id": "11271",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "Life 3 Puertas",
+      "precios": {}
+    },
+    "11272": {
+      "id": "11272",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS Aire Dirección 3 Puertas",
+      "precios": {}
+    },
+    "11273": {
+      "id": "11273",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS City 3 Puertas",
+      "precios": {}
+    },
+    "11274": {
+      "id": "11274",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS City Aire 3 Puertas",
+      "precios": {}
+    },
+    "11275": {
+      "id": "11275",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LT 3 Puertas",
+      "precios": {}
+    },
+    "11276": {
+      "id": "11276",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS 4 Puertas",
+      "precios": {}
+    },
+    "11277": {
+      "id": "11277",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS Aire 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5300.26,
+          "ars": 8120000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5430.81,
+          "ars": 8320000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11278": {
+      "id": "11278",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS ABS Airbag 4 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 5463.45,
+          "ars": 8370000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5659.27,
+          "ars": 8670000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 5920.37,
+          "ars": 9070000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6181.46,
+          "ars": 9470000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11279": {
+      "id": "11279",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS LL ABS Airbag 4 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 5476.5,
+          "ars": 8390000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5672.32,
+          "ars": 8690000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 5933.42,
+          "ars": 9090000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6194.52,
+          "ars": 9490000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11280": {
+      "id": "11280",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS Pack 4 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 5672.32,
+          "ars": 8690000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 5933.42,
+          "ars": 9090000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6194.52,
+          "ars": 9490000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11281": {
+      "id": "11281",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LS Spirit 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5313.32,
+          "ars": 8140000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11282": {
+      "id": "11282",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LT 4 Puertas",
+      "precios": {}
+    },
+    "11283": {
+      "id": "11283",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LT Pack 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5352.48,
+          "ars": 8200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5483.03,
+          "ars": 8400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5613.58,
+          "ars": 8600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11284": {
+      "id": "11284",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "LT Spirit 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5319.84,
+          "ars": 8150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11285": {
+      "id": "11285",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "Wagon LS",
+      "precios": {}
+    },
+    "11286": {
+      "id": "11286",
+      "marcaId": "106",
+      "modeloId": "1198",
+      "marca": "CHEVROLET",
+      "modelo": "CLASSIC",
+      "version": "Wagon LT",
+      "precios": {}
+    },
+    "11287": {
+      "id": "11287",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LT 1.3 Turbodiésel",
+      "precios": {
+        "2013": {
+          "usd": 6429.5,
+          "ars": 9850000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6560.05,
+          "ars": 10050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11288": {
+      "id": "11288",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LTZ 1.3 Turbodiésel",
+      "precios": {
+        "2013": {
+          "usd": 6527.42,
+          "ars": 10000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6657.96,
+          "ars": 10200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11289": {
+      "id": "11289",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LT 1.8",
+      "precios": {
+        "2013": {
+          "usd": 6527.42,
+          "ars": 10000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6657.96,
+          "ars": 10200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 6853.79,
+          "ars": 10500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11290": {
+      "id": "11290",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LT Advantage 1.8",
+      "precios": {
+        "2015": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7180.16,
+          "ars": 11000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11291": {
+      "id": "11291",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LT 1.8 Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8289.82,
+          "ars": 12700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 8616.19,
+          "ars": 13200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 9530.03,
+          "ars": 14600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11292": {
+      "id": "11292",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LTZ 1.8",
+      "precios": {
+        "2013": {
+          "usd": 6755.87,
+          "ars": 10350000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6886.42,
+          "ars": 10550000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7082.25,
+          "ars": 10850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11293": {
+      "id": "11293",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LTZ Advantage 1.8",
+      "precios": {
+        "2015": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11294": {
+      "id": "11294",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LTZ Advantage 1.8 Automática",
+      "precios": {
+        "2015": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7506.53,
+          "ars": 11500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11295": {
+      "id": "11295",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LTZ 1.8 Automática",
+      "precios": {
+        "2013": {
+          "usd": 6788.51,
+          "ars": 10400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7147.52,
+          "ars": 10950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11296": {
+      "id": "11296",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LTZ 1.8 Automática Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 8518.28,
+          "ars": 13050000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8714.1,
+          "ars": 13350000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9105.74,
+          "ars": 13950000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9562.66,
+          "ars": 14650000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10019.58,
+          "ars": 15350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11297": {
+      "id": "11297",
+      "marcaId": "106",
+      "modeloId": "1199",
+      "marca": "CHEVROLET",
+      "modelo": "COBALT",
+      "version": "LTZ 1.8 Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 8387.73,
+          "ars": 12850000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8648.83,
+          "ars": 13250000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 8975.2,
+          "ars": 13750000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9432.11,
+          "ars": 14450000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 9889.03,
+          "ars": 15150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11298": {
+      "id": "11298",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "City 3 Puertas 1.0",
+      "precios": {}
+    },
+    "11299": {
+      "id": "11299",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "5 Puertas 1.0",
+      "precios": {}
+    },
+    "11300": {
+      "id": "11300",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Base 3 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11301": {
+      "id": "11301",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Cargo 3 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11302": {
+      "id": "11302",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "City Aire 3 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11303": {
+      "id": "11303",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "City 3 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11304": {
+      "id": "11304",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 3 Puertas 1.4",
+      "precios": {}
+    },
+    "11305": {
+      "id": "11305",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 3 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11306": {
+      "id": "11306",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 3 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11307": {
+      "id": "11307",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Life 3 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11308": {
+      "id": "11308",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Super/Sport 16 Válvulas 3 Puertas 1.4",
+      "precios": {}
+    },
+    "11309": {
+      "id": "11309",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Base 4 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11310": {
+      "id": "11310",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 4 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11311": {
+      "id": "11311",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 4 Puertas 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11312": {
+      "id": "11312",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Base 3 Puertas 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11313": {
+      "id": "11313",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Cargo 3 Puertas 1.6",
+      "precios": {}
+    },
+    "11314": {
+      "id": "11314",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Cargo 3 Puertas 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11315": {
+      "id": "11315",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "City 3 Puertas 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11316": {
+      "id": "11316",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire Dirección 3 Puertas 1.6",
+      "precios": {}
+    },
+    "11317": {
+      "id": "11317",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire 3 Puertas 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11318": {
+      "id": "11318",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL City 3 Puertas 1.6",
+      "precios": {}
+    },
+    "11319": {
+      "id": "11319",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Full 3 Puertas 1.6",
+      "precios": {}
+    },
+    "11320": {
+      "id": "11320",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 3 Puertas 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11321": {
+      "id": "11321",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "SE ESP 3 Puertas 1.6",
+      "precios": {}
+    },
+    "11322": {
+      "id": "11322",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "SE ESP 3 Puertas 1.6 2",
+      "precios": {}
+    },
+    "11323": {
+      "id": "11323",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wind 3 Puertas 1.6",
+      "precios": {}
+    },
+    "11324": {
+      "id": "11324",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Base 4 Puertas 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11325": {
+      "id": "11325",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11326": {
+      "id": "11326",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire 4 Puertas 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11327": {
+      "id": "11327",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Super Aire 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11328": {
+      "id": "11328",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Full 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11329": {
+      "id": "11329",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL GNC 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11330": {
+      "id": "11330",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Full GNC 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11331": {
+      "id": "11331",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11332": {
+      "id": "11332",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 16 Válvulas 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11333": {
+      "id": "11333",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 4 Puertas 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11334": {
+      "id": "11334",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "SE ESP 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11335": {
+      "id": "11335",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "SE ESP 4 Puertas 1.6 2",
+      "precios": {}
+    },
+    "11336": {
+      "id": "11336",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Super 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11337": {
+      "id": "11337",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Super Pack 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11338": {
+      "id": "11338",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Super Estilo Pack 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11339": {
+      "id": "11339",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Super Verano 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11340": {
+      "id": "11340",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wind 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11341": {
+      "id": "11341",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "World CUP 4 Puertas 1.6",
+      "precios": {}
+    },
+    "11342": {
+      "id": "11342",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 5 Puertas 1.6",
+      "precios": {}
+    },
+    "11343": {
+      "id": "11343",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire Dirección 5 Puertas 1.6",
+      "precios": {}
+    },
+    "11344": {
+      "id": "11344",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Full 5 Puertas 1.6",
+      "precios": {}
+    },
+    "11345": {
+      "id": "11345",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wind 5 Puertas 1.6",
+      "precios": {}
+    },
+    "11346": {
+      "id": "11346",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pick-Up 1.6",
+      "precios": {}
+    },
+    "11347": {
+      "id": "11347",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire Dirección 3 Puertas 1.7 Diésel",
+      "precios": {}
+    },
+    "11348": {
+      "id": "11348",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wind 3 Puertas 1.7 Diésel",
+      "precios": {}
+    },
+    "11349": {
+      "id": "11349",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 4 Puertas 1.7 Diésel",
+      "precios": {}
+    },
+    "11350": {
+      "id": "11350",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire 4 Puertas 1.7 Diésel",
+      "precios": {}
+    },
+    "11351": {
+      "id": "11351",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS Full 4 Puertas 1.7 Diésel",
+      "precios": {}
+    },
+    "11352": {
+      "id": "11352",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wind 4 Puertas 1.7 Diésel",
+      "precios": {}
+    },
+    "11353": {
+      "id": "11353",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 5 Puertas 1.7 Diésel",
+      "precios": {}
+    },
+    "11354": {
+      "id": "11354",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Combo Furgón 1.7 Diésel",
+      "precios": {}
+    },
+    "11355": {
+      "id": "11355",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Pick UP GL 1.7 Diésel",
+      "precios": {}
+    },
+    "11356": {
+      "id": "11356",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "ABS Cabina Doble 4 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11357": {
+      "id": "11357",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 4 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11358": {
+      "id": "11358",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire Dirección 4 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11359": {
+      "id": "11359",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pack 4 Puertas 1.7 Turbodiésel 2 1",
+      "precios": {}
+    },
+    "11360": {
+      "id": "11360",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pack 4 Puertas 1.7 Turbodiésel 2 2",
+      "precios": {}
+    },
+    "11361": {
+      "id": "11361",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 4 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11362": {
+      "id": "11362",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 5 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11363": {
+      "id": "11363",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire Dirección 5 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11364": {
+      "id": "11364",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pack 5 Puertas 1.7 Turbodiésel 2 1",
+      "precios": {}
+    },
+    "11365": {
+      "id": "11365",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pack 5 Puertas 1.7 Turbodiésel 2 2",
+      "precios": {}
+    },
+    "11366": {
+      "id": "11366",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 5 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11367": {
+      "id": "11367",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS Full 5 Puertas 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "11368": {
+      "id": "11368",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "ABS Cabina Doble 4 Puertas 1.8",
+      "precios": {}
+    },
+    "11369": {
+      "id": "11369",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Easytronic Cabina Doble 4 Puertas 1.8",
+      "precios": {}
+    },
+    "11370": {
+      "id": "11370",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 4 Puertas 1.8",
+      "precios": {}
+    },
+    "11371": {
+      "id": "11371",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Internet 4 Puertas 1.8",
+      "precios": {}
+    },
+    "11372": {
+      "id": "11372",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire Dirección 4 Puertas 1.8",
+      "precios": {}
+    },
+    "11373": {
+      "id": "11373",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pack 4 Puertas 1.8 2 1",
+      "precios": {}
+    },
+    "11374": {
+      "id": "11374",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pack 4 Puertas 1.8 2 2",
+      "precios": {}
+    },
+    "11375": {
+      "id": "11375",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 4 Puertas 1.8",
+      "precios": {}
+    },
+    "11376": {
+      "id": "11376",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "ABS Cabina Doble 5 Puertas 1.8",
+      "precios": {}
+    },
+    "11377": {
+      "id": "11377",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Easytronic Cabina Doble 5 Puertas 1.8",
+      "precios": {}
+    },
+    "11378": {
+      "id": "11378",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL 5 Puertas 1.8",
+      "precios": {}
+    },
+    "11379": {
+      "id": "11379",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Internet 5 Puertas 1.8",
+      "precios": {}
+    },
+    "11380": {
+      "id": "11380",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Reef 5 Puertas 1.8",
+      "precios": {}
+    },
+    "11381": {
+      "id": "11381",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Aire Dirección 5 Puertas 1.8",
+      "precios": {}
+    },
+    "11382": {
+      "id": "11382",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Life 5 Puertas 1.8",
+      "precios": {}
+    },
+    "11383": {
+      "id": "11383",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pack 5 Puertas 1.8 2 1",
+      "precios": {}
+    },
+    "11384": {
+      "id": "11384",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GL Pack 5 Puertas 1.8 2 2",
+      "precios": {}
+    },
+    "11385": {
+      "id": "11385",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "GLS 5 Puertas 1.8",
+      "precios": {}
+    },
+    "11386": {
+      "id": "11386",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Tigra 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "11387": {
+      "id": "11387",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GL 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11388": {
+      "id": "11388",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GLS 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11389": {
+      "id": "11389",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon Life 1.4 Modelo 2009",
+      "precios": {}
+    },
+    "11390": {
+      "id": "11390",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GL Aire Dirección 1.6",
+      "precios": {}
+    },
+    "11391": {
+      "id": "11391",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GL Aire 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11392": {
+      "id": "11392",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GL Full 1.6",
+      "precios": {}
+    },
+    "11393": {
+      "id": "11393",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GL Taxi 1.6",
+      "precios": {}
+    },
+    "11394": {
+      "id": "11394",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GLS 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "11395": {
+      "id": "11395",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GLS 1.6 Modelo 2008",
+      "precios": {}
+    },
+    "11396": {
+      "id": "11396",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon SE ESP 1.6",
+      "precios": {}
+    },
+    "11397": {
+      "id": "11397",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon SE ESP 1.6 2",
+      "precios": {}
+    },
+    "11398": {
+      "id": "11398",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon Super Pack 1.6",
+      "precios": {}
+    },
+    "11399": {
+      "id": "11399",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon Super Estilo Pack 1.6",
+      "precios": {}
+    },
+    "11400": {
+      "id": "11400",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon Super Verano Pack 1.6",
+      "precios": {}
+    },
+    "11401": {
+      "id": "11401",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon Wind 1.6",
+      "precios": {}
+    },
+    "11402": {
+      "id": "11402",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GL Aire Dirección 1.7 Diésel",
+      "precios": {}
+    },
+    "11403": {
+      "id": "11403",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon GLS 1.7 Diésel",
+      "precios": {}
+    },
+    "11404": {
+      "id": "11404",
+      "marcaId": "106",
+      "modeloId": "1200",
+      "marca": "CHEVROLET",
+      "modelo": "CORSA",
+      "version": "Wagon Wind 1.7 Diésel",
+      "precios": {}
+    },
+    "11405": {
+      "id": "11405",
+      "marcaId": "106",
+      "modeloId": "1201",
+      "marca": "CHEVROLET",
+      "modelo": "CORSICA",
+      "version": "LT",
+      "precios": {}
+    },
+    "11406": {
+      "id": "11406",
+      "marcaId": "106",
+      "modeloId": "1202",
+      "marca": "CHEVROLET",
+      "modelo": "CORVETTE",
+      "version": "Z-06",
+      "precios": {}
+    },
+    "11407": {
+      "id": "11407",
+      "marcaId": "106",
+      "modeloId": "1203",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "LS 1.4 4 Puertas",
+      "precios": {
+        "2018": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "11408": {
+      "id": "11408",
+      "marcaId": "106",
+      "modeloId": "1203",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE",
+      "version": "LT 1.4 4 Puertas",
+      "precios": {
+        "2016": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14621.41,
+          "ars": 22400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 15600.52,
+          "ars": 23900000,
           "cotizacion": 1532
         }
       }
@@ -18542,6 +24260,296 @@
       "version": "3.2 JTS Spider Medium",
       "precios": {}
     },
+    "210206": {
+      "id": "210206",
+      "marcaId": "104",
+      "modeloId": "21027",
+      "marca": "CHANGAN",
+      "modelo": "CS 15",
+      "version": "CS15 Comfortline",
+      "precios": {
+        "2019": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210207": {
+      "id": "210207",
+      "marcaId": "104",
+      "modeloId": "21027",
+      "marca": "CHANGAN",
+      "modelo": "CS 15",
+      "version": "CS15 Comfortline DTC",
+      "precios": {
+        "2019": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210208": {
+      "id": "210208",
+      "marcaId": "104",
+      "modeloId": "21027",
+      "marca": "CHANGAN",
+      "modelo": "CS 15",
+      "version": "CS15 Luxury DTC",
+      "precios": {
+        "2019": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210209": {
+      "id": "210209",
+      "marcaId": "104",
+      "modeloId": "21029",
+      "marca": "CHANGAN",
+      "modelo": "CS 75",
+      "version": "CS75 Elite 4x2",
+      "precios": {
+        "2019": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210210": {
+      "id": "210210",
+      "marcaId": "104",
+      "modeloId": "21029",
+      "marca": "CHANGAN",
+      "modelo": "CS 75",
+      "version": "CS75 Luxury 4x4",
+      "precios": {
+        "2020": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210211": {
+      "id": "210211",
+      "marcaId": "104",
+      "modeloId": "21030",
+      "marca": "CHANGAN",
+      "modelo": "MD 201",
+      "version": "Cargo Furgón",
+      "precios": {
+        "2019": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210212": {
+      "id": "210212",
+      "marcaId": "104",
+      "modeloId": "21030",
+      "marca": "CHANGAN",
+      "modelo": "MD 201",
+      "version": "Cargo Refrigerado Furgón",
+      "precios": {
+        "2021": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14425.59,
+          "ars": 22100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210213": {
+      "id": "210213",
+      "marcaId": "104",
+      "modeloId": "21030",
+      "marca": "CHANGAN",
+      "modelo": "MD 201",
+      "version": "Cargo Van",
+      "precios": {
+        "2019": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210214": {
+      "id": "210214",
+      "marcaId": "104",
+      "modeloId": "21030",
+      "marca": "CHANGAN",
+      "modelo": "MD 201",
+      "version": "Pick UP",
+      "precios": {
+        "2019": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "221157": {
       "id": "221157",
       "marcaId": "2234",
@@ -18658,6 +24666,51 @@
         "2025": {
           "usd": 37859.01,
           "ars": 58000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "335933": {
+      "id": "335933",
+      "marcaId": "105",
+      "modeloId": "1187",
+      "marca": "CHERY",
+      "modelo": "TIGGO",
+      "version": "PRO Premium Phev 1.5 HYBRID 4x2",
+      "precios": {
+        "0": {
+          "usd": 36452.35,
+          "ars": 55845000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344206": {
+      "id": "344206",
+      "marcaId": "103",
+      "modeloId": "37951",
+      "marca": "BYD",
+      "modelo": "SEAL",
+      "version": "U Dm-I GS",
+      "precios": {
+        "0": {
+          "usd": 47927.55,
+          "ars": 73425000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344207": {
+      "id": "344207",
+      "marcaId": "104",
+      "modeloId": "37958",
+      "marca": "CHANGAN",
+      "modelo": "EADO",
+      "version": "Plus · Ref. V-344207",
+      "precios": {
+        "0": {
+          "usd": 29951.04,
+          "ars": 45885000,
           "cotizacion": 1532
         }
       }
