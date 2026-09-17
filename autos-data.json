@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-17T10:59:02.294Z",
+  "actualizado": "2026-09-17T13:02:27.177Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 4181,
-  "versionesConValuacion": 2112,
+  "versionesProcesadas": 4530,
+  "versionesConValuacion": 2275,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -68143,6 +68143,56 @@
         }
       }
     },
+    "14197": {
+      "id": "14197",
+      "marcaId": "121",
+      "modeloId": "1401",
+      "marca": "HONDA",
+      "modelo": "HRV",
+      "version": "Hr-V LX 1.5 CVT",
+      "precios": {
+        "2023": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23368.15,
+          "ars": 35800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25065.27,
+          "ars": 38400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14198": {
+      "id": "14198",
+      "marcaId": "121",
+      "modeloId": "1401",
+      "marca": "HONDA",
+      "modelo": "HRV",
+      "version": "Hr-V LX 1.5 CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 29954.31,
+          "ars": 45890000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25848.56,
+          "ars": 39600000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26892.95,
+          "ars": 41200000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "14199": {
       "id": "14199",
       "marcaId": "121",
@@ -68150,6 +68200,15 @@
       "marca": "HONDA",
       "modelo": "HRV",
       "version": "Hr-V 1.6",
+      "precios": {}
+    },
+    "14200": {
+      "id": "14200",
+      "marcaId": "121",
+      "modeloId": "1401",
+      "marca": "HONDA",
+      "modelo": "HRV",
+      "version": "Hr-V Style Pack 1.6",
       "precios": {}
     },
     "14201": {
@@ -68323,6 +68382,5472 @@
         "2023": {
           "usd": 23302.87,
           "ars": 35700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14207": {
+      "id": "14207",
+      "marcaId": "121",
+      "modeloId": "1401",
+      "marca": "HONDA",
+      "modelo": "HRV",
+      "version": "Hr-V LX 1.8",
+      "precios": {
+        "2015": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13642.3,
+          "ars": 20900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14208": {
+      "id": "14208",
+      "marcaId": "121",
+      "modeloId": "1401",
+      "marca": "HONDA",
+      "modelo": "HRV",
+      "version": "Hr-V LX 1.8 CVT",
+      "precios": {
+        "2015": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 15600.52,
+          "ars": 23900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14209": {
+      "id": "14209",
+      "marcaId": "121",
+      "modeloId": "1401",
+      "marca": "HONDA",
+      "modelo": "HRV",
+      "version": "Hr-V LX 1.8 CVT Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 18146.21,
+          "ars": 27800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 18864.23,
+          "ars": 28900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 20365.54,
+          "ars": 31200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14210": {
+      "id": "14210",
+      "marcaId": "121",
+      "modeloId": "1401",
+      "marca": "HONDA",
+      "modelo": "HRV",
+      "version": "Hr-V LX 1.8 CVT Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 20104.44,
+          "ars": 30800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 21083.55,
+          "ars": 32300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 22062.66,
+          "ars": 33800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14211": {
+      "id": "14211",
+      "marcaId": "121",
+      "modeloId": "1402",
+      "marca": "HONDA",
+      "modelo": "LEGEND",
+      "version": "3.5 Automática",
+      "precios": {}
+    },
+    "14212": {
+      "id": "14212",
+      "marcaId": "121",
+      "modeloId": "1402",
+      "marca": "HONDA",
+      "modelo": "LEGEND",
+      "version": "3.5 V6",
+      "precios": {}
+    },
+    "14213": {
+      "id": "14213",
+      "marcaId": "121",
+      "modeloId": "1402",
+      "marca": "HONDA",
+      "modelo": "LEGEND",
+      "version": "3.7 V6",
+      "precios": {}
+    },
+    "14214": {
+      "id": "14214",
+      "marcaId": "121",
+      "modeloId": "1403",
+      "marca": "HONDA",
+      "modelo": "ODISSEY",
+      "version": "EX",
+      "precios": {}
+    },
+    "14215": {
+      "id": "14215",
+      "marcaId": "121",
+      "modeloId": "1404",
+      "marca": "HONDA",
+      "modelo": "PASSPORT",
+      "version": "EX",
+      "precios": {}
+    },
+    "14216": {
+      "id": "14216",
+      "marcaId": "121",
+      "modeloId": "1404",
+      "marca": "HONDA",
+      "modelo": "PASSPORT",
+      "version": "LX",
+      "precios": {}
+    },
+    "14217": {
+      "id": "14217",
+      "marcaId": "121",
+      "modeloId": "1405",
+      "marca": "HONDA",
+      "modelo": "PILOT",
+      "version": "4x2 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 45561.36,
+          "ars": 69800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14218": {
+      "id": "14218",
+      "marcaId": "121",
+      "modeloId": "1405",
+      "marca": "HONDA",
+      "modelo": "PILOT",
+      "version": "4x4",
+      "precios": {}
+    },
+    "14219": {
+      "id": "14219",
+      "marcaId": "121",
+      "modeloId": "1405",
+      "marca": "HONDA",
+      "modelo": "PILOT",
+      "version": "4x4 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14220": {
+      "id": "14220",
+      "marcaId": "121",
+      "modeloId": "1406",
+      "marca": "HONDA",
+      "modelo": "PRELUDE",
+      "version": "2.0",
+      "precios": {}
+    },
+    "14221": {
+      "id": "14221",
+      "marcaId": "121",
+      "modeloId": "1406",
+      "marca": "HONDA",
+      "modelo": "PRELUDE",
+      "version": "2.2 Nafta",
+      "precios": {}
+    },
+    "14222": {
+      "id": "14222",
+      "marcaId": "121",
+      "modeloId": "1406",
+      "marca": "HONDA",
+      "modelo": "PRELUDE",
+      "version": "2.2 Nafta Automática",
+      "precios": {}
+    },
+    "14223": {
+      "id": "14223",
+      "marcaId": "121",
+      "modeloId": "1406",
+      "marca": "HONDA",
+      "modelo": "PRELUDE",
+      "version": "2.3",
+      "precios": {}
+    },
+    "14224": {
+      "id": "14224",
+      "marcaId": "121",
+      "modeloId": "1406",
+      "marca": "HONDA",
+      "modelo": "PRELUDE",
+      "version": "Automática",
+      "precios": {}
+    },
+    "14225": {
+      "id": "14225",
+      "marcaId": "121",
+      "modeloId": "1407",
+      "marca": "HONDA",
+      "modelo": "S",
+      "version": "Modelo 2000",
+      "precios": {}
+    },
+    "14226": {
+      "id": "14226",
+      "marcaId": "121",
+      "modeloId": "1408",
+      "marca": "HONDA",
+      "modelo": "STREAM",
+      "version": "Nafta",
+      "precios": {}
+    },
+    "14227": {
+      "id": "14227",
+      "marcaId": "121",
+      "modeloId": "1408",
+      "marca": "HONDA",
+      "modelo": "STREAM",
+      "version": "SI",
+      "precios": {}
+    },
+    "14228": {
+      "id": "14228",
+      "marcaId": "121",
+      "modeloId": "1408",
+      "marca": "HONDA",
+      "modelo": "STREAM",
+      "version": "Automática SI",
+      "precios": {}
+    },
+    "14230": {
+      "id": "14230",
+      "marcaId": "121",
+      "modeloId": "1410",
+      "marca": "HONDA",
+      "modelo": "WR-V",
+      "version": "EX",
+      "precios": {
+        "2018": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14425.59,
+          "ars": 22100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14231": {
+      "id": "14231",
+      "marcaId": "121",
+      "modeloId": "1410",
+      "marca": "HONDA",
+      "modelo": "WR-V",
+      "version": "EXL",
+      "precios": {
+        "2018": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16057.44,
+          "ars": 24600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14232": {
+      "id": "14232",
+      "marcaId": "121",
+      "modeloId": "1410",
+      "marca": "HONDA",
+      "modelo": "WR-V",
+      "version": "EXL Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 27734.99,
+          "ars": 42490000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14234": {
+      "id": "14234",
+      "marcaId": "121",
+      "modeloId": "1412",
+      "marca": "HONDA",
+      "modelo": "ZR-V",
+      "version": "LX",
+      "precios": {
+        "2023": {
+          "usd": 22976.5,
+          "ars": 35200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23955.61,
+          "ars": 36700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25195.82,
+          "ars": 38600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14235": {
+      "id": "14235",
+      "marcaId": "121",
+      "modeloId": "1412",
+      "marca": "HONDA",
+      "modelo": "ZR-V",
+      "version": "Touring",
+      "precios": {
+        "0": {
+          "usd": 39157.96,
+          "ars": 59990000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26071.43,
+          "ars": 36500000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 27500,
+          "ars": 38500000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 28928.57,
+          "ars": 40500000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 30357.14,
+          "ars": 42500000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 27545.69,
+          "ars": 42200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 28851.17,
+          "ars": 44200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 30156.66,
+          "ars": 46200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 33093.99,
+          "ars": 50700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14236": {
+      "id": "14236",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 3DR Full",
+      "precios": {}
+    },
+    "14237": {
+      "id": "14237",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 4DR",
+      "precios": {}
+    },
+    "14238": {
+      "id": "14238",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 4DR Full",
+      "precios": {}
+    },
+    "14239": {
+      "id": "14239",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 4DR Full ABS Airbag",
+      "precios": {}
+    },
+    "14240": {
+      "id": "14240",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 4DR Full Automática",
+      "precios": {}
+    },
+    "14241": {
+      "id": "14241",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 4DR Full ABS Airbag Automática",
+      "precios": {}
+    },
+    "14242": {
+      "id": "14242",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 5DR",
+      "precios": {}
+    },
+    "14243": {
+      "id": "14243",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 5DR Full",
+      "precios": {}
+    },
+    "14244": {
+      "id": "14244",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 5DR Full ABS Airbag",
+      "precios": {}
+    },
+    "14245": {
+      "id": "14245",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GLS 5DR Full ABS Airbag Automática",
+      "precios": {}
+    },
+    "14246": {
+      "id": "14246",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GS 3DR Full",
+      "precios": {}
+    },
+    "14247": {
+      "id": "14247",
+      "marcaId": "122",
+      "modeloId": "1413",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "version": "GT 3DR Full",
+      "precios": {}
+    },
+    "14248": {
+      "id": "14248",
+      "marcaId": "122",
+      "modeloId": "1414",
+      "marca": "HYUNDAI",
+      "modelo": "ATOS",
+      "version": "GLS Aire 1.0",
+      "precios": {}
+    },
+    "14249": {
+      "id": "14249",
+      "marcaId": "122",
+      "modeloId": "1414",
+      "marca": "HYUNDAI",
+      "modelo": "ATOS",
+      "version": "GLS Aire 1.0 Automática",
+      "precios": {}
+    },
+    "14250": {
+      "id": "14250",
+      "marcaId": "122",
+      "modeloId": "1414",
+      "marca": "HYUNDAI",
+      "modelo": "ATOS",
+      "version": "GLS Prime Aire 1.0",
+      "precios": {}
+    },
+    "14251": {
+      "id": "14251",
+      "marcaId": "122",
+      "modeloId": "1414",
+      "marca": "HYUNDAI",
+      "modelo": "ATOS",
+      "version": "GL 1.1",
+      "precios": {}
+    },
+    "14252": {
+      "id": "14252",
+      "marcaId": "122",
+      "modeloId": "1414",
+      "marca": "HYUNDAI",
+      "modelo": "ATOS",
+      "version": "GLS 1.1",
+      "precios": {}
+    },
+    "14253": {
+      "id": "14253",
+      "marcaId": "122",
+      "modeloId": "1414",
+      "marca": "HYUNDAI",
+      "modelo": "ATOS",
+      "version": "GLS Airbag 1.1",
+      "precios": {}
+    },
+    "14254": {
+      "id": "14254",
+      "marcaId": "122",
+      "modeloId": "1414",
+      "marca": "HYUNDAI",
+      "modelo": "ATOS",
+      "version": "GLS Airbag ABS 1.1 Automática",
+      "precios": {}
+    },
+    "14255": {
+      "id": "14255",
+      "marcaId": "122",
+      "modeloId": "1415",
+      "marca": "HYUNDAI",
+      "modelo": "COUNTY",
+      "version": "PAS",
+      "precios": {}
+    },
+    "14256": {
+      "id": "14256",
+      "marcaId": "122",
+      "modeloId": "1416",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2.0 FX",
+      "precios": {}
+    },
+    "14257": {
+      "id": "14257",
+      "marcaId": "122",
+      "modeloId": "1416",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2.7 FX",
+      "precios": {}
+    },
+    "14258": {
+      "id": "14258",
+      "marcaId": "122",
+      "modeloId": "1416",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2.0 Turbo Genesis",
+      "precios": {}
+    },
+    "14259": {
+      "id": "14259",
+      "marcaId": "122",
+      "modeloId": "1416",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2.0 Turbo Automática Genesis",
+      "precios": {
+        "2016": {
+          "usd": 31853.79,
+          "ars": 48800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 35117.49,
+          "ars": 53800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 38381.2,
+          "ars": 58800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14260": {
+      "id": "14260",
+      "marcaId": "122",
+      "modeloId": "1416",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "2.0 Turbo Genesis Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 20039.16,
+          "ars": 30700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 21344.65,
+          "ars": 32700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 23302.87,
+          "ars": 35700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 25261.1,
+          "ars": 38700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14261": {
+      "id": "14261",
+      "marcaId": "122",
+      "modeloId": "1416",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "3.8 V6 Genesis Premium",
+      "precios": {
+        "2013": {
+          "usd": 21899.48,
+          "ars": 33550000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 23204.96,
+          "ars": 35550000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 25163.19,
+          "ars": 38550000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 27121.41,
+          "ars": 41550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14262": {
+      "id": "14262",
+      "marcaId": "122",
+      "modeloId": "1416",
+      "marca": "HYUNDAI",
+      "modelo": "COUPE",
+      "version": "3.8 V6 Automática Genesis Premium",
+      "precios": {
+        "2013": {
+          "usd": 22030.03,
+          "ars": 33750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 23335.51,
+          "ars": 35750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 25293.73,
+          "ars": 38750000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 27251.96,
+          "ars": 41750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14263": {
+      "id": "14263",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Safety 1.5",
+      "precios": {
+        "2024": {
+          "usd": 25587.47,
+          "ars": 39200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27545.69,
+          "ars": 42200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14264": {
+      "id": "14264",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Safety 1.5 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 27464.1,
+          "ars": 42075000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24445.17,
+          "ars": 37450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14265": {
+      "id": "14265",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Safety Plus 1.5 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 33456.27,
+          "ars": 51255000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29340.73,
+          "ars": 44950000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30972.58,
+          "ars": 47450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14267": {
+      "id": "14267",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Safety+ 1.5 Automática",
+      "precios": {
+        "2022": {
+          "usd": 22976.5,
+          "ars": 35200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24281.98,
+          "ars": 37200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25913.84,
+          "ars": 39700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27872.06,
+          "ars": 42700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14268": {
+      "id": "14268",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Gl/Connect 1.6",
+      "precios": {
+        "2016": {
+          "usd": 13283.29,
+          "ars": 20350000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13936.03,
+          "ars": 21350000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15045.69,
+          "ars": 23050000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16024.8,
+          "ars": 24550000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17134.46,
+          "ars": 26250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14269": {
+      "id": "14269",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Gl/Connect 1.6 Automática",
+      "precios": {
+        "2016": {
+          "usd": 13609.66,
+          "ars": 20850000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14262.4,
+          "ars": 21850000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15372.06,
+          "ars": 23550000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16351.17,
+          "ars": 25050000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17526.11,
+          "ars": 26850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14270": {
+      "id": "14270",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Safety 1.6 Automática",
+      "precios": {
+        "2020": {
+          "usd": 18439.95,
+          "ars": 28250000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23661.88,
+          "ars": 36250000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25620.1,
+          "ars": 39250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14271": {
+      "id": "14271",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Safety Plus 1.6 Automática",
+      "precios": {
+        "2020": {
+          "usd": 20724.54,
+          "ars": 31750000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14272": {
+      "id": "14272",
+      "marcaId": "122",
+      "modeloId": "1417",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "version": "Style 1.6 Automática",
+      "precios": {
+        "2020": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18766.32,
+          "ars": 28750000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 20071.8,
+          "ars": 30750000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23009.14,
+          "ars": 35250000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 24640.99,
+          "ars": 37750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14273": {
+      "id": "14273",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "Full Seg. Premium 1.8",
+      "precios": {
+        "2013": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11325.07,
+          "ars": 17350000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12956.92,
+          "ars": 19850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14274": {
+      "id": "14274",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "Full Seg. Premium 1.8 Automática",
+      "precios": {
+        "2013": {
+          "usd": 10672.32,
+          "ars": 16350000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12304.18,
+          "ars": 18850000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14275": {
+      "id": "14275",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GL 1.8",
+      "precios": {}
+    },
+    "14276": {
+      "id": "14276",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GL 1.9 Diésel",
+      "precios": {}
+    },
+    "14277": {
+      "id": "14277",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GL Wagon 1.9 Diésel",
+      "precios": {}
+    },
+    "14278": {
+      "id": "14278",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS 1.6",
+      "precios": {}
+    },
+    "14279": {
+      "id": "14279",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS 1.8",
+      "precios": {}
+    },
+    "14280": {
+      "id": "14280",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS 1.8 Automática",
+      "precios": {}
+    },
+    "14281": {
+      "id": "14281",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Full 1.8",
+      "precios": {}
+    },
+    "14282": {
+      "id": "14282",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Full 1.8 5 Puertas",
+      "precios": {}
+    },
+    "14283": {
+      "id": "14283",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Full 1.8 Automática 5 Puertas",
+      "precios": {}
+    },
+    "14284": {
+      "id": "14284",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Full 1.8 Automática",
+      "precios": {}
+    },
+    "14285": {
+      "id": "14285",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Wagon 1.8",
+      "precios": {}
+    },
+    "14286": {
+      "id": "14286",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Wagon 1.8 Automática",
+      "precios": {}
+    },
+    "14287": {
+      "id": "14287",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Wagon Full 1.8",
+      "precios": {}
+    },
+    "14288": {
+      "id": "14288",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Wagon Full 1.8 Automática",
+      "precios": {}
+    },
+    "14289": {
+      "id": "14289",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS 2.0",
+      "precios": {}
+    },
+    "14290": {
+      "id": "14290",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS 2.0 Automática",
+      "precios": {}
+    },
+    "14291": {
+      "id": "14291",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Full Plus 2.0",
+      "precios": {}
+    },
+    "14292": {
+      "id": "14292",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Full Plus 2.0 Automática",
+      "precios": {}
+    },
+    "14293": {
+      "id": "14293",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Full Premium 2.0",
+      "precios": {}
+    },
+    "14294": {
+      "id": "14294",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Full Premium 2.0 Automática",
+      "precios": {}
+    },
+    "14295": {
+      "id": "14295",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Wagon 2.0",
+      "precios": {}
+    },
+    "14296": {
+      "id": "14296",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Wagon 2.0 Automática",
+      "precios": {}
+    },
+    "14297": {
+      "id": "14297",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Wagon F. Plus 2.0",
+      "precios": {}
+    },
+    "14298": {
+      "id": "14298",
+      "marcaId": "122",
+      "modeloId": "1418",
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "version": "GLS Wagon F. A. Plus 2.0",
+      "precios": {}
+    },
+    "14299": {
+      "id": "14299",
+      "marcaId": "122",
+      "modeloId": "1419",
+      "marca": "HYUNDAI",
+      "modelo": "GALLOPER",
+      "version": "Innova. 3.0 3 Puertas",
+      "precios": {}
+    },
+    "14300": {
+      "id": "14300",
+      "marcaId": "122",
+      "modeloId": "1419",
+      "marca": "HYUNDAI",
+      "modelo": "GALLOPER",
+      "version": "Turbodiésel 3 Puertas",
+      "precios": {}
+    },
+    "14301": {
+      "id": "14301",
+      "marcaId": "122",
+      "modeloId": "1419",
+      "marca": "HYUNDAI",
+      "modelo": "GALLOPER",
+      "version": "EXD Turbodiésel 3 Puertas",
+      "precios": {}
+    },
+    "14302": {
+      "id": "14302",
+      "marcaId": "122",
+      "modeloId": "1419",
+      "marca": "HYUNDAI",
+      "modelo": "GALLOPER",
+      "version": "Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "14303": {
+      "id": "14303",
+      "marcaId": "122",
+      "modeloId": "1419",
+      "marca": "HYUNDAI",
+      "modelo": "GALLOPER",
+      "version": "XL LL Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "14304": {
+      "id": "14304",
+      "marcaId": "122",
+      "modeloId": "1419",
+      "marca": "HYUNDAI",
+      "modelo": "GALLOPER",
+      "version": "XL T/Alto Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "14305": {
+      "id": "14305",
+      "marcaId": "122",
+      "modeloId": "1419",
+      "marca": "HYUNDAI",
+      "modelo": "GALLOPER",
+      "version": "EXD Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "14306": {
+      "id": "14306",
+      "marcaId": "122",
+      "modeloId": "1420",
+      "marca": "HYUNDAI",
+      "modelo": "GETZ",
+      "version": "GL 1.3",
+      "precios": {}
+    },
+    "14307": {
+      "id": "14307",
+      "marcaId": "122",
+      "modeloId": "1420",
+      "marca": "HYUNDAI",
+      "modelo": "GETZ",
+      "version": "GLS 1.3",
+      "precios": {}
+    },
+    "14308": {
+      "id": "14308",
+      "marcaId": "122",
+      "modeloId": "1420",
+      "marca": "HYUNDAI",
+      "modelo": "GETZ",
+      "version": "GLS Full 1.6",
+      "precios": {}
+    },
+    "14309": {
+      "id": "14309",
+      "marcaId": "122",
+      "modeloId": "1421",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND I 10",
+      "version": "4 Puertas GLS",
+      "precios": {
+        "2015": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10802.87,
+          "ars": 16550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14310": {
+      "id": "14310",
+      "marcaId": "122",
+      "modeloId": "1421",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND I 10",
+      "version": "Automática 4 Puertas GLS",
+      "precios": {
+        "2015": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10933.42,
+          "ars": 16750000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14311": {
+      "id": "14311",
+      "marcaId": "122",
+      "modeloId": "1421",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND I 10",
+      "version": "5 Puertas GLS",
+      "precios": {
+        "2015": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11455.61,
+          "ars": 17550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14066.58,
+          "ars": 21550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14312": {
+      "id": "14312",
+      "marcaId": "122",
+      "modeloId": "1421",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND I 10",
+      "version": "Automática 5 Puertas GLS",
+      "precios": {
+        "2015": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11586.16,
+          "ars": 17750000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14197.13,
+          "ars": 21750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14313": {
+      "id": "14313",
+      "marcaId": "122",
+      "modeloId": "1422",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "2.2 CRDi Automática 7P GLS",
+      "precios": {
+        "2018": {
+          "usd": 24934.73,
+          "ars": 38200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 27219.32,
+          "ars": 41700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 29503.92,
+          "ars": 45200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14314": {
+      "id": "14314",
+      "marcaId": "122",
+      "modeloId": "1422",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "2.2 CRDi 7P Premium",
+      "precios": {
+        "2016": {
+          "usd": 21997.39,
+          "ars": 33700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 23661.88,
+          "ars": 36250000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25913.84,
+          "ars": 39700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 28198.43,
+          "ars": 43200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 30483.03,
+          "ars": 46700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14315": {
+      "id": "14315",
+      "marcaId": "122",
+      "modeloId": "1422",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "3.3 V6 7P Full Premium",
+      "precios": {
+        "2017": {
+          "usd": 21834.2,
+          "ars": 33450000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 23792.43,
+          "ars": 36450000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26077.02,
+          "ars": 39950000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28361.62,
+          "ars": 43450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14316": {
+      "id": "14316",
+      "marcaId": "122",
+      "modeloId": "1422",
+      "marca": "HYUNDAI",
+      "modelo": "GRAND SANTA FE",
+      "version": "3.3 V6 Automática 7P GLS",
+      "precios": {
+        "2018": {
+          "usd": 22486.95,
+          "ars": 34450000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24771.54,
+          "ars": 37950000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 27056.14,
+          "ars": 41450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14317": {
+      "id": "14317",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS Full Pre. 2.4 Nafta Automática",
+      "precios": {
+        "2015": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14318": {
+      "id": "14318",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS 2.5 CRDi",
+      "precios": {
+        "2018": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14319": {
+      "id": "14319",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS 2.5 CRDi Automática",
+      "precios": {
+        "2018": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14320": {
+      "id": "14320",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS VGT Full 2.5 CRDi",
+      "precios": {
+        "2013": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14321": {
+      "id": "14321",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS VGT Full Pre. 2.5 CRDi",
+      "precios": {
+        "2013": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14322": {
+      "id": "14322",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "HSV Starex 2.5 Turbodiésel 7 Asientos",
+      "precios": {}
+    },
+    "14323": {
+      "id": "14323",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "2.5 Turbodiésel Minibús 9 Asientos",
+      "precios": {
+        "2013": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14324": {
+      "id": "14324",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS Full 2.5 Turbodiésel",
+      "precios": {}
+    },
+    "14325": {
+      "id": "14325",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS Full Plus 2.5 Turbodiésel",
+      "precios": {}
+    },
+    "14326": {
+      "id": "14326",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS Full Premium 2.5 Turbodiésel",
+      "precios": {}
+    },
+    "14327": {
+      "id": "14327",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS Full Premium 2.5 Turbodiésel Automática",
+      "precios": {}
+    },
+    "14328": {
+      "id": "14328",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS 2.5 Turbodiésel Minibús",
+      "precios": {}
+    },
+    "14329": {
+      "id": "14329",
+      "marcaId": "122",
+      "modeloId": "1423",
+      "marca": "HYUNDAI",
+      "modelo": "H1",
+      "version": "PAS 2.5 Turbodiésel Automática Minibús",
+      "precios": {}
+    },
+    "14330": {
+      "id": "14330",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "PAS SPR Minibús 12",
+      "precios": {}
+    },
+    "14331": {
+      "id": "14331",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "PAS SPR Minibús 15",
+      "precios": {}
+    },
+    "14332": {
+      "id": "14332",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Ambulancia",
+      "precios": {}
+    },
+    "14333": {
+      "id": "14333",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Top Minibús",
+      "precios": {}
+    },
+    "14334": {
+      "id": "14334",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck GLS Turbo 1.0",
+      "precios": {}
+    },
+    "14335": {
+      "id": "14335",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck GLS Turbo Aire 1.0",
+      "precios": {}
+    },
+    "14336": {
+      "id": "14336",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck GLS Turbo S/Caja 1.0",
+      "precios": {}
+    },
+    "14337": {
+      "id": "14337",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck GL",
+      "precios": {}
+    },
+    "14338": {
+      "id": "14338",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck GLS",
+      "precios": {}
+    },
+    "14339": {
+      "id": "14339",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck DLX Porter 1.5",
+      "precios": {}
+    },
+    "14340": {
+      "id": "14340",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck Super Porter 1.5",
+      "precios": {}
+    },
+    "14341": {
+      "id": "14341",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck C/Caja 2.5",
+      "precios": {
+        "2017": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15600.52,
+          "ars": 23900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16579.63,
+          "ars": 25400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17558.75,
+          "ars": 26900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14342": {
+      "id": "14342",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck S/Caja 2.5",
+      "precios": {
+        "2017": {
+          "usd": 12989.56,
+          "ars": 19900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13642.3,
+          "ars": 20900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14343": {
+      "id": "14343",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "Truck TCI C/Caja 100 CV",
+      "precios": {}
+    },
+    "14344": {
+      "id": "14344",
+      "marcaId": "122",
+      "modeloId": "1424",
+      "marca": "HYUNDAI",
+      "modelo": "H100",
+      "version": "STD Van 3 Puertas",
+      "precios": {}
+    },
+    "14345": {
+      "id": "14345",
+      "marcaId": "122",
+      "modeloId": "1425",
+      "marca": "HYUNDAI",
+      "modelo": "H350",
+      "version": "Furgón",
+      "precios": {
+        "2018": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14346": {
+      "id": "14346",
+      "marcaId": "122",
+      "modeloId": "1426",
+      "marca": "HYUNDAI",
+      "modelo": "HB20",
+      "version": "Comfortline Plus 4 Puertas 1.6",
+      "precios": {
+        "0": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14347": {
+      "id": "14347",
+      "marcaId": "122",
+      "modeloId": "1426",
+      "marca": "HYUNDAI",
+      "modelo": "HB20",
+      "version": "Platinum Safety 4 Puertas 1.6 Automática",
+      "precios": {
+        "0": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14348": {
+      "id": "14348",
+      "marcaId": "122",
+      "modeloId": "1426",
+      "marca": "HYUNDAI",
+      "modelo": "HB20",
+      "version": "Comfortline Plus 5 Puertas 1.6",
+      "precios": {
+        "0": {
+          "usd": 18015.67,
+          "ars": 27600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14349": {
+      "id": "14349",
+      "marcaId": "122",
+      "modeloId": "1426",
+      "marca": "HYUNDAI",
+      "modelo": "HB20",
+      "version": "Comfortline Plus 5 Puertas 1.6 Automática",
+      "precios": {
+        "0": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14350": {
+      "id": "14350",
+      "marcaId": "122",
+      "modeloId": "1426",
+      "marca": "HYUNDAI",
+      "modelo": "HB20",
+      "version": "Platinum Safety 5 Puertas 1.6 Automática",
+      "precios": {
+        "0": {
+          "usd": 22780.68,
+          "ars": 34900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 19386.42,
+          "ars": 29700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 20365.54,
+          "ars": 31200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 21344.65,
+          "ars": 32700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14352": {
+      "id": "14352",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "35",
+      "precios": {
+        "2019": {
+          "usd": 22118.15,
+          "ars": 33885000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14353": {
+      "id": "14353",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "65",
+      "precios": {}
+    },
+    "14354": {
+      "id": "14354",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "Aire 65",
+      "precios": {}
+    },
+    "14355": {
+      "id": "14355",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "C/Caja 65",
+      "precios": {}
+    },
+    "14356": {
+      "id": "14356",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "C/Caja Aire 65",
+      "precios": {}
+    },
+    "14357": {
+      "id": "14357",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "Aire Cabina Doble",
+      "precios": {
+        "2017": {
+          "usd": 23580.29,
+          "ars": 36125000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 23906.66,
+          "ars": 36625000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24412.53,
+          "ars": 37400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 25029.37,
+          "ars": 38345000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 25525.46,
+          "ars": 39105000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 26054.18,
+          "ars": 39915000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14358": {
+      "id": "14358",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "C/Caja Aire Cabina Doble",
+      "precios": {}
+    },
+    "14359": {
+      "id": "14359",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "DLX Corto 65",
+      "precios": {}
+    },
+    "14360": {
+      "id": "14360",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "DLX Largo 65",
+      "precios": {}
+    },
+    "14361": {
+      "id": "14361",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "DLX Corto 72",
+      "precios": {}
+    },
+    "14362": {
+      "id": "14362",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "DLX Largo 72",
+      "precios": {}
+    },
+    "14363": {
+      "id": "14363",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "78",
+      "precios": {}
+    },
+    "14364": {
+      "id": "14364",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "Aire 78",
+      "precios": {
+        "2013": {
+          "usd": 20969.32,
+          "ars": 32125000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 21478.46,
+          "ars": 32905000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 21824.41,
+          "ars": 33435000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 22209.53,
+          "ars": 34025000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 22437.99,
+          "ars": 34375000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14365": {
+      "id": "14365",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "C/Caja 78",
+      "precios": {}
+    },
+    "14366": {
+      "id": "14366",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "C/Caja Aire 78",
+      "precios": {
+        "2013": {
+          "usd": 21759.14,
+          "ars": 33335000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 22392.3,
+          "ars": 34305000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 22888.38,
+          "ars": 35065000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14367": {
+      "id": "14367",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "Euro Serie IV",
+      "precios": {
+        "2016": {
+          "usd": 23821.8,
+          "ars": 36495000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 24853.13,
+          "ars": 38075000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25688.64,
+          "ars": 39355000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14368": {
+      "id": "14368",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "Euro Aire Serie IV",
+      "precios": {
+        "0": {
+          "usd": 45545.04,
+          "ars": 69775000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28077.68,
+          "ars": 43015000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 28991.51,
+          "ars": 44415000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 29964.1,
+          "ars": 45905000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 30953,
+          "ars": 47420000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 31981.07,
+          "ars": 48995000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 33090.73,
+          "ars": 50695000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 33926.24,
+          "ars": 51975000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 35215.4,
+          "ars": 53950000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 36308.75,
+          "ars": 55625000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 43266.97,
+          "ars": 66285000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14369": {
+      "id": "14369",
+      "marcaId": "122",
+      "modeloId": "1427",
+      "marca": "HYUNDAI",
+      "modelo": "HD",
+      "version": "Euro C/Caja Aire Serie IV",
+      "precios": {
+        "0": {
+          "usd": 48586.81,
+          "ars": 74435000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29219.97,
+          "ars": 44765000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30140.34,
+          "ars": 46175000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31798.3,
+          "ars": 48715000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32901.44,
+          "ars": 50405000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33345.3,
+          "ars": 51085000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 34454.96,
+          "ars": 52785000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 35603.79,
+          "ars": 54545000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 37369.45,
+          "ars": 57250000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 38593.34,
+          "ars": 59125000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 39154.7,
+          "ars": 59985000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 46155.35,
+          "ars": 70710000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14370": {
+      "id": "14370",
+      "marcaId": "122",
+      "modeloId": "1428",
+      "marca": "HYUNDAI",
+      "modelo": "I 10",
+      "version": "GLS",
+      "precios": {}
+    },
+    "14371": {
+      "id": "14371",
+      "marcaId": "122",
+      "modeloId": "1428",
+      "marca": "HYUNDAI",
+      "modelo": "I 10",
+      "version": "GLS Automática",
+      "precios": {}
+    },
+    "14372": {
+      "id": "14372",
+      "marcaId": "122",
+      "modeloId": "1428",
+      "marca": "HYUNDAI",
+      "modelo": "I 10",
+      "version": "GLS Seguridad Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 7914.49,
+          "ars": 12125000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8404.05,
+          "ars": 12875000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9056.79,
+          "ars": 13875000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9709.53,
+          "ars": 14875000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14373": {
+      "id": "14373",
+      "marcaId": "122",
+      "modeloId": "1428",
+      "marca": "HYUNDAI",
+      "modelo": "I 10",
+      "version": "GLS Seguridad Automática Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 8436.68,
+          "ars": 12925000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8893.6,
+          "ars": 13625000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9546.34,
+          "ars": 14625000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10199.09,
+          "ars": 15625000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14374": {
+      "id": "14374",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.4 GLS",
+      "precios": {
+        "2013": {
+          "usd": 8518.28,
+          "ars": 13050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14375": {
+      "id": "14375",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.6 GLS",
+      "precios": {
+        "2013": {
+          "usd": 9007.83,
+          "ars": 13800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14376": {
+      "id": "14376",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.6 Automática GLS",
+      "precios": {
+        "2013": {
+          "usd": 9171.02,
+          "ars": 14050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14377": {
+      "id": "14377",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.6 GLS Premium",
+      "precios": {
+        "2013": {
+          "usd": 9497.39,
+          "ars": 14550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14378": {
+      "id": "14378",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.6 Automática GLS Premium",
+      "precios": {
+        "2013": {
+          "usd": 9660.57,
+          "ars": 14800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14379": {
+      "id": "14379",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.8 GLS Full",
+      "precios": {
+        "2016": {
+          "usd": 11977.81,
+          "ars": 18350000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12630.55,
+          "ars": 19350000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13283.29,
+          "ars": 20350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14380": {
+      "id": "14380",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.8 Automática GLS Full",
+      "precios": {
+        "2014": {
+          "usd": 10998.69,
+          "ars": 16850000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11651.44,
+          "ars": 17850000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12304.18,
+          "ars": 18850000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12956.92,
+          "ars": 19850000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13609.66,
+          "ars": 20850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14381": {
+      "id": "14381",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.8 GLS Premium",
+      "precios": {
+        "2013": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14382": {
+      "id": "14382",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "1.8 Automática GLS Premium",
+      "precios": {
+        "2013": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14383": {
+      "id": "14383",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "2.0 GLS Premium",
+      "precios": {
+        "2013": {
+          "usd": 9693.21,
+          "ars": 14850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14384": {
+      "id": "14384",
+      "marcaId": "122",
+      "modeloId": "1429",
+      "marca": "HYUNDAI",
+      "modelo": "I 30",
+      "version": "2.0 Automática GLS Premium",
+      "precios": {
+        "2013": {
+          "usd": 9856.4,
+          "ars": 15100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14385": {
+      "id": "14385",
+      "marcaId": "122",
+      "modeloId": "1430",
+      "marca": "HYUNDAI",
+      "modelo": "IONIQ",
+      "version": "1.6 Híbrido",
+      "precios": {
+        "2019": {
+          "usd": 20267.62,
+          "ars": 31050000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 21573.11,
+          "ars": 33050000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 22878.59,
+          "ars": 35050000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 24184.07,
+          "ars": 37050000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 25489.56,
+          "ars": 39050000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 26795.04,
+          "ars": 41050000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28753.26,
+          "ars": 44050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14386": {
+      "id": "14386",
+      "marcaId": "122",
+      "modeloId": "1431",
+      "marca": "HYUNDAI",
+      "modelo": "KONA",
+      "version": "Safety+ 4x2",
+      "precios": {
+        "2019": {
+          "usd": 18537.86,
+          "ars": 28400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 19843.34,
+          "ars": 30400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 21148.83,
+          "ars": 32400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23107.05,
+          "ars": 35400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 25065.27,
+          "ars": 38400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 27349.87,
+          "ars": 41900000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29634.46,
+          "ars": 45400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14387": {
+      "id": "14387",
+      "marcaId": "122",
+      "modeloId": "1431",
+      "marca": "HYUNDAI",
+      "modelo": "KONA",
+      "version": "Style 4x2",
+      "precios": {
+        "2020": {
+          "usd": 17787.21,
+          "ars": 27250000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19092.69,
+          "ars": 29250000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 20398.17,
+          "ars": 31250000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 22356.4,
+          "ars": 34250000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24640.99,
+          "ars": 37750000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 26925.59,
+          "ars": 41250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14388": {
+      "id": "14388",
+      "marcaId": "122",
+      "modeloId": "1431",
+      "marca": "HYUNDAI",
+      "modelo": "KONA",
+      "version": "Safety+ 4x4",
+      "precios": {
+        "2019": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14389": {
+      "id": "14389",
+      "marcaId": "122",
+      "modeloId": "1431",
+      "marca": "HYUNDAI",
+      "modelo": "KONA",
+      "version": "Ultimate 4x4",
+      "precios": {
+        "2019": {
+          "usd": 21050.91,
+          "ars": 32250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 22356.4,
+          "ars": 34250000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 23661.88,
+          "ars": 36250000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 25620.1,
+          "ars": 39250000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 27578.33,
+          "ars": 42250000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 29862.92,
+          "ars": 45750000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 32147.52,
+          "ars": 49250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14390": {
+      "id": "14390",
+      "marcaId": "122",
+      "modeloId": "1432",
+      "marca": "HYUNDAI",
+      "modelo": "MATRIX",
+      "version": "GL",
+      "precios": {}
+    },
+    "14391": {
+      "id": "14391",
+      "marcaId": "122",
+      "modeloId": "1432",
+      "marca": "HYUNDAI",
+      "modelo": "MATRIX",
+      "version": "GL Automática",
+      "precios": {}
+    },
+    "14392": {
+      "id": "14392",
+      "marcaId": "122",
+      "modeloId": "1432",
+      "marca": "HYUNDAI",
+      "modelo": "MATRIX",
+      "version": "GLS",
+      "precios": {}
+    },
+    "14393": {
+      "id": "14393",
+      "marcaId": "122",
+      "modeloId": "1432",
+      "marca": "HYUNDAI",
+      "modelo": "MATRIX",
+      "version": "GLS Automática",
+      "precios": {}
+    },
+    "14394": {
+      "id": "14394",
+      "marcaId": "122",
+      "modeloId": "1433",
+      "marca": "HYUNDAI",
+      "modelo": "MIGTHY",
+      "version": "H",
+      "precios": {}
+    },
+    "14395": {
+      "id": "14395",
+      "marcaId": "122",
+      "modeloId": "1433",
+      "marca": "HYUNDAI",
+      "modelo": "MIGTHY",
+      "version": "H Largo",
+      "precios": {}
+    },
+    "14396": {
+      "id": "14396",
+      "marcaId": "122",
+      "modeloId": "1433",
+      "marca": "HYUNDAI",
+      "modelo": "MIGTHY",
+      "version": "H Turbo",
+      "precios": {}
+    },
+    "14397": {
+      "id": "14397",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi Automática 5 Asientos PRE Modelo 2006",
+      "precios": {}
+    },
+    "14398": {
+      "id": "14398",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi Automática 5 Asientos PRE Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14399": {
+      "id": "14399",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi 5 Asientos PRE Modelo 2006",
+      "precios": {}
+    },
+    "14400": {
+      "id": "14400",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi 7 Asientos Full Modelo 2006",
+      "precios": {}
+    },
+    "14401": {
+      "id": "14401",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi 7 Asientos Full Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 13544.39,
+          "ars": 20750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14402": {
+      "id": "14402",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi Automática 7 Asientos PRE Modelo 2006",
+      "precios": {}
+    },
+    "14403": {
+      "id": "14403",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi Automática 7 Asientos PRE Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14404": {
+      "id": "14404",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi 7 Asientos PRE Modelo 2006",
+      "precios": {}
+    },
+    "14405": {
+      "id": "14405",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi 7 Asientos PRE Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 13870.76,
+          "ars": 21250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14406": {
+      "id": "14406",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi Automática 7 Asientos PRE Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14407": {
+      "id": "14407",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi Automática 7 Asientos PRE Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 21344.65,
+          "ars": 32700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 23302.87,
+          "ars": 35700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25261.1,
+          "ars": 38700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14408": {
+      "id": "14408",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.2 CRDi Automática 7 Asientos Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 31657.96,
+          "ars": 48500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 34268.93,
+          "ars": 52500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 36879.9,
+          "ars": 56500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14409": {
+      "id": "14409",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x2 7 Asientos Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 12761.1,
+          "ars": 19550000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14066.58,
+          "ars": 21550000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15372.06,
+          "ars": 23550000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16677.55,
+          "ars": 25550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14410": {
+      "id": "14410",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x2 7 Asientos Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 18113.58,
+          "ars": 27750000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20071.8,
+          "ars": 30750000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22030.03,
+          "ars": 33750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14411": {
+      "id": "14411",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x2 7 Asientos Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 30352.48,
+          "ars": 46500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 32963.45,
+          "ars": 50500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14412": {
+      "id": "14412",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 4x2 7 Asientos GLS Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14413": {
+      "id": "14413",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 4x2 7 Asientos Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 12434.73,
+          "ars": 19050000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13740.21,
+          "ars": 21050000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15045.69,
+          "ars": 23050000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16351.17,
+          "ars": 25050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14414": {
+      "id": "14414",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 4x2 7 Asientos Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 17787.21,
+          "ars": 27250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 19745.43,
+          "ars": 30250000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 21703.66,
+          "ars": 33250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14415": {
+      "id": "14415",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 4x2 Modelo 2001",
+      "precios": {}
+    },
+    "14416": {
+      "id": "14416",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x4 5 Asientos Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 19549.61,
+          "ars": 29950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14417": {
+      "id": "14417",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x4 7 Asientos Full Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 19875.98,
+          "ars": 30450000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 21834.2,
+          "ars": 33450000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 23792.43,
+          "ars": 36450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14418": {
+      "id": "14418",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 4x4 7 Asientos Full Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14419": {
+      "id": "14419",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 4x4 Modelo 2001",
+      "precios": {}
+    },
+    "14420": {
+      "id": "14420",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x4 5 Asientos Pre. Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14421": {
+      "id": "14421",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x4 5 Asientos Pre. Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 13870.76,
+          "ars": 21250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15176.24,
+          "ars": 23250000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16481.72,
+          "ars": 25250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17787.21,
+          "ars": 27250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14422": {
+      "id": "14422",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x4 7 Asientos Pre. Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14423": {
+      "id": "14423",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.4 Automática 4x4 7 Asientos Pre. Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 14197.13,
+          "ars": 21750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15502.61,
+          "ars": 23750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16808.09,
+          "ars": 25750000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18113.58,
+          "ars": 27750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14424": {
+      "id": "14424",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.5 Turbo 4x4 GDI",
+      "precios": {
+        "0": {
+          "usd": 70807.44,
+          "ars": 108477000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 58420.37,
+          "ars": 89500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 62336.81,
+          "ars": 95500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14425": {
+      "id": "14425",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.7 V6 Automática 5 Asientos",
+      "precios": {}
+    },
+    "14426": {
+      "id": "14426",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.7 V6 5 Asientos PRE",
+      "precios": {}
+    },
+    "14427": {
+      "id": "14427",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.7 V6 Automática 5 Asientos PRE",
+      "precios": {}
+    },
+    "14428": {
+      "id": "14428",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.7 V6 7 Asientos Full",
+      "precios": {}
+    },
+    "14429": {
+      "id": "14429",
+      "marcaId": "122",
+      "modeloId": "1434",
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "version": "2.7 V6 Automática 7 Asientos PRE",
+      "precios": {}
+    },
+    "14430": {
+      "id": "14430",
+      "marcaId": "122",
+      "modeloId": "1435",
+      "marca": "HYUNDAI",
+      "modelo": "SANTAMO",
+      "version": "DLX",
+      "precios": {}
+    },
+    "14431": {
+      "id": "14431",
+      "marcaId": "122",
+      "modeloId": "1435",
+      "marca": "HYUNDAI",
+      "modelo": "SANTAMO",
+      "version": "DLX Automática",
+      "precios": {}
+    },
+    "14432": {
+      "id": "14432",
+      "marcaId": "122",
+      "modeloId": "1435",
+      "marca": "HYUNDAI",
+      "modelo": "SANTAMO",
+      "version": "DLX Full",
+      "precios": {}
+    },
+    "14433": {
+      "id": "14433",
+      "marcaId": "122",
+      "modeloId": "1435",
+      "marca": "HYUNDAI",
+      "modelo": "SANTAMO",
+      "version": "DLX Full Automática",
+      "precios": {}
+    },
+    "14434": {
+      "id": "14434",
+      "marcaId": "122",
+      "modeloId": "1435",
+      "marca": "HYUNDAI",
+      "modelo": "SANTAMO",
+      "version": "DLX Full Tracción Integral",
+      "precios": {}
+    },
+    "14435": {
+      "id": "14435",
+      "marcaId": "122",
+      "modeloId": "1436",
+      "marca": "HYUNDAI",
+      "modelo": "SONATA",
+      "version": "2.0 GLS",
+      "precios": {}
+    },
+    "14436": {
+      "id": "14436",
+      "marcaId": "122",
+      "modeloId": "1436",
+      "marca": "HYUNDAI",
+      "modelo": "SONATA",
+      "version": "2.0 Automática GLS",
+      "precios": {}
+    },
+    "14437": {
+      "id": "14437",
+      "marcaId": "122",
+      "modeloId": "1436",
+      "marca": "HYUNDAI",
+      "modelo": "SONATA",
+      "version": "2.5 V6 GLS",
+      "precios": {}
+    },
+    "14438": {
+      "id": "14438",
+      "marcaId": "122",
+      "modeloId": "1436",
+      "marca": "HYUNDAI",
+      "modelo": "SONATA",
+      "version": "2.5 V6 Automática GLS",
+      "precios": {}
+    },
+    "14439": {
+      "id": "14439",
+      "marcaId": "122",
+      "modeloId": "1436",
+      "marca": "HYUNDAI",
+      "modelo": "SONATA",
+      "version": "2.5 V6 Automática GLS Full",
+      "precios": {}
+    },
+    "14440": {
+      "id": "14440",
+      "marcaId": "122",
+      "modeloId": "1436",
+      "marca": "HYUNDAI",
+      "modelo": "SONATA",
+      "version": "3.3 V6 Automática GLS",
+      "precios": {}
+    },
+    "14441": {
+      "id": "14441",
+      "marcaId": "122",
+      "modeloId": "1437",
+      "marca": "HYUNDAI",
+      "modelo": "STARIA",
+      "version": "Safety 4x2",
+      "precios": {
+        "0": {
+          "usd": 58922.98,
+          "ars": 90270000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 38348.56,
+          "ars": 58750000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 41612.27,
+          "ars": 63750000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 47486.95,
+          "ars": 72750000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 52708.88,
+          "ars": 80750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14442": {
+      "id": "14442",
+      "marcaId": "122",
+      "modeloId": "1437",
+      "marca": "HYUNDAI",
+      "modelo": "STARIA",
+      "version": "4x4",
+      "precios": {
+        "0": {
+          "usd": 68909.92,
+          "ars": 105570000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 42526.11,
+          "ars": 65150000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 45789.82,
+          "ars": 70150000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 50359.01,
+          "ars": 77150000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 54928.2,
+          "ars": 84150000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 60150.13,
+          "ars": 92150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14443": {
+      "id": "14443",
+      "marcaId": "122",
+      "modeloId": "1438",
+      "marca": "HYUNDAI",
+      "modelo": "TERRACAN",
+      "version": "GL",
+      "precios": {}
+    },
+    "14444": {
+      "id": "14444",
+      "marcaId": "122",
+      "modeloId": "1438",
+      "marca": "HYUNDAI",
+      "modelo": "TERRACAN",
+      "version": "GL Full",
+      "precios": {}
+    },
+    "14445": {
+      "id": "14445",
+      "marcaId": "122",
+      "modeloId": "1438",
+      "marca": "HYUNDAI",
+      "modelo": "TERRACAN",
+      "version": "GL Full Automática",
+      "precios": {}
+    },
+    "14446": {
+      "id": "14446",
+      "marcaId": "122",
+      "modeloId": "1439",
+      "marca": "HYUNDAI",
+      "modelo": "TRAJET",
+      "version": "GLS 2.0",
+      "precios": {}
+    },
+    "14447": {
+      "id": "14447",
+      "marcaId": "122",
+      "modeloId": "1439",
+      "marca": "HYUNDAI",
+      "modelo": "TRAJET",
+      "version": "GLS 2.0 CRDi",
+      "precios": {}
+    },
+    "14448": {
+      "id": "14448",
+      "marcaId": "122",
+      "modeloId": "1439",
+      "marca": "HYUNDAI",
+      "modelo": "TRAJET",
+      "version": "GLS 2.7 V6",
+      "precios": {}
+    },
+    "14449": {
+      "id": "14449",
+      "marcaId": "122",
+      "modeloId": "1439",
+      "marca": "HYUNDAI",
+      "modelo": "TRAJET",
+      "version": "GLS Techo Corredizo 2.7 V6",
+      "precios": {}
+    },
+    "14450": {
+      "id": "14450",
+      "marcaId": "122",
+      "modeloId": "1439",
+      "marca": "HYUNDAI",
+      "modelo": "TRAJET",
+      "version": "GLS Cuero Techo Corredizo 2.7 V6",
+      "precios": {}
+    },
+    "14452": {
+      "id": "14452",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Full Pre. 1.6 Automática 4x4 Modelo 2016",
+      "precios": {
+        "2017": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14453": {
+      "id": "14453",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Full Pre. 1.6 Automática 4x4 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14455": {
+      "id": "14455",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Ultimate DCT7 1.6 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 55827.02,
+          "ars": 85527000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 41057.44,
+          "ars": 62900000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 44973.89,
+          "ars": 68900000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 48237.6,
+          "ars": 73900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14456": {
+      "id": "14456",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Ultimate 1.6 Híbrido Automática 4x4",
+      "precios": {
+        "0": {
+          "usd": 65913.84,
+          "ars": 100980000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 50065.27,
+          "ars": 76700000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 53981.72,
+          "ars": 82700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14458": {
+      "id": "14458",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.0 4x2",
+      "precios": {}
+    },
+    "14460": {
+      "id": "14460",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.0 Automática 4x2 Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14461": {
+      "id": "14461",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Sunroof 2.0 Automática 4x2 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 22356.4,
+          "ars": 34250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24314.62,
+          "ars": 37250000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 26272.85,
+          "ars": 40250000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 28231.07,
+          "ars": 43250000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 30189.3,
+          "ars": 46250000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 31821.15,
+          "ars": 48750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14462": {
+      "id": "14462",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Techo Pan. 2.0 Automática 4x2 Modelo 2016",
+      "precios": {
+        "2018": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14463": {
+      "id": "14463",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "GL 2.0 Automática 4x2 Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 11259.79,
+          "ars": 17250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12238.9,
+          "ars": 18750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 13544.39,
+          "ars": 20750000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 14849.87,
+          "ars": 22750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14464": {
+      "id": "14464",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "GL 2.0 4x2 Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 10933.42,
+          "ars": 16750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11912.53,
+          "ars": 18250000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 13218.02,
+          "ars": 20250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 14523.5,
+          "ars": 22250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14465": {
+      "id": "14465",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.0 4x2 Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14466": {
+      "id": "14466",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Safety 2.0 Automática 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 45840.08,
+          "ars": 70227000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 35443.86,
+          "ars": 54300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38054.83,
+          "ars": 58300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 40992.17,
+          "ars": 62800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14467": {
+      "id": "14467",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Style 2.0 Automática 4x2 Modelo 2016",
+      "precios": {
+        "2018": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14468": {
+      "id": "14468",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Style 2.0 Automática 4x2 Modelo 2019",
+      "precios": {
+        "2020": {
+          "usd": 23041.78,
+          "ars": 35300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 25000,
+          "ars": 38300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 26958.22,
+          "ars": 41300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 28590.08,
+          "ars": 43800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 31201.04,
+          "ars": 47800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14469": {
+      "id": "14469",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Style 2.0 4x2 Modelo 2016",
+      "precios": {
+        "2018": {
+          "usd": 18113.58,
+          "ars": 27750000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19419.06,
+          "ars": 29750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14470": {
+      "id": "14470",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.0 Turbodiésel Automática 4x2",
+      "precios": {}
+    },
+    "14471": {
+      "id": "14471",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.0 4x4",
+      "precios": {}
+    },
+    "14472": {
+      "id": "14472",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.0 Automática 4x4 Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14473": {
+      "id": "14473",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "GLS Full 2.0 Automática 4x4 Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14474": {
+      "id": "14474",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "GLS Full 2.0 4x4 Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14475": {
+      "id": "14475",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "GLS Premium 2.0 Automática 4x4 Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 13218.02,
+          "ars": 20250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14476": {
+      "id": "14476",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Premium F. 2.0 Automática 4x4 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 26370.76,
+          "ars": 40400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28328.98,
+          "ars": 43400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 30613.58,
+          "ars": 46900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 32898.17,
+          "ars": 50400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 35182.77,
+          "ars": 53900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37793.73,
+          "ars": 57900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14477": {
+      "id": "14477",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Premium 2.0 Automática 4x4 Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14478": {
+      "id": "14478",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.0 Turbodiésel 4x4",
+      "precios": {}
+    },
+    "14479": {
+      "id": "14479",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.0 Turbodiésel Automática 4x4",
+      "precios": {}
+    },
+    "14480": {
+      "id": "14480",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Exclu. 2.0 Turbodiésel Automática 4x4 Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 20300.26,
+          "ars": 31100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 21605.74,
+          "ars": 33100000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 23237.6,
+          "ars": 35600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24869.45,
+          "ars": 38100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14481": {
+      "id": "14481",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "Full PRE 2.0 Turbodiésel Automática 4x4 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 27349.87,
+          "ars": 41900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 29308.09,
+          "ars": 44900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 31592.69,
+          "ars": 48400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 33877.28,
+          "ars": 51900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14482": {
+      "id": "14482",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "GLS Full 2.0 Turbodiésel Automática 4x4 Modelo 2010",
+      "precios": {}
+    },
+    "14483": {
+      "id": "14483",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "GLS Full 2.0 Turbodiésel 4x4 Modelo 2010",
+      "precios": {}
+    },
+    "14484": {
+      "id": "14484",
+      "marcaId": "122",
+      "modeloId": "1440",
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "version": "2.7 V6 Automática 4x4",
+      "precios": {}
+    },
+    "14485": {
+      "id": "14485",
+      "marcaId": "122",
+      "modeloId": "1441",
+      "marca": "HYUNDAI",
+      "modelo": "VELOSTER",
+      "version": "1.6",
+      "precios": {
+        "2013": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13936.03,
+          "ars": 21350000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14486": {
+      "id": "14486",
+      "marcaId": "122",
+      "modeloId": "1441",
+      "marca": "HYUNDAI",
+      "modelo": "VELOSTER",
+      "version": "1.6 Automática",
+      "precios": {
+        "2013": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 14262.4,
+          "ars": 21850000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14487": {
+      "id": "14487",
+      "marcaId": "122",
+      "modeloId": "1441",
+      "marca": "HYUNDAI",
+      "modelo": "VELOSTER",
+      "version": "Sport 1.6 Turbo",
+      "precios": {
+        "2018": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14488": {
+      "id": "14488",
+      "marcaId": "122",
+      "modeloId": "1441",
+      "marca": "HYUNDAI",
+      "modelo": "VELOSTER",
+      "version": "Ultimate 1.6 Turbo",
+      "precios": {
+        "2019": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14489": {
+      "id": "14489",
+      "marcaId": "122",
+      "modeloId": "1441",
+      "marca": "HYUNDAI",
+      "modelo": "VELOSTER",
+      "version": "N 2.0 Turbo",
+      "precios": {
+        "2019": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14490": {
+      "id": "14490",
+      "marcaId": "122",
+      "modeloId": "1441",
+      "marca": "HYUNDAI",
+      "modelo": "VELOSTER",
+      "version": "Tech 2.0 Automática",
+      "precios": {
+        "2018": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14491": {
+      "id": "14491",
+      "marcaId": "122",
+      "modeloId": "1442",
+      "marca": "HYUNDAI",
+      "modelo": "VERACRUZ",
+      "version": "3.0 CRDi GLS Premium",
+      "precios": {}
+    },
+    "14492": {
+      "id": "14492",
+      "marcaId": "122",
+      "modeloId": "1442",
+      "marca": "HYUNDAI",
+      "modelo": "VERACRUZ",
+      "version": "3.8 V6 GLS Premium",
+      "precios": {}
+    },
+    "14612": {
+      "id": "14612",
+      "marcaId": "126",
+      "modeloId": "1465",
+      "marca": "JAC MOTORS",
+      "modelo": "E30X",
+      "version": "EV30X EV3 Luxury",
+      "precios": {
+        "0": {
+          "usd": 30460.18,
+          "ars": 46665000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14613": {
+      "id": "14613",
+      "marcaId": "126",
+      "modeloId": "1466",
+      "marca": "JAC MOTORS",
+      "modelo": "S2",
+      "version": "Intelligent",
+      "precios": {
+        "0": {
+          "usd": 20872.72,
+          "ars": 31977000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9660.57,
+          "ars": 14800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14614": {
+      "id": "14614",
+      "marcaId": "126",
+      "modeloId": "1466",
+      "marca": "JAC MOTORS",
+      "modelo": "S2",
+      "version": "Luxury CVT",
+      "precios": {
+        "0": {
+          "usd": 22870.1,
+          "ars": 35037000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14615": {
+      "id": "14615",
+      "marcaId": "126",
+      "modeloId": "1467",
+      "marca": "JAC MOTORS",
+      "modelo": "S4",
+      "version": "Flagship",
+      "precios": {
+        "0": {
+          "usd": 29461.49,
+          "ars": 45135000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14616": {
+      "id": "14616",
+      "marcaId": "126",
+      "modeloId": "1467",
+      "marca": "JAC MOTORS",
+      "modelo": "S4",
+      "version": "Luxury",
+      "precios": {
+        "0": {
+          "usd": 27464.1,
+          "ars": 42075000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14617": {
+      "id": "14617",
+      "marcaId": "126",
+      "modeloId": "1468",
+      "marca": "JAC MOTORS",
+      "modelo": "S6",
+      "version": "Euro VI",
+      "precios": {
+        "0": {
+          "usd": 33855.74,
+          "ars": 51867000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14618": {
+      "id": "14618",
+      "marcaId": "126",
+      "modeloId": "1469",
+      "marca": "JAC MOTORS",
+      "modelo": "S8",
+      "version": "PRO 7DCT",
+      "precios": {
+        "0": {
+          "usd": 36851.83,
+          "ars": 56457000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14619": {
+      "id": "14619",
+      "marcaId": "126",
+      "modeloId": "1470",
+      "marca": "JAC MOTORS",
+      "modelo": "T8",
+      "version": "Intelligent",
+      "precios": {
+        "0": {
+          "usd": 34854.44,
+          "ars": 53397000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14620": {
+      "id": "14620",
+      "marcaId": "126",
+      "modeloId": "1471",
+      "marca": "JAC MOTORS",
+      "modelo": "T9",
+      "version": "Luxury",
+      "precios": {
+        "0": {
+          "usd": 38449.74,
+          "ars": 58905000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14621": {
+      "id": "14621",
+      "marcaId": "126",
+      "modeloId": "1472",
+      "marca": "JAC MOTORS",
+      "modelo": "X200",
+      "version": "Cabina Doble Luxury",
+      "precios": {
+        "0": {
+          "usd": 25466.71,
+          "ars": 39015000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14622": {
+      "id": "14622",
+      "marcaId": "126",
+      "modeloId": "1472",
+      "marca": "JAC MOTORS",
+      "modelo": "X200",
+      "version": "Cabina Simple Luxury",
+      "precios": {
+        "0": {
+          "usd": 24667.75,
+          "ars": 37791000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14623": {
+      "id": "14623",
+      "marcaId": "126",
+      "modeloId": "1472",
+      "marca": "JAC MOTORS",
+      "modelo": "X200",
+      "version": "Luxury Turbodiésel",
+      "precios": {
+        "0": {
+          "usd": 31458.88,
+          "ars": 48195000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23498.69,
+          "ars": 36000000,
           "cotizacion": 1532
         }
       }
@@ -69415,6 +74940,61 @@
         "2022": {
           "usd": 13250.65,
           "ars": 20300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "204659": {
+      "id": "204659",
+      "marcaId": "126",
+      "modeloId": "1466",
+      "marca": "JAC MOTORS",
+      "modelo": "S2",
+      "version": "Luxury",
+      "precios": {
+        "2018": {
+          "usd": 9007.83,
+          "ars": 13800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "204670": {
+      "id": "204670",
+      "marcaId": "126",
+      "modeloId": "1472",
+      "marca": "JAC MOTORS",
+      "modelo": "X200",
+      "version": "Furgón Luxury Cargo Turbodiésel",
+      "precios": {
+        "2022": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 20887.73,
+          "ars": 32000000,
           "cotizacion": 1532
         }
       }
@@ -70785,6 +76365,333 @@
         }
       }
     },
+    "210244": {
+      "id": "210244",
+      "marcaId": "126",
+      "modeloId": "21323",
+      "marca": "JAC MOTORS",
+      "modelo": "HFC CAMIONES",
+      "version": "Camion HFC K 1035",
+      "precios": {}
+    },
+    "210245": {
+      "id": "210245",
+      "marcaId": "126",
+      "modeloId": "21323",
+      "marca": "JAC MOTORS",
+      "modelo": "HFC CAMIONES",
+      "version": "Camion HFC K 1041",
+      "precios": {}
+    },
+    "210246": {
+      "id": "210246",
+      "marcaId": "126",
+      "modeloId": "21323",
+      "marca": "JAC MOTORS",
+      "modelo": "HFC CAMIONES",
+      "version": "Camion HFC K 1061",
+      "precios": {}
+    },
+    "210247": {
+      "id": "210247",
+      "marcaId": "126",
+      "modeloId": "21323",
+      "marca": "JAC MOTORS",
+      "modelo": "HFC CAMIONES",
+      "version": "Camion HFC K 3048",
+      "precios": {}
+    },
+    "210248": {
+      "id": "210248",
+      "marcaId": "126",
+      "modeloId": "21324",
+      "marca": "JAC MOTORS",
+      "modelo": "MINIBUS",
+      "version": "HFC K PAS",
+      "precios": {}
+    },
+    "210249": {
+      "id": "210249",
+      "marcaId": "126",
+      "modeloId": "21324",
+      "marca": "JAC MOTORS",
+      "modelo": "MINIBUS",
+      "version": "Oriente Dif. PAS",
+      "precios": {}
+    },
+    "210250": {
+      "id": "210250",
+      "marcaId": "126",
+      "modeloId": "21324",
+      "marca": "JAC MOTORS",
+      "modelo": "MINIBUS",
+      "version": "Oriente Dif. PAS BAR",
+      "precios": {}
+    },
+    "210251": {
+      "id": "210251",
+      "marcaId": "126",
+      "modeloId": "21324",
+      "marca": "JAC MOTORS",
+      "modelo": "MINIBUS",
+      "version": "Oriente Urbano PAS",
+      "precios": {}
+    },
+    "210252": {
+      "id": "210252",
+      "marcaId": "126",
+      "modeloId": "21326",
+      "marca": "JAC MOTORS",
+      "modelo": "S3",
+      "version": "Intelligent",
+      "precios": {
+        "2018": {
+          "usd": 9530.03,
+          "ars": 14600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9986.95,
+          "ars": 15300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210253": {
+      "id": "210253",
+      "marcaId": "126",
+      "modeloId": "21326",
+      "marca": "JAC MOTORS",
+      "modelo": "S3",
+      "version": "CVT Intelligent",
+      "precios": {
+        "2018": {
+          "usd": 9660.57,
+          "ars": 14800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210254": {
+      "id": "210254",
+      "marcaId": "126",
+      "modeloId": "21328",
+      "marca": "JAC MOTORS",
+      "modelo": "S5",
+      "version": "Intelligent",
+      "precios": {
+        "2018": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210255": {
+      "id": "210255",
+      "marcaId": "126",
+      "modeloId": "21330",
+      "marca": "JAC MOTORS",
+      "modelo": "S7",
+      "version": "Intelligent",
+      "precios": {
+        "2020": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210256": {
+      "id": "210256",
+      "marcaId": "126",
+      "modeloId": "21330",
+      "marca": "JAC MOTORS",
+      "modelo": "S7",
+      "version": "Luxury",
+      "precios": {
+        "2020": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210257": {
+      "id": "210257",
+      "marcaId": "126",
+      "modeloId": "21332",
+      "marca": "JAC MOTORS",
+      "modelo": "T6",
+      "version": "4x2 Luxury",
+      "precios": {
+        "2018": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210258": {
+      "id": "210258",
+      "marcaId": "126",
+      "modeloId": "21332",
+      "marca": "JAC MOTORS",
+      "modelo": "T6",
+      "version": "4x4 Luxury",
+      "precios": {
+        "2018": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "221157": {
       "id": "221157",
       "marcaId": "2234",
@@ -71818,6 +77725,773 @@
       "marca": "FERRARI",
       "modelo": "SUPERAMERICA",
       "version": "Transmisión F1 · Ref. V-250334",
+      "precios": {}
+    },
+    "250335": {
+      "id": "250335",
+      "marcaId": "2739",
+      "modeloId": "26390",
+      "marca": "JAGUAR",
+      "modelo": "DAIMLER",
+      "version": "Largo",
+      "precios": {}
+    },
+    "250336": {
+      "id": "250336",
+      "marcaId": "2739",
+      "modeloId": "26390",
+      "marca": "JAGUAR",
+      "modelo": "DAIMLER",
+      "version": "Largo Kompressor",
+      "precios": {}
+    },
+    "250337": {
+      "id": "250337",
+      "marcaId": "2739",
+      "modeloId": "26391",
+      "marca": "JAGUAR",
+      "modelo": "F-PACE",
+      "version": "Prestige 2.0 Turbodiésel",
+      "precios": {
+        "2017": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 51566.58,
+          "ars": 79000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 56135.77,
+          "ars": 86000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250338": {
+      "id": "250338",
+      "marcaId": "2739",
+      "modeloId": "26391",
+      "marca": "JAGUAR",
+      "modelo": "F-PACE",
+      "version": "Prestige 3.0",
+      "precios": {
+        "2017": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 45039.16,
+          "ars": 69000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 48955.61,
+          "ars": 75000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 53524.8,
+          "ars": 82000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 58093.99,
+          "ars": 89000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250339": {
+      "id": "250339",
+      "marcaId": "2739",
+      "modeloId": "26391",
+      "marca": "JAGUAR",
+      "modelo": "F-PACE",
+      "version": "R-Sport 3.0",
+      "precios": {
+        "2017": {
+          "usd": 41122.72,
+          "ars": 63000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 52872.06,
+          "ars": 81000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250340": {
+      "id": "250340",
+      "marcaId": "2739",
+      "modeloId": "26392",
+      "marca": "JAGUAR",
+      "modelo": "F-TYPE",
+      "version": "3.0 V6 Supercharged",
+      "precios": {
+        "2015": {
+          "usd": 83550.91,
+          "ars": 128000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 86814.62,
+          "ars": 133000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 90078.33,
+          "ars": 138000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 93994.78,
+          "ars": 144000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 97911.23,
+          "ars": 150000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 101827.68,
+          "ars": 156000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 106396.87,
+          "ars": 163000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 111618.8,
+          "ars": 171000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 117493.47,
+          "ars": 180000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250341": {
+      "id": "250341",
+      "marcaId": "2739",
+      "modeloId": "26392",
+      "marca": "JAGUAR",
+      "modelo": "F-TYPE",
+      "version": "5.0 R",
+      "precios": {
+        "2015": {
+          "usd": 93342.04,
+          "ars": 143000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 96605.74,
+          "ars": 148000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 99869.45,
+          "ars": 153000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250342": {
+      "id": "250342",
+      "marcaId": "2739",
+      "modeloId": "26392",
+      "marca": "JAGUAR",
+      "modelo": "F-TYPE",
+      "version": "5.0 V6 Supercharged",
+      "precios": {
+        "2016": {
+          "usd": 93342.04,
+          "ars": 143000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 96605.74,
+          "ars": 148000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250343": {
+      "id": "250343",
+      "marcaId": "2739",
+      "modeloId": "26392",
+      "marca": "JAGUAR",
+      "modelo": "F-TYPE",
+      "version": "Cabriolet · Ref. V-250343",
+      "precios": {
+        "2017": {
+          "usd": 93342.04,
+          "ars": 143000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 97258.49,
+          "ars": 149000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 101174.93,
+          "ars": 155000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 105091.38,
+          "ars": 161000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 109660.57,
+          "ars": 168000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 114882.51,
+          "ars": 176000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 120757.18,
+          "ars": 185000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250344": {
+      "id": "250344",
+      "marcaId": "2739",
+      "modeloId": "26393",
+      "marca": "JAGUAR",
+      "modelo": "S-TYPE",
+      "version": "H 3.0 V6",
+      "precios": {}
+    },
+    "250345": {
+      "id": "250345",
+      "marcaId": "2739",
+      "modeloId": "26393",
+      "marca": "JAGUAR",
+      "modelo": "S-TYPE",
+      "version": "SE 3.0 V6",
+      "precios": {}
+    },
+    "250346": {
+      "id": "250346",
+      "marcaId": "2739",
+      "modeloId": "26393",
+      "marca": "JAGUAR",
+      "modelo": "S-TYPE",
+      "version": "H 4.0 V8",
+      "precios": {}
+    },
+    "250347": {
+      "id": "250347",
+      "marcaId": "2739",
+      "modeloId": "26393",
+      "marca": "JAGUAR",
+      "modelo": "S-TYPE",
+      "version": "R 4.2 V8",
+      "precios": {}
+    },
+    "250348": {
+      "id": "250348",
+      "marcaId": "2739",
+      "modeloId": "26393",
+      "marca": "JAGUAR",
+      "modelo": "S-TYPE",
+      "version": "SE 4.2 V8",
+      "precios": {}
+    },
+    "250349": {
+      "id": "250349",
+      "marcaId": "2739",
+      "modeloId": "26394",
+      "marca": "JAGUAR",
+      "modelo": "SOVEREING",
+      "version": "4.0 · Ref. V-250349",
+      "precios": {}
+    },
+    "250350": {
+      "id": "250350",
+      "marcaId": "2739",
+      "modeloId": "26395",
+      "marca": "JAGUAR",
+      "modelo": "X-TYPE",
+      "version": "2.0 Diésel SE",
+      "precios": {}
+    },
+    "250351": {
+      "id": "250351",
+      "marcaId": "2739",
+      "modeloId": "26395",
+      "marca": "JAGUAR",
+      "modelo": "X-TYPE",
+      "version": "2.0 V6 SE",
+      "precios": {}
+    },
+    "250352": {
+      "id": "250352",
+      "marcaId": "2739",
+      "modeloId": "26395",
+      "marca": "JAGUAR",
+      "modelo": "X-TYPE",
+      "version": "2.2 Diésel SE",
+      "precios": {}
+    },
+    "250353": {
+      "id": "250353",
+      "marcaId": "2739",
+      "modeloId": "26395",
+      "marca": "JAGUAR",
+      "modelo": "X-TYPE",
+      "version": "3.0 V6 SE",
+      "precios": {}
+    },
+    "250354": {
+      "id": "250354",
+      "marcaId": "2739",
+      "modeloId": "26396",
+      "marca": "JAGUAR",
+      "modelo": "XE",
+      "version": "Prestige 2.0",
+      "precios": {
+        "2017": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 41122.72,
+          "ars": 63000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 52872.06,
+          "ars": 81000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250355": {
+      "id": "250355",
+      "marcaId": "2739",
+      "modeloId": "26396",
+      "marca": "JAGUAR",
+      "modelo": "XE",
+      "version": "Pure 2.0",
+      "precios": {
+        "2017": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250356": {
+      "id": "250356",
+      "marcaId": "2739",
+      "modeloId": "26396",
+      "marca": "JAGUAR",
+      "modelo": "XE",
+      "version": "Pure SE 2.0",
+      "precios": {
+        "2016": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250357": {
+      "id": "250357",
+      "marcaId": "2739",
+      "modeloId": "26396",
+      "marca": "JAGUAR",
+      "modelo": "XE",
+      "version": "S 3.0",
+      "precios": {
+        "2017": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 42428.2,
+          "ars": 65000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 59399.48,
+          "ars": 91000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250358": {
+      "id": "250358",
+      "marcaId": "2739",
+      "modeloId": "26397",
+      "marca": "JAGUAR",
+      "modelo": "XF",
+      "version": "Premium Luxury 2.0",
+      "precios": {
+        "2016": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250359": {
+      "id": "250359",
+      "marcaId": "2739",
+      "modeloId": "26397",
+      "marca": "JAGUAR",
+      "modelo": "XF",
+      "version": "Prestige 2.0",
+      "precios": {
+        "2017": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 59399.48,
+          "ars": 91000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 64621.41,
+          "ars": 99000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250360": {
+      "id": "250360",
+      "marcaId": "2739",
+      "modeloId": "26397",
+      "marca": "JAGUAR",
+      "modelo": "XF",
+      "version": "3.0 · Ref. V-250360",
+      "precios": {
+        "2013": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250361": {
+      "id": "250361",
+      "marcaId": "2739",
+      "modeloId": "26397",
+      "marca": "JAGUAR",
+      "modelo": "XF",
+      "version": "S 3.0",
+      "precios": {
+        "2017": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 52872.06,
+          "ars": 81000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 65926.89,
+          "ars": 101000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 71148.83,
+          "ars": 109000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250362": {
+      "id": "250362",
+      "marcaId": "2739",
+      "modeloId": "26398",
+      "marca": "JAGUAR",
+      "modelo": "XFR",
+      "version": "Supercharged",
+      "precios": {
+        "2013": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "250363": {
+      "id": "250363",
+      "marcaId": "2739",
+      "modeloId": "26399",
+      "marca": "JAGUAR",
+      "modelo": "XJ6",
+      "version": "3.2 · 4 Puertas · Ref. V-250363",
+      "precios": {}
+    },
+    "250364": {
+      "id": "250364",
+      "marcaId": "2739",
+      "modeloId": "26400",
+      "marca": "JAGUAR",
+      "modelo": "XJ8",
+      "version": "3.2 · 4 Puertas · Ref. V-250364",
+      "precios": {}
+    },
+    "250365": {
+      "id": "250365",
+      "marcaId": "2739",
+      "modeloId": "26400",
+      "marca": "JAGUAR",
+      "modelo": "XJ8",
+      "version": "4.0 · 4 Puertas · Ref. V-250365",
+      "precios": {}
+    },
+    "250366": {
+      "id": "250366",
+      "marcaId": "2739",
+      "modeloId": "26400",
+      "marca": "JAGUAR",
+      "modelo": "XJ8",
+      "version": "5.0 · 4 Puertas · Ref. V-250366",
+      "precios": {}
+    },
+    "250367": {
+      "id": "250367",
+      "marcaId": "2739",
+      "modeloId": "26401",
+      "marca": "JAGUAR",
+      "modelo": "XJR",
+      "version": "4.0 · 4 Puertas · Ref. V-250367",
+      "precios": {}
+    },
+    "250368": {
+      "id": "250368",
+      "marcaId": "2739",
+      "modeloId": "26402",
+      "marca": "JAGUAR",
+      "modelo": "XJS",
+      "version": "4.2 · V8 · Ref. V-250368",
+      "precios": {}
+    },
+    "250369": {
+      "id": "250369",
+      "marcaId": "2739",
+      "modeloId": "26403",
+      "marca": "JAGUAR",
+      "modelo": "XK",
+      "version": "5.0 · Coupé · V8 · Ref. V-250369",
+      "precios": {}
+    },
+    "250370": {
+      "id": "250370",
+      "marcaId": "2739",
+      "modeloId": "26404",
+      "marca": "JAGUAR",
+      "modelo": "XK8",
+      "version": "4.0 · Cabriolet · V8 · Ref. V-250370",
+      "precios": {}
+    },
+    "250371": {
+      "id": "250371",
+      "marcaId": "2739",
+      "modeloId": "26404",
+      "marca": "JAGUAR",
+      "modelo": "XK8",
+      "version": "4.0 · Coupé · V8 · Ref. V-250371",
+      "precios": {}
+    },
+    "250372": {
+      "id": "250372",
+      "marcaId": "2739",
+      "modeloId": "26405",
+      "marca": "JAGUAR",
+      "modelo": "XKR",
+      "version": "4.2 · Cabriolet · Ref. V-250372",
+      "precios": {}
+    },
+    "250373": {
+      "id": "250373",
+      "marcaId": "2739",
+      "modeloId": "26405",
+      "marca": "JAGUAR",
+      "modelo": "XKR",
+      "version": "4.2 · Coupé · Ref. V-250373",
       "precios": {}
     },
     "269027": {
