@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-17T04:48:55.606Z",
+  "actualizado": "2026-09-17T06:52:27.955Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 3133,
-  "versionesConValuacion": 1585,
+  "versionesProcesadas": 3482,
+  "versionesConValuacion": 1691,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -51113,6 +51113,81 @@
         }
       }
     },
+    "13136": {
+      "id": "13136",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano 1.3 T270 Automática 4x2 Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13137": {
+      "id": "13137",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano 1.3 T270 Automática 4x2 Modelo 2024",
+      "precios": {
+        "2023": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13138": {
+      "id": "13138",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano 1.3 T270 Automática 4x2 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 37278.07,
+          "ars": 57110000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "13139": {
       "id": "13139",
       "marcaId": "113",
@@ -51432,6 +51507,5148 @@
           "cotizacion": 1532
         }
       }
+    },
+    "13152": {
+      "id": "13152",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "N Holand 2.0 Turbodiésel Automática 4x4",
+      "precios": {
+        "2019": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13153": {
+      "id": "13153",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Ranch 2.0 Turbodiésel Automática 4x4",
+      "precios": {
+        "2020": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13154": {
+      "id": "13154",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Ranch 2.0 Turbodiésel Automática 4x4 Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13155": {
+      "id": "13155",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Ultra 2.0 Turbodiésel Automática 4x4 Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13156": {
+      "id": "13156",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Ultra 2.0 Turbodiésel Automática 4x4 Modelo 2024",
+      "precios": {
+        "2023": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13157": {
+      "id": "13157",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano 2.0 Turbodiésel Automática 4x4",
+      "precios": {
+        "2016": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13158": {
+      "id": "13158",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano 2.0 Turbodiésel Automática 4x4 Modelo 2019",
+      "precios": {
+        "2018": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13159": {
+      "id": "13159",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano 2.0 Turbodiésel Automática 4x4 Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13160": {
+      "id": "13160",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano 2.0 Turbodiésel Automática 4x4 Modelo 2024",
+      "precios": {
+        "2023": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13161": {
+      "id": "13161",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano PRE 2.0 Turbodiésel Automática 4x4",
+      "precios": {
+        "2016": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13163": {
+      "id": "13163",
+      "marcaId": "113",
+      "modeloId": "1337",
+      "marca": "FIAT",
+      "modelo": "TORO",
+      "version": "Volcano 2.2 Turbodiésel Automática 4x4 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 40176.24,
+          "ars": 61550000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13165": {
+      "id": "13165",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Mille 1.0 3 Puertas",
+      "precios": {}
+    },
+    "13166": {
+      "id": "13166",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "WAY 1.3 5 Puertas",
+      "precios": {
+        "2018": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9007.83,
+          "ars": 13800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13167": {
+      "id": "13167",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive 1.4 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6364.23,
+          "ars": 9750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6592.69,
+          "ars": 10100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13168": {
+      "id": "13168",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive Casual 1.4 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6396.87,
+          "ars": 9800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13169": {
+      "id": "13169",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive ELE Pack 1.4 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6442.56,
+          "ars": 9870000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13170": {
+      "id": "13170",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive Pack Seguridad 1.4 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6481.72,
+          "ars": 9930000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6710.18,
+          "ars": 10280000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 6971.28,
+          "ars": 10680000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13171": {
+      "id": "13171",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6396.87,
+          "ars": 9800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6625.33,
+          "ars": 10150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13172": {
+      "id": "13172",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive Casual 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6429.5,
+          "ars": 9850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13173": {
+      "id": "13173",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive ELE Pack 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6475.2,
+          "ars": 9920000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13174": {
+      "id": "13174",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive Pack Seguridad 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6514.36,
+          "ars": 9980000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6742.82,
+          "ars": 10330000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7003.92,
+          "ars": 10730000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7265.01,
+          "ars": 11130000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13175": {
+      "id": "13175",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Attractive Top 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6644.91,
+          "ars": 10180000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6873.37,
+          "ars": 10530000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7134.46,
+          "ars": 10930000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7395.56,
+          "ars": 11330000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13176": {
+      "id": "13176",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Sporting 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6612.27,
+          "ars": 10130000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13177": {
+      "id": "13177",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Sporting 1.4 5 Puertas Serie II",
+      "precios": {
+        "2013": {
+          "usd": 6775.46,
+          "ars": 10380000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7003.92,
+          "ars": 10730000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7265.01,
+          "ars": 11130000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7526.11,
+          "ars": 11530000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13178": {
+      "id": "13178",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Sporting Seg. Pack 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6729.77,
+          "ars": 10310000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13179": {
+      "id": "13179",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "WAY 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6429.5,
+          "ars": 9850000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6657.96,
+          "ars": 10200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13180": {
+      "id": "13180",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "WAY Casual 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6462.14,
+          "ars": 9900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13181": {
+      "id": "13181",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "WAY Elect. 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6507.83,
+          "ars": 9970000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13182": {
+      "id": "13182",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "WAY Segur. 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6547,
+          "ars": 10030000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6775.46,
+          "ars": 10380000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7036.55,
+          "ars": 10780000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7297.65,
+          "ars": 11180000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13183": {
+      "id": "13183",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "WAY Top 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6677.55,
+          "ars": 10230000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6906.01,
+          "ars": 10580000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7167.1,
+          "ars": 10980000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7428.2,
+          "ars": 11380000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13184": {
+      "id": "13184",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Cargo Fire 1.3",
+      "precios": {
+        "2013": {
+          "usd": 4732.38,
+          "ars": 7250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 4928.2,
+          "ars": 7550000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5124.02,
+          "ars": 7850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13185": {
+      "id": "13185",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Cargo Fire Aire 1.3",
+      "precios": {
+        "2013": {
+          "usd": 4765.01,
+          "ars": 7300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 4960.84,
+          "ars": 7600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5156.66,
+          "ars": 7900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13186": {
+      "id": "13186",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Cargo EVO 1.4",
+      "precios": {
+        "2015": {
+          "usd": 6396.87,
+          "ars": 9800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 6592.69,
+          "ars": 10100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 6723.24,
+          "ars": 10300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13187": {
+      "id": "13187",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "1.6 Cabina Simple 3 Puertas",
+      "precios": {}
+    },
+    "13188": {
+      "id": "13188",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Full 1.6 Cabina Simple 3 Puertas",
+      "precios": {}
+    },
+    "13189": {
+      "id": "13189",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "1.6 Cabina Simple 5 Puertas",
+      "precios": {}
+    },
+    "13190": {
+      "id": "13190",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Full 1.6 Cabina Simple 5 Puertas",
+      "precios": {}
+    },
+    "13191": {
+      "id": "13191",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "CSD 1.7 3 Puertas",
+      "precios": {}
+    },
+    "13192": {
+      "id": "13192",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "CSD Full 1.7 3 Puertas",
+      "precios": {}
+    },
+    "13193": {
+      "id": "13193",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "CSD 1.7 5 Puertas",
+      "precios": {}
+    },
+    "13194": {
+      "id": "13194",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "CSD Full 1.7 5 Puertas",
+      "precios": {}
+    },
+    "13195": {
+      "id": "13195",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire 1.3 3 Puertas",
+      "precios": {}
+    },
+    "13196": {
+      "id": "13196",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire 1.3 3 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13197": {
+      "id": "13197",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Pack 1.3 Automática 3 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13198": {
+      "id": "13198",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire B Pack 1.3 3 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13199": {
+      "id": "13199",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire B Pack 1.3 3 Puertas Serie II Modelo 2006",
+      "precios": {}
+    },
+    "13200": {
+      "id": "13200",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire C Pack 1.3 3 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13201": {
+      "id": "13201",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire C Pack 1.3 3 Puertas Serie II Modelo 2006",
+      "precios": {}
+    },
+    "13202": {
+      "id": "13202",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire 1.3 3 Puertas Modelo 2009",
+      "precios": {}
+    },
+    "13203": {
+      "id": "13203",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Confort 1.3 3 Puertas Modelo 2009",
+      "precios": {}
+    },
+    "13204": {
+      "id": "13204",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire 1.3 3 Puertas Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 5319.84,
+          "ars": 8150000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5450.39,
+          "ars": 8350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13205": {
+      "id": "13205",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Confort 1.3 3 Puertas Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 5352.48,
+          "ars": 8200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5483.03,
+          "ars": 8400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13206": {
+      "id": "13206",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Pack 1.3 3 Puertas",
+      "precios": {}
+    },
+    "13207": {
+      "id": "13207",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Pack Aire 1.3 3 Puertas",
+      "precios": {}
+    },
+    "13208": {
+      "id": "13208",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire 1.3 5 Puertas",
+      "precios": {}
+    },
+    "13209": {
+      "id": "13209",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire 1.3 5 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13210": {
+      "id": "13210",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Pack 1.3 Automática 5 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13211": {
+      "id": "13211",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire B Pack 1.3 5 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13212": {
+      "id": "13212",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire B Pack 1.3 5 Puertas Serie II Modelo 2006",
+      "precios": {}
+    },
+    "13213": {
+      "id": "13213",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire C Pack 1.3 5 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13214": {
+      "id": "13214",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire C Pack 1.3 5 Puertas Serie II Modelo 2006",
+      "precios": {}
+    },
+    "13215": {
+      "id": "13215",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire WAY 1.3 5 Puertas Modelo 2006",
+      "precios": {}
+    },
+    "13216": {
+      "id": "13216",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire 1.3 5 Puertas Modelo 2009",
+      "precios": {}
+    },
+    "13217": {
+      "id": "13217",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Confort 1.3 5 Puertas Modelo 2009",
+      "precios": {}
+    },
+    "13218": {
+      "id": "13218",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire WAY 1.3 5 Puertas Modelo 2009",
+      "precios": {}
+    },
+    "13219": {
+      "id": "13219",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire 1.3 5 Puertas Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 5352.48,
+          "ars": 8200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5483.03,
+          "ars": 8400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13220": {
+      "id": "13220",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Confort 1.3 5 Puertas Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 5385.12,
+          "ars": 8250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5515.67,
+          "ars": 8450000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 5646.21,
+          "ars": 8650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13221": {
+      "id": "13221",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Pack 1.3 5 Puertas",
+      "precios": {}
+    },
+    "13222": {
+      "id": "13222",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Fire Pack Aire 1.3 5 Puertas",
+      "precios": {}
+    },
+    "13223": {
+      "id": "13223",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S 1.3 Nafta 3 Puertas",
+      "precios": {}
+    },
+    "13224": {
+      "id": "13224",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Aire 1.3 Nafta 3 Puertas",
+      "precios": {}
+    },
+    "13225": {
+      "id": "13225",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Top 1.3 Nafta 3 Puertas",
+      "precios": {}
+    },
+    "13226": {
+      "id": "13226",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S 1.3 Nafta 5 Puertas",
+      "precios": {}
+    },
+    "13227": {
+      "id": "13227",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Aire 1.3 Nafta 5 Puertas",
+      "precios": {}
+    },
+    "13228": {
+      "id": "13228",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Premio 1.4 3 Puertas",
+      "precios": {}
+    },
+    "13229": {
+      "id": "13229",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Confort 1.4 3 Puertas",
+      "precios": {}
+    },
+    "13230": {
+      "id": "13230",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Confort Aire 1.4 3 Puertas",
+      "precios": {}
+    },
+    "13231": {
+      "id": "13231",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Premio 1.4 5 Puertas",
+      "precios": {}
+    },
+    "13232": {
+      "id": "13232",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Confort 1.4 5 Puertas",
+      "precios": {}
+    },
+    "13233": {
+      "id": "13233",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "S Confort Aire 1.4 5 Puertas",
+      "precios": {}
+    },
+    "13234": {
+      "id": "13234",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SCR 1.6 3 Puertas",
+      "precios": {}
+    },
+    "13235": {
+      "id": "13235",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SCR 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13236": {
+      "id": "13236",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SD 1.7 3 Puertas",
+      "precios": {}
+    },
+    "13237": {
+      "id": "13237",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SD Full 1.7 3 Puertas",
+      "precios": {}
+    },
+    "13238": {
+      "id": "13238",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SD 1.7 5 Puertas",
+      "precios": {}
+    },
+    "13239": {
+      "id": "13239",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SD Full 1.7 5 Puertas",
+      "precios": {}
+    },
+    "13240": {
+      "id": "13240",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "Suite Dirección 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13241": {
+      "id": "13241",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SX 1.6 3 Puertas",
+      "precios": {}
+    },
+    "13242": {
+      "id": "13242",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SX Full 1.6 3 Puertas",
+      "precios": {}
+    },
+    "13243": {
+      "id": "13243",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SX 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13244": {
+      "id": "13244",
+      "marcaId": "113",
+      "modeloId": "1338",
+      "marca": "FIAT",
+      "modelo": "UNO",
+      "version": "SX Full 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13246": {
+      "id": "13246",
+      "marcaId": "114",
+      "modeloId": "1339",
+      "marca": "FORD",
+      "modelo": "BRONCO",
+      "version": "Sport BIG Bend 1.5",
+      "precios": {
+        "2021": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 30352.48,
+          "ars": 46500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 31657.96,
+          "ars": 48500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13247": {
+      "id": "13247",
+      "marcaId": "114",
+      "modeloId": "1339",
+      "marca": "FORD",
+      "modelo": "BRONCO",
+      "version": "Sport BIG Bend 1.5 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 38743.47,
+          "ars": 59355000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13248": {
+      "id": "13248",
+      "marcaId": "114",
+      "modeloId": "1339",
+      "marca": "FORD",
+      "modelo": "BRONCO",
+      "version": "Sport Badlands 2.0 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 45885.77,
+          "ars": 70297000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 40796.34,
+          "ars": 62500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13249": {
+      "id": "13249",
+      "marcaId": "114",
+      "modeloId": "1339",
+      "marca": "FORD",
+      "modelo": "BRONCO",
+      "version": "Sport Wildtrak 2.0",
+      "precios": {
+        "2021": {
+          "usd": 31005.22,
+          "ars": 47500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 34921.67,
+          "ars": 53500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13250": {
+      "id": "13250",
+      "marcaId": "114",
+      "modeloId": "1339",
+      "marca": "FORD",
+      "modelo": "BRONCO",
+      "version": "Badlands 2.7 V6 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 76762.4,
+          "ars": 117600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 66906.01,
+          "ars": 102500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 70822.45,
+          "ars": 108500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13251": {
+      "id": "13251",
+      "marcaId": "114",
+      "modeloId": "1339",
+      "marca": "FORD",
+      "modelo": "BRONCO",
+      "version": "Wildtrak 2.7 V6",
+      "precios": {
+        "2024": {
+          "usd": 62336.81,
+          "ars": 95500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 64295.04,
+          "ars": 98500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13252": {
+      "id": "13252",
+      "marcaId": "114",
+      "modeloId": "1340",
+      "marca": "FORD",
+      "modelo": "COURIER",
+      "version": "1.8 Diésel Furgón",
+      "precios": {}
+    },
+    "13253": {
+      "id": "13253",
+      "marcaId": "114",
+      "modeloId": "1340",
+      "marca": "FORD",
+      "modelo": "COURIER",
+      "version": "Dirección 1.8 Diésel Furgón",
+      "precios": {}
+    },
+    "13254": {
+      "id": "13254",
+      "marcaId": "114",
+      "modeloId": "1340",
+      "marca": "FORD",
+      "modelo": "COURIER",
+      "version": "Dirección Aire 1.8 Diésel Furgón",
+      "precios": {}
+    },
+    "13255": {
+      "id": "13255",
+      "marcaId": "114",
+      "modeloId": "1340",
+      "marca": "FORD",
+      "modelo": "COURIER",
+      "version": "SI 16 Válvulas Dirección Aire 1.4 Pick-Up",
+      "precios": {}
+    },
+    "13256": {
+      "id": "13256",
+      "marcaId": "114",
+      "modeloId": "1340",
+      "marca": "FORD",
+      "modelo": "COURIER",
+      "version": "XL 1.6 Pick-Up",
+      "precios": {}
+    },
+    "13257": {
+      "id": "13257",
+      "marcaId": "114",
+      "modeloId": "1340",
+      "marca": "FORD",
+      "modelo": "COURIER",
+      "version": "XL Plus 1.6 Pick-Up",
+      "precios": {}
+    },
+    "13258": {
+      "id": "13258",
+      "marcaId": "114",
+      "modeloId": "1340",
+      "marca": "FORD",
+      "modelo": "COURIER",
+      "version": "Dirección 1.8 Diésel Pick-Up",
+      "precios": {}
+    },
+    "13259": {
+      "id": "13259",
+      "marcaId": "114",
+      "modeloId": "1340",
+      "marca": "FORD",
+      "modelo": "COURIER",
+      "version": "Plus 1.8 Diésel Pick-Up",
+      "precios": {}
+    },
+    "13260": {
+      "id": "13260",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XL Plus 1.4 TDCi",
+      "precios": {}
+    },
+    "13261": {
+      "id": "13261",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XL Plus 1.4 TDCi Modelo 2007",
+      "precios": {}
+    },
+    "13262": {
+      "id": "13262",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS 1.4 TDCi",
+      "precios": {}
+    },
+    "13263": {
+      "id": "13263",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS 1.4 TDCi Modelo 2007",
+      "precios": {}
+    },
+    "13264": {
+      "id": "13264",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Freestyle 1.5 Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13265": {
+      "id": "13265",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "S 1.5 Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13266": {
+      "id": "13266",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "SE 1.5 Automática Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13267": {
+      "id": "13267",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "SE 1.5 Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13268": {
+      "id": "13268",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "S 1.5 TDCi Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 8420.37,
+          "ars": 12900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13269": {
+      "id": "13269",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "SE 1.5 TDCi Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 8616.19,
+          "ars": 13200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9268.93,
+          "ars": 14200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13270": {
+      "id": "13270",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "SE 1.5 TDCi Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13271": {
+      "id": "13271",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Titanium 1.5 Automática Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15469.97,
+          "ars": 23700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13272": {
+      "id": "13272",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Titanium 1.5 Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13273": {
+      "id": "13273",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Freestyle 1.6 Modelo 2010",
+      "precios": {}
+    },
+    "13274": {
+      "id": "13274",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Freestyle 1.6 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13275": {
+      "id": "13275",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "S 1.6 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 8289.82,
+          "ars": 12700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8942.56,
+          "ars": 13700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13276": {
+      "id": "13276",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "SE 1.6 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13277": {
+      "id": "13277",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Titanium 1.6 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13278": {
+      "id": "13278",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XL Plus 1.6",
+      "precios": {}
+    },
+    "13279": {
+      "id": "13279",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XL Plus GNC 1.6",
+      "precios": {}
+    },
+    "13280": {
+      "id": "13280",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XL Plus 1.6 Modelo 2007",
+      "precios": {}
+    },
+    "13281": {
+      "id": "13281",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS 1.6",
+      "precios": {}
+    },
+    "13282": {
+      "id": "13282",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS Freestyle 1.6",
+      "precios": {}
+    },
+    "13283": {
+      "id": "13283",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS GNC 1.6",
+      "precios": {}
+    },
+    "13284": {
+      "id": "13284",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS 1.6 Modelo 2007",
+      "precios": {}
+    },
+    "13285": {
+      "id": "13285",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS Plus 1.6 Modelo 2010",
+      "precios": {}
+    },
+    "13286": {
+      "id": "13286",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS S/Aa 1.6 Modelo 2010",
+      "precios": {}
+    },
+    "13287": {
+      "id": "13287",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS Seguridad 1.6",
+      "precios": {}
+    },
+    "13288": {
+      "id": "13288",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT HE 1.6",
+      "precios": {}
+    },
+    "13289": {
+      "id": "13289",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT 1.6 Modelo 2007",
+      "precios": {}
+    },
+    "13290": {
+      "id": "13290",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT Plus 1.6 Modelo 2010",
+      "precios": {}
+    },
+    "13291": {
+      "id": "13291",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT SHE 1.6",
+      "precios": {}
+    },
+    "13292": {
+      "id": "13292",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Freestyle 2.0 Automática 4x4 Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15469.97,
+          "ars": 23700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13293": {
+      "id": "13293",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Freestyle 2.0 4x4 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13294": {
+      "id": "13294",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "SE 2.0 Automática Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13295": {
+      "id": "13295",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "SE 2.0 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 9268.93,
+          "ars": 14200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13296": {
+      "id": "13296",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Storm 2.0 Automática 4x4 Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18080.94,
+          "ars": 27700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13297": {
+      "id": "13297",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Titanium 2.0 Automática Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13298": {
+      "id": "13298",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Titanium 2.0 Automática Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 15469.97,
+          "ars": 23700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13299": {
+      "id": "13299",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "Titanium 2.0 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13300": {
+      "id": "13300",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS 2.0 Modelo 2007",
+      "precios": {}
+    },
+    "13301": {
+      "id": "13301",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS Night Running 2.0",
+      "precios": {}
+    },
+    "13302": {
+      "id": "13302",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLS Plus 2.0 Automática Modelo 2007",
+      "precios": {}
+    },
+    "13303": {
+      "id": "13303",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT 2.0",
+      "precios": {}
+    },
+    "13304": {
+      "id": "13304",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT 2.0 4x4",
+      "precios": {}
+    },
+    "13305": {
+      "id": "13305",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT 2.0 4x4 Modelo 2010",
+      "precios": {}
+    },
+    "13306": {
+      "id": "13306",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT Plus 2.0 4x4",
+      "precios": {}
+    },
+    "13307": {
+      "id": "13307",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT Plus 2.0 4x4 Modelo 2007",
+      "precios": {}
+    },
+    "13308": {
+      "id": "13308",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT 2.0 Automática",
+      "precios": {}
+    },
+    "13309": {
+      "id": "13309",
+      "marcaId": "114",
+      "modeloId": "1341",
+      "marca": "FORD",
+      "modelo": "ECO SPORT",
+      "version": "XLT Plus 2.0 Modelo 2007",
+      "precios": {}
+    },
+    "13310": {
+      "id": "13310",
+      "marcaId": "114",
+      "modeloId": "1342",
+      "marca": "FORD",
+      "modelo": "ECONO",
+      "version": "Line",
+      "precios": {}
+    },
+    "13311": {
+      "id": "13311",
+      "marcaId": "114",
+      "modeloId": "1343",
+      "marca": "FORD",
+      "modelo": "ESCAPE",
+      "version": "XLS 4x2",
+      "precios": {}
+    },
+    "13312": {
+      "id": "13312",
+      "marcaId": "114",
+      "modeloId": "1343",
+      "marca": "FORD",
+      "modelo": "ESCAPE",
+      "version": "XLS 4x4",
+      "precios": {}
+    },
+    "13313": {
+      "id": "13313",
+      "marcaId": "114",
+      "modeloId": "1343",
+      "marca": "FORD",
+      "modelo": "ESCAPE",
+      "version": "XLT 4x4",
+      "precios": {}
+    },
+    "13314": {
+      "id": "13314",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Cabriolet",
+      "precios": {}
+    },
+    "13315": {
+      "id": "13315",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "CLX 16 Válvulas 1.8",
+      "precios": {}
+    },
+    "13316": {
+      "id": "13316",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "CLX 16 Válvulas 1.8 Rural",
+      "precios": {}
+    },
+    "13317": {
+      "id": "13317",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "CLX Diésel",
+      "precios": {}
+    },
+    "13318": {
+      "id": "13318",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "CLX Diésel Rural",
+      "precios": {}
+    },
+    "13319": {
+      "id": "13319",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "CLX Turbodiésel",
+      "precios": {}
+    },
+    "13320": {
+      "id": "13320",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "CLX Turbodiésel Rural",
+      "precios": {}
+    },
+    "13321": {
+      "id": "13321",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "RS 16 Válvulas 1.8 Coupé",
+      "precios": {}
+    },
+    "13322": {
+      "id": "13322",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "SI 16 Válvulas 1.8 Coupé",
+      "precios": {}
+    },
+    "13323": {
+      "id": "13323",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Ghia 16 Válvulas 1.8",
+      "precios": {}
+    },
+    "13324": {
+      "id": "13324",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Ghia 16 Válvulas 1.8 Rural",
+      "precios": {}
+    },
+    "13325": {
+      "id": "13325",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Ghia Diésel",
+      "precios": {}
+    },
+    "13326": {
+      "id": "13326",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Ghia Turbodiésel",
+      "precios": {}
+    },
+    "13327": {
+      "id": "13327",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Ghia Turbodiésel Rural",
+      "precios": {}
+    },
+    "13328": {
+      "id": "13328",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "GL 1.6 3 Puertas",
+      "precios": {}
+    },
+    "13329": {
+      "id": "13329",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "GL 16 Válvulas 1.8",
+      "precios": {}
+    },
+    "13330": {
+      "id": "13330",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "GL 1.8 3 Puertas",
+      "precios": {}
+    },
+    "13331": {
+      "id": "13331",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "GLX Full Racer 1.8 3 Puertas",
+      "precios": {}
+    },
+    "13332": {
+      "id": "13332",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Black 1.6",
+      "precios": {}
+    },
+    "13333": {
+      "id": "13333",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Cross 1.6",
+      "precios": {}
+    },
+    "13334": {
+      "id": "13334",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Plus Aire 1.6",
+      "precios": {}
+    },
+    "13335": {
+      "id": "13335",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Plus Aire 1.6 Rural",
+      "precios": {}
+    },
+    "13336": {
+      "id": "13336",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX 16 Válvulas Aire Plus 1.8",
+      "precios": {}
+    },
+    "13337": {
+      "id": "13337",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX 16 Válvulas Aire 1.8 Rural",
+      "precios": {}
+    },
+    "13338": {
+      "id": "13338",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Cross 16 Válvulas 1.8",
+      "precios": {}
+    },
+    "13339": {
+      "id": "13339",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX 1.8 3 Puertas",
+      "precios": {}
+    },
+    "13340": {
+      "id": "13340",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Cross 1.8 TDCi",
+      "precios": {}
+    },
+    "13341": {
+      "id": "13341",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Plus Aire 1.8 TDCi",
+      "precios": {}
+    },
+    "13342": {
+      "id": "13342",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Plus Aire 1.8 TDCi Rural",
+      "precios": {}
+    },
+    "13343": {
+      "id": "13343",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Diésel",
+      "precios": {}
+    },
+    "13344": {
+      "id": "13344",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Aire Plus Diésel",
+      "precios": {}
+    },
+    "13345": {
+      "id": "13345",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Aire Plus Diésel Rural",
+      "precios": {}
+    },
+    "13346": {
+      "id": "13346",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "LX Black/Cross Diésel",
+      "precios": {}
+    },
+    "13347": {
+      "id": "13347",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Taxi 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13348": {
+      "id": "13348",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Taxi Aire 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13349": {
+      "id": "13349",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Taxi 1.8 Diésel 4 Puertas",
+      "precios": {}
+    },
+    "13350": {
+      "id": "13350",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Taxi Aire 1.8 Diésel 4 Puertas",
+      "precios": {}
+    },
+    "13351": {
+      "id": "13351",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Taxi 1.8 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13352": {
+      "id": "13352",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "Taxi Aire 1.8 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13353": {
+      "id": "13353",
+      "marcaId": "114",
+      "modeloId": "1344",
+      "marca": "FORD",
+      "modelo": "ESCORT",
+      "version": "XR3",
+      "precios": {}
+    },
+    "13354": {
+      "id": "13354",
+      "marcaId": "114",
+      "modeloId": "1345",
+      "marca": "FORD",
+      "modelo": "EVEREST",
+      "version": "Active AT10",
+      "precios": {
+        "2025": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13356": {
+      "id": "13356",
+      "marcaId": "114",
+      "modeloId": "1345",
+      "marca": "FORD",
+      "modelo": "EVEREST",
+      "version": "Titanium AT10",
+      "precios": {
+        "0": {
+          "usd": 58460.18,
+          "ars": 89561000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 47857.14,
+          "ars": 67000000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 48714.29,
+          "ars": 68200000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 49571.43,
+          "ars": 69400000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 50428.57,
+          "ars": 70600000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 51428.57,
+          "ars": 72000000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 52571.43,
+          "ars": 73600000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 51566.58,
+          "ars": 79000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13357": {
+      "id": "13357",
+      "marcaId": "114",
+      "modeloId": "1346",
+      "marca": "FORD",
+      "modelo": "EXPEDITION",
+      "version": "XLT",
+      "precios": {}
+    },
+    "13358": {
+      "id": "13358",
+      "marcaId": "114",
+      "modeloId": "1347",
+      "marca": "FORD",
+      "modelo": "EXPLORER",
+      "version": "XLT 4x2",
+      "precios": {}
+    },
+    "13359": {
+      "id": "13359",
+      "marcaId": "114",
+      "modeloId": "1347",
+      "marca": "FORD",
+      "modelo": "EXPLORER",
+      "version": "XLT Automática 4x4",
+      "precios": {}
+    },
+    "13360": {
+      "id": "13360",
+      "marcaId": "114",
+      "modeloId": "1347",
+      "marca": "FORD",
+      "modelo": "EXPLORER",
+      "version": "XLT Limited 4x4",
+      "precios": {}
+    },
+    "13361": {
+      "id": "13361",
+      "marcaId": "114",
+      "modeloId": "1347",
+      "marca": "FORD",
+      "modelo": "EXPLORER",
+      "version": "XLT Sport 4x4",
+      "precios": {}
+    },
+    "13362": {
+      "id": "13362",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "2.5 TDCi 4x4",
+      "precios": {}
+    },
+    "13363": {
+      "id": "13363",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "Super CAB 2.5 TDCi",
+      "precios": {}
+    },
+    "13364": {
+      "id": "13364",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "Super CAB Aire 2.5 TDCi",
+      "precios": {}
+    },
+    "13365": {
+      "id": "13365",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL 2.5 TDCi",
+      "precios": {}
+    },
+    "13366": {
+      "id": "13366",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL Aire 2.5 TDCi",
+      "precios": {}
+    },
+    "13367": {
+      "id": "13367",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT 2.5 TDCi",
+      "precios": {}
+    },
+    "13368": {
+      "id": "13368",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT 2.5 TDCi 4x4",
+      "precios": {}
+    },
+    "13369": {
+      "id": "13369",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT Supercab 2.5 TDCi",
+      "precios": {}
+    },
+    "13370": {
+      "id": "13370",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "Super Duty 3.9 TDCi",
+      "precios": {}
+    },
+    "13371": {
+      "id": "13371",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "Super Duty Aire 3.9 TDCi",
+      "precios": {}
+    },
+    "13372": {
+      "id": "13372",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL 3.9 TDCi",
+      "precios": {}
+    },
+    "13373": {
+      "id": "13373",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL Plus 3.9 TDCi",
+      "precios": {}
+    },
+    "13374": {
+      "id": "13374",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL Plus 3.9 TDCi Modelo 2006",
+      "precios": {}
+    },
+    "13375": {
+      "id": "13375",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL Plus 3.9 TDCi 4x4 Modelo 2006",
+      "precios": {}
+    },
+    "13376": {
+      "id": "13376",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL Plus 3.9 TDCi 4x4 Cabina Doble Modelo 2006",
+      "precios": {}
+    },
+    "13377": {
+      "id": "13377",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT 3.9 TDCi",
+      "precios": {}
+    },
+    "13378": {
+      "id": "13378",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT ABS 3.9 TDCi",
+      "precios": {}
+    },
+    "13379": {
+      "id": "13379",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT 3.9 TDCi Modelo 2006",
+      "precios": {}
+    },
+    "13380": {
+      "id": "13380",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT 3.9 TDCi 4x4 Modelo 2006",
+      "precios": {}
+    },
+    "13381": {
+      "id": "13381",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT 3.9 TDCi Cabina Doble Modelo 2006",
+      "precios": {}
+    },
+    "13382": {
+      "id": "13382",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT 3.9 TDCi 4x4 Cabina Doble Modelo 2006",
+      "precios": {}
+    },
+    "13383": {
+      "id": "13383",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL MWM 4.2 TDCi",
+      "precios": {}
+    },
+    "13384": {
+      "id": "13384",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL MWM Aire 4.2 TDCi",
+      "precios": {}
+    },
+    "13385": {
+      "id": "13385",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT MWM 4.2 TDCi",
+      "precios": {}
+    },
+    "13386": {
+      "id": "13386",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT MWM 4.2 TDCi Cabina Doble",
+      "precios": {}
+    },
+    "13387": {
+      "id": "13387",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "Super Duty 4.2 V6",
+      "precios": {}
+    },
+    "13388": {
+      "id": "13388",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL 4.2 V6",
+      "precios": {}
+    },
+    "13389": {
+      "id": "13389",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XL Aire 4.2 V6",
+      "precios": {}
+    },
+    "13390": {
+      "id": "13390",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "MWM 4.3 Diésel",
+      "precios": {}
+    },
+    "13391": {
+      "id": "13391",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "4.3 TDCi 4x4",
+      "precios": {}
+    },
+    "13392": {
+      "id": "13392",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "STD 4.9 Nafta",
+      "precios": {}
+    },
+    "13393": {
+      "id": "13393",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "STD Super CAB 4.9 Nafta",
+      "precios": {}
+    },
+    "13394": {
+      "id": "13394",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT 4.9 Nafta",
+      "precios": {}
+    },
+    "13395": {
+      "id": "13395",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT Super CAB 4.9 Nafta",
+      "precios": {}
+    },
+    "13396": {
+      "id": "13396",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "Diésel 4x4",
+      "precios": {}
+    },
+    "13397": {
+      "id": "13397",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "Lujo 3.6",
+      "precios": {}
+    },
+    "13398": {
+      "id": "13398",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "STD 3.6",
+      "precios": {}
+    },
+    "13399": {
+      "id": "13399",
+      "marcaId": "114",
+      "modeloId": "1348",
+      "marca": "FORD",
+      "modelo": "F-100",
+      "version": "XLT Super CAB Diésel",
+      "precios": {}
+    },
+    "13400": {
+      "id": "13400",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "STD 2.5 TDCi",
+      "precios": {}
+    },
+    "13403": {
+      "id": "13403",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "Lariat Hibrida Luxury 3.5 Automática 4x4",
+      "precios": {
+        "2021": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13404": {
+      "id": "13404",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "Lariat Hibrida Luxury 3.5 Automática 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 78681.46,
+          "ars": 120540000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13405": {
+      "id": "13405",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "Raptor 3.5 Automática 4x4",
+      "precios": {
+        "2019": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13406": {
+      "id": "13406",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "Raptor 3.5 Automática 4x4 Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 55483.03,
+          "ars": 85000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 59399.48,
+          "ars": 91000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 67232.38,
+          "ars": 103000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13407": {
+      "id": "13407",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "Raptor 3.5 Automática 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 100750.65,
+          "ars": 154350000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 75718.02,
+          "ars": 116000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 82245.43,
+          "ars": 126000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13408": {
+      "id": "13408",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "3.9 Diésel",
+      "precios": {}
+    },
+    "13409": {
+      "id": "13409",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "XL Aire Dirección 4.2",
+      "precios": {}
+    },
+    "13410": {
+      "id": "13410",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "XLT 4.2",
+      "precios": {}
+    },
+    "13411": {
+      "id": "13411",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "XLT 4.2 4x4",
+      "precios": {}
+    },
+    "13412": {
+      "id": "13412",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "XLT Space CAB 4.6",
+      "precios": {}
+    },
+    "13413": {
+      "id": "13413",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "XLT Space CAB 4.6 4x4",
+      "precios": {}
+    },
+    "13415": {
+      "id": "13415",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "Lariat Luxury 5.0 Automática 4x4",
+      "precios": {
+        "2019": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 51566.58,
+          "ars": 79000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13416": {
+      "id": "13416",
+      "marcaId": "114",
+      "modeloId": "1349",
+      "marca": "FORD",
+      "modelo": "F-150",
+      "version": "Tremor 5.0 Automática 4x4",
+      "precios": {
+        "0": {
+          "usd": 78681.46,
+          "ars": 120540000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 61642.86,
+          "ars": 86300000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 62571.43,
+          "ars": 87600000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 63500,
+          "ars": 88900000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 64428.57,
+          "ars": 90200000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 65642.86,
+          "ars": 91900000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 62010.44,
+          "ars": 95000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13417": {
+      "id": "13417",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Ambition 1.4 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13418": {
+      "id": "13418",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Ambition PLU 1.4 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13419": {
+      "id": "13419",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Edge 1.4 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13420": {
+      "id": "13420",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Energy 1.4 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13421": {
+      "id": "13421",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Fresh 1.4 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13422": {
+      "id": "13422",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE MAX Ambition 1.4 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13423": {
+      "id": "13423",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE MAX EDG 1.4 TDCi 4 Puertas",
+      "precios": {}
+    },
+    "13424": {
+      "id": "13424",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Ambien 1.4 TDCi 5 Puertas",
+      "precios": {}
+    },
+    "13425": {
+      "id": "13425",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Ambien Plus 1.4 TDCi 5 Puertas",
+      "precios": {}
+    },
+    "13426": {
+      "id": "13426",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Edge 1.4 TDCi 5 Puertas",
+      "precios": {}
+    },
+    "13427": {
+      "id": "13427",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Energy 1.4 TDCi 5 Puertas",
+      "precios": {}
+    },
+    "13428": {
+      "id": "13428",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE Ambien 1.4 TDCi 5 Puertas",
+      "precios": {}
+    },
+    "13429": {
+      "id": "13429",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE Edge 1.4 TDCi 5 Puertas",
+      "precios": {}
+    },
+    "13430": {
+      "id": "13430",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Ambiente 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13431": {
+      "id": "13431",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Ambition 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13432": {
+      "id": "13432",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Ambition 1.6 Automática 4 Puertas",
+      "precios": {}
+    },
+    "13433": {
+      "id": "13433",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Ambition Plus 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13434": {
+      "id": "13434",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX EDG PLU 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13435": {
+      "id": "13435",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX EDG PLU 1.6 Automática 4 Puertas",
+      "precios": {}
+    },
+    "13436": {
+      "id": "13436",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Energy 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13437": {
+      "id": "13437",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "MAX Fresh 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13438": {
+      "id": "13438",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE MAX Ambition 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5678.85,
+          "ars": 8700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13439": {
+      "id": "13439",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE MAX Ambition Plus 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5744.13,
+          "ars": 8800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13440": {
+      "id": "13440",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE MAX Edge PLU 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5744.13,
+          "ars": 8800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5809.4,
+          "ars": 8900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13441": {
+      "id": "13441",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE MAX Energy 1.6 4 Puertas",
+      "precios": {}
+    },
+    "13442": {
+      "id": "13442",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "S KD 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7819.84,
+          "ars": 11980000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8472.58,
+          "ars": 12980000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9125.33,
+          "ars": 13980000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9778.07,
+          "ars": 14980000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10430.81,
+          "ars": 15980000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13443": {
+      "id": "13443",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "S KD Plus 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7885.12,
+          "ars": 12080000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8537.86,
+          "ars": 13080000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9190.6,
+          "ars": 14080000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9843.34,
+          "ars": 15080000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10496.08,
+          "ars": 16080000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11148.83,
+          "ars": 17080000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11801.57,
+          "ars": 18080000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13444": {
+      "id": "13444",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE KD Plus 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 8276.76,
+          "ars": 12680000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8929.5,
+          "ars": 13680000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9582.25,
+          "ars": 14680000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10234.99,
+          "ars": 15680000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10887.73,
+          "ars": 16680000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11540.47,
+          "ars": 17680000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13445": {
+      "id": "13445",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE KD Plus 1.6 4 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12389.03,
+          "ars": 18980000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13446": {
+      "id": "13446",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE Power. KD Plus 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 8603.13,
+          "ars": 13180000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9255.87,
+          "ars": 14180000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9908.62,
+          "ars": 15180000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10561.36,
+          "ars": 16180000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11214.1,
+          "ars": 17180000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13447": {
+      "id": "13447",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium KD 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 8994.78,
+          "ars": 13780000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9647.52,
+          "ars": 14780000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10300.26,
+          "ars": 15780000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10953,
+          "ars": 16780000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11605.74,
+          "ars": 17780000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12258.49,
+          "ars": 18780000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13448": {
+      "id": "13448",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium KD 1.6 4 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12584.86,
+          "ars": 19280000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13237.6,
+          "ars": 20280000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13449": {
+      "id": "13449",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium Power. KD 1.6 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 9321.15,
+          "ars": 14280000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9973.89,
+          "ars": 15280000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10626.63,
+          "ars": 16280000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11279.37,
+          "ars": 17280000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11932.11,
+          "ars": 18280000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12584.86,
+          "ars": 19280000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13450": {
+      "id": "13450",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium Power. KD 1.6 4 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12911.23,
+          "ars": 19780000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13563.97,
+          "ars": 20780000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13453": {
+      "id": "13453",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Ambien. 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13454": {
+      "id": "13454",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Ambien. 1.6 Automática 5 Puertas",
+      "precios": {}
+    },
+    "13455": {
+      "id": "13455",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Ambien. GNC 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13456": {
+      "id": "13456",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Ambien. Plus 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13457": {
+      "id": "13457",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Ambien. Plus GNC 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13458": {
+      "id": "13458",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Edge 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13459": {
+      "id": "13459",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Edge Plus 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13460": {
+      "id": "13460",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Edge Plus 1.6 Automática 5 Puertas",
+      "precios": {}
+    },
+    "13461": {
+      "id": "13461",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Edge Plus GNC 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13462": {
+      "id": "13462",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Energy 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13463": {
+      "id": "13463",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Energy GNC 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13464": {
+      "id": "13464",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Fresh 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13465": {
+      "id": "13465",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Fresh GNC 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13466": {
+      "id": "13466",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE Ambien. 1.6 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5744.13,
+          "ars": 8800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13467": {
+      "id": "13467",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE Ambien. Plus 1.6 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5809.4,
+          "ars": 8900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5874.67,
+          "ars": 9000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13468": {
+      "id": "13468",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE Edge Plus 1.6 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 5874.67,
+          "ars": 9000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13469": {
+      "id": "13469",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "ONE Energy 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13470": {
+      "id": "13470",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "S KD 1.6 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 8668.41,
+          "ars": 13280000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9321.15,
+          "ars": 14280000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9973.89,
+          "ars": 15280000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10626.63,
+          "ars": 16280000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11279.37,
+          "ars": 17280000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13471": {
+      "id": "13471",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "S KD Plus 1.6 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 8733.68,
+          "ars": 13380000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9386.42,
+          "ars": 14380000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10039.16,
+          "ars": 15380000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10691.91,
+          "ars": 16380000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11344.65,
+          "ars": 17380000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11997.39,
+          "ars": 18380000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12650.13,
+          "ars": 19380000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13472": {
+      "id": "13472",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "S KD Plus 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 11605.74,
+          "ars": 17780000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12258.49,
+          "ars": 18780000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12911.23,
+          "ars": 19780000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13473": {
+      "id": "13473",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE KD 1.6 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 8798.96,
+          "ars": 13480000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9451.7,
+          "ars": 14480000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10104.44,
+          "ars": 15480000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10757.18,
+          "ars": 16480000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11409.92,
+          "ars": 17480000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12062.66,
+          "ars": 18480000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12715.4,
+          "ars": 19480000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13474": {
+      "id": "13474",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE KD 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 11671.02,
+          "ars": 17880000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12323.76,
+          "ars": 18880000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12976.5,
+          "ars": 19880000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13475": {
+      "id": "13475",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE KD Plus 1.6 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 8472.58,
+          "ars": 12980000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9125.33,
+          "ars": 13980000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9778.07,
+          "ars": 14980000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10430.81,
+          "ars": 15980000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11083.55,
+          "ars": 16980000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11736.29,
+          "ars": 17980000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13476": {
+      "id": "13476",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE KD Plus 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12062.66,
+          "ars": 18480000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12715.4,
+          "ars": 19480000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13368.15,
+          "ars": 20480000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13477": {
+      "id": "13477",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE Power. KD Plus 1.6 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 8798.96,
+          "ars": 13480000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9451.7,
+          "ars": 14480000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10104.44,
+          "ars": 15480000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10757.18,
+          "ars": 16480000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11409.92,
+          "ars": 17480000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12062.66,
+          "ars": 18480000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13478": {
+      "id": "13478",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE Power. KD Plus 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12389.03,
+          "ars": 18980000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13041.78,
+          "ars": 19980000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13694.52,
+          "ars": 20980000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13479": {
+      "id": "13479",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE Power. KD 1.6 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 9843.34,
+          "ars": 15080000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10496.08,
+          "ars": 16080000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11148.83,
+          "ars": 17080000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11801.57,
+          "ars": 18080000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12454.31,
+          "ars": 19080000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13107.05,
+          "ars": 20080000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13480": {
+      "id": "13480",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "SE Power. KD 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12062.66,
+          "ars": 18480000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12715.4,
+          "ars": 19480000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13368.15,
+          "ars": 20480000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13481": {
+      "id": "13481",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium KD 1.6 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 8407.31,
+          "ars": 12880000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13482": {
+      "id": "13482",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium KD 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12780.68,
+          "ars": 19580000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13433.42,
+          "ars": 20580000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14086.16,
+          "ars": 21580000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13483": {
+      "id": "13483",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium KD 1.6 5 Puertas Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 9190.6,
+          "ars": 14080000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9843.34,
+          "ars": 15080000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10496.08,
+          "ars": 16080000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11148.83,
+          "ars": 17080000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11801.57,
+          "ars": 18080000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12454.31,
+          "ars": 19080000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13484": {
+      "id": "13484",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium Power. KD 1.6 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 9516.97,
+          "ars": 14580000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10169.71,
+          "ars": 15580000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10822.45,
+          "ars": 16580000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11475.2,
+          "ars": 17580000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12127.94,
+          "ars": 18580000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12780.68,
+          "ars": 19580000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13485": {
+      "id": "13485",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "Titanium Power. KD 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 13107.05,
+          "ars": 20080000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13759.79,
+          "ars": 21080000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14412.53,
+          "ars": 22080000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "13487": {
+      "id": "13487",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CL 1.3 3 Puertas",
+      "precios": {}
+    },
+    "13488": {
+      "id": "13488",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CL 1.3 5 Puertas",
+      "precios": {}
+    },
+    "13489": {
+      "id": "13489",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CL 1.8 Diésel 5 Puertas",
+      "precios": {}
+    },
+    "13490": {
+      "id": "13490",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CLX Base 1.3 3 Puertas",
+      "precios": {}
+    },
+    "13491": {
+      "id": "13491",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CLX 1.3 5 Puertas",
+      "precios": {}
+    },
+    "13492": {
+      "id": "13492",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CLX Full 1.3 5 Puertas",
+      "precios": {}
+    },
+    "13493": {
+      "id": "13493",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CLX 16 Válvulas 1.4 5 Puertas",
+      "precios": {}
+    },
+    "13494": {
+      "id": "13494",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CLX 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13495": {
+      "id": "13495",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CLX Sport 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13496": {
+      "id": "13496",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CLX 1.8 Diésel 5 Puertas",
+      "precios": {}
+    },
+    "13497": {
+      "id": "13497",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "CLX 1.8 Diésel 5 Puertas 2",
+      "precios": {}
+    },
+    "13498": {
+      "id": "13498",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX 1.3 3 Puertas",
+      "precios": {}
+    },
+    "13499": {
+      "id": "13499",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX Full 1.3 3 Puertas",
+      "precios": {}
+    },
+    "13500": {
+      "id": "13500",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX 1.3 5 Puertas",
+      "precios": {}
+    },
+    "13501": {
+      "id": "13501",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX Full 1.3 5 Puertas",
+      "precios": {}
+    },
+    "13502": {
+      "id": "13502",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX 1.6 3 Puertas",
+      "precios": {}
+    },
+    "13503": {
+      "id": "13503",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13504": {
+      "id": "13504",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX Aire 1.6 5 Puertas",
+      "precios": {}
+    },
+    "13505": {
+      "id": "13505",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX 1.8 Diésel 3 Puertas",
+      "precios": {}
+    },
+    "13506": {
+      "id": "13506",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX 1.8 Diésel 5 Puertas",
+      "precios": {}
+    },
+    "13507": {
+      "id": "13507",
+      "marcaId": "114",
+      "modeloId": "1350",
+      "marca": "FORD",
+      "modelo": "FIESTA",
+      "version": "LX Aire 1.8 Diésel 5 Puertas",
+      "precios": {}
     },
     "131666": {
       "id": "131666",
