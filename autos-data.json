@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-17T17:09:15.284Z",
+  "actualizado": "2026-09-17T19:12:36.496Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 5228,
-  "versionesConValuacion": 2590,
+  "versionesProcesadas": 5576,
+  "versionesConValuacion": 2793,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -84389,6 +84389,7446 @@
         }
       }
     },
+    "15318": {
+      "id": "15318",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 308 3000",
+      "precios": {
+        "2013": {
+          "usd": 18214.75,
+          "ars": 27905000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15319": {
+      "id": "15319",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 310 3550",
+      "precios": {}
+    },
+    "15320": {
+      "id": "15320",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 310 3000",
+      "precios": {}
+    },
+    "15321": {
+      "id": "15321",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 310 3000",
+      "precios": {}
+    },
+    "15322": {
+      "id": "15322",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 310 3550",
+      "precios": {}
+    },
+    "15323": {
+      "id": "15323",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 310 3550",
+      "precios": {}
+    },
+    "15324": {
+      "id": "15324",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 310 3550 2",
+      "precios": {}
+    },
+    "15325": {
+      "id": "15325",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 310 3550 2",
+      "precios": {}
+    },
+    "15326": {
+      "id": "15326",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado 310 3550",
+      "precios": {}
+    },
+    "15327": {
+      "id": "15327",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi F Techo Elevado 310 3550",
+      "precios": {}
+    },
+    "15328": {
+      "id": "15328",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Lujo 310 3550",
+      "precios": {}
+    },
+    "15329": {
+      "id": "15329",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 310 3000",
+      "precios": {}
+    },
+    "15330": {
+      "id": "15330",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 310 3000",
+      "precios": {}
+    },
+    "15331": {
+      "id": "15331",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 310 3550",
+      "precios": {}
+    },
+    "15332": {
+      "id": "15332",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 310 3550",
+      "precios": {}
+    },
+    "15333": {
+      "id": "15333",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 310 3550",
+      "precios": {}
+    },
+    "15334": {
+      "id": "15334",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 310 3550",
+      "precios": {}
+    },
+    "15335": {
+      "id": "15335",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Pick-Up 310 3550",
+      "precios": {}
+    },
+    "15336": {
+      "id": "15336",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Furgón 311 3000",
+      "precios": {}
+    },
+    "15337": {
+      "id": "15337",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 311 3000",
+      "precios": {}
+    },
+    "15338": {
+      "id": "15338",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 311 3000",
+      "precios": {}
+    },
+    "15339": {
+      "id": "15339",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Furgón 311 3250",
+      "precios": {
+        "2021": {
+          "usd": 33358.36,
+          "ars": 51105000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 34618.15,
+          "ars": 53035000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 36325.07,
+          "ars": 55650000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37392.3,
+          "ars": 57285000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38528.07,
+          "ars": 59025000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15340": {
+      "id": "15340",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Street Furgón Generación 1 311 3250",
+      "precios": {
+        "2020": {
+          "usd": 28573.76,
+          "ars": 43775000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 31070.5,
+          "ars": 47600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 32816.58,
+          "ars": 50275000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 34357.05,
+          "ars": 52635000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 35375.33,
+          "ars": 54195000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15341": {
+      "id": "15341",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Street Furgón Generación 2 311 3250",
+      "precios": {
+        "2020": {
+          "usd": 29634.46,
+          "ars": 45400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 30231.72,
+          "ars": 46315000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 31994.13,
+          "ars": 49015000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 33162.53,
+          "ars": 50805000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 34889.03,
+          "ars": 53450000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 35943.21,
+          "ars": 55065000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15342": {
+      "id": "15342",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 311 3550",
+      "precios": {}
+    },
+    "15343": {
+      "id": "15343",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 311 3550",
+      "precios": {}
+    },
+    "15344": {
+      "id": "15344",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Street Techo Normal Furgón Generación 1",
+      "precios": {
+        "0": {
+          "usd": 49252.61,
+          "ars": 75455000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 38521.54,
+          "ars": 59015000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 39735.64,
+          "ars": 60875000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 47601.17,
+          "ars": 72925000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15345": {
+      "id": "15345",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Street Techo Normal Furgón Generación 2",
+      "precios": {
+        "0": {
+          "usd": 51569.84,
+          "ars": 79005000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 40368.8,
+          "ars": 61845000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 41635.12,
+          "ars": 63785000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 45466.71,
+          "ars": 69655000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15346": {
+      "id": "15346",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Pick UP",
+      "precios": {}
+    },
+    "15347": {
+      "id": "15347",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 312 3550",
+      "precios": {}
+    },
+    "15348": {
+      "id": "15348",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 312 3000",
+      "precios": {}
+    },
+    "15349": {
+      "id": "15349",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 312 3000",
+      "precios": {}
+    },
+    "15350": {
+      "id": "15350",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Lujo 312 3550",
+      "precios": {}
+    },
+    "15351": {
+      "id": "15351",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 312 3550",
+      "precios": {}
+    },
+    "15352": {
+      "id": "15352",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 312 3550",
+      "precios": {}
+    },
+    "15353": {
+      "id": "15353",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 312 3550 2",
+      "precios": {}
+    },
+    "15354": {
+      "id": "15354",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 312 3550 2",
+      "precios": {}
+    },
+    "15355": {
+      "id": "15355",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado 312 3550",
+      "precios": {}
+    },
+    "15356": {
+      "id": "15356",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi F Techo Elevado 312 3550",
+      "precios": {}
+    },
+    "15357": {
+      "id": "15357",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 312 3000",
+      "precios": {}
+    },
+    "15358": {
+      "id": "15358",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 312 3000",
+      "precios": {}
+    },
+    "15359": {
+      "id": "15359",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 312 3550",
+      "precios": {}
+    },
+    "15360": {
+      "id": "15360",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 312 3550",
+      "precios": {}
+    },
+    "15361": {
+      "id": "15361",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 312 3550",
+      "precios": {}
+    },
+    "15362": {
+      "id": "15362",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 312 3550",
+      "precios": {}
+    },
+    "15363": {
+      "id": "15363",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Pick-Up 312 3550",
+      "precios": {}
+    },
+    "15364": {
+      "id": "15364",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 313 3550",
+      "precios": {
+        "2013": {
+          "usd": 21398.17,
+          "ars": 32782000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15365": {
+      "id": "15365",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 313 3000",
+      "precios": {}
+    },
+    "15366": {
+      "id": "15366",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 313 3000",
+      "precios": {}
+    },
+    "15367": {
+      "id": "15367",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Lujo 313 3550",
+      "precios": {}
+    },
+    "15368": {
+      "id": "15368",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 313 3550",
+      "precios": {
+        "2013": {
+          "usd": 20329.63,
+          "ars": 31145000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15369": {
+      "id": "15369",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 313 3550",
+      "precios": {
+        "2013": {
+          "usd": 20659.27,
+          "ars": 31650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15370": {
+      "id": "15370",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi 313 3550 2",
+      "precios": {}
+    },
+    "15371": {
+      "id": "15371",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Full 313 3550 2",
+      "precios": {
+        "2013": {
+          "usd": 21863.58,
+          "ars": 33495000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15372": {
+      "id": "15372",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado 313 3550",
+      "precios": {}
+    },
+    "15373": {
+      "id": "15373",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi F. Techo Elevado",
+      "precios": {
+        "2013": {
+          "usd": 22235.64,
+          "ars": 34065000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15374": {
+      "id": "15374",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Ejecu",
+      "precios": {
+        "2013": {
+          "usd": 20238.25,
+          "ars": 31005000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15375": {
+      "id": "15375",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Furgón 313 3000",
+      "precios": {
+        "2013": {
+          "usd": 21217.36,
+          "ars": 32505000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15376": {
+      "id": "15376",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 313 3000",
+      "precios": {
+        "2013": {
+          "usd": 20616.84,
+          "ars": 31585000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15377": {
+      "id": "15377",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 313 3000",
+      "precios": {}
+    },
+    "15378": {
+      "id": "15378",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 313 3000",
+      "precios": {
+        "2013": {
+          "usd": 20812.66,
+          "ars": 31885000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15379": {
+      "id": "15379",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MIX Furgón",
+      "precios": {
+        "2013": {
+          "usd": 21422.98,
+          "ars": 32820000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15380": {
+      "id": "15380",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MIX Furgón Turbo",
+      "precios": {
+        "2013": {
+          "usd": 21478.46,
+          "ars": 32905000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15381": {
+      "id": "15381",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 313 3550",
+      "precios": {
+        "2013": {
+          "usd": 20786.55,
+          "ars": 31845000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15382": {
+      "id": "15382",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 313 3550",
+      "precios": {
+        "2013": {
+          "usd": 21302.22,
+          "ars": 32635000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15383": {
+      "id": "15383",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 313 3550",
+      "precios": {
+        "2013": {
+          "usd": 20943.21,
+          "ars": 32085000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15384": {
+      "id": "15384",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 313 3550",
+      "precios": {
+        "2013": {
+          "usd": 21922.32,
+          "ars": 33585000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15385": {
+      "id": "15385",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 313 4025",
+      "precios": {}
+    },
+    "15386": {
+      "id": "15386",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 313 4025",
+      "precios": {
+        "2013": {
+          "usd": 21269.58,
+          "ars": 32585000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15387": {
+      "id": "15387",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 314 3665",
+      "precios": {
+        "0": {
+          "usd": 45228.46,
+          "ars": 69290000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 34350.52,
+          "ars": 52625000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 36047.65,
+          "ars": 55225000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 36615.54,
+          "ars": 56095000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 43417.1,
+          "ars": 66515000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15388": {
+      "id": "15388",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Normal Furgón Generación 1 314 3250",
+      "precios": {
+        "2023": {
+          "usd": 36387.08,
+          "ars": 55745000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 38782.64,
+          "ars": 59415000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 40793.08,
+          "ars": 62495000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15389": {
+      "id": "15389",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Normal Furgón Generación 2 314 3250",
+      "precios": {
+        "2023": {
+          "usd": 37222.58,
+          "ars": 57025000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 39122.06,
+          "ars": 59935000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 41269.58,
+          "ars": 63225000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15390": {
+      "id": "15390",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Plus Furgón",
+      "precios": {
+        "0": {
+          "usd": 55261.1,
+          "ars": 84660000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 44663.84,
+          "ars": 68425000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 52725.2,
+          "ars": 80775000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15391": {
+      "id": "15391",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Techo Elevado Furgón 314 3665",
+      "precios": {
+        "0": {
+          "usd": 54239.56,
+          "ars": 83095000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 41220.63,
+          "ars": 63150000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 42493.47,
+          "ars": 65100000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 43828.33,
+          "ars": 67145000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 52072.45,
+          "ars": 79775000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15392": {
+      "id": "15392",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 314 3665",
+      "precios": {
+        "0": {
+          "usd": 50300.26,
+          "ars": 77060000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 36765.67,
+          "ars": 56325000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 40734.33,
+          "ars": 62405000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 43201.7,
+          "ars": 66185000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 48293.08,
+          "ars": 73985000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15393": {
+      "id": "15393",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 314 3665",
+      "precios": {
+        "0": {
+          "usd": 50923.63,
+          "ars": 78015000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 38639.03,
+          "ars": 59195000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 39853.13,
+          "ars": 61055000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 41106.4,
+          "ars": 62975000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 48887.08,
+          "ars": 74895000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15395": {
+      "id": "15395",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "GNC Furgón Generación 1",
+      "precios": {}
+    },
+    "15396": {
+      "id": "15396",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "GNC Techo Elevado Furgón Generación 1",
+      "precios": {}
+    },
+    "15397": {
+      "id": "15397",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 316 3665",
+      "precios": {
+        "2020": {
+          "usd": 30864.88,
+          "ars": 47285000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 32144.26,
+          "ars": 49245000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 33240.86,
+          "ars": 50925000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 35580.94,
+          "ars": 54510000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 36635.12,
+          "ars": 56125000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 37793.73,
+          "ars": 57900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15398": {
+      "id": "15398",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Normal Furgón Generación 1 316 3250",
+      "precios": {
+        "2022": {
+          "usd": 36106.4,
+          "ars": 55315000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 37372.72,
+          "ars": 57255000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 38763.05,
+          "ars": 59385000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 40466.71,
+          "ars": 61995000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15399": {
+      "id": "15399",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Normal Furgón Generación 2 316 3250",
+      "precios": {
+        "2022": {
+          "usd": 37121.41,
+          "ars": 56870000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 38087.47,
+          "ars": 58350000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 39794.39,
+          "ars": 60965000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 41158.62,
+          "ars": 63055000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15400": {
+      "id": "15400",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mix. Techo Elevado Furgón",
+      "precios": {
+        "2022": {
+          "usd": 43704.31,
+          "ars": 66955000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 44918.41,
+          "ars": 68815000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 46289.16,
+          "ars": 70915000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 47640.34,
+          "ars": 72985000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15401": {
+      "id": "15401",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Techo Elevado Furgón 316 3665",
+      "precios": {
+        "2021": {
+          "usd": 40166.45,
+          "ars": 61535000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 41269.58,
+          "ars": 63225000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 42398.83,
+          "ars": 64955000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 43586.81,
+          "ars": 66775000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 45434.07,
+          "ars": 69605000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15402": {
+      "id": "15402",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 316 3665",
+      "precios": {
+        "2020": {
+          "usd": 36622.06,
+          "ars": 56105000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 37568.54,
+          "ars": 57555000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 38586.81,
+          "ars": 59115000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 40186.03,
+          "ars": 61565000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 40518.93,
+          "ars": 62075000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 42568.54,
+          "ars": 65215000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15403": {
+      "id": "15403",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 316 3665",
+      "precios": {
+        "2020": {
+          "usd": 36478.46,
+          "ars": 55885000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 37470.63,
+          "ars": 57405000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 38482.38,
+          "ars": 58955000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 39490.86,
+          "ars": 60500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 40567.89,
+          "ars": 62150000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 42548.96,
+          "ars": 65185000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15404": {
+      "id": "15404",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 316 3665 25",
+      "precios": {
+        "2022": {
+          "usd": 41517.62,
+          "ars": 63605000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 42627.28,
+          "ars": 65305000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 43867.49,
+          "ars": 67205000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 45695.17,
+          "ars": 70005000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15405": {
+      "id": "15405",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Street Furgón Generación 1 411 3250",
+      "precios": {
+        "2013": {
+          "usd": 22568.54,
+          "ars": 34575000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 23563.97,
+          "ars": 36100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 24598.56,
+          "ars": 37685000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 25159.92,
+          "ars": 38545000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 27470.63,
+          "ars": 42085000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 28018.93,
+          "ars": 42925000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 29259.14,
+          "ars": 44825000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 30499.35,
+          "ars": 46725000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15406": {
+      "id": "15406",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Street Furgón Generación 2 411 3250",
+      "precios": {
+        "2013": {
+          "usd": 23250.65,
+          "ars": 35620000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24272.19,
+          "ars": 37185000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 25434.07,
+          "ars": 38965000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 26468.67,
+          "ars": 40550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 27382.51,
+          "ars": 41950000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 28821.8,
+          "ars": 44155000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 29471.28,
+          "ars": 45150000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 30776.76,
+          "ars": 47150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15407": {
+      "id": "15407",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 412 4025",
+      "precios": {}
+    },
+    "15408": {
+      "id": "15408",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Windlauf 412 4025",
+      "precios": {}
+    },
+    "15409": {
+      "id": "15409",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 413 4025",
+      "precios": {
+        "2013": {
+          "usd": 21974.54,
+          "ars": 33665000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15410": {
+      "id": "15410",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 413 4025",
+      "precios": {
+        "2013": {
+          "usd": 22137.73,
+          "ars": 33915000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15411": {
+      "id": "15411",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Vidr. Furgón",
+      "precios": {}
+    },
+    "15412": {
+      "id": "15412",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Minibús 413 4025",
+      "precios": {
+        "2013": {
+          "usd": 23736.95,
+          "ars": 36365000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15413": {
+      "id": "15413",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Windlauf 413 4025",
+      "precios": {}
+    },
+    "15414": {
+      "id": "15414",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 414 3665",
+      "precios": {
+        "0": {
+          "usd": 45979.11,
+          "ars": 70440000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 34820.5,
+          "ars": 53345000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 35917.1,
+          "ars": 55025000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 37052.87,
+          "ars": 56765000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 44141.64,
+          "ars": 67625000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15415": {
+      "id": "15415",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 414 4325",
+      "precios": {
+        "0": {
+          "usd": 46374.02,
+          "ars": 71045000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 37375.98,
+          "ars": 57260000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 44520.23,
+          "ars": 68205000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15416": {
+      "id": "15416",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado 414 3665 2",
+      "precios": {
+        "0": {
+          "usd": 62914.49,
+          "ars": 96385000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 47888.38,
+          "ars": 73365000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 49389.69,
+          "ars": 75665000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 50936.68,
+          "ars": 78035000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 60394.91,
+          "ars": 92525000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15417": {
+      "id": "15417",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado 414 3665",
+      "precios": {
+        "0": {
+          "usd": 63795.69,
+          "ars": 97735000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 48567.23,
+          "ars": 74405000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 50675.59,
+          "ars": 77635000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 52248.69,
+          "ars": 80045000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 61243.47,
+          "ars": 93825000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15418": {
+      "id": "15418",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Techo Elevado Furgón 414 3665",
+      "precios": {
+        "0": {
+          "usd": 60362.27,
+          "ars": 92475000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 44203.66,
+          "ars": 67720000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 46547,
+          "ars": 71310000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 49011.1,
+          "ars": 75085000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 55721.28,
+          "ars": 85365000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15419": {
+      "id": "15419",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 414 3665",
+      "precios": {
+        "0": {
+          "usd": 55760.44,
+          "ars": 85425000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 40731.07,
+          "ars": 62400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 42973.24,
+          "ars": 65835000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 45244.78,
+          "ars": 69315000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 51465.4,
+          "ars": 78845000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15420": {
+      "id": "15420",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 414 3665",
+      "precios": {
+        "0": {
+          "usd": 56432.77,
+          "ars": 86455000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 41308.75,
+          "ars": 63285000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 43495.43,
+          "ars": 66635000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 45793.08,
+          "ars": 70155000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 52088.77,
+          "ars": 79800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15421": {
+      "id": "15421",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 414 4325",
+      "precios": {
+        "0": {
+          "usd": 57816.58,
+          "ars": 88575000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 42894.91,
+          "ars": 65715000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 44552.87,
+          "ars": 68255000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 46393.6,
+          "ars": 71075000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 53355.09,
+          "ars": 81740000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15422": {
+      "id": "15422",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Techo Elevado Furgón Generación 2",
+      "precios": {
+        "0": {
+          "usd": 59347.26,
+          "ars": 90920000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 49128.59,
+          "ars": 75265000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 55851.83,
+          "ars": 85565000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15423": {
+      "id": "15423",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 415 3665",
+      "precios": {
+        "2013": {
+          "usd": 23919.71,
+          "ars": 36645000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24056.79,
+          "ars": 36855000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 25926.89,
+          "ars": 39720000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 27189.95,
+          "ars": 41655000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 28436.68,
+          "ars": 43565000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 29526.76,
+          "ars": 45235000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 30793.08,
+          "ars": 47175000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 32105.09,
+          "ars": 49185000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15424": {
+      "id": "15424",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado 415 3665",
+      "precios": {
+        "2013": {
+          "usd": 27020.23,
+          "ars": 41395000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 28815.27,
+          "ars": 44145000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 29428.85,
+          "ars": 45085000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 30910.57,
+          "ars": 47355000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 31641.64,
+          "ars": 48475000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 33710.84,
+          "ars": 51645000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 35133.81,
+          "ars": 53825000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 36843.99,
+          "ars": 56445000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15425": {
+      "id": "15425",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Normal",
+      "precios": {
+        "2015": {
+          "usd": 29689.95,
+          "ars": 45485000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 31008.49,
+          "ars": 47505000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 32268.28,
+          "ars": 49435000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 33169.06,
+          "ars": 50815000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 35388.38,
+          "ars": 54215000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 36922.32,
+          "ars": 56565000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15426": {
+      "id": "15426",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MIX4+1 Furgón",
+      "precios": {
+        "2013": {
+          "usd": 24304.83,
+          "ars": 37235000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 25303.52,
+          "ars": 38765000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 26347.91,
+          "ars": 40365000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 27503.26,
+          "ars": 42135000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 28802.22,
+          "ars": 44125000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 30016.32,
+          "ars": 45985000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 31308.75,
+          "ars": 47965000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 32607.7,
+          "ars": 49955000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15427": {
+      "id": "15427",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MIX4+1 SE Furgón",
+      "precios": {
+        "2014": {
+          "usd": 26236.95,
+          "ars": 40195000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 26697.13,
+          "ars": 40900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28058.09,
+          "ars": 42985000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15428": {
+      "id": "15428",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 415 3250",
+      "precios": {
+        "2013": {
+          "usd": 25127.28,
+          "ars": 38495000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 25688.64,
+          "ars": 39355000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 26837.47,
+          "ars": 41115000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 27790.47,
+          "ars": 42575000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30009.79,
+          "ars": 45975000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 30518.93,
+          "ars": 46755000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 31811.36,
+          "ars": 48735000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33280.03,
+          "ars": 50985000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15429": {
+      "id": "15429",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 415 3250",
+      "precios": {
+        "2013": {
+          "usd": 25290.47,
+          "ars": 38745000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26054.18,
+          "ars": 39915000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27167.1,
+          "ars": 41620000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28488.9,
+          "ars": 43645000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30381.85,
+          "ars": 46545000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 30851.83,
+          "ars": 47265000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32176.89,
+          "ars": 49295000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33358.36,
+          "ars": 51105000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15430": {
+      "id": "15430",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Furgón 415 3665",
+      "precios": {
+        "2013": {
+          "usd": 25995.43,
+          "ars": 39825000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26426.24,
+          "ars": 40485000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28273.5,
+          "ars": 43315000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 29376.63,
+          "ars": 45005000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 30760.44,
+          "ars": 47125000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32105.09,
+          "ars": 49185000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33541.12,
+          "ars": 51385000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15431": {
+      "id": "15431",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MX 20A Techo Elevado Furgón",
+      "precios": {
+        "2016": {
+          "usd": 29513.71,
+          "ars": 45215000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30930.16,
+          "ars": 47385000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15432": {
+      "id": "15432",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MX Techo Elevado Furgón",
+      "precios": {
+        "2013": {
+          "usd": 26187.99,
+          "ars": 40120000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26746.08,
+          "ars": 40975000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 28025.46,
+          "ars": 42935000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28900.13,
+          "ars": 44275000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30283.94,
+          "ars": 46395000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31550.26,
+          "ars": 48335000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32934.07,
+          "ars": 50455000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 34363.58,
+          "ars": 52645000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15433": {
+      "id": "15433",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MX BLA Techo Elevado Furgón",
+      "precios": {
+        "2015": {
+          "usd": 29144.91,
+          "ars": 44650000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 30414.49,
+          "ars": 46595000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 31680.81,
+          "ars": 48535000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15434": {
+      "id": "15434",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MX FES Techo Elevado Furgón",
+      "precios": {
+        "2014": {
+          "usd": 26772.19,
+          "ars": 41015000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27934.07,
+          "ars": 42795000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15435": {
+      "id": "15435",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "MX SE Techo Elevado Furgón",
+      "precios": {
+        "2014": {
+          "usd": 27235.64,
+          "ars": 41725000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 28136.42,
+          "ars": 43105000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29461.49,
+          "ars": 45135000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30851.83,
+          "ars": 47265000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 32105.09,
+          "ars": 49185000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 33508.49,
+          "ars": 51335000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 34970.63,
+          "ars": 53575000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15436": {
+      "id": "15436",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 415 3665",
+      "precios": {
+        "2013": {
+          "usd": 25479.77,
+          "ars": 39035000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 25884.46,
+          "ars": 39655000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 26954.96,
+          "ars": 41295000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28351.83,
+          "ars": 43435000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 29552.87,
+          "ars": 45275000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 30727.81,
+          "ars": 47075000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32072.45,
+          "ars": 49135000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33462.79,
+          "ars": 51265000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15437": {
+      "id": "15437",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 1 415 3665",
+      "precios": {
+        "2013": {
+          "usd": 25447.13,
+          "ars": 38985000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26517.62,
+          "ars": 40625000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27568.54,
+          "ars": 42235000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28958.88,
+          "ars": 44365000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30199.09,
+          "ars": 46265000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31491.51,
+          "ars": 48245000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32855.74,
+          "ars": 50335000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 34285.25,
+          "ars": 52525000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15438": {
+      "id": "15438",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 415 3665",
+      "precios": {
+        "2013": {
+          "usd": 25297,
+          "ars": 38755000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26341.38,
+          "ars": 40355000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 28045.04,
+          "ars": 42965000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28560.7,
+          "ars": 43755000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 29787.86,
+          "ars": 45635000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31125.98,
+          "ars": 47685000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32411.88,
+          "ars": 49655000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33821.8,
+          "ars": 51815000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15439": {
+      "id": "15439",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 415 3665",
+      "precios": {
+        "2013": {
+          "usd": 26034.6,
+          "ars": 39885000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26471.93,
+          "ars": 40555000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27627.28,
+          "ars": 42325000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28723.89,
+          "ars": 44005000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 29937.99,
+          "ars": 45865000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31941.91,
+          "ars": 48935000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32653.39,
+          "ars": 50025000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 34069.84,
+          "ars": 52195000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15440": {
+      "id": "15440",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "20A Techo Elevado Furgón Generación 2",
+      "precios": {
+        "2016": {
+          "usd": 29461.49,
+          "ars": 45135000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30721.28,
+          "ars": 47065000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15441": {
+      "id": "15441",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "BLA Techo Elevado Furgón Generación 2",
+      "precios": {
+        "2015": {
+          "usd": 28436.68,
+          "ars": 43565000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29624.67,
+          "ars": 45385000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30890.99,
+          "ars": 47325000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15442": {
+      "id": "15442",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 415 4325",
+      "precios": {
+        "2013": {
+          "usd": 25695.17,
+          "ars": 39365000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26876.63,
+          "ars": 41175000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 28280.03,
+          "ars": 43325000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29794.39,
+          "ars": 45645000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30434.07,
+          "ars": 46625000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31739.56,
+          "ars": 48625000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 33156.01,
+          "ars": 50795000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 34559.4,
+          "ars": 52945000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15443": {
+      "id": "15443",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 416 3665",
+      "precios": {
+        "2020": {
+          "usd": 33453,
+          "ars": 51250000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 34350.52,
+          "ars": 52625000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 35251.31,
+          "ars": 54005000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 36830.94,
+          "ars": 56425000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37196.48,
+          "ars": 56985000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38828.33,
+          "ars": 59485000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15444": {
+      "id": "15444",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado 416 3665",
+      "precios": {
+        "2019": {
+          "usd": 39683.42,
+          "ars": 60795000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 41318.54,
+          "ars": 63300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 41961.49,
+          "ars": 64285000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 43156.01,
+          "ars": 66115000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 44422.32,
+          "ars": 68055000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 45910.57,
+          "ars": 70335000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 47072.45,
+          "ars": 72115000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15445": {
+      "id": "15445",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado 416 3665 2",
+      "precios": {
+        "2019": {
+          "usd": 39885.77,
+          "ars": 61105000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 41067.23,
+          "ars": 62915000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 42894.91,
+          "ars": 65715000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 43554.18,
+          "ars": 66725000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 45421.02,
+          "ars": 69585000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 46765.67,
+          "ars": 71645000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 48139.69,
+          "ars": 73750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15446": {
+      "id": "15446",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Techo Elevado Furgón 416 3665",
+      "precios": {
+        "2020": {
+          "usd": 39135.12,
+          "ars": 59955000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 40153.39,
+          "ars": 61515000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 41400.13,
+          "ars": 63425000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 42509.79,
+          "ars": 65125000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 43704.31,
+          "ars": 66955000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 45006.53,
+          "ars": 68950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15447": {
+      "id": "15447",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 1 416 3665",
+      "precios": {
+        "2019": {
+          "usd": 35884.46,
+          "ars": 54975000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 36941.91,
+          "ars": 56595000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 37894.91,
+          "ars": 58055000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 38939.3,
+          "ars": 59655000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 40029.37,
+          "ars": 61325000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 41152.09,
+          "ars": 63045000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 42633.81,
+          "ars": 65315000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15448": {
+      "id": "15448",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 416 3665",
+      "precios": {
+        "2019": {
+          "usd": 36256.53,
+          "ars": 55545000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 37300.91,
+          "ars": 57145000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 38319.19,
+          "ars": 58705000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 39396.21,
+          "ars": 60355000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 40512.4,
+          "ars": 62065000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 41635.12,
+          "ars": 63785000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 42966.71,
+          "ars": 65825000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15449": {
+      "id": "15449",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Furgón Generación 2 416 4325",
+      "precios": {
+        "2019": {
+          "usd": 37271.54,
+          "ars": 57100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 38214.75,
+          "ars": 58545000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 39363.58,
+          "ars": 60305000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 40499.35,
+          "ars": 62045000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 41641.64,
+          "ars": 63795000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 42810.05,
+          "ars": 65585000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 43645.56,
+          "ars": 66865000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15450": {
+      "id": "15450",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado Plus",
+      "precios": {
+        "0": {
+          "usd": 70515.67,
+          "ars": 108030000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 54422.32,
+          "ars": 83375000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 57496.74,
+          "ars": 88085000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 65091.38,
+          "ars": 99720000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15451": {
+      "id": "15451",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Combi Techo Elevado Plus Automática",
+      "precios": {
+        "0": {
+          "usd": 77568.54,
+          "ars": 118835000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15452": {
+      "id": "15452",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Automática Generación 2",
+      "precios": {
+        "0": {
+          "usd": 61236.95,
+          "ars": 93815000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15453": {
+      "id": "15453",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Mixto Techo Elevado Furgón Automática",
+      "precios": {
+        "0": {
+          "usd": 65551.57,
+          "ars": 100425000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 62010.44,
+          "ars": 95000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15454": {
+      "id": "15454",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 417 4325",
+      "precios": {
+        "2025": {
+          "usd": 51954.96,
+          "ars": 79595000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 53560.7,
+          "ars": 82055000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15455": {
+      "id": "15455",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 515 4325",
+      "precios": {
+        "2013": {
+          "usd": 25890.99,
+          "ars": 39665000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26981.07,
+          "ars": 41335000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 28152.74,
+          "ars": 43130000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29233.03,
+          "ars": 44785000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30453.66,
+          "ars": 46655000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31765.67,
+          "ars": 48665000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 33061.36,
+          "ars": 50650000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33521.54,
+          "ars": 51355000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15456": {
+      "id": "15456",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 515 4325",
+      "precios": {
+        "2013": {
+          "usd": 28371.41,
+          "ars": 43465000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 29050.26,
+          "ars": 44505000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 30218.67,
+          "ars": 46295000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 31550.26,
+          "ars": 48335000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 32875.33,
+          "ars": 50365000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 35022.85,
+          "ars": 53655000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 35832.25,
+          "ars": 54895000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 37424.93,
+          "ars": 57335000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15457": {
+      "id": "15457",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "XL Techo Elevado Furgón Generación 2 515 4325",
+      "precios": {
+        "2013": {
+          "usd": 28273.5,
+          "ars": 43315000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 29565.93,
+          "ars": 45295000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 30538.51,
+          "ars": 46785000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 32046.34,
+          "ars": 49095000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 33449.74,
+          "ars": 51245000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 34990.21,
+          "ars": 53605000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 36455.61,
+          "ars": 55850000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 38097.26,
+          "ars": 58365000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15458": {
+      "id": "15458",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Minibús 515 4325",
+      "precios": {
+        "2013": {
+          "usd": 31387.08,
+          "ars": 48085000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 32937.34,
+          "ars": 50460000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 35313.32,
+          "ars": 54100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 37069.19,
+          "ars": 56790000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 38325.72,
+          "ars": 58715000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 40306.79,
+          "ars": 61750000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 42947.13,
+          "ars": 65795000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 44539.82,
+          "ars": 68235000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15459": {
+      "id": "15459",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 516 4325",
+      "precios": {
+        "2019": {
+          "usd": 35721.28,
+          "ars": 54725000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 36586.16,
+          "ars": 56050000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 37761.1,
+          "ars": 57850000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 39415.8,
+          "ars": 60385000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 40414.49,
+          "ars": 61915000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 41504.57,
+          "ars": 63585000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 43593.34,
+          "ars": 66785000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15460": {
+      "id": "15460",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 516 4325",
+      "precios": {
+        "2020": {
+          "usd": 41360.97,
+          "ars": 63365000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 43129.9,
+          "ars": 66075000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 44324.41,
+          "ars": 67905000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 45551.57,
+          "ars": 69785000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 46824.41,
+          "ars": 71735000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 48998.04,
+          "ars": 75065000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15461": {
+      "id": "15461",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "XL Techo Elevado Furgón Generación 2 516 4325",
+      "precios": {
+        "2020": {
+          "usd": 43743.47,
+          "ars": 67015000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 44468.02,
+          "ars": 68125000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 46204.31,
+          "ars": 70785000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 47470.63,
+          "ars": 72725000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 48795.69,
+          "ars": 74755000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 51008.49,
+          "ars": 78145000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15462": {
+      "id": "15462",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Minibús 516 4325",
+      "precios": {
+        "2019": {
+          "usd": 51152.09,
+          "ars": 78365000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 52545.69,
+          "ars": 80500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 54180.81,
+          "ars": 83005000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 55874.67,
+          "ars": 85600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 57535.9,
+          "ars": 88145000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 59481.07,
+          "ars": 91125000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 62888.38,
+          "ars": 96345000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15463": {
+      "id": "15463",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis 517 4325",
+      "precios": {
+        "0": {
+          "usd": 51654.7,
+          "ars": 79135000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 39330.94,
+          "ars": 60255000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 40434.07,
+          "ars": 61945000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 42359.66,
+          "ars": 64895000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 49585.51,
+          "ars": 75965000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15464": {
+      "id": "15464",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Chasis Automática",
+      "precios": {
+        "0": {
+          "usd": 56817.89,
+          "ars": 87045000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15465": {
+      "id": "15465",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Furgón Generación 2 517 4325",
+      "precios": {
+        "0": {
+          "usd": 66302.22,
+          "ars": 101575000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 48573.76,
+          "ars": 74415000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 51152.09,
+          "ars": 78365000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 53717.36,
+          "ars": 82295000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 61197.78,
+          "ars": 93755000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15466": {
+      "id": "15466",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "XL Techo Elevado Furgón Generación 2 517 4325",
+      "precios": {
+        "0": {
+          "usd": 65186.03,
+          "ars": 99865000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 47976.5,
+          "ars": 73500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 50760.44,
+          "ars": 77765000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 53005.87,
+          "ars": 81205000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 61347.91,
+          "ars": 93985000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15467": {
+      "id": "15467",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "XL Techo Elevado Furgón Automática Generación 2",
+      "precios": {
+        "0": {
+          "usd": 71703.66,
+          "ars": 109850000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 63968.67,
+          "ars": 98000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15468": {
+      "id": "15468",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "XL VID Techo Elevado Furgón Generación 2",
+      "precios": {
+        "0": {
+          "usd": 67823.11,
+          "ars": 103905000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 55616.84,
+          "ars": 85205000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 65107.7,
+          "ars": 99745000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15469": {
+      "id": "15469",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Minibús 517 4325",
+      "precios": {
+        "0": {
+          "usd": 76693.86,
+          "ars": 117495000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 73625.98,
+          "ars": 112795000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15470": {
+      "id": "15470",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Minibús 517 4325 2",
+      "precios": {
+        "0": {
+          "usd": 85584.2,
+          "ars": 131115000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 64363.58,
+          "ars": 98605000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 67783.94,
+          "ars": 103845000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 71475.2,
+          "ars": 109500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 82160.57,
+          "ars": 125870000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15471": {
+      "id": "15471",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Techo Elevado Minibús Automática",
+      "precios": {
+        "0": {
+          "usd": 94141.64,
+          "ars": 144225000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 84203.66,
+          "ars": 129000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15501": {
+      "id": "15501",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI PAX 6",
+      "precios": {}
+    },
+    "15502": {
+      "id": "15502",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI Automática PAX Ambiente 6",
+      "precios": {}
+    },
+    "15503": {
+      "id": "15503",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI Automática PAX 6",
+      "precios": {}
+    },
+    "15504": {
+      "id": "15504",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI PAX 7",
+      "precios": {}
+    },
+    "15505": {
+      "id": "15505",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI Automática PAX Ambiente 7",
+      "precios": {}
+    },
+    "15506": {
+      "id": "15506",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI Automática PAX Ambiente Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15507": {
+      "id": "15507",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI Automática PAX 7",
+      "precios": {}
+    },
+    "15508": {
+      "id": "15508",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI PAX Trend",
+      "precios": {}
+    },
+    "15509": {
+      "id": "15509",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI Automática PAX Trend",
+      "precios": {}
+    },
+    "15510": {
+      "id": "15510",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "220 CDI Automática PAX Trend Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15511": {
+      "id": "15511",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "PAX 230 6",
+      "precios": {}
+    },
+    "15512": {
+      "id": "15512",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "Automática PAX 230 6",
+      "precios": {}
+    },
+    "15513": {
+      "id": "15513",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "PAX 230 7",
+      "precios": {}
+    },
+    "15514": {
+      "id": "15514",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "Automática PAX 230 7",
+      "precios": {}
+    },
+    "15515": {
+      "id": "15515",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "Turbodiésel PAX 6",
+      "precios": {}
+    },
+    "15516": {
+      "id": "15516",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "Turbodiésel Automática PAX 6",
+      "precios": {}
+    },
+    "15517": {
+      "id": "15517",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "Turbodiésel PAX 7",
+      "precios": {}
+    },
+    "15518": {
+      "id": "15518",
+      "marcaId": "138",
+      "modeloId": "1568",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VIANO",
+      "version": "Turbodiésel Automática PAX 7",
+      "precios": {}
+    },
+    "15519": {
+      "id": "15519",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "111 CDI Mixto Aire Furgón",
+      "precios": {
+        "2015": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15520": {
+      "id": "15520",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "111 CDI Plus Aire Furgón",
+      "precios": {
+        "2017": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 30352.48,
+          "ars": 46500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 34921.67,
+          "ars": 53500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15521": {
+      "id": "15521",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "111 CDI Furgón Generación 1",
+      "precios": {
+        "2015": {
+          "usd": 17265.01,
+          "ars": 26450000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18244.13,
+          "ars": 27950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15522": {
+      "id": "15522",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "111 CDI Aire Furgón Generación 1",
+      "precios": {
+        "2015": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15523": {
+      "id": "15523",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "111 CDI Furgón Generación 2",
+      "precios": {
+        "2015": {
+          "usd": 17917.75,
+          "ars": 27450000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18896.87,
+          "ars": 28950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15524": {
+      "id": "15524",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "111 CDI Aire Furgón Generación 2",
+      "precios": {
+        "2015": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15525": {
+      "id": "15525",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "111 CDI Rural",
+      "precios": {
+        "2015": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15526": {
+      "id": "15526",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "114 CDI Furgón 2",
+      "precios": {
+        "2024": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15527": {
+      "id": "15527",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "114 CDI Mixto Plus Furgón 2",
+      "precios": {
+        "2024": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15528": {
+      "id": "15528",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "114 CDI Automática Mixto Plus Furgón Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 65614.88,
+          "ars": 100522000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15529": {
+      "id": "15529",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "119 CDI Automática Rural Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 81462.14,
+          "ars": 124800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 60052.22,
+          "ars": 92000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15530": {
+      "id": "15530",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "Combi",
+      "precios": {
+        "2016": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15531": {
+      "id": "15531",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "Rural",
+      "precios": {
+        "2016": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15532": {
+      "id": "15532",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "Automática Rural",
+      "precios": {
+        "2018": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 34268.93,
+          "ars": 52500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 38838.12,
+          "ars": 59500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 41449.09,
+          "ars": 63500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15533": {
+      "id": "15533",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "220 CDI PAX",
+      "precios": {}
+    },
+    "15534": {
+      "id": "15534",
+      "marcaId": "138",
+      "modeloId": "1569",
+      "marca": "MERCEDES BENZ",
+      "modelo": "VITO",
+      "version": "Turbodiésel PAX",
+      "precios": {}
+    },
+    "15586": {
+      "id": "15586",
+      "marcaId": "140",
+      "modeloId": "1575",
+      "marca": "MINI COOPER",
+      "modelo": "ACEMAN",
+      "version": "SE Favoured",
+      "precios": {
+        "0": {
+          "usd": 64140.99,
+          "ars": 98264000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15587": {
+      "id": "15587",
+      "marcaId": "140",
+      "modeloId": "1576",
+      "marca": "MINI COOPER",
+      "modelo": "CABRIO",
+      "version": "Variante 1",
+      "precios": {
+        "2013": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15588": {
+      "id": "15588",
+      "marcaId": "140",
+      "modeloId": "1576",
+      "marca": "MINI COOPER",
+      "modelo": "CABRIO",
+      "version": "Automática",
+      "precios": {
+        "2013": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15589": {
+      "id": "15589",
+      "marcaId": "140",
+      "modeloId": "1576",
+      "marca": "MINI COOPER",
+      "modelo": "CABRIO",
+      "version": "John Cooper Works Cabriolet",
+      "precios": {
+        "2018": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15590": {
+      "id": "15590",
+      "marcaId": "140",
+      "modeloId": "1576",
+      "marca": "MINI COOPER",
+      "modelo": "CABRIO",
+      "version": "S Cabriolet",
+      "precios": {
+        "2013": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15591": {
+      "id": "15591",
+      "marcaId": "140",
+      "modeloId": "1576",
+      "marca": "MINI COOPER",
+      "modelo": "CABRIO",
+      "version": "S Automática Cabriolet",
+      "precios": {
+        "2013": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15592": {
+      "id": "15592",
+      "marcaId": "140",
+      "modeloId": "1576",
+      "marca": "MINI COOPER",
+      "modelo": "CABRIO",
+      "version": "S Chili Cabriolet Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15593": {
+      "id": "15593",
+      "marcaId": "140",
+      "modeloId": "1576",
+      "marca": "MINI COOPER",
+      "modelo": "CABRIO",
+      "version": "S Classic Confort Plus Cabriolet",
+      "precios": {
+        "2024": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15594": {
+      "id": "15594",
+      "marcaId": "140",
+      "modeloId": "1576",
+      "marca": "MINI COOPER",
+      "modelo": "CABRIO",
+      "version": "S Cabriolet Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 60994.78,
+          "ars": 93444000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15595": {
+      "id": "15595",
+      "marcaId": "140",
+      "modeloId": "1577",
+      "marca": "MINI COOPER",
+      "modelo": "CLUBMAN",
+      "version": "Pepper Wired",
+      "precios": {
+        "2016": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15596": {
+      "id": "15596",
+      "marcaId": "140",
+      "modeloId": "1577",
+      "marca": "MINI COOPER",
+      "modelo": "CLUBMAN",
+      "version": "S",
+      "precios": {}
+    },
+    "15597": {
+      "id": "15597",
+      "marcaId": "140",
+      "modeloId": "1577",
+      "marca": "MINI COOPER",
+      "modelo": "CLUBMAN",
+      "version": "S Chili",
+      "precios": {
+        "2016": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15598": {
+      "id": "15598",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "C Classic",
+      "precios": {
+        "0": {
+          "usd": 55903.39,
+          "ars": 85644000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15599": {
+      "id": "15599",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "Cooper AT7",
+      "precios": {
+        "2021": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15600": {
+      "id": "15600",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "Cooper S AT7",
+      "precios": {
+        "2021": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15601": {
+      "id": "15601",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "Essential Mhev Diésel",
+      "precios": {
+        "0": {
+          "usd": 44295.04,
+          "ars": 67860000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15602": {
+      "id": "15602",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "John Cooper Works Automática 4x4",
+      "precios": {
+        "2013": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15603": {
+      "id": "15603",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "John Cooper Works Automática 4x4 Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15604": {
+      "id": "15604",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "ONE",
+      "precios": {
+        "2013": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15605": {
+      "id": "15605",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "Pepper",
+      "precios": {
+        "2013": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15606": {
+      "id": "15606",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "Pepper Automática Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15607": {
+      "id": "15607",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "Pepper Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15608": {
+      "id": "15608",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "Pepper S",
+      "precios": {
+        "2013": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15609": {
+      "id": "15609",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "S Chili 4x4",
+      "precios": {
+        "2013": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15610": {
+      "id": "15610",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "S Chili 4x4 Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15611": {
+      "id": "15611",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "S Classic Confort 4x4",
+      "precios": {
+        "0": {
+          "usd": 60994.78,
+          "ars": 93444000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 41122.72,
+          "ars": 63000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15612": {
+      "id": "15612",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "S Favoured 4x4",
+      "precios": {
+        "0": {
+          "usd": 67104.44,
+          "ars": 102804000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15613": {
+      "id": "15613",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "S Chili Automática",
+      "precios": {
+        "2013": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15614": {
+      "id": "15614",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "S Chili Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15615": {
+      "id": "15615",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "SD Chili",
+      "precios": {
+        "2013": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15616": {
+      "id": "15616",
+      "marcaId": "140",
+      "modeloId": "1578",
+      "marca": "MINI COOPER",
+      "modelo": "COUNTRYMAN",
+      "version": "SD Pepper",
+      "precios": {
+        "2013": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15617": {
+      "id": "15617",
+      "marcaId": "140",
+      "modeloId": "1579",
+      "marca": "MINI COOPER",
+      "modelo": "COUPE",
+      "version": "Variante 1",
+      "precios": {
+        "2013": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15618": {
+      "id": "15618",
+      "marcaId": "140",
+      "modeloId": "1579",
+      "marca": "MINI COOPER",
+      "modelo": "COUPE",
+      "version": "S",
+      "precios": {
+        "2013": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15619": {
+      "id": "15619",
+      "marcaId": "140",
+      "modeloId": "1579",
+      "marca": "MINI COOPER",
+      "modelo": "COUPE",
+      "version": "John Cooper Works Coupé",
+      "precios": {
+        "2013": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15620": {
+      "id": "15620",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Chili",
+      "precios": {
+        "2013": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15621": {
+      "id": "15621",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper C Classic 3 Puertas",
+      "precios": {
+        "0": {
+          "usd": 44702.35,
+          "ars": 68484000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15622": {
+      "id": "15622",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper C Classic 5 Puertas",
+      "precios": {
+        "0": {
+          "usd": 45720.63,
+          "ars": 70044000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 31005.22,
+          "ars": 47500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 32963.45,
+          "ars": 50500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15623": {
+      "id": "15623",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Classic 3 Puertas",
+      "precios": {
+        "2022": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15624": {
+      "id": "15624",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Classic 5 Puertas",
+      "precios": {
+        "2022": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15625": {
+      "id": "15625",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Pepper",
+      "precios": {
+        "2013": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15626": {
+      "id": "15626",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Pepper 3 Puertas Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15627": {
+      "id": "15627",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Pepper 3 Puertas Automática Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15628": {
+      "id": "15628",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Pepper 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15629": {
+      "id": "15629",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Pepper 5 Puertas Automática",
+      "precios": {
+        "2015": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15630": {
+      "id": "15630",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Pepper S",
+      "precios": {
+        "2013": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15631": {
+      "id": "15631",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Pepper Wired 3 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15632": {
+      "id": "15632",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Pepper Wired 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15633": {
+      "id": "15633",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Aniversario",
+      "precios": {
+        "2019": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15634": {
+      "id": "15634",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Camden",
+      "precios": {
+        "2013": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15635": {
+      "id": "15635",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Chili",
+      "precios": {
+        "2013": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15535.25,
+          "ars": 23800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15636": {
+      "id": "15636",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Chili 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 30352.48,
+          "ars": 46500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15637": {
+      "id": "15637",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Chili Automática",
+      "precios": {
+        "2013": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15638": {
+      "id": "15638",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Chili Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15639": {
+      "id": "15639",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Classic 3 Puertas",
+      "precios": {
+        "0": {
+          "usd": 51830.29,
+          "ars": 79404000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15640": {
+      "id": "15640",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Classic 5 Puertas",
+      "precios": {
+        "0": {
+          "usd": 53866.84,
+          "ars": 82524000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 40796.34,
+          "ars": 62500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15641": {
+      "id": "15641",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Classic Confort 3 Puertas",
+      "precios": {
+        "2022": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 32963.45,
+          "ars": 50500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 34268.93,
+          "ars": 52500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15642": {
+      "id": "15642",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S Classic Confort 5 Puertas",
+      "precios": {
+        "2022": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15643": {
+      "id": "15643",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S HOT",
+      "precios": {
+        "2013": {
+          "usd": 15208.88,
+          "ars": 23300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15644": {
+      "id": "15644",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper S HOT Pepper",
+      "precios": {}
+    },
+    "15645": {
+      "id": "15645",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Cooper Salt",
+      "precios": {}
+    },
+    "15646": {
+      "id": "15646",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Jhon Cooper Works GP 3 Puertas",
+      "precios": {
+        "2020": {
+          "usd": 35574.41,
+          "ars": 54500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 37532.64,
+          "ars": 57500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 39490.86,
+          "ars": 60500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15647": {
+      "id": "15647",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "John Cooper Works 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 30352.48,
+          "ars": 46500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 34268.93,
+          "ars": 52500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15648": {
+      "id": "15648",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "John Cooper Works Confort 3 Puertas",
+      "precios": {
+        "2022": {
+          "usd": 39490.86,
+          "ars": 60500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 40796.34,
+          "ars": 62500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 42101.83,
+          "ars": 64500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15649": {
+      "id": "15649",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "John Cooper Works 3 Puertas Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 58958.22,
+          "ars": 90324000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15650": {
+      "id": "15650",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "John Cooper Works S Look 3 Puertas",
+      "precios": {
+        "2016": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15651": {
+      "id": "15651",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "John Cooper Works S Look 5 Puertas",
+      "precios": {
+        "2016": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15652": {
+      "id": "15652",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "Rover 1.3 Nafta",
+      "precios": {}
+    },
+    "15653": {
+      "id": "15653",
+      "marcaId": "140",
+      "modeloId": "1580",
+      "marca": "MINI COOPER",
+      "modelo": "MINI",
+      "version": "S Roadster",
+      "precios": {
+        "2013": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15654": {
+      "id": "15654",
+      "marcaId": "140",
+      "modeloId": "1581",
+      "marca": "MINI COOPER",
+      "modelo": "PACEMAN",
+      "version": "S",
+      "precios": {
+        "2013": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15655": {
+      "id": "15655",
+      "marcaId": "140",
+      "modeloId": "1581",
+      "marca": "MINI COOPER",
+      "modelo": "PACEMAN",
+      "version": "4x4 S",
+      "precios": {
+        "2013": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15656": {
+      "id": "15656",
+      "marcaId": "141",
+      "modeloId": "1582",
+      "marca": "MITSUBISHI",
+      "modelo": "3000",
+      "version": "GT 218 CV",
+      "precios": {}
+    },
+    "15657": {
+      "id": "15657",
+      "marcaId": "141",
+      "modeloId": "1582",
+      "marca": "MITSUBISHI",
+      "modelo": "3000",
+      "version": "GT Biturbo 320 CV",
+      "precios": {}
+    },
+    "15658": {
+      "id": "15658",
+      "marcaId": "141",
+      "modeloId": "1582",
+      "marca": "MITSUBISHI",
+      "modelo": "3000",
+      "version": "GT Biturbo VR4 320 CV",
+      "precios": {}
+    },
+    "15659": {
+      "id": "15659",
+      "marcaId": "141",
+      "modeloId": "1583",
+      "marca": "MITSUBISHI",
+      "modelo": "COLT",
+      "version": "Glxi D/Ab 1.6",
+      "precios": {}
+    },
+    "15660": {
+      "id": "15660",
+      "marcaId": "141",
+      "modeloId": "1583",
+      "marca": "MITSUBISHI",
+      "modelo": "COLT",
+      "version": "Glxi D/Ab 1.6 Automática",
+      "precios": {}
+    },
+    "15661": {
+      "id": "15661",
+      "marcaId": "141",
+      "modeloId": "1583",
+      "marca": "MITSUBISHI",
+      "modelo": "COLT",
+      "version": "Glxi D/Ab Techo Corredizo 1.6",
+      "precios": {}
+    },
+    "15662": {
+      "id": "15662",
+      "marcaId": "141",
+      "modeloId": "1583",
+      "marca": "MITSUBISHI",
+      "modelo": "COLT",
+      "version": "GTI 16 Válvulas 1.8",
+      "precios": {}
+    },
+    "15663": {
+      "id": "15663",
+      "marcaId": "141",
+      "modeloId": "1583",
+      "marca": "MITSUBISHI",
+      "modelo": "COLT",
+      "version": "GTI 16 Válvulas Techo Corredizo 1.8",
+      "precios": {}
+    },
+    "15664": {
+      "id": "15664",
+      "marcaId": "141",
+      "modeloId": "1584",
+      "marca": "MITSUBISHI",
+      "modelo": "ECLIPSE",
+      "version": "Gs-T 16 Válvulas",
+      "precios": {}
+    },
+    "15665": {
+      "id": "15665",
+      "marcaId": "141",
+      "modeloId": "1584",
+      "marca": "MITSUBISHI",
+      "modelo": "ECLIPSE",
+      "version": "RS",
+      "precios": {}
+    },
+    "15666": {
+      "id": "15666",
+      "marcaId": "141",
+      "modeloId": "1585",
+      "marca": "MITSUBISHI",
+      "modelo": "EXPO",
+      "version": "Variante · Ref. V-15666",
+      "precios": {}
+    },
+    "15667": {
+      "id": "15667",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "2.0 Turbodiésel",
+      "precios": {}
+    },
+    "15668": {
+      "id": "15668",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "ES 2.4",
+      "precios": {}
+    },
+    "15669": {
+      "id": "15669",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "ES CT ABS 2.4 Automática",
+      "precios": {}
+    },
+    "15670": {
+      "id": "15670",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "S 2.4",
+      "precios": {}
+    },
+    "15671": {
+      "id": "15671",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "Super Saloon 2.0",
+      "precios": {}
+    },
+    "15672": {
+      "id": "15672",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "Super Saloon 2.0 Automática",
+      "precios": {}
+    },
+    "15673": {
+      "id": "15673",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "VR6I 24V",
+      "precios": {}
+    },
+    "15674": {
+      "id": "15674",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "VR6I 24V CT ABS",
+      "precios": {}
+    },
+    "15675": {
+      "id": "15675",
+      "marcaId": "141",
+      "modeloId": "1586",
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "version": "VR6I 24V CT ABS Automática",
+      "precios": {}
+    },
+    "15676": {
+      "id": "15676",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Dirección 4x2 Cabina Doble",
+      "precios": {}
+    },
+    "15677": {
+      "id": "15677",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Full 4x2 Cabina Doble",
+      "precios": {}
+    },
+    "15678": {
+      "id": "15678",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Dirección 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15679": {
+      "id": "15679",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Full 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15680": {
+      "id": "15680",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Full Turbo 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15681": {
+      "id": "15681",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Magnun 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15682": {
+      "id": "15682",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GL 4x2 Cabina Doble",
+      "precios": {}
+    },
+    "15683": {
+      "id": "15683",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GL Aire 4x2 Cabina Doble",
+      "precios": {}
+    },
+    "15684": {
+      "id": "15684",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GL 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15685": {
+      "id": "15685",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GL Aire Turbodiésel 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15686": {
+      "id": "15686",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GL 4x2 Cabina Simple",
+      "precios": {}
+    },
+    "15687": {
+      "id": "15687",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GL Aire 4x2 Cabina Simple",
+      "precios": {}
+    },
+    "15688": {
+      "id": "15688",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GL 4x4 Cabina Simple",
+      "precios": {}
+    },
+    "15689": {
+      "id": "15689",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GL Aire 4x4 Cabina Simple",
+      "precios": {}
+    },
+    "15690": {
+      "id": "15690",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GLS Full Turbodiésel 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15691": {
+      "id": "15691",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "GLX Full Turbodiésel 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15692": {
+      "id": "15692",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Dirección 4x2 Cabina Simple",
+      "precios": {}
+    },
+    "15693": {
+      "id": "15693",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Full 4x2 Cabina Simple",
+      "precios": {}
+    },
+    "15694": {
+      "id": "15694",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Dirección 4x4 Cabina Simple",
+      "precios": {}
+    },
+    "15695": {
+      "id": "15695",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Full 4x4 Cabina Simple",
+      "precios": {}
+    },
+    "15696": {
+      "id": "15696",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Sport HPE 4x4 Cabina Doble",
+      "precios": {
+        "2014": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15404.7,
+          "ars": 23600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16057.44,
+          "ars": 24600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15697": {
+      "id": "15697",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "Sport HPE Automática 4x4 Cabina Doble",
+      "precios": {
+        "2014": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15600.52,
+          "ars": 23900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16253.26,
+          "ars": 24900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15698": {
+      "id": "15698",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. 2.4 DI-D Automática 4x4 Cabina Doble Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15699": {
+      "id": "15699",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. GLS 2.4 DI-D Automática 4x4 Cabina Doble Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 53929.5,
+          "ars": 82620000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15700": {
+      "id": "15700",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. H. Power 2.4 DI-D 4x4 Cabina Doble",
+      "precios": {
+        "2019": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15701": {
+      "id": "15701",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. H. Power 2.4 DI-D Automática 4x4 Cabina Doble",
+      "precios": {
+        "2019": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 31005.22,
+          "ars": 47500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15702": {
+      "id": "15702",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. 2.4 DI-D 4x4 Cabina Doble Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15703": {
+      "id": "15703",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. 2.5 DI-D Automática 4x4 Cabina Doble Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15704": {
+      "id": "15704",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. Triton 2.5 DI-D 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15705": {
+      "id": "15705",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. Triton 2.5 DI-D Automática 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15706": {
+      "id": "15706",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. Triton Cuero 2.5 DI-D 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15707": {
+      "id": "15707",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. Triton Cuero 2.5 DI-D Automática 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15708": {
+      "id": "15708",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. CR 3.2 4x4 Cabina Doble",
+      "precios": {
+        "2013": {
+          "usd": 14751.96,
+          "ars": 22600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15274.15,
+          "ars": 23400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15926.89,
+          "ars": 24400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16579.63,
+          "ars": 25400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 17362.92,
+          "ars": 26600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18146.21,
+          "ars": 27800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19125.33,
+          "ars": 29300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15709": {
+      "id": "15709",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. CR 3.2 Automática 4x4 Cabina Doble",
+      "precios": {
+        "2013": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15469.97,
+          "ars": 23700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 17558.75,
+          "ars": 26900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18342.04,
+          "ars": 28100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19321.15,
+          "ars": 29600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15710": {
+      "id": "15710",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. Triton 3.2 DI-D 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15711": {
+      "id": "15711",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. Triton 3.2 DI-D Automática 4x4 Cabina Doble",
+      "precios": {}
+    },
+    "15712": {
+      "id": "15712",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. GLS 3.2 4x4 Cabina Doble",
+      "precios": {
+        "2013": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15469.97,
+          "ars": 23700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 16906.01,
+          "ars": 25900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17689.3,
+          "ars": 27100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15713": {
+      "id": "15713",
+      "marcaId": "141",
+      "modeloId": "1587",
+      "marca": "MITSUBISHI",
+      "modelo": "L200",
+      "version": "L200. GLX 3.2 4x4 Cabina Doble",
+      "precios": {
+        "2017": {
+          "usd": 16579.63,
+          "ars": 25400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17362.92,
+          "ars": 26600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15714": {
+      "id": "15714",
+      "marcaId": "141",
+      "modeloId": "1588",
+      "marca": "MITSUBISHI",
+      "modelo": "L300",
+      "version": "Dirección Minibús",
+      "precios": {}
+    },
+    "15715": {
+      "id": "15715",
+      "marcaId": "141",
+      "modeloId": "1588",
+      "marca": "MITSUBISHI",
+      "modelo": "L300",
+      "version": "Full Minibús",
+      "precios": {}
+    },
+    "15716": {
+      "id": "15716",
+      "marcaId": "141",
+      "modeloId": "1588",
+      "marca": "MITSUBISHI",
+      "modelo": "L300",
+      "version": "Full Doble Aire Minibús",
+      "precios": {}
+    },
+    "15717": {
+      "id": "15717",
+      "marcaId": "141",
+      "modeloId": "1588",
+      "marca": "MITSUBISHI",
+      "modelo": "L300",
+      "version": "Panel Dirección Van",
+      "precios": {}
+    },
+    "15718": {
+      "id": "15718",
+      "marcaId": "141",
+      "modeloId": "1588",
+      "marca": "MITSUBISHI",
+      "modelo": "L300",
+      "version": "Panel Full Van",
+      "precios": {}
+    },
+    "15719": {
+      "id": "15719",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Evolution V Serie IV",
+      "precios": {}
+    },
+    "15720": {
+      "id": "15720",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Evolution VI R-S Carrera",
+      "precios": {}
+    },
+    "15721": {
+      "id": "15721",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Evolution VI R-S2 Calle",
+      "precios": {}
+    },
+    "15722": {
+      "id": "15722",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "GLS 2.0",
+      "precios": {
+        "2013": {
+          "usd": 10019.58,
+          "ars": 15350000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10672.32,
+          "ars": 16350000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11325.07,
+          "ars": 17350000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15723": {
+      "id": "15723",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "GLS 2.0 Automática",
+      "precios": {
+        "2013": {
+          "usd": 10345.95,
+          "ars": 15850000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10998.69,
+          "ars": 16850000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11651.44,
+          "ars": 17850000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15724": {
+      "id": "15724",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi",
+      "precios": {}
+    },
+    "15725": {
+      "id": "15725",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi Mirage Automática",
+      "precios": {}
+    },
+    "15726": {
+      "id": "15726",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi CT",
+      "precios": {}
+    },
+    "15727": {
+      "id": "15727",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi Modelo 2001",
+      "precios": {}
+    },
+    "15728": {
+      "id": "15728",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi Automática Modelo 2001",
+      "precios": {}
+    },
+    "15729": {
+      "id": "15729",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi CT Modelo 2001",
+      "precios": {}
+    },
+    "15730": {
+      "id": "15730",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi CT Automática Modelo 2001",
+      "precios": {}
+    },
+    "15731": {
+      "id": "15731",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi Modelo 2006",
+      "precios": {}
+    },
+    "15732": {
+      "id": "15732",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi Automática Modelo 2006",
+      "precios": {}
+    },
+    "15733": {
+      "id": "15733",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi Station Wagon",
+      "precios": {}
+    },
+    "15734": {
+      "id": "15734",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Glxi Station Wagon Automática",
+      "precios": {}
+    },
+    "15735": {
+      "id": "15735",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "GT 2.0 Automática",
+      "precios": {
+        "2013": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15736": {
+      "id": "15736",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "GTI 16 Válvulas 1.8",
+      "precios": {}
+    },
+    "15737": {
+      "id": "15737",
+      "marcaId": "141",
+      "modeloId": "1589",
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "version": "Intense 2.0",
+      "precios": {}
+    },
+    "15749": {
+      "id": "15749",
+      "marcaId": "141",
+      "modeloId": "1590",
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO",
+      "version": "1.6 IO 3 Puertas",
+      "precios": {}
+    },
+    "15750": {
+      "id": "15750",
+      "marcaId": "141",
+      "modeloId": "1590",
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO",
+      "version": "1.8 IO 5 Puertas",
+      "precios": {}
+    },
+    "15751": {
+      "id": "15751",
+      "marcaId": "141",
+      "modeloId": "1590",
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO",
+      "version": "1.8 Automática IO 5 Puertas",
+      "precios": {}
+    },
     "131666": {
       "id": "131666",
       "marcaId": "106",
@@ -88140,6 +95580,31 @@
         }
       }
     },
+    "245972": {
+      "id": "245972",
+      "marcaId": "138",
+      "modeloId": "1564",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SPRINTER",
+      "version": "Street Sport Techo Normal Furgón Generación 2",
+      "precios": {
+        "0": {
+          "usd": 44435.38,
+          "ars": 68075000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 35802.87,
+          "ars": 54850000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 42659.92,
+          "ars": 65355000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "250300": {
       "id": "250300",
       "marcaId": "102",
@@ -91232,6 +98697,81 @@
         }
       }
     },
+    "325260": {
+      "id": "325260",
+      "marcaId": "3986",
+      "modeloId": "35498",
+      "marca": "MG",
+      "modelo": "CYBERSTER",
+      "version": "Variante · Ref. V-325260",
+      "precios": {
+        "0": {
+          "usd": 129830.29,
+          "ars": 198900000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 79634.46,
+          "ars": 122000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 88120.1,
+          "ars": 135000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "325261": {
+      "id": "325261",
+      "marcaId": "3986",
+      "modeloId": "35499",
+      "marca": "MG",
+      "modelo": "ZS",
+      "version": "Hybrid+ Comfortline",
+      "precios": {
+        "0": {
+          "usd": 27464.1,
+          "ars": 42075000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "325262": {
+      "id": "325262",
+      "marcaId": "3986",
+      "modeloId": "35499",
+      "marca": "MG",
+      "modelo": "ZS",
+      "version": "Hybrid+ Luxury",
+      "precios": {
+        "0": {
+          "usd": 29860.97,
+          "ars": 45747000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "335933": {
       "id": "335933",
       "marcaId": "105",
@@ -92323,6 +99863,56 @@
         "0": {
           "usd": 132375.98,
           "ars": 202800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344201": {
+      "id": "344201",
+      "marcaId": "3986",
+      "modeloId": "35497",
+      "marca": "MG",
+      "modelo": "3",
+      "version": "Comfortline",
+      "precios": {
+        "0": {
+          "usd": 23469.32,
+          "ars": 35955000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344202": {
+      "id": "344202",
+      "marcaId": "3986",
+      "modeloId": "35497",
+      "marca": "MG",
+      "modelo": "3",
+      "version": "Luxury",
+      "precios": {
+        "0": {
+          "usd": 25866.19,
+          "ars": 39627000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17950.39,
+          "ars": 27500000,
           "cotizacion": 1532
         }
       }
