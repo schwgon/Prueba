@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-17T15:05:58.939Z",
+  "actualizado": "2026-09-17T17:09:15.284Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 4879,
-  "versionesConValuacion": 2458,
+  "versionesProcesadas": 5228,
+  "versionesConValuacion": 2590,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -78611,6 +78611,5784 @@
       "version": "Turbo Sport",
       "precios": {}
     },
+    "14945": {
+      "id": "14945",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "180",
+      "precios": {}
+    },
+    "14946": {
+      "id": "14946",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 180",
+      "precios": {}
+    },
+    "14947": {
+      "id": "14947",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Automática 200",
+      "precios": {
+        "2017": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14948": {
+      "id": "14948",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Automática Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 31005.22,
+          "ars": 47500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14949": {
+      "id": "14949",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency Avantgarde",
+      "precios": {}
+    },
+    "14950": {
+      "id": "14950",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency Avantgarde Automática",
+      "precios": {}
+    },
+    "14951": {
+      "id": "14951",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency City",
+      "precios": {
+        "2013": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14952": {
+      "id": "14952",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency City Automática",
+      "precios": {
+        "2013": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14229.77,
+          "ars": 21800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14953": {
+      "id": "14953",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "CGI Blueefficiency",
+      "precios": {}
+    },
+    "14954": {
+      "id": "14954",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "CGI Blueefficiency Automática",
+      "precios": {}
+    },
+    "14955": {
+      "id": "14955",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Classic",
+      "precios": {}
+    },
+    "14956": {
+      "id": "14956",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Edition C",
+      "precios": {
+        "2013": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18733.68,
+          "ars": 28700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14957": {
+      "id": "14957",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Edition C Automática",
+      "precios": {
+        "2013": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14958": {
+      "id": "14958",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 200",
+      "precios": {}
+    },
+    "14959": {
+      "id": "14959",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor",
+      "precios": {}
+    },
+    "14960": {
+      "id": "14960",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Avant Touring",
+      "precios": {}
+    },
+    "14961": {
+      "id": "14961",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Avant Touring Automática",
+      "precios": {}
+    },
+    "14962": {
+      "id": "14962",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Avantgarde 200",
+      "precios": {}
+    },
+    "14963": {
+      "id": "14963",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Avantgarde 200 07",
+      "precios": {}
+    },
+    "14964": {
+      "id": "14964",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Avantgarde Automática",
+      "precios": {}
+    },
+    "14965": {
+      "id": "14965",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Classic",
+      "precios": {}
+    },
+    "14966": {
+      "id": "14966",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Classic Plus",
+      "precios": {}
+    },
+    "14967": {
+      "id": "14967",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Elegance Aut.",
+      "precios": {}
+    },
+    "14968": {
+      "id": "14968",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Sport Edition",
+      "precios": {}
+    },
+    "14969": {
+      "id": "14969",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Sport Edition Automática",
+      "precios": {}
+    },
+    "14970": {
+      "id": "14970",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sport 200",
+      "precios": {}
+    },
+    "14971": {
+      "id": "14971",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Kompre",
+      "precios": {}
+    },
+    "14972": {
+      "id": "14972",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Kompre Evolution",
+      "precios": {}
+    },
+    "14973": {
+      "id": "14973",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Kompre Sport Edit",
+      "precios": {}
+    },
+    "14974": {
+      "id": "14974",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde 220 CDI Automática",
+      "precios": {}
+    },
+    "14975": {
+      "id": "14975",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficien Avan L/N 220 CDI Automática",
+      "precios": {
+        "2013": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14976": {
+      "id": "14976",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency Avant 220 CDI Automática",
+      "precios": {}
+    },
+    "14977": {
+      "id": "14977",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency Eleg 220 CDI Automática",
+      "precios": {}
+    },
+    "14978": {
+      "id": "14978",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Classic 220 CDI",
+      "precios": {}
+    },
+    "14979": {
+      "id": "14979",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Classic 220 CDI Modelo 2000",
+      "precios": {}
+    },
+    "14980": {
+      "id": "14980",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Classic Techo Elevado 220 CDI",
+      "precios": {}
+    },
+    "14981": {
+      "id": "14981",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 220 CDI",
+      "precios": {}
+    },
+    "14982": {
+      "id": "14982",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 220 CDI Automática",
+      "precios": {}
+    },
+    "14983": {
+      "id": "14983",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 220 CDI Automática Modelo 2000",
+      "precios": {}
+    },
+    "14984": {
+      "id": "14984",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 220 CDI Automática Modelo 2007",
+      "precios": {}
+    },
+    "14985": {
+      "id": "14985",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Techo Elevado 220 CDI Automática Modelo 2001",
+      "precios": {}
+    },
+    "14986": {
+      "id": "14986",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Techo Elevado 220 CDI Modelo 2001",
+      "precios": {}
+    },
+    "14987": {
+      "id": "14987",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sport 220 CDI",
+      "precios": {}
+    },
+    "14988": {
+      "id": "14988",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe 220 CDI",
+      "precios": {}
+    },
+    "14989": {
+      "id": "14989",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Plus 220 CDI",
+      "precios": {}
+    },
+    "14990": {
+      "id": "14990",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Sport Edit 220 CDI",
+      "precios": {}
+    },
+    "14991": {
+      "id": "14991",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Sport V6",
+      "precios": {}
+    },
+    "14992": {
+      "id": "14992",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 230",
+      "precios": {}
+    },
+    "14993": {
+      "id": "14993",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Automática 230",
+      "precios": {}
+    },
+    "14994": {
+      "id": "14994",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance V6 Automática",
+      "precios": {}
+    },
+    "14995": {
+      "id": "14995",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Techo Elevado 230",
+      "precios": {}
+    },
+    "14996": {
+      "id": "14996",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Techo Elevado Plus",
+      "precios": {}
+    },
+    "14997": {
+      "id": "14997",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Avantgarde Sport",
+      "precios": {}
+    },
+    "14998": {
+      "id": "14998",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Kompressor Elegance Automática",
+      "precios": {}
+    },
+    "14999": {
+      "id": "14999",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sport Kompressor Plus",
+      "precios": {}
+    },
+    "15000": {
+      "id": "15000",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Kompre. Evo.",
+      "precios": {}
+    },
+    "15001": {
+      "id": "15001",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Kompre. Evo. Aut.",
+      "precios": {}
+    },
+    "15002": {
+      "id": "15002",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Evolution V6",
+      "precios": {}
+    },
+    "15003": {
+      "id": "15003",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Evolution V6 Automática",
+      "precios": {}
+    },
+    "15004": {
+      "id": "15004",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Sport Edit V6",
+      "precios": {}
+    },
+    "15005": {
+      "id": "15005",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sportcoupe Sport Edit V6 Automática",
+      "precios": {}
+    },
+    "15006": {
+      "id": "15006",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Automática Modelo 2000",
+      "precios": {}
+    },
+    "15007": {
+      "id": "15007",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Techo Elevado Automática Modelo 2001",
+      "precios": {}
+    },
+    "15008": {
+      "id": "15008",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Plus",
+      "precios": {}
+    },
+    "15009": {
+      "id": "15009",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Plus Techo Elevado Automática 240",
+      "precios": {}
+    },
+    "15010": {
+      "id": "15010",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sport 240",
+      "precios": {}
+    },
+    "15011": {
+      "id": "15011",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Sport Plus",
+      "precios": {}
+    },
+    "15012": {
+      "id": "15012",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Automática 250",
+      "precios": {
+        "2015": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15013": {
+      "id": "15013",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde AMG Line Automática",
+      "precios": {
+        "2017": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15014": {
+      "id": "15014",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "CGI Blueeffi Avant Sport Automática",
+      "precios": {
+        "2013": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15015": {
+      "id": "15015",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "CGI Blueefficiency Avant Automática",
+      "precios": {
+        "2013": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15016": {
+      "id": "15016",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency Automática Coupé",
+      "precios": {}
+    },
+    "15017": {
+      "id": "15017",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency City Automática Coupé",
+      "precios": {
+        "2013": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15018": {
+      "id": "15018",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Blueefficiency Spor Automática Coupé",
+      "precios": {
+        "2013": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15019": {
+      "id": "15019",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Edition C Avantgarde Automática",
+      "precios": {
+        "2013": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15020": {
+      "id": "15020",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Style Automática",
+      "precios": {
+        "2016": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15021": {
+      "id": "15021",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Turbodiésel",
+      "precios": {}
+    },
+    "15022": {
+      "id": "15022",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Turbodiésel Automática",
+      "precios": {}
+    },
+    "15023": {
+      "id": "15023",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Plus Turbodiésel",
+      "precios": {}
+    },
+    "15024": {
+      "id": "15024",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Plus Turbodiésel Automática",
+      "precios": {}
+    },
+    "15025": {
+      "id": "15025",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Plus Techo Elevado Turbodiésel Automática",
+      "precios": {}
+    },
+    "15026": {
+      "id": "15026",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Techo Elevado Turbodiésel",
+      "precios": {}
+    },
+    "15027": {
+      "id": "15027",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance CDI Turbodiésel Automática",
+      "precios": {}
+    },
+    "15028": {
+      "id": "15028",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "280",
+      "precios": {}
+    },
+    "15029": {
+      "id": "15029",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Automática Modelo 2008",
+      "precios": {}
+    },
+    "15030": {
+      "id": "15030",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 280",
+      "precios": {}
+    },
+    "15031": {
+      "id": "15031",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Automática Modelo 2008",
+      "precios": {}
+    },
+    "15032": {
+      "id": "15032",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Plus Automática",
+      "precios": {}
+    },
+    "15033": {
+      "id": "15033",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Plus Techo Elevado Automática 280",
+      "precios": {}
+    },
+    "15034": {
+      "id": "15034",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG 300",
+      "precios": {
+        "2016": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15035": {
+      "id": "15035",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 51566.58,
+          "ars": 79000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15036": {
+      "id": "15036",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG Line Híbrido Liviano Modelo 2022",
+      "precios": {
+        "0": {
+          "usd": 87368.15,
+          "ars": 133848000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 60704.96,
+          "ars": 93000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 63968.67,
+          "ars": 98000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 67232.38,
+          "ars": 103000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15037": {
+      "id": "15037",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Automática 300",
+      "precios": {}
+    },
+    "15038": {
+      "id": "15038",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Híbrido Liviano Automática",
+      "precios": {
+        "0": {
+          "usd": 78305.48,
+          "ars": 119964000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 62010.44,
+          "ars": 95000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15039": {
+      "id": "15039",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Cabriolet",
+      "precios": {
+        "2019": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 55483.03,
+          "ars": 85000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 67232.38,
+          "ars": 103000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15040": {
+      "id": "15040",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "City Automática",
+      "precios": {
+        "2018": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 53524.8,
+          "ars": 82000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 60704.96,
+          "ars": 93000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15041": {
+      "id": "15041",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Automática 300",
+      "precios": {}
+    },
+    "15042": {
+      "id": "15042",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Automática 320",
+      "precios": {}
+    },
+    "15043": {
+      "id": "15043",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Sport 320",
+      "precios": {}
+    },
+    "15044": {
+      "id": "15044",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Sport 320 CDI Automática",
+      "precios": {}
+    },
+    "15045": {
+      "id": "15045",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 320 CDI Automática",
+      "precios": {}
+    },
+    "15046": {
+      "id": "15046",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance 320 CDI Automática Modelo 2008",
+      "precios": {}
+    },
+    "15047": {
+      "id": "15047",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Automática 320",
+      "precios": {}
+    },
+    "15048": {
+      "id": "15048",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Techo Elevado 320",
+      "precios": {}
+    },
+    "15049": {
+      "id": "15049",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Sport 350",
+      "precios": {}
+    },
+    "15050": {
+      "id": "15050",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Avantgarde Sport Automática Modelo 2007",
+      "precios": {
+        "2013": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15051": {
+      "id": "15051",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Automática 350",
+      "precios": {}
+    },
+    "15052": {
+      "id": "15052",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "Elegance Automática Modelo 2007",
+      "precios": {}
+    },
+    "15053": {
+      "id": "15053",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "4Matic",
+      "precios": {
+        "2017": {
+          "usd": 41122.72,
+          "ars": 63000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15054": {
+      "id": "15054",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "4Matic Coupé",
+      "precios": {
+        "2017": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15055": {
+      "id": "15055",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG 4Matic",
+      "precios": {
+        "2019": {
+          "usd": 59399.48,
+          "ars": 91000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 62010.44,
+          "ars": 95000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 64621.41,
+          "ars": 99000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 67232.38,
+          "ars": 103000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 69843.34,
+          "ars": 107000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15056": {
+      "id": "15056",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG 4Matic Coupé",
+      "precios": {
+        "2019": {
+          "usd": 63968.67,
+          "ars": 98000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 69190.6,
+          "ars": 106000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 71801.57,
+          "ars": 110000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 74412.53,
+          "ars": 114000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15057": {
+      "id": "15057",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG Híbrido Liviano 4Matic Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 111908.62,
+          "ars": 171444000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 79634.46,
+          "ars": 122000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 82245.43,
+          "ars": 126000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 85509.14,
+          "ars": 131000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15058": {
+      "id": "15058",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG 55",
+      "precios": {}
+    },
+    "15059": {
+      "id": "15059",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG 63",
+      "precios": {
+        "2013": {
+          "usd": 59399.48,
+          "ars": 91000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 63968.67,
+          "ars": 98000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 69190.6,
+          "ars": 106000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 74412.53,
+          "ars": 114000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15060": {
+      "id": "15060",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG Coupé",
+      "precios": {
+        "2013": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 73107.05,
+          "ars": 112000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 78328.98,
+          "ars": 120000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15061": {
+      "id": "15061",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG S",
+      "precios": {
+        "2016": {
+          "usd": 80939.95,
+          "ars": 124000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 90078.33,
+          "ars": 138000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 99216.71,
+          "ars": 152000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 109007.83,
+          "ars": 167000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 118798.96,
+          "ars": 182000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 128590.08,
+          "ars": 197000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 138381.2,
+          "ars": 212000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15062": {
+      "id": "15062",
+      "marcaId": "138",
+      "modeloId": "1534",
+      "marca": "MERCEDES BENZ",
+      "modelo": "C",
+      "version": "AMG S Coupé",
+      "precios": {
+        "2017": {
+          "usd": 96605.74,
+          "ars": 148000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 105744.13,
+          "ars": 162000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 115535.25,
+          "ars": 177000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 125326.37,
+          "ars": 192000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 135117.49,
+          "ars": 207000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 144908.62,
+          "ars": 222000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 156657.96,
+          "ars": 240000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 169712.79,
+          "ars": 260000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15066": {
+      "id": "15066",
+      "marcaId": "138",
+      "modeloId": "1537",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CL",
+      "version": "Coupé 500",
+      "precios": {}
+    },
+    "15067": {
+      "id": "15067",
+      "marcaId": "138",
+      "modeloId": "1537",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CL",
+      "version": "AMG Coupé",
+      "precios": {}
+    },
+    "15068": {
+      "id": "15068",
+      "marcaId": "138",
+      "modeloId": "1537",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CL",
+      "version": "Coupé 600",
+      "precios": {}
+    },
+    "15072": {
+      "id": "15072",
+      "marcaId": "138",
+      "modeloId": "1539",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLA",
+      "version": "Progressive",
+      "precios": {
+        "0": {
+          "usd": 64660.57,
+          "ars": 99060000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 45039.16,
+          "ars": 69000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15073": {
+      "id": "15073",
+      "marcaId": "138",
+      "modeloId": "1539",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLA",
+      "version": "Urban",
+      "precios": {
+        "2013": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15074": {
+      "id": "15074",
+      "marcaId": "138",
+      "modeloId": "1539",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLA",
+      "version": "Urban Automática",
+      "precios": {
+        "2013": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15075": {
+      "id": "15075",
+      "marcaId": "138",
+      "modeloId": "1539",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLA",
+      "version": "Urban Modelo 2019",
+      "precios": {
+        "2018": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15076": {
+      "id": "15076",
+      "marcaId": "138",
+      "modeloId": "1539",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLA",
+      "version": "Sport Automática",
+      "precios": {
+        "2013": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15077": {
+      "id": "15077",
+      "marcaId": "138",
+      "modeloId": "1539",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLA",
+      "version": "AMG 4Matic",
+      "precios": {
+        "2015": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15078": {
+      "id": "15078",
+      "marcaId": "138",
+      "modeloId": "1540",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLC",
+      "version": "Sportcoupe 230",
+      "precios": {}
+    },
+    "15079": {
+      "id": "15079",
+      "marcaId": "138",
+      "modeloId": "1540",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLC",
+      "version": "Automática Sportcoupe 230",
+      "precios": {}
+    },
+    "15080": {
+      "id": "15080",
+      "marcaId": "138",
+      "modeloId": "1540",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLC",
+      "version": "Sportcoupe 250",
+      "precios": {}
+    },
+    "15081": {
+      "id": "15081",
+      "marcaId": "138",
+      "modeloId": "1540",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLC",
+      "version": "Automática Sportcoupe 350",
+      "precios": {}
+    },
+    "15082": {
+      "id": "15082",
+      "marcaId": "138",
+      "modeloId": "1541",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLE",
+      "version": "4Matic Coupé",
+      "precios": {
+        "0": {
+          "usd": 127182.77,
+          "ars": 194844000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 92689.3,
+          "ars": 142000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15083": {
+      "id": "15083",
+      "marcaId": "138",
+      "modeloId": "1541",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLE",
+      "version": "Cabriolet AMG 4MATIC+ Híbrido Liviano",
+      "precios": {
+        "0": {
+          "usd": 182984.33,
+          "ars": 280332000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 146866.84,
+          "ars": 225000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15084": {
+      "id": "15084",
+      "marcaId": "138",
+      "modeloId": "1541",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLE",
+      "version": "Coupé AMG 4MATIC+ Híbrido Liviano",
+      "precios": {
+        "0": {
+          "usd": 172801.57,
+          "ars": 264732000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 130548.3,
+          "ars": 200000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 137075.72,
+          "ars": 210000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15085": {
+      "id": "15085",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Kompre",
+      "precios": {}
+    },
+    "15086": {
+      "id": "15086",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Kompre Cabriolet",
+      "precios": {}
+    },
+    "15087": {
+      "id": "15087",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Sport Kompressor",
+      "precios": {}
+    },
+    "15088": {
+      "id": "15088",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Sport Kompressor Cabriolet",
+      "precios": {}
+    },
+    "15089": {
+      "id": "15089",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Automática 320",
+      "precios": {}
+    },
+    "15090": {
+      "id": "15090",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Automática Cabriolet 320",
+      "precios": {}
+    },
+    "15091": {
+      "id": "15091",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Automática 320 2",
+      "precios": {}
+    },
+    "15092": {
+      "id": "15092",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Elegance Automática 320",
+      "precios": {}
+    },
+    "15093": {
+      "id": "15093",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Elegance Plus Automática 320",
+      "precios": {}
+    },
+    "15094": {
+      "id": "15094",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Elegance Plus Automática Cabriolet",
+      "precios": {}
+    },
+    "15095": {
+      "id": "15095",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Sport Automática 320",
+      "precios": {}
+    },
+    "15096": {
+      "id": "15096",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Sport Automática Cabriolet",
+      "precios": {}
+    },
+    "15097": {
+      "id": "15097",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Automática 350",
+      "precios": {}
+    },
+    "15098": {
+      "id": "15098",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Automática Cabriolet 350",
+      "precios": {}
+    },
+    "15099": {
+      "id": "15099",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Elegance Automática 350",
+      "precios": {}
+    },
+    "15100": {
+      "id": "15100",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Elegance Automática Cabriolet",
+      "precios": {}
+    },
+    "15101": {
+      "id": "15101",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Automática 430",
+      "precios": {}
+    },
+    "15102": {
+      "id": "15102",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Automática Cabriolet 430",
+      "precios": {}
+    },
+    "15103": {
+      "id": "15103",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Elegance Plus Automática 430",
+      "precios": {}
+    },
+    "15104": {
+      "id": "15104",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Sport Automática 430",
+      "precios": {}
+    },
+    "15105": {
+      "id": "15105",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Avantgarde Automática 500",
+      "precios": {}
+    },
+    "15106": {
+      "id": "15106",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "Elegance Automática 500",
+      "precios": {}
+    },
+    "15107": {
+      "id": "15107",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "AMG",
+      "precios": {}
+    },
+    "15108": {
+      "id": "15108",
+      "marcaId": "138",
+      "modeloId": "1542",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLK",
+      "version": "AMG Cabriolet",
+      "precios": {}
+    },
+    "15109": {
+      "id": "15109",
+      "marcaId": "138",
+      "modeloId": "1543",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLS",
+      "version": "350",
+      "precios": {}
+    },
+    "15110": {
+      "id": "15110",
+      "marcaId": "138",
+      "modeloId": "1543",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLS",
+      "version": "Blueefficiency Sport Automática",
+      "precios": {
+        "2013": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15111": {
+      "id": "15111",
+      "marcaId": "138",
+      "modeloId": "1543",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLS",
+      "version": "500",
+      "precios": {}
+    },
+    "15112": {
+      "id": "15112",
+      "marcaId": "138",
+      "modeloId": "1543",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLS",
+      "version": "AMG 55",
+      "precios": {}
+    },
+    "15113": {
+      "id": "15113",
+      "marcaId": "138",
+      "modeloId": "1543",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLS",
+      "version": "AMG 63",
+      "precios": {
+        "2013": {
+          "usd": 77676.24,
+          "ars": 119000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 78981.72,
+          "ars": 121000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 80287.21,
+          "ars": 123000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 81592.69,
+          "ars": 125000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 82898.17,
+          "ars": 127000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15114": {
+      "id": "15114",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "ALL Terrain Diésel 4Matic",
+      "precios": {
+        "2018": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15115": {
+      "id": "15115",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "230",
+      "precios": {}
+    },
+    "15116": {
+      "id": "15116",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Classic",
+      "precios": {}
+    },
+    "15117": {
+      "id": "15117",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance 230",
+      "precios": {}
+    },
+    "15118": {
+      "id": "15118",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática 240",
+      "precios": {}
+    },
+    "15119": {
+      "id": "15119",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus 240",
+      "precios": {}
+    },
+    "15120": {
+      "id": "15120",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus Automática 240",
+      "precios": {}
+    },
+    "15121": {
+      "id": "15121",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "CGI Blueefficiency Avant Automática",
+      "precios": {
+        "2013": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15122": {
+      "id": "15122",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "CGI Blueefficiency City Automática",
+      "precios": {
+        "2013": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15123": {
+      "id": "15123",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "CGI Blueefficiency Sport Automática",
+      "precios": {
+        "2013": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15124": {
+      "id": "15124",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance 270 CDI Automática",
+      "precios": {}
+    },
+    "15125": {
+      "id": "15125",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus 270 CDI",
+      "precios": {}
+    },
+    "15126": {
+      "id": "15126",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus 270 CDI Automática",
+      "precios": {}
+    },
+    "15127": {
+      "id": "15127",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus Techo Elevado 270 CDI Automática",
+      "precios": {}
+    },
+    "15128": {
+      "id": "15128",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Business Edition Elegance Automática",
+      "precios": {}
+    },
+    "15129": {
+      "id": "15129",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Turbodiésel",
+      "precios": {}
+    },
+    "15130": {
+      "id": "15130",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus Turbodiésel Automática",
+      "precios": {}
+    },
+    "15131": {
+      "id": "15131",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Sport 300",
+      "precios": {}
+    },
+    "15132": {
+      "id": "15132",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance 300",
+      "precios": {}
+    },
+    "15133": {
+      "id": "15133",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Turbodiésel 2",
+      "precios": {}
+    },
+    "15134": {
+      "id": "15134",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus Turbodiésel",
+      "precios": {}
+    },
+    "15135": {
+      "id": "15135",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática 320",
+      "precios": {}
+    },
+    "15136": {
+      "id": "15136",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática Modelo 2002",
+      "precios": {}
+    },
+    "15137": {
+      "id": "15137",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Automática 320",
+      "precios": {}
+    },
+    "15138": {
+      "id": "15138",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus Automática 320",
+      "precios": {}
+    },
+    "15139": {
+      "id": "15139",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus Techo Elevado Automática",
+      "precios": {}
+    },
+    "15140": {
+      "id": "15140",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "320CDI Elegance Automática",
+      "precios": {}
+    },
+    "15141": {
+      "id": "15141",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "320CDI Elegance Automática Modelo 2007",
+      "precios": {}
+    },
+    "15142": {
+      "id": "15142",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "320CDI Elegance Plus Automática",
+      "precios": {}
+    },
+    "15143": {
+      "id": "15143",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "320CDI Elegance Plus Techo Elevado Automática",
+      "precios": {}
+    },
+    "15144": {
+      "id": "15144",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática 350",
+      "precios": {}
+    },
+    "15145": {
+      "id": "15145",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática Modelo 2007 350",
+      "precios": {}
+    },
+    "15146": {
+      "id": "15146",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Sport 350",
+      "precios": {
+        "2013": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15147": {
+      "id": "15147",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Sport Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15148": {
+      "id": "15148",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Automática 350",
+      "precios": {}
+    },
+    "15149": {
+      "id": "15149",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Automática Modelo 2007 350",
+      "precios": {}
+    },
+    "15150": {
+      "id": "15150",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Automática Modelo 2010",
+      "precios": {}
+    },
+    "15151": {
+      "id": "15151",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Coupé",
+      "precios": {}
+    },
+    "15152": {
+      "id": "15152",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Sport Coupé 350",
+      "precios": {
+        "2013": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15153": {
+      "id": "15153",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Sport Coupé Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15154": {
+      "id": "15154",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "4Matic 400",
+      "precios": {
+        "2017": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 42428.2,
+          "ars": 65000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15155": {
+      "id": "15155",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "4Matic Coupé 400",
+      "precios": {
+        "2017": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 48955.61,
+          "ars": 75000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15156": {
+      "id": "15156",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Sport Automática",
+      "precios": {
+        "2015": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15157": {
+      "id": "15157",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde",
+      "precios": {}
+    },
+    "15158": {
+      "id": "15158",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus 420",
+      "precios": {}
+    },
+    "15159": {
+      "id": "15159",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática 430",
+      "precios": {}
+    },
+    "15160": {
+      "id": "15160",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Plus Automática 430",
+      "precios": {}
+    },
+    "15161": {
+      "id": "15161",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "4Matic 450",
+      "precios": {
+        "2019": {
+          "usd": 53524.8,
+          "ars": 82000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 60052.22,
+          "ars": 92000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 74412.53,
+          "ars": 114000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 82898.17,
+          "ars": 127000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 91383.81,
+          "ars": 140000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15162": {
+      "id": "15162",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "4Matic Coupé 450",
+      "precios": {
+        "2019": {
+          "usd": 60052.22,
+          "ars": 92000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 73107.05,
+          "ars": 112000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15163": {
+      "id": "15163",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Híbrido Liviano 4Matic Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 161193.21,
+          "ars": 246948000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 115535.25,
+          "ars": 177000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 125326.37,
+          "ars": 192000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15164": {
+      "id": "15164",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática 500",
+      "precios": {}
+    },
+    "15165": {
+      "id": "15165",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Guard Automática",
+      "precios": {}
+    },
+    "15166": {
+      "id": "15166",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática Modelo 2005",
+      "precios": {}
+    },
+    "15167": {
+      "id": "15167",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Avantgarde Automática Modelo 2007 500",
+      "precios": {}
+    },
+    "15168": {
+      "id": "15168",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Automática 500",
+      "precios": {}
+    },
+    "15169": {
+      "id": "15169",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Guard Automática",
+      "precios": {
+        "2014": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 45039.16,
+          "ars": 69000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15170": {
+      "id": "15170",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Automática Modelo 2005",
+      "precios": {}
+    },
+    "15171": {
+      "id": "15171",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Automática Modelo 2007 500",
+      "precios": {}
+    },
+    "15172": {
+      "id": "15172",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Elegance Automática Modelo 2009",
+      "precios": {}
+    },
+    "15173": {
+      "id": "15173",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Guard",
+      "precios": {
+        "2017": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15174": {
+      "id": "15174",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "Sport Coupé 500",
+      "precios": {}
+    },
+    "15175": {
+      "id": "15175",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "AMG Coupé",
+      "precios": {
+        "2021": {
+          "usd": 100522.19,
+          "ars": 154000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 108355.09,
+          "ars": 166000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 116187.99,
+          "ars": 178000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 125979.11,
+          "ars": 193000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 135770.23,
+          "ars": 208000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15176": {
+      "id": "15176",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "AMG 55",
+      "precios": {}
+    },
+    "15177": {
+      "id": "15177",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "AMG 63",
+      "precios": {
+        "2013": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15178": {
+      "id": "15178",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "AMG Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 71801.57,
+          "ars": 110000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 73107.05,
+          "ars": 112000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 74412.53,
+          "ars": 114000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 75718.02,
+          "ars": 116000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15179": {
+      "id": "15179",
+      "marcaId": "138",
+      "modeloId": "1544",
+      "marca": "MERCEDES BENZ",
+      "modelo": "E",
+      "version": "AMG S Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 120757.18,
+          "ars": 185000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 130548.3,
+          "ars": 200000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 140339.43,
+          "ars": 215000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 153394.26,
+          "ars": 235000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 166449.09,
+          "ars": 255000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 186031.33,
+          "ars": 285000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 205613.58,
+          "ars": 315000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15183": {
+      "id": "15183",
+      "marcaId": "138",
+      "modeloId": "1545",
+      "marca": "MERCEDES BENZ",
+      "modelo": "EQA",
+      "version": "4Matic",
+      "precios": {
+        "2023": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15184": {
+      "id": "15184",
+      "marcaId": "138",
+      "modeloId": "1545",
+      "marca": "MERCEDES BENZ",
+      "modelo": "EQA",
+      "version": "4Matic Modelo 2025",
+      "precios": {
+        "2025": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 71148.83,
+          "ars": 109000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15185": {
+      "id": "15185",
+      "marcaId": "138",
+      "modeloId": "1546",
+      "marca": "MERCEDES BENZ",
+      "modelo": "EQE",
+      "version": "Matic",
+      "precios": {
+        "2025": {
+          "usd": 127284.6,
+          "ars": 195000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 133812.01,
+          "ars": 205000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15186": {
+      "id": "15186",
+      "marcaId": "138",
+      "modeloId": "1547",
+      "marca": "MERCEDES BENZ",
+      "modelo": "G",
+      "version": "500",
+      "precios": {
+        "2017": {
+          "usd": 137075.72,
+          "ars": 210000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 146866.84,
+          "ars": 225000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 156657.96,
+          "ars": 240000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 169712.79,
+          "ars": 260000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 182767.62,
+          "ars": 280000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 195822.45,
+          "ars": 300000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 208877.28,
+          "ars": 320000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 221932.11,
+          "ars": 340000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 234986.95,
+          "ars": 360000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15187": {
+      "id": "15187",
+      "marcaId": "138",
+      "modeloId": "1547",
+      "marca": "MERCEDES BENZ",
+      "modelo": "G",
+      "version": "AMG Híbrido Liviano 4Matic",
+      "precios": {
+        "0": {
+          "usd": 354360.31,
+          "ars": 542880000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 274151.44,
+          "ars": 420000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 293733.68,
+          "ars": 450000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15203": {
+      "id": "15203",
+      "marcaId": "138",
+      "modeloId": "1549",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GL",
+      "version": "Sport",
+      "precios": {
+        "2013": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15204": {
+      "id": "15204",
+      "marcaId": "138",
+      "modeloId": "1550",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLA",
+      "version": "Progressive",
+      "precios": {
+        "2020": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 42428.2,
+          "ars": 65000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15205": {
+      "id": "15205",
+      "marcaId": "138",
+      "modeloId": "1550",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLA",
+      "version": "Progressive Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 66187.99,
+          "ars": 101400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15206": {
+      "id": "15206",
+      "marcaId": "138",
+      "modeloId": "1550",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLA",
+      "version": "Urban",
+      "precios": {
+        "2014": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15207": {
+      "id": "15207",
+      "marcaId": "138",
+      "modeloId": "1550",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLA",
+      "version": "AMG 4Matic 250",
+      "precios": {
+        "2016": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15208": {
+      "id": "15208",
+      "marcaId": "138",
+      "modeloId": "1550",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLA",
+      "version": "AMG Line Híbrido Liviano 4Matic Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 78101.83,
+          "ars": 119652000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15209": {
+      "id": "15209",
+      "marcaId": "138",
+      "modeloId": "1550",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLA",
+      "version": "Urban 4Matic",
+      "precios": {
+        "2014": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15210": {
+      "id": "15210",
+      "marcaId": "138",
+      "modeloId": "1550",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLA",
+      "version": "Urban AMG Line 4Matic",
+      "precios": {
+        "2020": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 41122.72,
+          "ars": 63000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15211": {
+      "id": "15211",
+      "marcaId": "138",
+      "modeloId": "1550",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLA",
+      "version": "AMG 4Matic 45",
+      "precios": {
+        "2017": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15212": {
+      "id": "15212",
+      "marcaId": "138",
+      "modeloId": "1551",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLB",
+      "version": "Advance",
+      "precios": {
+        "2020": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15213": {
+      "id": "15213",
+      "marcaId": "138",
+      "modeloId": "1551",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLB",
+      "version": "Advance Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 67613.58,
+          "ars": 103584000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 45039.16,
+          "ars": 69000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15214": {
+      "id": "15214",
+      "marcaId": "138",
+      "modeloId": "1551",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLB",
+      "version": "Progressive 4Matic",
+      "precios": {
+        "2020": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 45039.16,
+          "ars": 69000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15215": {
+      "id": "15215",
+      "marcaId": "138",
+      "modeloId": "1551",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLB",
+      "version": "Progressive 4Matic Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 78305.48,
+          "ars": 119964000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 51566.58,
+          "ars": 79000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 58093.99,
+          "ars": 89000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15216": {
+      "id": "15216",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "Avantgarde 4Matic Híbrido Liviano",
+      "precios": {
+        "0": {
+          "usd": 93070.5,
+          "ars": 142584000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 71801.57,
+          "ars": 110000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15217": {
+      "id": "15217",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "AMG Line 4Matic",
+      "precios": {
+        "2016": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15218": {
+      "id": "15218",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "AMG Line 4Matic Coupé",
+      "precios": {
+        "2017": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 65926.89,
+          "ars": 101000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 75065.27,
+          "ars": 115000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15219": {
+      "id": "15219",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "AMG Line 4Matic Coupé Híbrido Liviano",
+      "precios": {
+        "0": {
+          "usd": 117000,
+          "ars": 179244000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 78328.98,
+          "ars": 120000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 83550.91,
+          "ars": 128000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 90078.33,
+          "ars": 138000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15220": {
+      "id": "15220",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "AMG Line 4Matic Híbrido Liviano Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 106206.27,
+          "ars": 162708000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 71148.83,
+          "ars": 109000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 76370.76,
+          "ars": 117000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 82245.43,
+          "ars": 126000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15221": {
+      "id": "15221",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "OFF Road 4Matic Híbrido Liviano",
+      "precios": {
+        "2024": {
+          "usd": 73107.05,
+          "ars": 112000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 78328.98,
+          "ars": 120000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15222": {
+      "id": "15222",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "Urban 4Matic",
+      "precios": {
+        "2016": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15223": {
+      "id": "15223",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "Urban OFF Road 4Matic",
+      "precios": {
+        "2018": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 60704.96,
+          "ars": 93000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15224": {
+      "id": "15224",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "350E Urban 4Matic",
+      "precios": {
+        "2018": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15225": {
+      "id": "15225",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "AMG 4Matic",
+      "precios": {
+        "2017": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 63968.67,
+          "ars": 98000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 84856.4,
+          "ars": 130000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 92689.3,
+          "ars": 142000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15226": {
+      "id": "15226",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "AMG 4Matic Coupé",
+      "precios": {
+        "2017": {
+          "usd": 53524.8,
+          "ars": 82000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 63968.67,
+          "ars": 98000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 83550.91,
+          "ars": 128000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 91383.81,
+          "ars": 140000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 99216.71,
+          "ars": 152000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15227": {
+      "id": "15227",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "AMG 4Matic Coupé Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 146631.85,
+          "ars": 224640000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 110313.32,
+          "ars": 169000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 117493.47,
+          "ars": 180000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15228": {
+      "id": "15228",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "AMG 4Matic Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 137365.54,
+          "ars": 210444000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 103785.9,
+          "ars": 159000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 110966.06,
+          "ars": 170000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15229": {
+      "id": "15229",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "S AMG 4Matic",
+      "precios": {
+        "2020": {
+          "usd": 124020.89,
+          "ars": 190000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 137075.72,
+          "ars": 210000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 150130.55,
+          "ars": 230000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 163185.38,
+          "ars": 250000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 176240.21,
+          "ars": 270000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15230": {
+      "id": "15230",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "S AMG 4Matic Coupé",
+      "precios": {
+        "2020": {
+          "usd": 130548.3,
+          "ars": 200000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 143603.13,
+          "ars": 220000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 156657.96,
+          "ars": 240000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 169712.79,
+          "ars": 260000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 182767.62,
+          "ars": 280000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15231": {
+      "id": "15231",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "S AMG E Performance",
+      "precios": {
+        "0": {
+          "usd": 265770.23,
+          "ars": 407160000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 202349.87,
+          "ars": 310000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 215404.7,
+          "ars": 330000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15232": {
+      "id": "15232",
+      "marcaId": "138",
+      "modeloId": "1552",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLC",
+      "version": "S AMG E Performance Coupé",
+      "precios": {
+        "0": {
+          "usd": 274629.24,
+          "ars": 420732000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 208877.28,
+          "ars": 320000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 221932.11,
+          "ars": 340000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15233": {
+      "id": "15233",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "Sport 4Matic",
+      "precios": {
+        "2016": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 69190.6,
+          "ars": 106000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 75718.02,
+          "ars": 116000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15234": {
+      "id": "15234",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "Sport 4Matic Coupé",
+      "precios": {
+        "2016": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 63315.93,
+          "ars": 97000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 69190.6,
+          "ars": 106000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 75718.02,
+          "ars": 116000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 82245.43,
+          "ars": 126000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15235": {
+      "id": "15235",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "AMG Line 4Matic Híbrido Liviano",
+      "precios": {
+        "2020": {
+          "usd": 90078.33,
+          "ars": 138000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 95300.26,
+          "ars": 146000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 100522.19,
+          "ars": 154000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 105744.13,
+          "ars": 162000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 110966.06,
+          "ars": 170000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15236": {
+      "id": "15236",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "AMG Line 4Matic Híbrido Liviano Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 167913.84,
+          "ars": 257244000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 117493.47,
+          "ars": 180000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 127284.6,
+          "ars": 195000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 138381.2,
+          "ars": 212000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15237": {
+      "id": "15237",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "Guard 4Matic",
+      "precios": {
+        "2017": {
+          "usd": 79634.46,
+          "ars": 122000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 86161.88,
+          "ars": 132000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 93994.78,
+          "ars": 144000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 101827.68,
+          "ars": 156000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15238": {
+      "id": "15238",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "AMG 4Matic Coupé",
+      "precios": {
+        "2020": {
+          "usd": 120757.18,
+          "ars": 185000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 124020.89,
+          "ars": 190000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 127284.6,
+          "ars": 195000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 130548.3,
+          "ars": 200000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 135117.49,
+          "ars": 207000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 140339.43,
+          "ars": 215000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15239": {
+      "id": "15239",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "AMG 4Matic Coupé Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 183187.99,
+          "ars": 280644000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 146866.84,
+          "ars": 225000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 154699.74,
+          "ars": 237000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15240": {
+      "id": "15240",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "S AMG 4Matic",
+      "precios": {
+        "2017": {
+          "usd": 112271.54,
+          "ars": 172000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 116187.99,
+          "ars": 178000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 120104.44,
+          "ars": 184000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15241": {
+      "id": "15241",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "S AMG 4Matic Coupé",
+      "precios": {
+        "2017": {
+          "usd": 118798.96,
+          "ars": 182000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 122715.4,
+          "ars": 188000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 126631.85,
+          "ars": 194000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 130548.3,
+          "ars": 200000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 134464.75,
+          "ars": 206000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15242": {
+      "id": "15242",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "S 4MATIC+ AMG Coupé Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 274629.24,
+          "ars": 420732000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 212140.99,
+          "ars": 325000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 225195.82,
+          "ars": 345000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15243": {
+      "id": "15243",
+      "marcaId": "138",
+      "modeloId": "1553",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLE",
+      "version": "S 4MATIC+ AMG Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 265770.23,
+          "ars": 407160000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 205613.58,
+          "ars": 315000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 218668.41,
+          "ars": 335000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15244": {
+      "id": "15244",
+      "marcaId": "138",
+      "modeloId": "1554",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLK",
+      "version": "Nature 4Matic 280",
+      "precios": {}
+    },
+    "15245": {
+      "id": "15245",
+      "marcaId": "138",
+      "modeloId": "1554",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLK",
+      "version": "Sport 4Matic 280",
+      "precios": {}
+    },
+    "15246": {
+      "id": "15246",
+      "marcaId": "138",
+      "modeloId": "1554",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLK",
+      "version": "Blueefficiency 4Matic",
+      "precios": {
+        "2013": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15247": {
+      "id": "15247",
+      "marcaId": "138",
+      "modeloId": "1554",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLK",
+      "version": "Blueefficiency SPO 4Matic",
+      "precios": {
+        "2013": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15248": {
+      "id": "15248",
+      "marcaId": "138",
+      "modeloId": "1554",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLK",
+      "version": "City 4Matic",
+      "precios": {
+        "2013": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15249": {
+      "id": "15249",
+      "marcaId": "138",
+      "modeloId": "1554",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLK",
+      "version": "Nature 4Matic 300",
+      "precios": {}
+    },
+    "15250": {
+      "id": "15250",
+      "marcaId": "138",
+      "modeloId": "1554",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLK",
+      "version": "Sport 4Matic 300",
+      "precios": {
+        "2013": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15251": {
+      "id": "15251",
+      "marcaId": "138",
+      "modeloId": "1555",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GLS",
+      "version": "4Matic",
+      "precios": {
+        "2017": {
+          "usd": 78328.98,
+          "ars": 120000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 84856.4,
+          "ars": 130000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 91383.81,
+          "ars": 140000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 97911.23,
+          "ars": 150000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15252": {
+      "id": "15252",
+      "marcaId": "138",
+      "modeloId": "1556",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GT",
+      "version": "63S AMG",
+      "precios": {
+        "2019": {
+          "usd": 283942.56,
+          "ars": 435000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 296997.39,
+          "ars": 455000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 310052.22,
+          "ars": 475000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 323107.05,
+          "ars": 495000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15253": {
+      "id": "15253",
+      "marcaId": "138",
+      "modeloId": "1556",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GT",
+      "version": "S AMG E Performance",
+      "precios": {
+        "0": {
+          "usd": 367699.74,
+          "ars": 563316000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 293733.68,
+          "ars": 450000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 303524.8,
+          "ars": 465000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 313315.93,
+          "ars": 480000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15254": {
+      "id": "15254",
+      "marcaId": "138",
+      "modeloId": "1556",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GT",
+      "version": "C AMC Roadster",
+      "precios": {
+        "2019": {
+          "usd": 280678.85,
+          "ars": 430000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 293733.68,
+          "ars": 450000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 306788.51,
+          "ars": 470000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15255": {
+      "id": "15255",
+      "marcaId": "138",
+      "modeloId": "1556",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GT",
+      "version": "R AMG",
+      "precios": {
+        "2019": {
+          "usd": 283942.56,
+          "ars": 435000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 296997.39,
+          "ars": 455000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 310052.22,
+          "ars": 475000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 323107.05,
+          "ars": 495000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15256": {
+      "id": "15256",
+      "marcaId": "138",
+      "modeloId": "1556",
+      "marca": "MERCEDES BENZ",
+      "modelo": "GT",
+      "version": "S AMG",
+      "precios": {
+        "2015": {
+          "usd": 225195.82,
+          "ars": 345000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 234986.95,
+          "ars": 360000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 244778.07,
+          "ars": 375000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 254569.19,
+          "ars": 390000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 264360.31,
+          "ars": 405000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 274151.44,
+          "ars": 420000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15257": {
+      "id": "15257",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "230",
+      "precios": {}
+    },
+    "15258": {
+      "id": "15258",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "270 CDI Luxury",
+      "precios": {}
+    },
+    "15259": {
+      "id": "15259",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "270 CDI Automática Luxury",
+      "precios": {}
+    },
+    "15260": {
+      "id": "15260",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "270 CDI Automática Luxury Modelo 2002",
+      "precios": {}
+    },
+    "15261": {
+      "id": "15261",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "270 CDI Luxury Modelo 2002",
+      "precios": {}
+    },
+    "15262": {
+      "id": "15262",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Automática",
+      "precios": {}
+    },
+    "15263": {
+      "id": "15263",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Automática Luxury 320",
+      "precios": {}
+    },
+    "15264": {
+      "id": "15264",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "320 CDI Modelo 2006",
+      "precios": {}
+    },
+    "15265": {
+      "id": "15265",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "320 CDI Sport Modelo 2006",
+      "precios": {}
+    },
+    "15266": {
+      "id": "15266",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Automática Blueefficiency Sport",
+      "precios": {
+        "2013": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15267": {
+      "id": "15267",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Modelo 2006 350",
+      "precios": {}
+    },
+    "15268": {
+      "id": "15268",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Automática Luxury Modelo 2002 350",
+      "precios": {}
+    },
+    "15269": {
+      "id": "15269",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "350 CDI Sport",
+      "precios": {}
+    },
+    "15270": {
+      "id": "15270",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Sport Modelo 2006 350",
+      "precios": {}
+    },
+    "15271": {
+      "id": "15271",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "400 CDI Automática Luxury Modelo 2002",
+      "precios": {}
+    },
+    "15272": {
+      "id": "15272",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Automática Sport",
+      "precios": {
+        "2015": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15273": {
+      "id": "15273",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Automática Luxury 430",
+      "precios": {}
+    },
+    "15274": {
+      "id": "15274",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Modelo 2006 500",
+      "precios": {}
+    },
+    "15275": {
+      "id": "15275",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Automática Luxury Modelo 2002 500",
+      "precios": {}
+    },
+    "15276": {
+      "id": "15276",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "Sport Modelo 2006 500",
+      "precios": {}
+    },
+    "15277": {
+      "id": "15277",
+      "marcaId": "138",
+      "modeloId": "1557",
+      "marca": "MERCEDES BENZ",
+      "modelo": "ML",
+      "version": "AMG",
+      "precios": {}
+    },
+    "15278": {
+      "id": "15278",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "Turbodiésel",
+      "precios": {}
+    },
+    "15279": {
+      "id": "15279",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "320",
+      "precios": {}
+    },
+    "15280": {
+      "id": "15280",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "18V V6 Modelo 2099",
+      "precios": {}
+    },
+    "15281": {
+      "id": "15281",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "18V Largo V6 Modelo 2099",
+      "precios": {}
+    },
+    "15282": {
+      "id": "15282",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "400 CDI",
+      "precios": {}
+    },
+    "15283": {
+      "id": "15283",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "420",
+      "precios": {}
+    },
+    "15284": {
+      "id": "15284",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "500",
+      "precios": {}
+    },
+    "15285": {
+      "id": "15285",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "Amg-Line Mild HYBRID 4Matic Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 182767.62,
+          "ars": 280000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 195822.45,
+          "ars": 300000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 208877.28,
+          "ars": 320000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15286": {
+      "id": "15286",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "Blueefficiency Automática",
+      "precios": {
+        "2013": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15287": {
+      "id": "15287",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "Coupé 500",
+      "precios": {}
+    },
+    "15288": {
+      "id": "15288",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "L/N",
+      "precios": {}
+    },
+    "15289": {
+      "id": "15289",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "L/N Guard",
+      "precios": {}
+    },
+    "15290": {
+      "id": "15290",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "L/N Largo",
+      "precios": {}
+    },
+    "15291": {
+      "id": "15291",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "Largo 4 Asientos",
+      "precios": {
+        "2014": {
+          "usd": 35574.41,
+          "ars": 54500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 40469.97,
+          "ars": 62000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15292": {
+      "id": "15292",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "Largo 5 Asientos",
+      "precios": {
+        "2014": {
+          "usd": 35704.96,
+          "ars": 54700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 37989.56,
+          "ars": 58200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 40600.52,
+          "ars": 62200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 43211.49,
+          "ars": 66200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 45822.45,
+          "ars": 70200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 49086.16,
+          "ars": 75200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15293": {
+      "id": "15293",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "600",
+      "precios": {}
+    },
+    "15294": {
+      "id": "15294",
+      "marcaId": "138",
+      "modeloId": "1558",
+      "marca": "MERCEDES BENZ",
+      "modelo": "S",
+      "version": "Coupé 600",
+      "precios": {}
+    },
+    "15296": {
+      "id": "15296",
+      "marcaId": "138",
+      "modeloId": "1560",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SL",
+      "version": "Roadster 320",
+      "precios": {}
+    },
+    "15297": {
+      "id": "15297",
+      "marcaId": "138",
+      "modeloId": "1560",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SL",
+      "version": "Roadster 500",
+      "precios": {}
+    },
+    "15298": {
+      "id": "15298",
+      "marcaId": "138",
+      "modeloId": "1560",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SL",
+      "version": "AMG Roadster 55",
+      "precios": {}
+    },
+    "15299": {
+      "id": "15299",
+      "marcaId": "138",
+      "modeloId": "1560",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SL",
+      "version": "Roadster 600",
+      "precios": {}
+    },
+    "15300": {
+      "id": "15300",
+      "marcaId": "138",
+      "modeloId": "1560",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SL",
+      "version": "AMG Roadster 63",
+      "precios": {
+        "2018": {
+          "usd": 117493.47,
+          "ars": 180000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 124020.89,
+          "ars": 190000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 130548.3,
+          "ars": 200000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15301": {
+      "id": "15301",
+      "marcaId": "138",
+      "modeloId": "1560",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SL",
+      "version": "AMG S E Performance Roadster",
+      "precios": {
+        "0": {
+          "usd": 363219.32,
+          "ars": 556452000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 267624.02,
+          "ars": 410000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 280678.85,
+          "ars": 430000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 293733.68,
+          "ars": 450000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15302": {
+      "id": "15302",
+      "marcaId": "138",
+      "modeloId": "1560",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SL",
+      "version": "AMG Roadster 65",
+      "precios": {}
+    },
+    "15303": {
+      "id": "15303",
+      "marcaId": "138",
+      "modeloId": "1561",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLC",
+      "version": "AMG",
+      "precios": {
+        "2017": {
+          "usd": 79634.46,
+          "ars": 122000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 82245.43,
+          "ars": 126000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 84856.4,
+          "ars": 130000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15304": {
+      "id": "15304",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Blueefficiency Automática 200",
+      "precios": {}
+    },
+    "15305": {
+      "id": "15305",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Kompresor 200",
+      "precios": {}
+    },
+    "15306": {
+      "id": "15306",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Kompresor Automática 200",
+      "precios": {}
+    },
+    "15307": {
+      "id": "15307",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Kompresor 230",
+      "precios": {}
+    },
+    "15308": {
+      "id": "15308",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Kompresor Automática 230",
+      "precios": {}
+    },
+    "15309": {
+      "id": "15309",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Blueefficiency Automática 250",
+      "precios": {
+        "2013": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 43080.94,
+          "ars": 66000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15310": {
+      "id": "15310",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Blueefficiency City Automática",
+      "precios": {}
+    },
+    "15311": {
+      "id": "15311",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Automática 320",
+      "precios": {}
+    },
+    "15312": {
+      "id": "15312",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Automática 350",
+      "precios": {}
+    },
+    "15313": {
+      "id": "15313",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "AMG Edition Automática",
+      "precios": {}
+    },
+    "15314": {
+      "id": "15314",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "Blueefficiency Sport Automática",
+      "precios": {
+        "2013": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15315": {
+      "id": "15315",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "AMG Automática",
+      "precios": {}
+    },
+    "15316": {
+      "id": "15316",
+      "marcaId": "138",
+      "modeloId": "1562",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLK",
+      "version": "AMG Automática Modelo 2014",
+      "precios": {
+        "2013": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 52872.06,
+          "ars": 81000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "15317": {
+      "id": "15317",
+      "marcaId": "138",
+      "modeloId": "1563",
+      "marca": "MERCEDES BENZ",
+      "modelo": "SLS",
+      "version": "AMG",
+      "precios": {
+        "2013": {
+          "usd": 189295.04,
+          "ars": 290000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 192558.75,
+          "ars": 295000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 195822.45,
+          "ars": 300000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "131666": {
       "id": "131666",
       "marcaId": "106",
@@ -86530,6 +92308,21 @@
         "2026": {
           "usd": 20234.99,
           "ars": 31000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "339450": {
+      "id": "339450",
+      "marcaId": "138",
+      "modeloId": "1541",
+      "marca": "MERCEDES BENZ",
+      "modelo": "CLE",
+      "version": "4Matic Cabriolet",
+      "precios": {
+        "0": {
+          "usd": 132375.98,
+          "ars": 202800000,
           "cotizacion": 1532
         }
       }
