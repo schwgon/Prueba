@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-17T13:02:27.177Z",
+  "actualizado": "2026-09-17T15:05:58.939Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 4530,
-  "versionesConValuacion": 2275,
+  "versionesProcesadas": 4879,
+  "versionesConValuacion": 2458,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -73852,6 +73852,4765 @@
         }
       }
     },
+    "14655": {
+      "id": "14655",
+      "marcaId": "128",
+      "modeloId": "1480",
+      "marca": "JETOUR",
+      "modelo": "DASHING",
+      "version": "6DCT 1.5",
+      "precios": {
+        "0": {
+          "usd": 29860.97,
+          "ars": 45747000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14656": {
+      "id": "14656",
+      "marcaId": "128",
+      "modeloId": "1480",
+      "marca": "JETOUR",
+      "modelo": "DASHING",
+      "version": "6DCT+ 1.5",
+      "precios": {
+        "0": {
+          "usd": 33855.74,
+          "ars": 51867000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14657": {
+      "id": "14657",
+      "marcaId": "128",
+      "modeloId": "1480",
+      "marca": "JETOUR",
+      "modelo": "DASHING",
+      "version": "7DCT 1.6",
+      "precios": {
+        "0": {
+          "usd": 38449.74,
+          "ars": 58905000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14658": {
+      "id": "14658",
+      "marcaId": "128",
+      "modeloId": "1481",
+      "marca": "JETOUR",
+      "modelo": "T1",
+      "version": "I-Dm Phev 1.5 4x2",
+      "precios": {
+        "0": {
+          "usd": 35753.26,
+          "ars": 54774000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14659": {
+      "id": "14659",
+      "marcaId": "128",
+      "modeloId": "1481",
+      "marca": "JETOUR",
+      "modelo": "T1",
+      "version": "2.0 Automática 4x4",
+      "precios": {
+        "0": {
+          "usd": 51832.25,
+          "ars": 79407000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14660": {
+      "id": "14660",
+      "marcaId": "128",
+      "modeloId": "1482",
+      "marca": "JETOUR",
+      "modelo": "T2",
+      "version": "7DCT 2.0 4x4",
+      "precios": {
+        "0": {
+          "usd": 56426.24,
+          "ars": 86445000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14662": {
+      "id": "14662",
+      "marcaId": "128",
+      "modeloId": "1484",
+      "marca": "JETOUR",
+      "modelo": "X70",
+      "version": "1.5",
+      "precios": {
+        "0": {
+          "usd": 25098.56,
+          "ars": 38451000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 20365.54,
+          "ars": 31200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14663": {
+      "id": "14663",
+      "marcaId": "128",
+      "modeloId": "1484",
+      "marca": "JETOUR",
+      "modelo": "X70",
+      "version": "1.5 Automática",
+      "precios": {
+        "0": {
+          "usd": 31458.88,
+          "ars": 48195000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 21671.02,
+          "ars": 33200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14664": {
+      "id": "14664",
+      "marcaId": "128",
+      "modeloId": "1484",
+      "marca": "JETOUR",
+      "modelo": "X70",
+      "version": "Luxury 1.5",
+      "precios": {
+        "2021": {
+          "usd": 15861.62,
+          "ars": 24300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17167.1,
+          "ars": 26300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 17819.84,
+          "ars": 27300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14665": {
+      "id": "14665",
+      "marcaId": "128",
+      "modeloId": "1484",
+      "marca": "JETOUR",
+      "modelo": "X70",
+      "version": "Luxury 1.5 Automática",
+      "precios": {
+        "2021": {
+          "usd": 16187.99,
+          "ars": 24800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16840.73,
+          "ars": 25800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18146.21,
+          "ars": 27800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14666": {
+      "id": "14666",
+      "marcaId": "128",
+      "modeloId": "1484",
+      "marca": "JETOUR",
+      "modelo": "X70",
+      "version": "DCT7 Plus 1.6",
+      "precios": {
+        "0": {
+          "usd": 37850.52,
+          "ars": 57987000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14675": {
+      "id": "14675",
+      "marcaId": "130",
+      "modeloId": "1488",
+      "marca": "JMEV",
+      "modelo": "EASY",
+      "version": "Variante · Ref. V-14675",
+      "precios": {
+        "0": {
+          "usd": 16877.94,
+          "ars": 25857000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14676": {
+      "id": "14676",
+      "marcaId": "131",
+      "modeloId": "1489",
+      "marca": "KAIYI",
+      "modelo": "X3",
+      "version": "Luxury",
+      "precios": {
+        "0": {
+          "usd": 21971.28,
+          "ars": 33660000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14677": {
+      "id": "14677",
+      "marcaId": "131",
+      "modeloId": "1489",
+      "marca": "KAIYI",
+      "modelo": "X3",
+      "version": "PRO Turbo Luxury",
+      "precios": {
+        "0": {
+          "usd": 25966.06,
+          "ars": 39780000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14678": {
+      "id": "14678",
+      "marcaId": "131",
+      "modeloId": "1490",
+      "marca": "KAIYI",
+      "modelo": "X7",
+      "version": "Hibrid 1.5",
+      "precios": {
+        "0": {
+          "usd": 34454.96,
+          "ars": 52785000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14679": {
+      "id": "14679",
+      "marcaId": "131",
+      "modeloId": "1490",
+      "marca": "KAIYI",
+      "modelo": "X7",
+      "version": "Luxury 2.0 Turbo",
+      "precios": {
+        "0": {
+          "usd": 37950.39,
+          "ars": 58140000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14680": {
+      "id": "14680",
+      "marcaId": "132",
+      "modeloId": "1491",
+      "marca": "KAMA",
+      "modelo": "M3",
+      "version": "Cargo",
+      "precios": {
+        "0": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14681": {
+      "id": "14681",
+      "marcaId": "132",
+      "modeloId": "1491",
+      "marca": "KAMA",
+      "modelo": "M3",
+      "version": "Chasis",
+      "precios": {
+        "0": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14682": {
+      "id": "14682",
+      "marcaId": "132",
+      "modeloId": "1492",
+      "marca": "KAMA",
+      "modelo": "X1",
+      "version": "Refrigerado Furgón",
+      "precios": {
+        "0": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14683": {
+      "id": "14683",
+      "marcaId": "132",
+      "modeloId": "1492",
+      "marca": "KAMA",
+      "modelo": "X1",
+      "version": "Cargo 2.3 Turbodiésel",
+      "precios": {
+        "0": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14684": {
+      "id": "14684",
+      "marcaId": "132",
+      "modeloId": "1492",
+      "marca": "KAMA",
+      "modelo": "X1",
+      "version": "Chasis 2.3 Turbodiésel",
+      "precios": {
+        "0": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17754.57,
+          "ars": 27200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14685": {
+      "id": "14685",
+      "marcaId": "133",
+      "modeloId": "1493",
+      "marca": "KIA",
+      "modelo": "AVELLA",
+      "version": "Glxi",
+      "precios": {}
+    },
+    "14686": {
+      "id": "14686",
+      "marcaId": "133",
+      "modeloId": "1494",
+      "marca": "KIA",
+      "modelo": "BESTA",
+      "version": "12C",
+      "precios": {}
+    },
+    "14687": {
+      "id": "14687",
+      "marcaId": "133",
+      "modeloId": "1494",
+      "marca": "KIA",
+      "modelo": "BESTA",
+      "version": "12C Full",
+      "precios": {}
+    },
+    "14688": {
+      "id": "14688",
+      "marcaId": "133",
+      "modeloId": "1494",
+      "marca": "KIA",
+      "modelo": "BESTA",
+      "version": "Full 4x4",
+      "precios": {}
+    },
+    "14689": {
+      "id": "14689",
+      "marcaId": "133",
+      "modeloId": "1494",
+      "marca": "KIA",
+      "modelo": "BESTA",
+      "version": "9C EST 4x4",
+      "precios": {}
+    },
+    "14690": {
+      "id": "14690",
+      "marcaId": "133",
+      "modeloId": "1494",
+      "marca": "KIA",
+      "modelo": "BESTA",
+      "version": "9C EST Aire Dirección",
+      "precios": {}
+    },
+    "14691": {
+      "id": "14691",
+      "marcaId": "133",
+      "modeloId": "1494",
+      "marca": "KIA",
+      "modelo": "BESTA",
+      "version": "Ambulancia",
+      "precios": {}
+    },
+    "14692": {
+      "id": "14692",
+      "marcaId": "133",
+      "modeloId": "1494",
+      "marca": "KIA",
+      "modelo": "BESTA",
+      "version": "Furgón",
+      "precios": {}
+    },
+    "14693": {
+      "id": "14693",
+      "marcaId": "133",
+      "modeloId": "1495",
+      "marca": "KIA",
+      "modelo": "CARENS",
+      "version": "LS",
+      "precios": {}
+    },
+    "14694": {
+      "id": "14694",
+      "marcaId": "133",
+      "modeloId": "1495",
+      "marca": "KIA",
+      "modelo": "CARENS",
+      "version": "Automática LS",
+      "precios": {}
+    },
+    "14695": {
+      "id": "14695",
+      "marcaId": "133",
+      "modeloId": "1495",
+      "marca": "KIA",
+      "modelo": "CARENS",
+      "version": "LX",
+      "precios": {}
+    },
+    "14696": {
+      "id": "14696",
+      "marcaId": "133",
+      "modeloId": "1495",
+      "marca": "KIA",
+      "modelo": "CARENS",
+      "version": "Turbodiésel LX",
+      "precios": {}
+    },
+    "14697": {
+      "id": "14697",
+      "marcaId": "133",
+      "modeloId": "1495",
+      "marca": "KIA",
+      "modelo": "CARENS",
+      "version": "Turbodiésel Automática LX",
+      "precios": {}
+    },
+    "14698": {
+      "id": "14698",
+      "marcaId": "133",
+      "modeloId": "1495",
+      "marca": "KIA",
+      "modelo": "CARENS",
+      "version": "RS",
+      "precios": {}
+    },
+    "14699": {
+      "id": "14699",
+      "marcaId": "133",
+      "modeloId": "1495",
+      "marca": "KIA",
+      "modelo": "CARENS",
+      "version": "Automática RS",
+      "precios": {}
+    },
+    "14700": {
+      "id": "14700",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX Full 2.2 CRDi Automática",
+      "precios": {
+        "2016": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14701": {
+      "id": "14701",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX Premium 2.2 CRDi Automática",
+      "precios": {
+        "2016": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14702": {
+      "id": "14702",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX Premium 2.2 CRDi Automática Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14703": {
+      "id": "14703",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX 2.2 CRDi Automática Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 32767.62,
+          "ars": 50200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 35378.59,
+          "ars": 54200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 37989.56,
+          "ars": 58200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14704": {
+      "id": "14704",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX Premium 2.2 CRDi Automática Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 34073.11,
+          "ars": 52200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 36684.07,
+          "ars": 56200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 39295.04,
+          "ars": 60200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14705": {
+      "id": "14705",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX 2.2 CRDi Automática Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 64915.14,
+          "ars": 99450000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 53524.8,
+          "ars": 82000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 60052.22,
+          "ars": 92000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14706": {
+      "id": "14706",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "SX 2.2 CRDi Automática Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 49934.73,
+          "ars": 76500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 53198.43,
+          "ars": 81500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 56462.14,
+          "ars": 86500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14707": {
+      "id": "14707",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "SX 2.2 CRDi Automática Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 74902.09,
+          "ars": 114750000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 61031.33,
+          "ars": 93500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 64295.04,
+          "ars": 98500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 67558.75,
+          "ars": 103500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14708": {
+      "id": "14708",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "GS 2.5 V6",
+      "precios": {}
+    },
+    "14709": {
+      "id": "14709",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "GS 2.5 V6 Automática",
+      "precios": {}
+    },
+    "14710": {
+      "id": "14710",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX Full 2.7 Automática",
+      "precios": {}
+    },
+    "14711": {
+      "id": "14711",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX 2.9 CRDi",
+      "precios": {}
+    },
+    "14712": {
+      "id": "14712",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX Short Body 2.9 CRDi",
+      "precios": {}
+    },
+    "14713": {
+      "id": "14713",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX Short Body F. 2.9 CRDi",
+      "precios": {}
+    },
+    "14714": {
+      "id": "14714",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "GS LS Plus 2.9 Turbodiésel",
+      "precios": {}
+    },
+    "14715": {
+      "id": "14715",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "GS LS Plus 2.9 Turbodiésel Automática",
+      "precios": {}
+    },
+    "14716": {
+      "id": "14716",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "LS 2.9 Turbodiésel",
+      "precios": {}
+    },
+    "14717": {
+      "id": "14717",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "LS 2.9 Turbodiésel Automática",
+      "precios": {}
+    },
+    "14718": {
+      "id": "14718",
+      "marcaId": "133",
+      "modeloId": "1496",
+      "marca": "KIA",
+      "modelo": "CARNIVAL",
+      "version": "EX 3.8 V6",
+      "precios": {}
+    },
+    "14719": {
+      "id": "14719",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "EX 1.6 Automática 4 Puertas Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14720": {
+      "id": "14720",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "EX 1.6 CRDi 4 Puertas",
+      "precios": {}
+    },
+    "14721": {
+      "id": "14721",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "EX Full 1.6 CRDi 4 Puertas",
+      "precios": {}
+    },
+    "14722": {
+      "id": "14722",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "EX 1.6 4 Puertas Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14723": {
+      "id": "14723",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "EX 1.6 Automática 5 Puertas Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14724": {
+      "id": "14724",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "GT 1.6 Automática 4 Puertas",
+      "precios": {
+        "2024": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14725": {
+      "id": "14725",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "SX 1.6 Automática 4 Puertas Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14726": {
+      "id": "14726",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "EX 2.0 Automática 4 Puertas Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 16840.73,
+          "ars": 25800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18146.21,
+          "ars": 27800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14727": {
+      "id": "14727",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "LX 2.0 CRDi 4 Puertas",
+      "precios": {}
+    },
+    "14728": {
+      "id": "14728",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "SX 2.0 Automática 4 Puertas Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14729": {
+      "id": "14729",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "SX 2.0 Automática 4 Puertas Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14730": {
+      "id": "14730",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "SX Plus 2.0 Automática 4 Puertas",
+      "precios": {
+        "2022": {
+          "usd": 22356.4,
+          "ars": 34250000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25293.73,
+          "ars": 38750000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14731": {
+      "id": "14731",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "SX 2.0 Automática 5 Puertas Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14732": {
+      "id": "14732",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Forte EX 1.6",
+      "precios": {
+        "2013": {
+          "usd": 8453,
+          "ars": 12950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14733": {
+      "id": "14733",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Forte EX Full 1.6",
+      "precios": {}
+    },
+    "14734": {
+      "id": "14734",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Forte EX Premium 1.6",
+      "precios": {}
+    },
+    "14735": {
+      "id": "14735",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Forte EX Premium Plus 1.6",
+      "precios": {}
+    },
+    "14736": {
+      "id": "14736",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Forte EX Full 2.0",
+      "precios": {}
+    },
+    "14737": {
+      "id": "14737",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Forte EX Full Premium 2.0",
+      "precios": {}
+    },
+    "14738": {
+      "id": "14738",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Forte SX Elegance Aut. 2.0",
+      "precios": {
+        "2013": {
+          "usd": 9366.84,
+          "ars": 14350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14739": {
+      "id": "14739",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Koup 1.6",
+      "precios": {}
+    },
+    "14740": {
+      "id": "14740",
+      "marcaId": "133",
+      "modeloId": "1497",
+      "marca": "KIA",
+      "modelo": "CERATO",
+      "version": "Koup 2.0",
+      "precios": {
+        "2013": {
+          "usd": 10868.15,
+          "ars": 16650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14741": {
+      "id": "14741",
+      "marcaId": "133",
+      "modeloId": "1498",
+      "marca": "KIA",
+      "modelo": "CERES",
+      "version": "Diésel 4x4",
+      "precios": {}
+    },
+    "14742": {
+      "id": "14742",
+      "marcaId": "133",
+      "modeloId": "1499",
+      "marca": "KIA",
+      "modelo": "CLARUS",
+      "version": "2.0",
+      "precios": {}
+    },
+    "14743": {
+      "id": "14743",
+      "marcaId": "133",
+      "modeloId": "1500",
+      "marca": "KIA",
+      "modelo": "GRAND SPORTAGE",
+      "version": "2.0",
+      "precios": {}
+    },
+    "14744": {
+      "id": "14744",
+      "marcaId": "133",
+      "modeloId": "1500",
+      "marca": "KIA",
+      "modelo": "GRAND SPORTAGE",
+      "version": "Turbodiésel",
+      "precios": {}
+    },
+    "14745": {
+      "id": "14745",
+      "marcaId": "133",
+      "modeloId": "1500",
+      "marca": "KIA",
+      "modelo": "GRAND SPORTAGE",
+      "version": "Turbodiésel ABS",
+      "precios": {}
+    },
+    "14746": {
+      "id": "14746",
+      "marcaId": "133",
+      "modeloId": "1500",
+      "marca": "KIA",
+      "modelo": "GRAND SPORTAGE",
+      "version": "Turbodiésel Automática ABS",
+      "precios": {}
+    },
+    "14747": {
+      "id": "14747",
+      "marcaId": "133",
+      "modeloId": "1501",
+      "marca": "KIA",
+      "modelo": "K3",
+      "version": "Cross EX",
+      "precios": {
+        "0": {
+          "usd": 24967.36,
+          "ars": 38250000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14748": {
+      "id": "14748",
+      "marcaId": "133",
+      "modeloId": "1501",
+      "marca": "KIA",
+      "modelo": "K3",
+      "version": "Cross Gt-Line",
+      "precios": {
+        "0": {
+          "usd": 28462.79,
+          "ars": 43605000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25326.37,
+          "ars": 38800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26631.85,
+          "ars": 40800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14749": {
+      "id": "14749",
+      "marcaId": "133",
+      "modeloId": "1501",
+      "marca": "KIA",
+      "modelo": "K3",
+      "version": "EX",
+      "precios": {
+        "0": {
+          "usd": 24967.36,
+          "ars": 38250000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14750": {
+      "id": "14750",
+      "marcaId": "133",
+      "modeloId": "1501",
+      "marca": "KIA",
+      "modelo": "K3",
+      "version": "Gt-Line",
+      "precios": {
+        "0": {
+          "usd": 28462.79,
+          "ars": 43605000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25000,
+          "ars": 38300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26305.48,
+          "ars": 40300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14751": {
+      "id": "14751",
+      "marcaId": "133",
+      "modeloId": "1502",
+      "marca": "KIA",
+      "modelo": "K4",
+      "version": "EX",
+      "precios": {
+        "0": {
+          "usd": 32956.92,
+          "ars": 50490000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14752": {
+      "id": "14752",
+      "marcaId": "133",
+      "modeloId": "1502",
+      "marca": "KIA",
+      "modelo": "K4",
+      "version": "Gt-Line",
+      "precios": {
+        "0": {
+          "usd": 37950.39,
+          "ars": 58140000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14753": {
+      "id": "14753",
+      "marcaId": "133",
+      "modeloId": "1503",
+      "marca": "KIA",
+      "modelo": "MAGENTIS",
+      "version": "2.0 EX",
+      "precios": {}
+    },
+    "14754": {
+      "id": "14754",
+      "marcaId": "133",
+      "modeloId": "1503",
+      "marca": "KIA",
+      "modelo": "MAGENTIS",
+      "version": "2.7 Automática EX",
+      "precios": {}
+    },
+    "14755": {
+      "id": "14755",
+      "marcaId": "133",
+      "modeloId": "1504",
+      "marca": "KIA",
+      "modelo": "MOHAVE",
+      "version": "EX",
+      "precios": {}
+    },
+    "14756": {
+      "id": "14756",
+      "marcaId": "133",
+      "modeloId": "1505",
+      "marca": "KIA",
+      "modelo": "OPIRUS",
+      "version": "3.5 GL",
+      "precios": {}
+    },
+    "14757": {
+      "id": "14757",
+      "marcaId": "133",
+      "modeloId": "1505",
+      "marca": "KIA",
+      "modelo": "OPIRUS",
+      "version": "3.8 GL",
+      "precios": {}
+    },
+    "14758": {
+      "id": "14758",
+      "marcaId": "133",
+      "modeloId": "1506",
+      "marca": "KIA",
+      "modelo": "PICANTO",
+      "version": "1.1 EX",
+      "precios": {}
+    },
+    "14759": {
+      "id": "14759",
+      "marcaId": "133",
+      "modeloId": "1506",
+      "marca": "KIA",
+      "modelo": "PICANTO",
+      "version": "1.1 Automática EX",
+      "precios": {}
+    },
+    "14760": {
+      "id": "14760",
+      "marcaId": "133",
+      "modeloId": "1506",
+      "marca": "KIA",
+      "modelo": "PICANTO",
+      "version": "1.1 EX Base",
+      "precios": {}
+    },
+    "14761": {
+      "id": "14761",
+      "marcaId": "133",
+      "modeloId": "1506",
+      "marca": "KIA",
+      "modelo": "PICANTO",
+      "version": "1.1 Automática EX Base",
+      "precios": {}
+    },
+    "14762": {
+      "id": "14762",
+      "marcaId": "133",
+      "modeloId": "1506",
+      "marca": "KIA",
+      "modelo": "PICANTO",
+      "version": "1.2 EX",
+      "precios": {
+        "2013": {
+          "usd": 8583.55,
+          "ars": 13150000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9562.66,
+          "ars": 14650000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10215.4,
+          "ars": 15650000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10868.15,
+          "ars": 16650000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11520.89,
+          "ars": 17650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14763": {
+      "id": "14763",
+      "marcaId": "133",
+      "modeloId": "1506",
+      "marca": "KIA",
+      "modelo": "PICANTO",
+      "version": "1.2 Automática EX",
+      "precios": {
+        "2013": {
+          "usd": 8909.92,
+          "ars": 13650000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9889.03,
+          "ars": 15150000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10541.78,
+          "ars": 16150000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11194.52,
+          "ars": 17150000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11847.26,
+          "ars": 18150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14764": {
+      "id": "14764",
+      "marcaId": "133",
+      "modeloId": "1506",
+      "marca": "KIA",
+      "modelo": "PICANTO",
+      "version": "1.2 Automática EX Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14621.41,
+          "ars": 22400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15633.16,
+          "ars": 23950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14765": {
+      "id": "14765",
+      "marcaId": "133",
+      "modeloId": "1507",
+      "marca": "KIA",
+      "modelo": "PREGIO",
+      "version": "Furgón",
+      "precios": {}
+    },
+    "14766": {
+      "id": "14766",
+      "marcaId": "133",
+      "modeloId": "1507",
+      "marca": "KIA",
+      "modelo": "PREGIO",
+      "version": "Aire Furgón",
+      "precios": {}
+    },
+    "14767": {
+      "id": "14767",
+      "marcaId": "133",
+      "modeloId": "1507",
+      "marca": "KIA",
+      "modelo": "PREGIO",
+      "version": "Full Minibús",
+      "precios": {}
+    },
+    "14768": {
+      "id": "14768",
+      "marcaId": "133",
+      "modeloId": "1507",
+      "marca": "KIA",
+      "modelo": "PREGIO",
+      "version": "STD Minibús",
+      "precios": {}
+    },
+    "14769": {
+      "id": "14769",
+      "marcaId": "133",
+      "modeloId": "1508",
+      "marca": "KIA",
+      "modelo": "PRIDE",
+      "version": "GLX",
+      "precios": {}
+    },
+    "14770": {
+      "id": "14770",
+      "marcaId": "133",
+      "modeloId": "1508",
+      "marca": "KIA",
+      "modelo": "PRIDE",
+      "version": "POP",
+      "precios": {}
+    },
+    "14771": {
+      "id": "14771",
+      "marcaId": "133",
+      "modeloId": "1508",
+      "marca": "KIA",
+      "modelo": "PRIDE",
+      "version": "POP Aire",
+      "precios": {}
+    },
+    "14772": {
+      "id": "14772",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.4 EX 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9823.76,
+          "ars": 15050000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10802.87,
+          "ars": 16550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14773": {
+      "id": "14773",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.4 Automática EX 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 9660.57,
+          "ars": 14800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10150.13,
+          "ars": 15550000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11129.24,
+          "ars": 17050000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14774": {
+      "id": "14774",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.4 Automática EX 5 Puertas Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14295.04,
+          "ars": 21900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15274.15,
+          "ars": 23400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14775": {
+      "id": "14775",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.4 EX 5 Puertas Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14776": {
+      "id": "14776",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.6 EX 4 Puertas",
+      "precios": {}
+    },
+    "14777": {
+      "id": "14777",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.6 EX 5 Puertas",
+      "precios": {}
+    },
+    "14778": {
+      "id": "14778",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.6 Automática EX 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 13218.02,
+          "ars": 20250000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14197.13,
+          "ars": 21750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14779": {
+      "id": "14779",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.6 EX 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14780": {
+      "id": "14780",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.6 Automática SX 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14849.87,
+          "ars": 22750000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 17134.46,
+          "ars": 26250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14781": {
+      "id": "14781",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.6 Automática SX 5 Puertas Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 17917.75,
+          "ars": 27450000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19060.05,
+          "ars": 29200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14782": {
+      "id": "14782",
+      "marcaId": "133",
+      "modeloId": "1509",
+      "marca": "KIA",
+      "modelo": "RIO",
+      "version": "1.6 Automática SX S/Cuero 5 Puertas Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 17787.21,
+          "ars": 27250000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 20071.8,
+          "ars": 30750000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 21703.66,
+          "ars": 33250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14783": {
+      "id": "14783",
+      "marcaId": "133",
+      "modeloId": "1510",
+      "marca": "KIA",
+      "modelo": "RONDO",
+      "version": "2.0 CRDi EX",
+      "precios": {}
+    },
+    "14784": {
+      "id": "14784",
+      "marcaId": "133",
+      "modeloId": "1510",
+      "marca": "KIA",
+      "modelo": "RONDO",
+      "version": "2.0 CRDi EX Full",
+      "precios": {}
+    },
+    "14785": {
+      "id": "14785",
+      "marcaId": "133",
+      "modeloId": "1510",
+      "marca": "KIA",
+      "modelo": "RONDO",
+      "version": "2.0 CRDi Automática EX Full",
+      "precios": {}
+    },
+    "14786": {
+      "id": "14786",
+      "marcaId": "133",
+      "modeloId": "1510",
+      "marca": "KIA",
+      "modelo": "RONDO",
+      "version": "Automática EX Full",
+      "precios": {}
+    },
+    "14787": {
+      "id": "14787",
+      "marcaId": "133",
+      "modeloId": "1511",
+      "marca": "KIA",
+      "modelo": "SELTOS",
+      "version": "LX 1.5 CVT",
+      "precios": {
+        "0": {
+          "usd": 33955.61,
+          "ars": 52020000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24934.73,
+          "ars": 38200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27545.69,
+          "ars": 42200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29503.92,
+          "ars": 45200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14788": {
+      "id": "14788",
+      "marcaId": "133",
+      "modeloId": "1511",
+      "marca": "KIA",
+      "modelo": "SELTOS",
+      "version": "EX 1.6 Automática",
+      "precios": {
+        "2021": {
+          "usd": 19190.6,
+          "ars": 29400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 20496.08,
+          "ars": 31400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 22454.31,
+          "ars": 34400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24412.53,
+          "ars": 37400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14789": {
+      "id": "14789",
+      "marcaId": "133",
+      "modeloId": "1511",
+      "marca": "KIA",
+      "modelo": "SELTOS",
+      "version": "LX 1.6 Automática",
+      "precios": {
+        "2020": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14790": {
+      "id": "14790",
+      "marcaId": "133",
+      "modeloId": "1512",
+      "marca": "KIA",
+      "modelo": "SEPHIA",
+      "version": "GTX",
+      "precios": {}
+    },
+    "14791": {
+      "id": "14791",
+      "marcaId": "133",
+      "modeloId": "1512",
+      "marca": "KIA",
+      "modelo": "SEPHIA",
+      "version": "LS Serie II",
+      "precios": {}
+    },
+    "14792": {
+      "id": "14792",
+      "marcaId": "133",
+      "modeloId": "1512",
+      "marca": "KIA",
+      "modelo": "SEPHIA",
+      "version": "LS Automática Serie II",
+      "precios": {}
+    },
+    "14793": {
+      "id": "14793",
+      "marcaId": "133",
+      "modeloId": "1512",
+      "marca": "KIA",
+      "modelo": "SEPHIA",
+      "version": "LS Full Serie II",
+      "precios": {}
+    },
+    "14794": {
+      "id": "14794",
+      "marcaId": "133",
+      "modeloId": "1512",
+      "marca": "KIA",
+      "modelo": "SEPHIA",
+      "version": "LS Full Automática Serie II",
+      "precios": {}
+    },
+    "14795": {
+      "id": "14795",
+      "marcaId": "133",
+      "modeloId": "1513",
+      "marca": "KIA",
+      "modelo": "SHUMA",
+      "version": "1.8",
+      "precios": {}
+    },
+    "14796": {
+      "id": "14796",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.2 CRDi EX",
+      "precios": {}
+    },
+    "14797": {
+      "id": "14797",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.2 CRDi Automática EX 4x2 Modelo 2016-2018",
+      "precios": {
+        "2016": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20039.16,
+          "ars": 30700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14798": {
+      "id": "14798",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.2 CRDi Automática EX GT 4x4 Modelo 2018",
+      "precios": {
+        "2017": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14799": {
+      "id": "14799",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.2 CRDi Automática EX 4x4 Modelo 2016-2018",
+      "precios": {
+        "2016": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14800": {
+      "id": "14800",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.2 CRDi Automática EX Full",
+      "precios": {
+        "2013": {
+          "usd": 13870.76,
+          "ars": 21250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14801": {
+      "id": "14801",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.2 CRDi Automática EX Premium",
+      "precios": {
+        "2013": {
+          "usd": 14849.87,
+          "ars": 22750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16155.35,
+          "ars": 24750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17460.84,
+          "ars": 26750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14802": {
+      "id": "14802",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.4 Automática EX Full 4x2 Modelo 2016-2018",
+      "precios": {
+        "2016": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18733.68,
+          "ars": 28700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 20691.91,
+          "ars": 31700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 23302.87,
+          "ars": 35700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 25913.84,
+          "ars": 39700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14803": {
+      "id": "14803",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.4 Automática EX Full",
+      "precios": {
+        "2013": {
+          "usd": 12891.64,
+          "ars": 19750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14804": {
+      "id": "14804",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.4 Automática EX Full 4x2",
+      "precios": {
+        "2013": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14805": {
+      "id": "14805",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.4 Automática EX Premium",
+      "precios": {
+        "2013": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14806": {
+      "id": "14806",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.5 CRDi 140 CV EX",
+      "precios": {}
+    },
+    "14807": {
+      "id": "14807",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.5 CRDi Automática 140 CV EX",
+      "precios": {}
+    },
+    "14808": {
+      "id": "14808",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.5 CRDi Automática 140 CV EX EXE",
+      "precios": {}
+    },
+    "14809": {
+      "id": "14809",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.5 CRDi Automática 140 CV EX Full",
+      "precios": {}
+    },
+    "14810": {
+      "id": "14810",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.5 CRDi 140 CV EX Full",
+      "precios": {}
+    },
+    "14811": {
+      "id": "14811",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.5 CRDi 170 CV EX",
+      "precios": {}
+    },
+    "14812": {
+      "id": "14812",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.5 CRDi Automática 170 CV EX Full",
+      "precios": {}
+    },
+    "14813": {
+      "id": "14813",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.5 CRDi 170 CV EX Full",
+      "precios": {}
+    },
+    "14814": {
+      "id": "14814",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "3.5 Automática EX",
+      "precios": {}
+    },
+    "14815": {
+      "id": "14815",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "3.5 Automática EX Executive",
+      "precios": {}
+    },
+    "14816": {
+      "id": "14816",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "3.5 Automática EX Full",
+      "precios": {}
+    },
+    "14817": {
+      "id": "14817",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "3.8 Automática EX Full",
+      "precios": {}
+    },
+    "14818": {
+      "id": "14818",
+      "marcaId": "133",
+      "modeloId": "1514",
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "version": "2.2 CRDi Automática SX 4x4 Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 41383.81,
+          "ars": 63400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 45300.26,
+          "ars": 69400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14819": {
+      "id": "14819",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX Classic Modelo 2009",
+      "precios": {}
+    },
+    "14820": {
+      "id": "14820",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX Classic Sport Modelo 2009",
+      "precios": {
+        "2013": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9693.21,
+          "ars": 14850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14821": {
+      "id": "14821",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX POP Modelo 2009",
+      "precios": {}
+    },
+    "14822": {
+      "id": "14822",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX POP Automática Modelo 2009",
+      "precios": {
+        "2013": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10084.86,
+          "ars": 15450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14823": {
+      "id": "14823",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX Rock Modelo 2009",
+      "precios": {}
+    },
+    "14824": {
+      "id": "14824",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX Rock Automática Modelo 2009",
+      "precios": {
+        "2013": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10411.23,
+          "ars": 15950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14825": {
+      "id": "14825",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 11259.79,
+          "ars": 17250000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12238.9,
+          "ars": 18750000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12891.64,
+          "ars": 19750000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14826": {
+      "id": "14826",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX Automática Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 11586.16,
+          "ars": 17750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12565.27,
+          "ars": 19250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13218.02,
+          "ars": 20250000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14849.87,
+          "ars": 22750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14827": {
+      "id": "14827",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX Premium Automática Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 15437.34,
+          "ars": 23650000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16253.26,
+          "ars": 24900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 16742.82,
+          "ars": 25650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14828": {
+      "id": "14828",
+      "marcaId": "133",
+      "modeloId": "1515",
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "version": "EX Automática Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 18374.67,
+          "ars": 28150000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19680.16,
+          "ars": 30150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14829": {
+      "id": "14829",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 4x4",
+      "precios": {}
+    },
+    "14830": {
+      "id": "14830",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "ABS 2.0 4x4",
+      "precios": {}
+    },
+    "14831": {
+      "id": "14831",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "ABS 2.0 Automática 4x4",
+      "precios": {}
+    },
+    "14832": {
+      "id": "14832",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 Turbodiésel 4x4",
+      "precios": {}
+    },
+    "14833": {
+      "id": "14833",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "ABS 2.0 Turbodiésel 4x4",
+      "precios": {}
+    },
+    "14834": {
+      "id": "14834",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "ABS 2.0 Turbodiésel Automática 4x4",
+      "precios": {}
+    },
+    "14835": {
+      "id": "14835",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.2 Diésel 4x4",
+      "precios": {}
+    },
+    "14836": {
+      "id": "14836",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 4x2 Modelo 2005",
+      "precios": {}
+    },
+    "14837": {
+      "id": "14837",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 CRDi 4x2 Modelo 2005",
+      "precios": {}
+    },
+    "14838": {
+      "id": "14838",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 4x4 Modelo 2005",
+      "precios": {}
+    },
+    "14839": {
+      "id": "14839",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 CRDi 4x4 Modelo 2005",
+      "precios": {}
+    },
+    "14840": {
+      "id": "14840",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 CRDi Automática 4x4 Modelo 2005",
+      "precios": {}
+    },
+    "14841": {
+      "id": "14841",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 Automática 4x2 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 11912.53,
+          "ars": 18250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12891.64,
+          "ars": 19750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 13870.76,
+          "ars": 21250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14842": {
+      "id": "14842",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 Automática 4x4 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 13218.02,
+          "ars": 20250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14197.13,
+          "ars": 21750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14843": {
+      "id": "14843",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 4x2 Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 11586.16,
+          "ars": 17750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14844": {
+      "id": "14844",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 4x4 Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 12891.64,
+          "ars": 19750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14845": {
+      "id": "14845",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "2.0 Automática 4x2 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14846": {
+      "id": "14846",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX 2.0 Automática 4x2 Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14847": {
+      "id": "14847",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX 2.0 Automática 4x4 Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14848": {
+      "id": "14848",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX 2.0 Automática 4x2 Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 15176.24,
+          "ars": 23250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 16155.35,
+          "ars": 24750000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17460.84,
+          "ars": 26750000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18766.32,
+          "ars": 28750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14849": {
+      "id": "14849",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX 2.0 Automática 4x4 Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 17787.21,
+          "ars": 27250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 19092.69,
+          "ars": 29250000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 20398.17,
+          "ars": 31250000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 21703.66,
+          "ars": 33250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14850": {
+      "id": "14850",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX 2.0 CRDi Automática 4x4 Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 18439.95,
+          "ars": 28250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 19745.43,
+          "ars": 30250000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 21050.91,
+          "ars": 32250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14851": {
+      "id": "14851",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX Pre. 2.0 Automática 4x2 Modelo 2019",
+      "precios": {
+        "2018": {
+          "usd": 19092.69,
+          "ars": 29250000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 20398.17,
+          "ars": 31250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14852": {
+      "id": "14852",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX 2.0 CRDi Automática 4x2 Modelo 2019",
+      "precios": {
+        "2018": {
+          "usd": 18439.95,
+          "ars": 28250000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19745.43,
+          "ars": 30250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14853": {
+      "id": "14853",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX Gt-L 2.0 CRDi 4x4 Modelo 2019",
+      "precios": {
+        "2018": {
+          "usd": 24608.36,
+          "ars": 37700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26240.21,
+          "ars": 40200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28198.43,
+          "ars": 43200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 31005.22,
+          "ars": 47500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14854": {
+      "id": "14854",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "LX 2.0 Automática 4x2 Modelo 2019",
+      "precios": {
+        "2018": {
+          "usd": 17787.21,
+          "ars": 27250000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 19092.69,
+          "ars": 29250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14855": {
+      "id": "14855",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "SX 2.0 Automática 4x4 Modelo 2019",
+      "precios": {
+        "2018": {
+          "usd": 22030.03,
+          "ars": 33750000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 23661.88,
+          "ars": 36250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14856": {
+      "id": "14856",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "1.6 T-GDi 4x2 Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14857": {
+      "id": "14857",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "X-Line 1.6 T-GDi 4x4 Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 40796.34,
+          "ars": 62500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 43407.31,
+          "ars": 66500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14858": {
+      "id": "14858",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "X-Line 2.0 CRDi Automática 4x4 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 57924.28,
+          "ars": 88740000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 49445.17,
+          "ars": 75750000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 52056.14,
+          "ars": 79750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14859": {
+      "id": "14859",
+      "marcaId": "133",
+      "modeloId": "1516",
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "version": "EX 2.0 Automática 4x2 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 47937.34,
+          "ars": 73440000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 40959.53,
+          "ars": 62750000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 43570.5,
+          "ars": 66750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14861": {
+      "id": "14861",
+      "marcaId": "135",
+      "modeloId": "1518",
+      "marca": "LANDKING",
+      "modelo": "LK",
+      "version": "1016",
+      "precios": {
+        "0": {
+          "usd": 46997.39,
+          "ars": 72000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14862": {
+      "id": "14862",
+      "marcaId": "135",
+      "modeloId": "1518",
+      "marca": "LANDKING",
+      "modelo": "LK",
+      "version": "614",
+      "precios": {
+        "0": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14890": {
+      "id": "14890",
+      "marcaId": "137",
+      "modeloId": "1528",
+      "marca": "MAXUS",
+      "modelo": "D90",
+      "version": "Flagship",
+      "precios": {
+        "0": {
+          "usd": 56925.59,
+          "ars": 87210000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 44386.42,
+          "ars": 68000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14891": {
+      "id": "14891",
+      "marcaId": "137",
+      "modeloId": "1529",
+      "marca": "MAXUS",
+      "modelo": "EDELIVER",
+      "version": "SWB Cargo",
+      "precios": {
+        "0": {
+          "usd": 35953,
+          "ars": 55080000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14892": {
+      "id": "14892",
+      "marcaId": "137",
+      "modeloId": "1529",
+      "marca": "MAXUS",
+      "modelo": "EDELIVER",
+      "version": "L1H1 Panel",
+      "precios": {
+        "0": {
+          "usd": 46938.64,
+          "ars": 71910000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 36553.52,
+          "ars": 56000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14893": {
+      "id": "14893",
+      "marcaId": "137",
+      "modeloId": "1530",
+      "marca": "MAXUS",
+      "modelo": "ETERRON",
+      "version": "Flagship",
+      "precios": {
+        "0": {
+          "usd": 80494.78,
+          "ars": 123318000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14894": {
+      "id": "14894",
+      "marcaId": "137",
+      "modeloId": "1531",
+      "marca": "MAXUS",
+      "modelo": "T60",
+      "version": "D20 Confort 4x2 Cabina Doble Manual",
+      "precios": {
+        "0": {
+          "usd": 28862.27,
+          "ars": 44217000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14895": {
+      "id": "14895",
+      "marcaId": "137",
+      "modeloId": "1531",
+      "marca": "MAXUS",
+      "modelo": "T60",
+      "version": "D20 Confort 4x4 Cabina Doble Manual",
+      "precios": {
+        "0": {
+          "usd": 31458.88,
+          "ars": 48195000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14896": {
+      "id": "14896",
+      "marcaId": "137",
+      "modeloId": "1531",
+      "marca": "MAXUS",
+      "modelo": "T60",
+      "version": "D20 MAX Elite 4x4 Cabina Doble Automática",
+      "precios": {
+        "0": {
+          "usd": 37950.39,
+          "ars": 58140000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14897": {
+      "id": "14897",
+      "marcaId": "137",
+      "modeloId": "1531",
+      "marca": "MAXUS",
+      "modelo": "T60",
+      "version": "D20 MAX Luxury 4x4 Cabina Doble Automática",
+      "precios": {
+        "0": {
+          "usd": 41445.82,
+          "ars": 63495000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14898": {
+      "id": "14898",
+      "marcaId": "137",
+      "modeloId": "1531",
+      "marca": "MAXUS",
+      "modelo": "T60",
+      "version": "D20 Minera 4x4 Cabina Doble Manual",
+      "precios": {
+        "0": {
+          "usd": 34954.31,
+          "ars": 53550000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14899": {
+      "id": "14899",
+      "marcaId": "137",
+      "modeloId": "1531",
+      "marca": "MAXUS",
+      "modelo": "T60",
+      "version": "D20 Confort 4x4 Cabina Simple Manual",
+      "precios": {
+        "0": {
+          "usd": 31458.88,
+          "ars": 48195000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14900": {
+      "id": "14900",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Classic Modelo 2099",
+      "precios": {}
+    },
+    "14901": {
+      "id": "14901",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Elegance Luxury Modelo 2099",
+      "precios": {}
+    },
+    "14902": {
+      "id": "14902",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Elegance Plus Modelo 2099 160",
+      "precios": {}
+    },
+    "14903": {
+      "id": "14903",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Avantgarde Modelo 2003",
+      "precios": {}
+    },
+    "14904": {
+      "id": "14904",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Elegance Luxury AKS Modelo 2003",
+      "precios": {}
+    },
+    "14905": {
+      "id": "14905",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Elegance Plus Modelo 2099 190",
+      "precios": {}
+    },
+    "14906": {
+      "id": "14906",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Blueefficiency Style Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14907": {
+      "id": "14907",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Blueefficiency Urban Automática Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14908": {
+      "id": "14908",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Blueefficiency Urban Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14909": {
+      "id": "14909",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Progressive Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 35248.04,
+          "ars": 54000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14910": {
+      "id": "14910",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Progressive Modelo 2024 200",
+      "precios": {
+        "0": {
+          "usd": 57532.64,
+          "ars": 88140000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 45039.16,
+          "ars": 69000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14911": {
+      "id": "14911",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Progressive Sedán Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 30352.48,
+          "ars": 46500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 31657.96,
+          "ars": 48500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 35574.41,
+          "ars": 54500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37532.64,
+          "ars": 57500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14912": {
+      "id": "14912",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Progressive Sedán Modelo 2024 200",
+      "precios": {
+        "0": {
+          "usd": 59569.19,
+          "ars": 91260000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 37532.64,
+          "ars": 57500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 39490.86,
+          "ars": 60500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 42101.83,
+          "ars": 64500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 45365.54,
+          "ars": 69500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14913": {
+      "id": "14913",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Style Sedán Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14914": {
+      "id": "14914",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Style Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14915": {
+      "id": "14915",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG Line Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 41775.46,
+          "ars": 64000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 45691.91,
+          "ars": 70000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14916": {
+      "id": "14916",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG Line Híbrido Liviano 4Matic Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 74130.55,
+          "ars": 113568000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 52872.06,
+          "ars": 81000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 56135.77,
+          "ars": 86000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14917": {
+      "id": "14917",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Blueeffi. AMG Line Automática Modelo 2013",
+      "precios": {
+        "2016": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14918": {
+      "id": "14918",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "Blueeffi. Sport Automática Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14919": {
+      "id": "14919",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG Line Sedán Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 40143.6,
+          "ars": 61500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 42101.83,
+          "ars": 64500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 44060.05,
+          "ars": 67500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 46018.28,
+          "ars": 70500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 47976.5,
+          "ars": 73500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14920": {
+      "id": "14920",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG 4Matic 35",
+      "precios": {
+        "2020": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 59399.48,
+          "ars": 91000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 70496.08,
+          "ars": 108000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14921": {
+      "id": "14921",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG 4Matic Modelo 2024 35",
+      "precios": {
+        "0": {
+          "usd": 94394.26,
+          "ars": 144612000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 73107.05,
+          "ars": 112000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 76370.76,
+          "ars": 117000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 79634.46,
+          "ars": 122000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14922": {
+      "id": "14922",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG Híbrido Liviano 4Matic",
+      "precios": {
+        "2023": {
+          "usd": 66906.01,
+          "ars": 102500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 70822.45,
+          "ars": 108500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 75391.64,
+          "ars": 115500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14923": {
+      "id": "14923",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG 4Matic Sedán",
+      "precios": {
+        "2020": {
+          "usd": 57114.88,
+          "ars": 87500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 59725.85,
+          "ars": 91500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 62989.56,
+          "ars": 96500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 66906.01,
+          "ars": 102500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 70822.45,
+          "ars": 108500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14924": {
+      "id": "14924",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG 4Matic Sedán Modelo 2024 35 2",
+      "precios": {
+        "2024": {
+          "usd": 73433.42,
+          "ars": 112500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 76697.13,
+          "ars": 117500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 79960.84,
+          "ars": 122500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14925": {
+      "id": "14925",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "AMG 4Matic 45",
+      "precios": {
+        "2015": {
+          "usd": 39817.23,
+          "ars": 61000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 51566.58,
+          "ars": 79000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 56135.77,
+          "ars": 86000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14926": {
+      "id": "14926",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "S AMG 4Matic",
+      "precios": {
+        "2020": {
+          "usd": 88120.1,
+          "ars": 135000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 90731.07,
+          "ars": 139000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 93342.04,
+          "ars": 143000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 95953,
+          "ars": 147000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 98563.97,
+          "ars": 151000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14927": {
+      "id": "14927",
+      "marcaId": "138",
+      "modeloId": "1532",
+      "marca": "MERCEDES BENZ",
+      "modelo": "A",
+      "version": "S AMG 4Matic Modelo 2024 45",
+      "precios": {
+        "0": {
+          "usd": 131968.67,
+          "ars": 202176000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 101827.68,
+          "ars": 156000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 104438.64,
+          "ars": 160000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 107049.61,
+          "ars": 164000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14928": {
+      "id": "14928",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "170",
+      "precios": {}
+    },
+    "14929": {
+      "id": "14929",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "180",
+      "precios": {}
+    },
+    "14930": {
+      "id": "14930",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Automática",
+      "precios": {}
+    },
+    "14931": {
+      "id": "14931",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "200",
+      "precios": {}
+    },
+    "14932": {
+      "id": "14932",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Blueefficiency",
+      "precios": {
+        "2013": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14933": {
+      "id": "14933",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Blueefficiency City",
+      "precios": {
+        "2013": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14934": {
+      "id": "14934",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Blueefficiency City Automática",
+      "precios": {
+        "2013": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14935": {
+      "id": "14935",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Blueefficiency Sport",
+      "precios": {
+        "2013": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14936": {
+      "id": "14936",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Blueefficiency Sport Automática",
+      "precios": {
+        "2013": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14937": {
+      "id": "14937",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "City Automática",
+      "precios": {
+        "2018": {
+          "usd": 15535.25,
+          "ars": 23800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16840.73,
+          "ars": 25800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14938": {
+      "id": "14938",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Edition Urban Automática",
+      "precios": {
+        "2016": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 16187.99,
+          "ars": 24800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18798.96,
+          "ars": 28800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14939": {
+      "id": "14939",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Plus",
+      "precios": {}
+    },
+    "14940": {
+      "id": "14940",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Plus 200 CDI",
+      "precios": {}
+    },
+    "14941": {
+      "id": "14941",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Progressive Automática",
+      "precios": {
+        "2019": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14942": {
+      "id": "14942",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Style Automática",
+      "precios": {
+        "2019": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "14943": {
+      "id": "14943",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Turbo Luxury",
+      "precios": {}
+    },
+    "14944": {
+      "id": "14944",
+      "marcaId": "138",
+      "modeloId": "1533",
+      "marca": "MERCEDES BENZ",
+      "modelo": "B",
+      "version": "Turbo Sport",
+      "precios": {}
+    },
     "131666": {
       "id": "131666",
       "marcaId": "106",
@@ -73888,6 +78647,26 @@
         "2026": {
           "usd": 21409.92,
           "ars": 32800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "134638": {
+      "id": "134638",
+      "marcaId": "128",
+      "modeloId": "1482",
+      "marca": "JETOUR",
+      "modelo": "T2",
+      "version": "I-Dm Phev 1.5 4x2",
+      "precios": {
+        "0": {
+          "usd": 66413.19,
+          "ars": 101745000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 51566.58,
+          "ars": 79000000,
           "cotizacion": 1532
         }
       }
@@ -76692,6 +81471,467 @@
         }
       }
     },
+    "210341": {
+      "id": "210341",
+      "marcaId": "2109",
+      "modeloId": "21742",
+      "marca": "MAZDA",
+      "modelo": "121",
+      "version": "LX",
+      "precios": {}
+    },
+    "210342": {
+      "id": "210342",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "4 Puertas F 1.7 Turbodiésel",
+      "precios": {}
+    },
+    "210343": {
+      "id": "210343",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Hatchback F Full",
+      "precios": {}
+    },
+    "210344": {
+      "id": "210344",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Hatchback F Full Automática",
+      "precios": {}
+    },
+    "210345": {
+      "id": "210345",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Sedán 4 Puertas F GLX",
+      "precios": {}
+    },
+    "210346": {
+      "id": "210346",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Sedán 4 Puertas F GLX Automática",
+      "precios": {}
+    },
+    "210347": {
+      "id": "210347",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Sedán 4 Puertas F GLX Full",
+      "precios": {}
+    },
+    "210348": {
+      "id": "210348",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Sedán 4 Puertas F GLX Full Automática",
+      "precios": {}
+    },
+    "210349": {
+      "id": "210349",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Sedán 5 Puertas F GLX",
+      "precios": {}
+    },
+    "210350": {
+      "id": "210350",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Sedán 5 Puertas F GLX Full",
+      "precios": {}
+    },
+    "210351": {
+      "id": "210351",
+      "marcaId": "2109",
+      "modeloId": "21743",
+      "marca": "MAZDA",
+      "modelo": "323",
+      "version": "Sedán F GLX Diésel",
+      "precios": {}
+    },
+    "210352": {
+      "id": "210352",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 GLX 4 Puertas",
+      "precios": {}
+    },
+    "210353": {
+      "id": "210353",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 Turbodiésel · 4 Puertas · Ref. V-210353",
+      "precios": {}
+    },
+    "210354": {
+      "id": "210354",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 GLX 5 Puertas",
+      "precios": {}
+    },
+    "210355": {
+      "id": "210355",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 Automática GLX 5 Puertas",
+      "precios": {}
+    },
+    "210356": {
+      "id": "210356",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 Turbodiésel · 5 Puertas · Ref. V-210356",
+      "precios": {}
+    },
+    "210357": {
+      "id": "210357",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 L/N ABS Rural",
+      "precios": {}
+    },
+    "210358": {
+      "id": "210358",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 Diésel · Rural · Ref. V-210358",
+      "precios": {}
+    },
+    "210359": {
+      "id": "210359",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 GLX Rural",
+      "precios": {}
+    },
+    "210360": {
+      "id": "210360",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 L/N ABS Sedán",
+      "precios": {}
+    },
+    "210361": {
+      "id": "210361",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.0 Automática L/N ABS Sedán",
+      "precios": {}
+    },
+    "210362": {
+      "id": "210362",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.2 · Rural · ABS · Ref. V-210362",
+      "precios": {}
+    },
+    "210363": {
+      "id": "210363",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.2 · Automática · Rural · ABS · Ref. V-210363",
+      "precios": {}
+    },
+    "210364": {
+      "id": "210364",
+      "marcaId": "2109",
+      "modeloId": "21744",
+      "marca": "MAZDA",
+      "modelo": "626",
+      "version": "2.2 · Sedán · Ref. V-210364",
+      "precios": {}
+    },
+    "210365": {
+      "id": "210365",
+      "marcaId": "2109",
+      "modeloId": "21745",
+      "marca": "MAZDA",
+      "modelo": "929",
+      "version": "HG32 Americano",
+      "precios": {}
+    },
+    "210366": {
+      "id": "210366",
+      "marcaId": "2109",
+      "modeloId": "21745",
+      "marca": "MAZDA",
+      "modelo": "929",
+      "version": "HG41 Cuero",
+      "precios": {}
+    },
+    "210367": {
+      "id": "210367",
+      "marcaId": "2109",
+      "modeloId": "21746",
+      "marca": "MAZDA",
+      "modelo": "FURGON",
+      "version": "E VID",
+      "precios": {}
+    },
+    "210368": {
+      "id": "210368",
+      "marcaId": "2109",
+      "modeloId": "21747",
+      "marca": "MAZDA",
+      "modelo": "MPV",
+      "version": "GLX 4x2",
+      "precios": {}
+    },
+    "210369": {
+      "id": "210369",
+      "marcaId": "2109",
+      "modeloId": "21747",
+      "marca": "MAZDA",
+      "modelo": "MPV",
+      "version": "4x4 · Ref. V-210369",
+      "precios": {}
+    },
+    "210370": {
+      "id": "210370",
+      "marcaId": "2109",
+      "modeloId": "21748",
+      "marca": "MAZDA",
+      "modelo": "MX",
+      "version": "MX3 NEW Model",
+      "precios": {}
+    },
+    "210371": {
+      "id": "210371",
+      "marcaId": "2109",
+      "modeloId": "21748",
+      "marca": "MAZDA",
+      "modelo": "MX",
+      "version": "MX5 Miata Americana",
+      "precios": {}
+    },
+    "210372": {
+      "id": "210372",
+      "marcaId": "2109",
+      "modeloId": "21748",
+      "marca": "MAZDA",
+      "modelo": "MX",
+      "version": "MX5 Miata Aire",
+      "precios": {}
+    },
+    "210373": {
+      "id": "210373",
+      "marcaId": "2109",
+      "modeloId": "21748",
+      "marca": "MAZDA",
+      "modelo": "MX",
+      "version": "MX5 Miata Cuero Aire",
+      "precios": {}
+    },
+    "210374": {
+      "id": "210374",
+      "marcaId": "2109",
+      "modeloId": "21748",
+      "marca": "MAZDA",
+      "modelo": "MX",
+      "version": "MX6 Coupé",
+      "precios": {}
+    },
+    "210375": {
+      "id": "210375",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B 4x2 Cabina Doble Diésel",
+      "precios": {}
+    },
+    "210376": {
+      "id": "210376",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B 4x2 Cabina Simple Diésel",
+      "precios": {}
+    },
+    "210377": {
+      "id": "210377",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B DX 4x2 Cabina Doble Diésel 2500",
+      "precios": {}
+    },
+    "210378": {
+      "id": "210378",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B DX 4x4 Cabina Doble Diésel 2500",
+      "precios": {}
+    },
+    "210379": {
+      "id": "210379",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B SDX 4x4 Cabina Doble Diésel 2500",
+      "precios": {}
+    },
+    "210380": {
+      "id": "210380",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B Aire 4x2 Cabina Simple Diésel",
+      "precios": {}
+    },
+    "210381": {
+      "id": "210381",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B DX 4x2 Cabina Simple Diésel",
+      "precios": {}
+    },
+    "210382": {
+      "id": "210382",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B DX 4x4 Cabina Simple Diésel 2500",
+      "precios": {}
+    },
+    "210383": {
+      "id": "210383",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B 4x4 Cabina Doble Diésel",
+      "precios": {}
+    },
+    "210384": {
+      "id": "210384",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B DX 4x2 Cabina Doble Diésel 2900",
+      "precios": {}
+    },
+    "210385": {
+      "id": "210385",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B Drifter 4x4 Cabina Doble Diésel",
+      "precios": {}
+    },
+    "210386": {
+      "id": "210386",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B DX 4x4 Cabina Doble Diésel 2900",
+      "precios": {}
+    },
+    "210387": {
+      "id": "210387",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B SDX 4x4 Cabina Doble Diésel 2900",
+      "precios": {}
+    },
+    "210388": {
+      "id": "210388",
+      "marcaId": "2109",
+      "modeloId": "21749",
+      "marca": "MAZDA",
+      "modelo": "PICK-UP",
+      "version": "B DX 4x4 Cabina Simple Diésel 2900",
+      "precios": {}
+    },
+    "210389": {
+      "id": "210389",
+      "marcaId": "2109",
+      "modeloId": "21750",
+      "marca": "MAZDA",
+      "modelo": "RX7",
+      "version": "Twin Turbo",
+      "precios": {}
+    },
+    "215311": {
+      "id": "215311",
+      "marcaId": "131",
+      "modeloId": "1489",
+      "marca": "KAIYI",
+      "modelo": "X3",
+      "version": "CVT",
+      "precios": {
+        "2025": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "221157": {
       "id": "221157",
       "marcaId": "2234",
@@ -78494,6 +83734,26 @@
       "version": "4.2 · Coupé · Ref. V-250373",
       "precios": {}
     },
+    "250374": {
+      "id": "250374",
+      "marcaId": "2739",
+      "modeloId": "26405",
+      "marca": "JAGUAR",
+      "modelo": "XKR",
+      "version": "Supercharged 5.0 Coupé",
+      "precios": {
+        "2013": {
+          "usd": 64621.41,
+          "ars": 99000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "269027": {
       "id": "269027",
       "marcaId": "113",
@@ -79424,6 +84684,66 @@
         }
       }
     },
+    "287772": {
+      "id": "287772",
+      "marcaId": "133",
+      "modeloId": "30392",
+      "marca": "KIA",
+      "modelo": "TASMAN",
+      "version": "EX 2.2 CRDi",
+      "precios": {
+        "0": {
+          "usd": 58423.63,
+          "ars": 89505000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "287773": {
+      "id": "287773",
+      "marcaId": "133",
+      "modeloId": "30392",
+      "marca": "KIA",
+      "modelo": "TASMAN",
+      "version": "EX 2.5 T-GDi",
+      "precios": {
+        "0": {
+          "usd": 57424.93,
+          "ars": 87975000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "287774": {
+      "id": "287774",
+      "marcaId": "133",
+      "modeloId": "30392",
+      "marca": "KIA",
+      "modelo": "TASMAN",
+      "version": "X-Pro 2.5 T-GDi",
+      "precios": {
+        "0": {
+          "usd": 78896.87,
+          "ars": 120870000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 68537.86,
+          "ars": 105000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "317720": {
       "id": "317720",
       "marcaId": "107",
@@ -80110,6 +85430,26 @@
         "2026": {
           "usd": 27415.14,
           "ars": 42000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "320132": {
+      "id": "320132",
+      "marcaId": "128",
+      "modeloId": "1484",
+      "marca": "JETOUR",
+      "modelo": "X70",
+      "version": "6DCT 1.5 Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 31858.36,
+          "ars": 48807000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24804.18,
+          "ars": 38000000,
           "cotizacion": 1532
         }
       }
@@ -81165,6 +86505,31 @@
         "0": {
           "usd": 30949.74,
           "ars": 47415000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "339069": {
+      "id": "339069",
+      "marcaId": "128",
+      "modeloId": "1483",
+      "marca": "JETOUR",
+      "modelo": "X50",
+      "version": "6DCT",
+      "precios": {
+        "0": {
+          "usd": 26864.88,
+          "ars": 41157000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 20234.99,
+          "ars": 31000000,
           "cotizacion": 1532
         }
       }
@@ -83923,6 +89288,1460 @@
           "cotizacion": 1532
         }
       }
+    },
+    "344295": {
+      "id": "344295",
+      "marcaId": "4298",
+      "modeloId": "38595",
+      "marca": "KARRY",
+      "modelo": "KQ",
+      "version": "KQ51 Cabina Simple",
+      "precios": {
+        "0": {
+          "usd": 21971.28,
+          "ars": 33660000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344296": {
+      "id": "344296",
+      "marcaId": "4298",
+      "modeloId": "38595",
+      "marca": "KARRY",
+      "modelo": "KQ",
+      "version": "KQ52 Cabina Doble",
+      "precios": {
+        "0": {
+          "usd": 23469.32,
+          "ars": 35955000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344297": {
+      "id": "344297",
+      "marcaId": "4301",
+      "modeloId": "38596",
+      "marca": "LIFAN",
+      "modelo": "FAW",
+      "version": "Actis 1.5 Furgón",
+      "precios": {
+        "0": {
+          "usd": 14632.51,
+          "ars": 22417000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344298": {
+      "id": "344298",
+      "marcaId": "4301",
+      "modeloId": "38596",
+      "marca": "LIFAN",
+      "modelo": "FAW",
+      "version": "Actis 1.5 Cabina Simple",
+      "precios": {
+        "0": {
+          "usd": 12679.5,
+          "ars": 19425000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344299": {
+      "id": "344299",
+      "marcaId": "4301",
+      "modeloId": "38596",
+      "marca": "LIFAN",
+      "modelo": "FAW",
+      "version": "T33 1.2 Turbo Automática",
+      "precios": {
+        "0": {
+          "usd": 17661.23,
+          "ars": 27057000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344300": {
+      "id": "344300",
+      "marcaId": "4301",
+      "modeloId": "38596",
+      "marca": "LIFAN",
+      "modelo": "FAW",
+      "version": "X40 1.6 Automática",
+      "precios": {
+        "0": {
+          "usd": 15859.66,
+          "ars": 24297000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344301": {
+      "id": "344301",
+      "marcaId": "4301",
+      "modeloId": "38597",
+      "marca": "LIFAN",
+      "modelo": "FOISON",
+      "version": "Furgón",
+      "precios": {
+        "0": {
+          "usd": 9815.93,
+          "ars": 15038000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344302": {
+      "id": "344302",
+      "marcaId": "4301",
+      "modeloId": "38597",
+      "marca": "LIFAN",
+      "modelo": "FOISON",
+      "version": "Cargo",
+      "precios": {
+        "0": {
+          "usd": 8874.67,
+          "ars": 13596000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8420.37,
+          "ars": 12900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8746.74,
+          "ars": 13400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344303": {
+      "id": "344303",
+      "marcaId": "4301",
+      "modeloId": "38597",
+      "marca": "LIFAN",
+      "modelo": "FOISON",
+      "version": "Truck",
+      "precios": {
+        "0": {
+          "usd": 8404.05,
+          "ars": 12875000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7963.45,
+          "ars": 12200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8289.82,
+          "ars": 12700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 8616.19,
+          "ars": 13200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 8942.56,
+          "ars": 13700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344304": {
+      "id": "344304",
+      "marcaId": "4301",
+      "modeloId": "38598",
+      "marca": "LIFAN",
+      "modelo": "KYC",
+      "version": "Mamut Dual Furgón",
+      "precios": {
+        "0": {
+          "usd": 27336.81,
+          "ars": 41880000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18146.21,
+          "ars": 27800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19712.79,
+          "ars": 30200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344305": {
+      "id": "344305",
+      "marcaId": "4301",
+      "modeloId": "38598",
+      "marca": "LIFAN",
+      "modelo": "KYC",
+      "version": "Mamut Dual Refrigerado Furgón",
+      "precios": {
+        "0": {
+          "usd": 31919.06,
+          "ars": 48900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13903.39,
+          "ars": 21300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15861.62,
+          "ars": 24300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16840.73,
+          "ars": 25800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17819.84,
+          "ars": 27300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 19125.33,
+          "ars": 29300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 21083.55,
+          "ars": 32300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 23041.78,
+          "ars": 35300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344306": {
+      "id": "344306",
+      "marcaId": "4301",
+      "modeloId": "38598",
+      "marca": "LIFAN",
+      "modelo": "KYC",
+      "version": "Mamut Cabina Doble",
+      "precios": {
+        "0": {
+          "usd": 22976.5,
+          "ars": 35200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13903.39,
+          "ars": 21300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15861.62,
+          "ars": 24300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344307": {
+      "id": "344307",
+      "marcaId": "4301",
+      "modeloId": "38598",
+      "marca": "LIFAN",
+      "modelo": "KYC",
+      "version": "Mamut Dual Cabina Simple",
+      "precios": {
+        "0": {
+          "usd": 22389.03,
+          "ars": 34300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14229.77,
+          "ars": 21800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15208.88,
+          "ars": 23300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344308": {
+      "id": "344308",
+      "marcaId": "4301",
+      "modeloId": "38598",
+      "marca": "LIFAN",
+      "modelo": "KYC",
+      "version": "V7",
+      "precios": {
+        "0": {
+          "usd": 23368.15,
+          "ars": 35800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19125.33,
+          "ars": 29300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344309": {
+      "id": "344309",
+      "marcaId": "4301",
+      "modeloId": "38599",
+      "marca": "LIFAN",
+      "modelo": "M 7",
+      "version": "Automática",
+      "precios": {
+        "0": {
+          "usd": 17466.71,
+          "ars": 26759000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 14229.77,
+          "ars": 21800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15208.88,
+          "ars": 23300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344310": {
+      "id": "344310",
+      "marcaId": "4301",
+      "modeloId": "38600",
+      "marca": "LIFAN",
+      "modelo": "MY WAY",
+      "version": "Variante 1",
+      "precios": {
+        "0": {
+          "usd": 13298.3,
+          "ars": 20373000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10052.22,
+          "ars": 15400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 14229.77,
+          "ars": 21800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344311": {
+      "id": "344311",
+      "marcaId": "4301",
+      "modeloId": "38600",
+      "marca": "LIFAN",
+      "modelo": "MY WAY",
+      "version": "Automática",
+      "precios": {
+        "0": {
+          "usd": 14454.96,
+          "ars": 22145000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344312": {
+      "id": "344312",
+      "marcaId": "4301",
+      "modeloId": "38601",
+      "marca": "LIFAN",
+      "modelo": "X 50",
+      "version": "Variante · Ref. V-344312",
+      "precios": {
+        "0": {
+          "usd": 9109.66,
+          "ars": 13956000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 8224.54,
+          "ars": 12600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344313": {
+      "id": "344313",
+      "marcaId": "4301",
+      "modeloId": "38602",
+      "marca": "LIFAN",
+      "modelo": "X 60",
+      "version": "Variante · Ref. V-344313",
+      "precios": {
+        "0": {
+          "usd": 11725.2,
+          "ars": 17963000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8616.19,
+          "ars": 13200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9007.83,
+          "ars": 13800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344314": {
+      "id": "344314",
+      "marcaId": "4301",
+      "modeloId": "38603",
+      "marca": "LIFAN",
+      "modelo": "X 70",
+      "version": "Variante 1",
+      "precios": {
+        "0": {
+          "usd": 13486.29,
+          "ars": 20661000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344315": {
+      "id": "344315",
+      "marcaId": "4301",
+      "modeloId": "38603",
+      "marca": "LIFAN",
+      "modelo": "X 70",
+      "version": "Automática",
+      "precios": {
+        "0": {
+          "usd": 14616.19,
+          "ars": 22392000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344316": {
+      "id": "344316",
+      "marcaId": "4302",
+      "modeloId": "38604",
+      "marca": "LYNK & CO",
+      "modelo": "01",
+      "version": "1.5 Turbo · Híbrido enchufable · Ref. V-344316",
+      "precios": {
+        "0": {
+          "usd": 37850.52,
+          "ars": 57987000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344317": {
+      "id": "344317",
+      "marcaId": "4302",
+      "modeloId": "38605",
+      "marca": "LYNK & CO",
+      "modelo": "06",
+      "version": "1.5 · Híbrido enchufable · Ref. V-344317",
+      "precios": {
+        "0": {
+          "usd": 32757.18,
+          "ars": 50184000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344318": {
+      "id": "344318",
+      "marcaId": "4302",
+      "modeloId": "38606",
+      "marca": "LYNK & CO",
+      "modelo": "08",
+      "version": "1.5 Turbo · Híbrido enchufable · Ref. V-344318",
+      "precios": {
+        "0": {
+          "usd": 63117.49,
+          "ars": 96696000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344319": {
+      "id": "344319",
+      "marcaId": "4303",
+      "modeloId": "38607",
+      "marca": "MASERATI",
+      "modelo": "3200 GT",
+      "version": "Variante · Ref. V-344319",
+      "precios": {}
+    },
+    "344320": {
+      "id": "344320",
+      "marcaId": "4303",
+      "modeloId": "38608",
+      "marca": "MASERATI",
+      "modelo": "COUPE",
+      "version": "Variante · Ref. V-344320",
+      "precios": {}
+    },
+    "344321": {
+      "id": "344321",
+      "marcaId": "4303",
+      "modeloId": "38609",
+      "marca": "MASERATI",
+      "modelo": "GHIBLI",
+      "version": "S Q4",
+      "precios": {
+        "2018": {
+          "usd": 127284.6,
+          "ars": 195000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 133812.01,
+          "ars": 205000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 141644.91,
+          "ars": 217000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 150130.55,
+          "ars": 230000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 159921.67,
+          "ars": 245000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 169712.79,
+          "ars": 260000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344322": {
+      "id": "344322",
+      "marcaId": "4303",
+      "modeloId": "38610",
+      "marca": "MASERATI",
+      "modelo": "GRANSPORT",
+      "version": "Variante 1",
+      "precios": {}
+    },
+    "344323": {
+      "id": "344323",
+      "marcaId": "4303",
+      "modeloId": "38610",
+      "marca": "MASERATI",
+      "modelo": "GRANSPORT",
+      "version": "Spyder",
+      "precios": {}
+    },
+    "344324": {
+      "id": "344324",
+      "marcaId": "4303",
+      "modeloId": "38611",
+      "marca": "MASERATI",
+      "modelo": "GRANTURISMO",
+      "version": "Gran Turismo",
+      "precios": {
+        "2013": {
+          "usd": 220626.63,
+          "ars": 338000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 228459.53,
+          "ars": 350000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344325": {
+      "id": "344325",
+      "marcaId": "4303",
+      "modeloId": "38612",
+      "marca": "MASERATI",
+      "modelo": "GT SPORT",
+      "version": "Variante · Ref. V-344325",
+      "precios": {
+        "2018": {
+          "usd": 290469.97,
+          "ars": 445000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 296997.39,
+          "ars": 455000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 303524.8,
+          "ars": 465000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 313315.93,
+          "ars": 480000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 323107.05,
+          "ars": 495000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 336161.88,
+          "ars": 515000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344326": {
+      "id": "344326",
+      "marcaId": "4303",
+      "modeloId": "38613",
+      "marca": "MASERATI",
+      "modelo": "LEVANTE",
+      "version": "Q4",
+      "precios": {
+        "2017": {
+          "usd": 120757.18,
+          "ars": 185000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 127284.6,
+          "ars": 195000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 137075.72,
+          "ars": 210000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 146866.84,
+          "ars": 225000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 156657.96,
+          "ars": 240000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 166449.09,
+          "ars": 255000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 176240.21,
+          "ars": 270000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344327": {
+      "id": "344327",
+      "marcaId": "4303",
+      "modeloId": "38613",
+      "marca": "MASERATI",
+      "modelo": "LEVANTE",
+      "version": "S Q4",
+      "precios": {
+        "2017": {
+          "usd": 124020.89,
+          "ars": 190000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 130548.3,
+          "ars": 200000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 140339.43,
+          "ars": 215000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 150130.55,
+          "ars": 230000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 159921.67,
+          "ars": 245000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 169712.79,
+          "ars": 260000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 179503.92,
+          "ars": 275000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344328": {
+      "id": "344328",
+      "marcaId": "4303",
+      "modeloId": "38614",
+      "marca": "MASERATI",
+      "modelo": "QUATTROPORTE",
+      "version": "Variante 1",
+      "precios": {
+        "2013": {
+          "usd": 106396.87,
+          "ars": 163000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344329": {
+      "id": "344329",
+      "marcaId": "4303",
+      "modeloId": "38614",
+      "marca": "MASERATI",
+      "modelo": "QUATTROPORTE",
+      "version": "Evoluzione",
+      "precios": {}
+    },
+    "344330": {
+      "id": "344330",
+      "marcaId": "4303",
+      "modeloId": "38614",
+      "marca": "MASERATI",
+      "modelo": "QUATTROPORTE",
+      "version": "Executive GT",
+      "precios": {
+        "2013": {
+          "usd": 107702.35,
+          "ars": 165000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344331": {
+      "id": "344331",
+      "marcaId": "4303",
+      "modeloId": "38614",
+      "marca": "MASERATI",
+      "modelo": "QUATTROPORTE",
+      "version": "GTS",
+      "precios": {
+        "2018": {
+          "usd": 182767.62,
+          "ars": 280000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 192558.75,
+          "ars": 295000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 202349.87,
+          "ars": 310000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 215404.7,
+          "ars": 330000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 228459.53,
+          "ars": 350000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 241514.36,
+          "ars": 370000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344332": {
+      "id": "344332",
+      "marcaId": "4303",
+      "modeloId": "38614",
+      "marca": "MASERATI",
+      "modelo": "QUATTROPORTE",
+      "version": "Sport GT",
+      "precios": {
+        "2013": {
+          "usd": 107049.61,
+          "ars": 164000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344333": {
+      "id": "344333",
+      "marcaId": "4303",
+      "modeloId": "38615",
+      "marca": "MASERATI",
+      "modelo": "SPYDER",
+      "version": "Variante · Ref. V-344333",
+      "precios": {}
     }
   }
 }
