@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-18T01:23:00.790Z",
+  "actualizado": "2026-09-18T03:26:32.299Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 6621,
-  "versionesConValuacion": 3238,
+  "versionesProcesadas": 6969,
+  "versionesConValuacion": 3434,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -110489,6 +110489,61 @@
       "version": "Tiptronic",
       "precios": {}
     },
+    "16841": {
+      "id": "16841",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S 2.9 V6 Coupé",
+      "precios": {
+        "0": {
+          "usd": 213601.69,
+          "ars": 302460000,
+          "cotizacion": 1416
+        },
+        "2019": {
+          "usd": 145561.36,
+          "ars": 223000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 153394.26,
+          "ars": 235000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 156657.96,
+          "ars": 240000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 161227.15,
+          "ars": 247000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 171018.28,
+          "ars": 262000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 176240.21,
+          "ars": 270000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 187336.81,
+          "ars": 287000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 193864.23,
+          "ars": 297000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "16842": {
       "id": "16842",
       "marcaId": "144",
@@ -110574,6 +110629,61 @@
         }
       }
     },
+    "16844": {
+      "id": "16844",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "E-Hybrid 3.0 V6",
+      "precios": {
+        "0": {
+          "usd": 200906.01,
+          "ars": 307788000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 130548.3,
+          "ars": 200000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 136422.98,
+          "ars": 209000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 141644.91,
+          "ars": 217000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 147519.58,
+          "ars": 226000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 155352.48,
+          "ars": 238000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 160574.41,
+          "ars": 246000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 172323.76,
+          "ars": 264000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 178198.43,
+          "ars": 273000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "16845": {
       "id": "16845",
       "marcaId": "144",
@@ -110633,6 +110743,6899 @@
           "cotizacion": 1532
         }
       }
+    },
+    "16846": {
+      "id": "16846",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "3.6 V6 Tiptronic",
+      "precios": {}
+    },
+    "16847": {
+      "id": "16847",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "3.6 V6 Tiptronic Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 40404.7,
+          "ars": 61900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 44060.05,
+          "ars": 67500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 49934.73,
+          "ars": 76500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 57180.16,
+          "ars": 87600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 93994.78,
+          "ars": 144000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 106396.87,
+          "ars": 163000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 119451.7,
+          "ars": 183000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16848": {
+      "id": "16848",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "GT 4.0 V8",
+      "precios": {
+        "0": {
+          "usd": 395295.04,
+          "ars": 605592000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 329634.46,
+          "ars": 505000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 332245.43,
+          "ars": 509000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 338772.85,
+          "ars": 519000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 345953,
+          "ars": 530000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 352480.42,
+          "ars": 540000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 357702.35,
+          "ars": 548000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16849": {
+      "id": "16849",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "GTS 4.0 V8 Tiptronic",
+      "precios": {
+        "2020": {
+          "usd": 202349.87,
+          "ars": 310000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 212793.73,
+          "ars": 326000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 225195.82,
+          "ars": 345000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 234986.95,
+          "ars": 360000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16850": {
+      "id": "16850",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "GTS 4.0 V8 Tiptronic Coupé",
+      "precios": {
+        "2020": {
+          "usd": 195822.45,
+          "ars": 300000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 203002.61,
+          "ars": 311000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 210835.51,
+          "ars": 323000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 214751.96,
+          "ars": 329000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16851": {
+      "id": "16851",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "GTS 4.0 V8 Tiptronic Coupé Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 249375.98,
+          "ars": 382044000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 210182.77,
+          "ars": 322000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 218668.41,
+          "ars": 335000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 224543.08,
+          "ars": 344000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16852": {
+      "id": "16852",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "GTS 4.0 V8 Tiptronic Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 249172.32,
+          "ars": 381732000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 210182.77,
+          "ars": 322000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 218668.41,
+          "ars": 335000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 225195.82,
+          "ars": 345000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16853": {
+      "id": "16853",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "GTS 4.8 V8 Tiptronic",
+      "precios": {}
+    },
+    "16854": {
+      "id": "16854",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "GTS 4.8 V8 Tiptronic Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 53263.71,
+          "ars": 81600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 59138.38,
+          "ars": 90600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16855": {
+      "id": "16855",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Electric",
+      "precios": {
+        "0": {
+          "usd": 191741.51,
+          "ars": 293748000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 163185.38,
+          "ars": 250000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 171018.28,
+          "ars": 262000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16856": {
+      "id": "16856",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S",
+      "precios": {}
+    },
+    "16857": {
+      "id": "16857",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S E-Hybrid",
+      "precios": {
+        "0": {
+          "usd": 224326.37,
+          "ars": 343668000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 184073.11,
+          "ars": 282000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 193211.49,
+          "ars": 296000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 199086.16,
+          "ars": 305000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16858": {
+      "id": "16858",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S E-Hybrid Coupé",
+      "precios": {
+        "0": {
+          "usd": 226159.27,
+          "ars": 346476000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 186031.33,
+          "ars": 285000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 196475.2,
+          "ars": 301000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 203002.61,
+          "ars": 311000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16859": {
+      "id": "16859",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S Electric",
+      "precios": {
+        "0": {
+          "usd": 211088.77,
+          "ars": 323388000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 189295.04,
+          "ars": 290000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16860": {
+      "id": "16860",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S Modelo 2010",
+      "precios": {
+        "0": {
+          "usd": 211801.57,
+          "ars": 324480000,
+          "cotizacion": 1532
+        },
+        "2013": {
+          "usd": 47323.76,
+          "ars": 72500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 50979.11,
+          "ars": 78100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 60835.51,
+          "ars": 93200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 66644.91,
+          "ars": 102100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 108355.09,
+          "ars": 166000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 121409.92,
+          "ars": 186000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 125326.37,
+          "ars": 192000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 142297.65,
+          "ars": 218000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 150783.29,
+          "ars": 231000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 157963.45,
+          "ars": 242000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 163838.12,
+          "ars": 251000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 171671.02,
+          "ars": 263000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 182767.62,
+          "ars": 280000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 189947.78,
+          "ars": 291000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16861": {
+      "id": "16861",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S Híbrido Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 37206.27,
+          "ars": 57000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 40404.7,
+          "ars": 61900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 46736.29,
+          "ars": 71600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16862": {
+      "id": "16862",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Turbo",
+      "precios": {}
+    },
+    "16863": {
+      "id": "16863",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Turbo E-Hybrid",
+      "precios": {
+        "0": {
+          "usd": 324728.46,
+          "ars": 497484000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 272193.21,
+          "ars": 417000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 278720.63,
+          "ars": 427000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 286553.52,
+          "ars": 439000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 291775.46,
+          "ars": 447000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16864": {
+      "id": "16864",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Turbo E-Hybrid Coupé",
+      "precios": {
+        "0": {
+          "usd": 326154.05,
+          "ars": 499668000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 273498.69,
+          "ars": 419000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 280026.11,
+          "ars": 429000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 287859.01,
+          "ars": 441000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 293080.94,
+          "ars": 449000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16865": {
+      "id": "16865",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Turbo Electric",
+      "precios": {
+        "0": {
+          "usd": 278295.04,
+          "ars": 426348000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 239556.14,
+          "ars": 367000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 245430.81,
+          "ars": 376000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16866": {
+      "id": "16866",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Turbo Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 48890.34,
+          "ars": 74900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 52676.24,
+          "ars": 80700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 60117.49,
+          "ars": 92100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 67167.1,
+          "ars": 102900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16867": {
+      "id": "16867",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Turbo S",
+      "precios": {}
+    },
+    "16868": {
+      "id": "16868",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Turbo S Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 74804.18,
+          "ars": 114600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 79634.46,
+          "ars": 122000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 85509.14,
+          "ars": 131000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 212793.73,
+          "ars": 326000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 223890.34,
+          "ars": 343000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 235639.69,
+          "ars": 361000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 246736.29,
+          "ars": 378000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 259138.38,
+          "ars": 397000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 277415.14,
+          "ars": 425000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16869": {
+      "id": "16869",
+      "marcaId": "144",
+      "modeloId": "1660",
+      "marca": "PORSCHE",
+      "modelo": "CAYMAN",
+      "version": "Variante 1",
+      "precios": {}
+    },
+    "16870": {
+      "id": "16870",
+      "marcaId": "144",
+      "modeloId": "1660",
+      "marca": "PORSCHE",
+      "modelo": "CAYMAN",
+      "version": "Design",
+      "precios": {}
+    },
+    "16871": {
+      "id": "16871",
+      "marcaId": "144",
+      "modeloId": "1660",
+      "marca": "PORSCHE",
+      "modelo": "CAYMAN",
+      "version": "S",
+      "precios": {}
+    },
+    "16872": {
+      "id": "16872",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "Variante 1",
+      "precios": {
+        "0": {
+          "usd": 112315.93,
+          "ars": 172068000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 61684.07,
+          "ars": 94500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 62140.99,
+          "ars": 95200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 64882.51,
+          "ars": 99400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 66644.91,
+          "ars": 102100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 66906.01,
+          "ars": 102500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 67754.57,
+          "ars": 103800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 69712.79,
+          "ars": 106800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 75456.92,
+          "ars": 115600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 82506.53,
+          "ars": 126400000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 90731.07,
+          "ars": 139000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 95953,
+          "ars": 147000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16873": {
+      "id": "16873",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "Electric",
+      "precios": {
+        "0": {
+          "usd": 149686.68,
+          "ars": 229320000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 118798.96,
+          "ars": 182000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 123368.15,
+          "ars": 189000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 129242.82,
+          "ars": 198000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16874": {
+      "id": "16874",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "Electric 4",
+      "precios": {
+        "0": {
+          "usd": 155389.03,
+          "ars": 238056000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 123368.15,
+          "ars": 189000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 129242.82,
+          "ars": 198000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 136422.98,
+          "ars": 209000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16875": {
+      "id": "16875",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "Electric 4S",
+      "precios": {
+        "0": {
+          "usd": 168626.63,
+          "ars": 258336000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 138381.2,
+          "ars": 212000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 142297.65,
+          "ars": 218000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 148172.32,
+          "ars": 227000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16876": {
+      "id": "16876",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "Electric GTS",
+      "precios": {
+        "0": {
+          "usd": 188788.51,
+          "ars": 289224000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 160574.41,
+          "ars": 246000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 167754.57,
+          "ars": 257000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16877": {
+      "id": "16877",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "Electric Turbo",
+      "precios": {
+        "0": {
+          "usd": 205997.39,
+          "ars": 315588000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 172976.5,
+          "ars": 265000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 176240.21,
+          "ars": 270000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 182114.88,
+          "ars": 279000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16878": {
+      "id": "16878",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "GTS",
+      "precios": {
+        "0": {
+          "usd": 182373.37,
+          "ars": 279396000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 86945.17,
+          "ars": 133200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 92101.83,
+          "ars": 141100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 96605.74,
+          "ars": 148000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 100522.19,
+          "ars": 154000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 104438.64,
+          "ars": 160000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 110313.32,
+          "ars": 169000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 117493.47,
+          "ars": 180000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 131201.04,
+          "ars": 201000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 138381.2,
+          "ars": 212000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16879": {
+      "id": "16879",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "S",
+      "precios": {
+        "0": {
+          "usd": 160989.56,
+          "ars": 246636000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 71148.83,
+          "ars": 109000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 77154.05,
+          "ars": 118200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 80548.3,
+          "ars": 123400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 86945.17,
+          "ars": 133200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 92101.83,
+          "ars": 141100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 95300.26,
+          "ars": 146000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 96605.74,
+          "ars": 148000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 100522.19,
+          "ars": 154000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 103785.9,
+          "ars": 159000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 106396.87,
+          "ars": 163000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 110966.06,
+          "ars": 170000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 117493.47,
+          "ars": 180000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16880": {
+      "id": "16880",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "S Diesel",
+      "precios": {
+        "2016": {
+          "usd": 81853.79,
+          "ars": 125400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 86945.17,
+          "ars": 133200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 92101.83,
+          "ars": 141100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16881": {
+      "id": "16881",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "Turbo",
+      "precios": {
+        "0": {
+          "usd": 120156.66,
+          "ars": 184080000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 79308.09,
+          "ars": 121500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 84856.4,
+          "ars": 130000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 91383.81,
+          "ars": 140000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 96605.74,
+          "ars": 148000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 104438.64,
+          "ars": 160000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16882": {
+      "id": "16882",
+      "marcaId": "144",
+      "modeloId": "1661",
+      "marca": "PORSCHE",
+      "modelo": "MACAN",
+      "version": "Turbo 2",
+      "precios": {
+        "2016": {
+          "usd": 101827.68,
+          "ars": 156000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 105744.13,
+          "ars": 162000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 114229.77,
+          "ars": 175000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 134464.75,
+          "ars": 206000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 141644.91,
+          "ars": 217000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 150783.29,
+          "ars": 231000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16883": {
+      "id": "16883",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "E-Hybrid Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 287663.19,
+          "ars": 440700000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 244125.33,
+          "ars": 374000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 252610.97,
+          "ars": 387000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 259138.38,
+          "ars": 397000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16884": {
+      "id": "16884",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "E-Hybrid 4S",
+      "precios": {
+        "2020": {
+          "usd": 243472.58,
+          "ars": 373000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 256527.42,
+          "ars": 393000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 275456.92,
+          "ars": 422000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 285248.04,
+          "ars": 437000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 301566.58,
+          "ars": 462000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16885": {
+      "id": "16885",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "E-Hybrid 4S Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 320655.35,
+          "ars": 491244000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 275456.92,
+          "ars": 422000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 283289.82,
+          "ars": 434000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 289817.23,
+          "ars": 444000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16886": {
+      "id": "16886",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "E-Hybrid Sport Turismo",
+      "precios": {
+        "2020": {
+          "usd": 240208.88,
+          "ars": 368000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 257180.16,
+          "ars": 394000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16887": {
+      "id": "16887",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "E-Hybrid Turbo Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 381751.96,
+          "ars": 584844000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 332898.17,
+          "ars": 510000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 338120.1,
+          "ars": 518000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 344647.52,
+          "ars": 528000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16888": {
+      "id": "16888",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "E-Hybrid Turbo S Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 429712.79,
+          "ars": 658320000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 372715.4,
+          "ars": 571000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 381201.04,
+          "ars": 584000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 388381.2,
+          "ars": 595000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16889": {
+      "id": "16889",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "GTS",
+      "precios": {
+        "2013": {
+          "usd": 102480.42,
+          "ars": 157000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 112924.28,
+          "ars": 173000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16890": {
+      "id": "16890",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "GTS Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 268276.76,
+          "ars": 411000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 275456.92,
+          "ars": 422000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 282637.08,
+          "ars": 433000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 293733.68,
+          "ars": 450000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 298955.61,
+          "ars": 458000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16891": {
+      "id": "16891",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "GTS Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 355785.9,
+          "ars": 545064000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 306135.77,
+          "ars": 469000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 313968.67,
+          "ars": 481000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 321148.83,
+          "ars": 492000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16892": {
+      "id": "16892",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "4S Serie II",
+      "precios": {
+        "2017": {
+          "usd": 188642.3,
+          "ars": 289000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 195169.71,
+          "ars": 299000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 203002.61,
+          "ars": 311000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 210182.77,
+          "ars": 322000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16893": {
+      "id": "16893",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "Turbo Serie II",
+      "precios": {
+        "2017": {
+          "usd": 197780.68,
+          "ars": 303000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 204960.84,
+          "ars": 314000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 212140.99,
+          "ars": 325000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 219973.89,
+          "ars": 337000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16894": {
+      "id": "16894",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 184725.85,
+          "ars": 283000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 191253.26,
+          "ars": 293000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 198433.42,
+          "ars": 304000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 204960.84,
+          "ars": 314000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 212793.73,
+          "ars": 326000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16895": {
+      "id": "16895",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 212793.73,
+          "ars": 326000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 220626.63,
+          "ars": 338000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16896": {
+      "id": "16896",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "S",
+      "precios": {
+        "2013": {
+          "usd": 73759.79,
+          "ars": 113000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16897": {
+      "id": "16897",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "S 4",
+      "precios": {
+        "2013": {
+          "usd": 84399.48,
+          "ars": 129300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16898": {
+      "id": "16898",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "Turbo",
+      "precios": {
+        "2013": {
+          "usd": 94647.52,
+          "ars": 145000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16899": {
+      "id": "16899",
+      "marcaId": "144",
+      "modeloId": "1662",
+      "marca": "PORSCHE",
+      "modelo": "PANAMERA",
+      "version": "Turbo S Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 307441.25,
+          "ars": 471000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 323107.05,
+          "ars": 495000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 333550.91,
+          "ars": 511000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 347258.49,
+          "ars": 532000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 372062.66,
+          "ars": 570000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16900": {
+      "id": "16900",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Variante 1",
+      "precios": {
+        "2021": {
+          "usd": 193211.49,
+          "ars": 296000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 202349.87,
+          "ars": 310000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 212140.99,
+          "ars": 325000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 223237.6,
+          "ars": 342000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16901": {
+      "id": "16901",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Modelo 2024 4",
+      "precios": {
+        "0": {
+          "usd": 247441.25,
+          "ars": 379080000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 208224.54,
+          "ars": 319000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 215404.7,
+          "ars": 330000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 222584.86,
+          "ars": 341000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16902": {
+      "id": "16902",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "4S",
+      "precios": {
+        "2020": {
+          "usd": 209530.03,
+          "ars": 321000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 215404.7,
+          "ars": 330000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 223237.6,
+          "ars": 342000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 229112.27,
+          "ars": 351000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 242167.1,
+          "ars": 371000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16903": {
+      "id": "16903",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "4S Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 281451.7,
+          "ars": 431184000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 236945.17,
+          "ars": 363000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 244778.07,
+          "ars": 375000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 251958.22,
+          "ars": 386000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16904": {
+      "id": "16904",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Cross Turismo Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 275953,
+          "ars": 422760000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 231723.24,
+          "ars": 355000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 240861.62,
+          "ars": 369000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 246736.29,
+          "ars": 378000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16905": {
+      "id": "16905",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Cross Turismo 4S Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 303039.16,
+          "ars": 464256000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 257180.16,
+          "ars": 394000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 263707.57,
+          "ars": 404000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 270234.99,
+          "ars": 414000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16906": {
+      "id": "16906",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Cross Turismo Turbo Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 367801.57,
+          "ars": 563472000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 315274.15,
+          "ars": 483000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 323759.79,
+          "ars": 496000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 329634.46,
+          "ars": 505000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16907": {
+      "id": "16907",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Cross Turismo",
+      "precios": {
+        "2021": {
+          "usd": 210182.77,
+          "ars": 322000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 216710.18,
+          "ars": 332000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 224543.08,
+          "ars": 344000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 229112.27,
+          "ars": 351000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16908": {
+      "id": "16908",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Cross Turismo 4S",
+      "precios": {
+        "2021": {
+          "usd": 221279.37,
+          "ars": 339000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 226501.31,
+          "ars": 347000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 234986.95,
+          "ars": 360000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 246083.55,
+          "ars": 377000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16909": {
+      "id": "16909",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Cross Turismo Turbo",
+      "precios": {
+        "2021": {
+          "usd": 310704.96,
+          "ars": 476000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 325718.02,
+          "ars": 499000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 347911.23,
+          "ars": 533000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 369451.7,
+          "ars": 566000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16910": {
+      "id": "16910",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "GT",
+      "precios": {
+        "0": {
+          "usd": 457511.75,
+          "ars": 700908000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 394255.87,
+          "ars": 604000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 404699.74,
+          "ars": 620000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 410574.41,
+          "ars": 629000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16911": {
+      "id": "16911",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "GTS",
+      "precios": {
+        "2022": {
+          "usd": 293080.94,
+          "ars": 449000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 305483.03,
+          "ars": 468000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 320496.08,
+          "ars": 491000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16912": {
+      "id": "16912",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "GTS Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 330532.64,
+          "ars": 506376000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 280678.85,
+          "ars": 430000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 289164.49,
+          "ars": 443000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 294386.42,
+          "ars": 451000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16913": {
+      "id": "16913",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 235731.07,
+          "ars": 361140000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 196475.2,
+          "ars": 301000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 204960.84,
+          "ars": 314000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 210835.51,
+          "ars": 323000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16914": {
+      "id": "16914",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Turbo",
+      "precios": {
+        "2020": {
+          "usd": 280026.11,
+          "ars": 429000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 293080.94,
+          "ars": 449000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 305483.03,
+          "ars": 468000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 319190.6,
+          "ars": 489000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 334203.66,
+          "ars": 512000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16915": {
+      "id": "16915",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Turbo Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 354360.31,
+          "ars": 542880000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 305483.03,
+          "ars": 468000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 312010.44,
+          "ars": 478000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 319190.6,
+          "ars": 489000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16916": {
+      "id": "16916",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Turbo S",
+      "precios": {
+        "2020": {
+          "usd": 318537.86,
+          "ars": 488000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 337467.36,
+          "ars": 517000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 353785.9,
+          "ars": 542000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 375979.11,
+          "ars": 576000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 398172.32,
+          "ars": 610000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16917": {
+      "id": "16917",
+      "marcaId": "144",
+      "modeloId": "1663",
+      "marca": "PORSCHE",
+      "modelo": "TAYCAN",
+      "version": "Turbo S Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 413624.02,
+          "ars": 633672000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 356396.87,
+          "ars": 546000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 363577.02,
+          "ars": 557000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 370757.18,
+          "ars": 568000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16930": {
+      "id": "16930",
+      "marcaId": "146",
+      "modeloId": "1668",
+      "marca": "RELY",
+      "modelo": "R8",
+      "version": "Comfortline",
+      "precios": {
+        "0": {
+          "usd": 31958.22,
+          "ars": 48960000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16931": {
+      "id": "16931",
+      "marcaId": "146",
+      "modeloId": "1668",
+      "marca": "RELY",
+      "modelo": "R8",
+      "version": "Comfortline Automática",
+      "precios": {
+        "0": {
+          "usd": 33955.61,
+          "ars": 52020000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16932": {
+      "id": "16932",
+      "marcaId": "146",
+      "modeloId": "1668",
+      "marca": "RELY",
+      "modelo": "R8",
+      "version": "Limited Automática",
+      "precios": {
+        "0": {
+          "usd": 39448.43,
+          "ars": 60435000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16933": {
+      "id": "16933",
+      "marcaId": "146",
+      "modeloId": "1668",
+      "marca": "RELY",
+      "modelo": "R8",
+      "version": "Luxury",
+      "precios": {
+        "0": {
+          "usd": 36452.35,
+          "ars": 55845000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16934": {
+      "id": "16934",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Confort 4x2 Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 19973.89,
+          "ars": 30600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 21279.37,
+          "ars": 32600000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22584.86,
+          "ars": 34600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16935": {
+      "id": "16935",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Confort 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 39033.94,
+          "ars": 59800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16936": {
+      "id": "16936",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Emotion 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 38002.61,
+          "ars": 58220000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16937": {
+      "id": "16937",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Emotion 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 42304.18,
+          "ars": 64810000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16938": {
+      "id": "16938",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Iconic Automática 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 51370.76,
+          "ars": 78700000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16939": {
+      "id": "16939",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Intens Automática 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 42721.93,
+          "ars": 65450000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16940": {
+      "id": "16940",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Intens 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 41207.57,
+          "ars": 63130000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16941": {
+      "id": "16941",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Intens Noir Automática 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 46716.71,
+          "ars": 71570000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16942": {
+      "id": "16942",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Intens Noir 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 44693.21,
+          "ars": 68470000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16952": {
+      "id": "16952",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Confort 4x2",
+      "precios": {
+        "2020": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 19060.05,
+          "ars": 29200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16953": {
+      "id": "16953",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Confort 4x4",
+      "precios": {
+        "2020": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 19060.05,
+          "ars": 29200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16954": {
+      "id": "16954",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Emotion 4x2",
+      "precios": {
+        "2020": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 19712.79,
+          "ars": 30200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16955": {
+      "id": "16955",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Emotion 4x4",
+      "precios": {
+        "2020": {
+          "usd": 17819.84,
+          "ars": 27300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18798.96,
+          "ars": 28800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19778.07,
+          "ars": 30300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 22062.66,
+          "ars": 33800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16956": {
+      "id": "16956",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Iconic 4x4",
+      "precios": {
+        "2020": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 22976.5,
+          "ars": 35200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16957": {
+      "id": "16957",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Iconic Automática 4x4",
+      "precios": {
+        "2020": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 23629.24,
+          "ars": 36200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16958": {
+      "id": "16958",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Intens 4x2",
+      "precios": {
+        "2020": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 20365.54,
+          "ars": 31200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16959": {
+      "id": "16959",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Intens Automática 4x2",
+      "precios": {
+        "2023": {
+          "usd": 21018.28,
+          "ars": 32200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16960": {
+      "id": "16960",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Intens 4x4",
+      "precios": {
+        "2020": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 21671.02,
+          "ars": 33200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16961": {
+      "id": "16961",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Intens Automática 4x4",
+      "precios": {
+        "2023": {
+          "usd": 22323.76,
+          "ars": 34200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16962": {
+      "id": "16962",
+      "marcaId": "147",
+      "modeloId": "1669",
+      "marca": "RENAULT",
+      "modelo": "ALASKAN",
+      "version": "Outsider Automática 4x4",
+      "precios": {
+        "2022": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24934.73,
+          "ars": 38200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16963": {
+      "id": "16963",
+      "marcaId": "147",
+      "modeloId": "1670",
+      "marca": "RENAULT",
+      "modelo": "ARKANA",
+      "version": "Esprit Alpine E-Tech Hybrid 1.3 Turbo",
+      "precios": {
+        "0": {
+          "usd": 37160.57,
+          "ars": 56930000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 25071.43,
+          "ars": 35100000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 25928.57,
+          "ars": 36300000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 26785.71,
+          "ars": 37500000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 27642.86,
+          "ars": 38700000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 28642.86,
+          "ars": 40100000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 29785.71,
+          "ars": 41700000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16964": {
+      "id": "16964",
+      "marcaId": "147",
+      "modeloId": "1671",
+      "marca": "RENAULT",
+      "modelo": "BOREAL",
+      "version": "Evolution EDC 1.3 Turbo",
+      "precios": {
+        "0": {
+          "usd": 33472.58,
+          "ars": 51280000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 25071.43,
+          "ars": 35100000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 25642.86,
+          "ars": 35900000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 26214.29,
+          "ars": 36700000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 26785.71,
+          "ars": 37500000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 27500,
+          "ars": 38500000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 28357.14,
+          "ars": 39700000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 29642.86,
+          "ars": 41500000,
+          "cotizacion": 1400
+        },
+        "2026": {
+          "usd": 30287.21,
+          "ars": 46400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16966": {
+      "id": "16966",
+      "marcaId": "147",
+      "modeloId": "1671",
+      "marca": "RENAULT",
+      "modelo": "BOREAL",
+      "version": "Iconic EDC 1.3 Turbo",
+      "precios": {
+        "0": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 29928.57,
+          "ars": 41900000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 30500,
+          "ars": 42700000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 31071.43,
+          "ars": 43500000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 31642.86,
+          "ars": 44300000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 32357.14,
+          "ars": 45300000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 33214.29,
+          "ars": 46500000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 34500,
+          "ars": 48300000,
+          "cotizacion": 1400
+        },
+        "2026": {
+          "usd": 35378.59,
+          "ars": 54200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16968": {
+      "id": "16968",
+      "marcaId": "147",
+      "modeloId": "1671",
+      "marca": "RENAULT",
+      "modelo": "BOREAL",
+      "version": "Techno EDC 1.3 Turbo",
+      "precios": {
+        "0": {
+          "usd": 37023.5,
+          "ars": 56720000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 28071.43,
+          "ars": 39300000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 28642.86,
+          "ars": 40100000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 29214.29,
+          "ars": 40900000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 29785.71,
+          "ars": 41700000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 30500,
+          "ars": 42700000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 31357.14,
+          "ars": 43900000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 32642.86,
+          "ars": 45700000,
+          "cotizacion": 1400
+        },
+        "2026": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16969": {
+      "id": "16969",
+      "marcaId": "147",
+      "modeloId": "1672",
+      "marca": "RENAULT",
+      "modelo": "CAPTUR",
+      "version": "Bose 1.6 CVT",
+      "precios": {
+        "2019": {
+          "usd": 14980.42,
+          "ars": 22950000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15698.43,
+          "ars": 24050000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16547,
+          "ars": 25350000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17526.11,
+          "ars": 26850000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17983.03,
+          "ars": 27550000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18798.96,
+          "ars": 28800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16970": {
+      "id": "16970",
+      "marcaId": "147",
+      "modeloId": "1672",
+      "marca": "RENAULT",
+      "modelo": "CAPTUR",
+      "version": "Intens 1.6 CVT",
+      "precios": {
+        "2018": {
+          "usd": 14295.04,
+          "ars": 21900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18766.32,
+          "ars": 28750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16971": {
+      "id": "16971",
+      "marcaId": "147",
+      "modeloId": "1672",
+      "marca": "RENAULT",
+      "modelo": "CAPTUR",
+      "version": "Intens LE COQ Sport 1.6 CVT",
+      "precios": {
+        "2018": {
+          "usd": 14295.04,
+          "ars": 21900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16972": {
+      "id": "16972",
+      "marcaId": "147",
+      "modeloId": "1672",
+      "marca": "RENAULT",
+      "modelo": "CAPTUR",
+      "version": "Life 1.6",
+      "precios": {
+        "2018": {
+          "usd": 13479.11,
+          "ars": 20650000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14131.85,
+          "ars": 21650000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15633.16,
+          "ars": 23950000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16481.72,
+          "ars": 25250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16973": {
+      "id": "16973",
+      "marcaId": "147",
+      "modeloId": "1672",
+      "marca": "RENAULT",
+      "modelo": "CAPTUR",
+      "version": "ZEN 1.6",
+      "precios": {
+        "2018": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16974": {
+      "id": "16974",
+      "marcaId": "147",
+      "modeloId": "1672",
+      "marca": "RENAULT",
+      "modelo": "CAPTUR",
+      "version": "Intens 2.0",
+      "precios": {
+        "2016": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 14197.13,
+          "ars": 21750000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14915.14,
+          "ars": 22850000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 16285.9,
+          "ars": 24950000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18668.41,
+          "ars": 28600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16975": {
+      "id": "16975",
+      "marcaId": "147",
+      "modeloId": "1672",
+      "marca": "RENAULT",
+      "modelo": "CAPTUR",
+      "version": "ZEN 2.0",
+      "precios": {
+        "2016": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13674.93,
+          "ars": 20950000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14327.68,
+          "ars": 21950000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15078.33,
+          "ars": 23100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15894.26,
+          "ars": 24350000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16710.18,
+          "ars": 25600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17232.38,
+          "ars": 26400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18080.94,
+          "ars": 27700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "16976": {
+      "id": "16976",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN 1.2 4 Puertas",
+      "precios": {}
+    },
+    "16977": {
+      "id": "16977",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire 1.2 4 Puertas",
+      "precios": {}
+    },
+    "16978": {
+      "id": "16978",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire Pack 1.2 4 Puertas",
+      "precios": {}
+    },
+    "16979": {
+      "id": "16979",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN 1.2 5 Puertas",
+      "precios": {}
+    },
+    "16980": {
+      "id": "16980",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire 1.2 5 Puertas",
+      "precios": {}
+    },
+    "16981": {
+      "id": "16981",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire Pack 1.2 5 Puertas",
+      "precios": {}
+    },
+    "16982": {
+      "id": "16982",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN 1.6 4 Puertas",
+      "precios": {}
+    },
+    "16983": {
+      "id": "16983",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire 1.6 4 Puertas",
+      "precios": {}
+    },
+    "16984": {
+      "id": "16984",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire Pack 1.6 4 Puertas",
+      "precios": {}
+    },
+    "16985": {
+      "id": "16985",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN 1.6 5 Puertas",
+      "precios": {}
+    },
+    "16986": {
+      "id": "16986",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire 1.6 5 Puertas",
+      "precios": {}
+    },
+    "16987": {
+      "id": "16987",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire Pack 1.6 5 Puertas",
+      "precios": {}
+    },
+    "16988": {
+      "id": "16988",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RT Symbol 1.6 4 Puertas",
+      "precios": {}
+    },
+    "16989": {
+      "id": "16989",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RT Symbol ABS 1.6 4 Puertas",
+      "precios": {}
+    },
+    "16990": {
+      "id": "16990",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RT Symbol 1.6 5 Puertas",
+      "precios": {}
+    },
+    "16991": {
+      "id": "16991",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RT Symbol ABS 1.6 5 Puertas",
+      "precios": {}
+    },
+    "16992": {
+      "id": "16992",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Sony 1.6",
+      "precios": {}
+    },
+    "16993": {
+      "id": "16993",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RND 1.9 4 Puertas",
+      "precios": {}
+    },
+    "16994": {
+      "id": "16994",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RND Aire 1.9 4 Puertas",
+      "precios": {}
+    },
+    "16995": {
+      "id": "16995",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RND Aire Pack 1.9 4 Puertas",
+      "precios": {}
+    },
+    "16996": {
+      "id": "16996",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RND 1.9 5 Puertas",
+      "precios": {}
+    },
+    "16997": {
+      "id": "16997",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RND Aire 1.9 5 Puertas",
+      "precios": {}
+    },
+    "16998": {
+      "id": "16998",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RND Aire Pack 1.9 5 Puertas",
+      "precios": {}
+    },
+    "16999": {
+      "id": "16999",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RTD Symbol 1.9 4 Puertas",
+      "precios": {}
+    },
+    "17000": {
+      "id": "17000",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RTD Symbol ABS 1.9 4 Puertas",
+      "precios": {}
+    },
+    "17001": {
+      "id": "17001",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RTD Symbol 1.9 5 Puertas",
+      "precios": {}
+    },
+    "17002": {
+      "id": "17002",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RTD Symbol ABS 1.9 5 Puertas",
+      "precios": {}
+    },
+    "17003": {
+      "id": "17003",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentiq Fase 2 Pack 1.2 Nafta 3 Puertas",
+      "precios": {}
+    },
+    "17004": {
+      "id": "17004",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentiq Fase 2 Pack 1.2 3 Puertas Serie II",
+      "precios": {}
+    },
+    "17005": {
+      "id": "17005",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17006": {
+      "id": "17006",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 Aire 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17007": {
+      "id": "17007",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Base Fase 2 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17008": {
+      "id": "17008",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Campus Fase 2 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17009": {
+      "id": "17009",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Campus Fase 2 Pack 1.2 Nafta 3 Puertas",
+      "precios": {}
+    },
+    "17010": {
+      "id": "17010",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Campus Fase 2 Pack 1.2 3 Puertas Serie II",
+      "precios": {
+        "2013": {
+          "usd": 6057.44,
+          "ars": 9280000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17011": {
+      "id": "17011",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "GET UP Fase 2 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17012": {
+      "id": "17012",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17013": {
+      "id": "17013",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack Plus 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17014": {
+      "id": "17014",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Yahoo Authe. Fase 2 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17015": {
+      "id": "17015",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Yahoo Authe. SL Fase 2 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17016": {
+      "id": "17016",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Yahoo Fase 2 Pack Aire 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17017": {
+      "id": "17017",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Yahoo Ele. Fase 2 Pack 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17018": {
+      "id": "17018",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Yahoo Fase 2 Plus 1.2 3 Puertas",
+      "precios": {}
+    },
+    "17019": {
+      "id": "17019",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Aniversario Fase 2 1.2 4 Puertas",
+      "precios": {}
+    },
+    "17020": {
+      "id": "17020",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 1.2 4 Puertas",
+      "precios": {}
+    },
+    "17021": {
+      "id": "17021",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 Aire 1.2 4 Puertas",
+      "precios": {}
+    },
+    "17022": {
+      "id": "17022",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 Pack 1.2 4 Puertas",
+      "precios": {}
+    },
+    "17023": {
+      "id": "17023",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack 1.2 4 Puertas",
+      "precios": {}
+    },
+    "17024": {
+      "id": "17024",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack Plus 1.2 4 Puertas",
+      "precios": {}
+    },
+    "17025": {
+      "id": "17025",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Aniversario Fase 2 1.2 5 Puertas",
+      "precios": {}
+    },
+    "17026": {
+      "id": "17026",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentiq Fase 2 Pack 1.2 Nafta 5 Puertas",
+      "precios": {}
+    },
+    "17027": {
+      "id": "17027",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentiq Fase 2 Pack 1.2 5 Puertas Serie II",
+      "precios": {}
+    },
+    "17028": {
+      "id": "17028",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 1.2 5 Puertas",
+      "precios": {}
+    },
+    "17029": {
+      "id": "17029",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 Aire 1.2 5 Puertas",
+      "precios": {}
+    },
+    "17030": {
+      "id": "17030",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 Pack 1.2 5 Puertas",
+      "precios": {}
+    },
+    "17031": {
+      "id": "17031",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Base Fase 2 1.2 5 Puertas",
+      "precios": {}
+    },
+    "17032": {
+      "id": "17032",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Campus Fase 2 Pack 1.2 Nafta 5 Puertas",
+      "precios": {}
+    },
+    "17033": {
+      "id": "17033",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Campus Fase 2 Pack 1.2 5 Puertas Serie II",
+      "precios": {
+        "2013": {
+          "usd": 6018.28,
+          "ars": 9220000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17034": {
+      "id": "17034",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack 1.2 5 Puertas",
+      "precios": {}
+    },
+    "17035": {
+      "id": "17035",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack Plus 1.2 5 Puertas",
+      "precios": {}
+    },
+    "17036": {
+      "id": "17036",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authent. Fase 2 Aire 1.5 Turbodiésel 3 Puertas",
+      "precios": {}
+    },
+    "17037": {
+      "id": "17037",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authent. Fase 2 1.5 Turbodiésel 3 Puertas",
+      "precios": {}
+    },
+    "17038": {
+      "id": "17038",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Dynamique Fase 2 1.5 Turbodiésel 3 Puertas",
+      "precios": {}
+    },
+    "17039": {
+      "id": "17039",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack 1.5 Turbodiésel 3 Puertas",
+      "precios": {}
+    },
+    "17040": {
+      "id": "17040",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Aniversario Fase 2 1.5 4 Puertas",
+      "precios": {}
+    },
+    "17041": {
+      "id": "17041",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authent. Fase 2 Aire 1.5 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17042": {
+      "id": "17042",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authent. Fase 2 1.5 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17043": {
+      "id": "17043",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Confort Fase 2 1.5 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17044": {
+      "id": "17044",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Expression Fase 2 1.5 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17045": {
+      "id": "17045",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Luxe Fase 2 1.5 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17046": {
+      "id": "17046",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack 1.5 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17047": {
+      "id": "17047",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Privilege Fase 2 1.5 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17048": {
+      "id": "17048",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authent. Fase 2 Aire 1.5 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17049": {
+      "id": "17049",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authent. Fase 2 1.5 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17050": {
+      "id": "17050",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Confort Fase 2 1.5 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17051": {
+      "id": "17051",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Expression Fase 2 1.5 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17052": {
+      "id": "17052",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fairway Fase 2 1.5 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17053": {
+      "id": "17053",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Luxe Fase 2 1.5 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17054": {
+      "id": "17054",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack 1.5 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17055": {
+      "id": "17055",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Privilege Fase 2 1.5 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17056": {
+      "id": "17056",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Dynamique Fase 2 1.6 3 Puertas",
+      "precios": {}
+    },
+    "17057": {
+      "id": "17057",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Express. Yahoo Fase 2 1.6 3 Puertas",
+      "precios": {}
+    },
+    "17058": {
+      "id": "17058",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Sportway Fase 2 1.6 3 Puertas",
+      "precios": {}
+    },
+    "17059": {
+      "id": "17059",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authent. Fase 2 Aire GNC 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17060": {
+      "id": "17060",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authent. Fase 2 GNC 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17061": {
+      "id": "17061",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Confort Fase 2 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17062": {
+      "id": "17062",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Expression Fase 2 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17063": {
+      "id": "17063",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Luxe Fase 2 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17064": {
+      "id": "17064",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fase 2 Pack GNC 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17065": {
+      "id": "17065",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Privilege Fase 2 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17066": {
+      "id": "17066",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Authentique Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17067": {
+      "id": "17067",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Confort Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17068": {
+      "id": "17068",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Expression Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17069": {
+      "id": "17069",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Fairway Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17070": {
+      "id": "17070",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "GPS Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17071": {
+      "id": "17071",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Infinit Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17072": {
+      "id": "17072",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Luxe Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17073": {
+      "id": "17073",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Privilege Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17074": {
+      "id": "17074",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Sportway Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17075": {
+      "id": "17075",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Sport Fase 2 2.0",
+      "precios": {}
+    },
+    "17076": {
+      "id": "17076",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Sport 1.6",
+      "precios": {}
+    },
+    "17077": {
+      "id": "17077",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "Sport 2.0",
+      "precios": {}
+    },
+    "17078": {
+      "id": "17078",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Authen. Pack 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6886.42,
+          "ars": 10550000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7016.97,
+          "ars": 10750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17079": {
+      "id": "17079",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Authen. Look Pack 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6951.7,
+          "ars": 10650000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7082.25,
+          "ars": 10850000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17080": {
+      "id": "17080",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7016.97,
+          "ars": 10750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7147.52,
+          "ars": 10950000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7506.53,
+          "ars": 11500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7715.4,
+          "ars": 11820000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17081": {
+      "id": "17081",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort Pack 1.2 3 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7408.62,
+          "ars": 11350000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7604.44,
+          "ars": 11650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17082": {
+      "id": "17082",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort SAT Pack 1.2 3 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 7415.14,
+          "ars": 11360000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7610.97,
+          "ars": 11660000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7819.84,
+          "ars": 11980000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17083": {
+      "id": "17083",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort Plus 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7212.79,
+          "ars": 11050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17084": {
+      "id": "17084",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort Abcp Plus 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7082.25,
+          "ars": 10850000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17085": {
+      "id": "17085",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Dynamique 1.2 3 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 7513.05,
+          "ars": 11510000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7676.24,
+          "ars": 11760000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7872.06,
+          "ars": 12060000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17086": {
+      "id": "17086",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Dynamique SAT 1.2 3 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 7617.49,
+          "ars": 11670000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7878.59,
+          "ars": 12070000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8022.19,
+          "ars": 12290000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17087": {
+      "id": "17087",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Expression 1.2 3 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7134.46,
+          "ars": 10930000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7343.34,
+          "ars": 11250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7552.22,
+          "ars": 11570000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17088": {
+      "id": "17088",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Expression PK1 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6886.42,
+          "ars": 10550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17089": {
+      "id": "17089",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Expression PK2 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17090": {
+      "id": "17090",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Expression PK2 Airbag 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6951.7,
+          "ars": 10650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17091": {
+      "id": "17091",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO GT Line 1.2 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7016.97,
+          "ars": 10750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7343.34,
+          "ars": 11250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17092": {
+      "id": "17092",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort 1.2 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7180.16,
+          "ars": 11000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7343.34,
+          "ars": 11250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7571.8,
+          "ars": 11600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7748.04,
+          "ars": 11870000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17093": {
+      "id": "17093",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort Pack 1.2 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 7278.07,
+          "ars": 11150000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7637.08,
+          "ars": 11700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17094": {
+      "id": "17094",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort SAT Pack 1.2 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 7447.78,
+          "ars": 11410000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7643.6,
+          "ars": 11710000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7852.48,
+          "ars": 12030000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17095": {
+      "id": "17095",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort Plus 1.2 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7082.25,
+          "ars": 10850000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17096": {
+      "id": "17096",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Confort Abcp Plus 1.2 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7114.88,
+          "ars": 10900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7245.43,
+          "ars": 11100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7408.62,
+          "ars": 11350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17097": {
+      "id": "17097",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Dynamique 1.2 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 7545.69,
+          "ars": 11560000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7708.88,
+          "ars": 11810000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7904.7,
+          "ars": 12110000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17098": {
+      "id": "17098",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Dynamique SAT 1.2 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 6997.39,
+          "ars": 10720000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7845.95,
+          "ars": 12020000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8054.83,
+          "ars": 12340000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17099": {
+      "id": "17099",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Expression 1.2 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6853.79,
+          "ars": 10500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17100": {
+      "id": "17100",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Expression PK1 1.2 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17101": {
+      "id": "17101",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Expression PK2 1.2 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6951.7,
+          "ars": 10650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17102": {
+      "id": "17102",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Expression PK2 Airbag 1.2 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7147.52,
+          "ars": 10950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17103": {
+      "id": "17103",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO GT Line 1.2 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17104": {
+      "id": "17104",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MIO Work 1.2",
+      "precios": {
+        "2015": {
+          "usd": 7016.97,
+          "ars": 10750000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 7212.79,
+          "ars": 11050000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 7389.03,
+          "ars": 11320000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17105": {
+      "id": "17105",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "MTV Aire Dirección 3 Puertas",
+      "precios": {}
+    },
+    "17106": {
+      "id": "17106",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RL 3 Puertas",
+      "precios": {}
+    },
+    "17107": {
+      "id": "17107",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RL Aire 3 Puertas",
+      "precios": {}
+    },
+    "17108": {
+      "id": "17108",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RL 5 Puertas",
+      "precios": {}
+    },
+    "17109": {
+      "id": "17109",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RL Aire 5 Puertas",
+      "precios": {}
+    },
+    "17110": {
+      "id": "17110",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD 3 Puertas",
+      "precios": {}
+    },
+    "17111": {
+      "id": "17111",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD Dirección 3 Puertas",
+      "precios": {}
+    },
+    "17112": {
+      "id": "17112",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD Dirección Aire 3 Puertas",
+      "precios": {}
+    },
+    "17113": {
+      "id": "17113",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD Fase 3 Puertas Serie III",
+      "precios": {}
+    },
+    "17114": {
+      "id": "17114",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD Fase Dirección 3 Puertas Serie III",
+      "precios": {}
+    },
+    "17115": {
+      "id": "17115",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD Dirección 5 Puertas",
+      "precios": {}
+    },
+    "17116": {
+      "id": "17116",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD Dirección Aire 5 Puertas",
+      "precios": {}
+    },
+    "17117": {
+      "id": "17117",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD Fase 5 Puertas Serie III",
+      "precios": {}
+    },
+    "17118": {
+      "id": "17118",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RLD Fase Dirección 5 Puertas Serie III",
+      "precios": {}
+    },
+    "17119": {
+      "id": "17119",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN 3 Puertas",
+      "precios": {}
+    },
+    "17120": {
+      "id": "17120",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire 3 Puertas",
+      "precios": {}
+    },
+    "17121": {
+      "id": "17121",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN PK2 Aire 3 Puertas",
+      "precios": {}
+    },
+    "17122": {
+      "id": "17122",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Fase 3 Puertas Serie III",
+      "precios": {}
+    },
+    "17123": {
+      "id": "17123",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN 5 Puertas",
+      "precios": {}
+    },
+    "17124": {
+      "id": "17124",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN Aire 5 Puertas",
+      "precios": {}
+    },
+    "17125": {
+      "id": "17125",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RN PK2 Aire 5 Puertas",
+      "precios": {}
+    },
+    "17126": {
+      "id": "17126",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RND Dirección Aire Pack 3 Puertas",
+      "precios": {}
+    },
+    "17127": {
+      "id": "17127",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RND Dirección Aire Pack 5 Puertas",
+      "precios": {}
+    },
+    "17128": {
+      "id": "17128",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RSI 3 Puertas",
+      "precios": {}
+    },
+    "17129": {
+      "id": "17129",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RT 5 Puertas",
+      "precios": {}
+    },
+    "17130": {
+      "id": "17130",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RT Dirección 5 Puertas",
+      "precios": {}
+    },
+    "17131": {
+      "id": "17131",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RT PK2 5 Puertas",
+      "precios": {}
+    },
+    "17132": {
+      "id": "17132",
+      "marcaId": "147",
+      "modeloId": "1673",
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "version": "RT PK2 Dirección 5 Puertas",
+      "precios": {}
+    },
+    "17218": {
+      "id": "17218",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Iconic 1.3 Turbo CVT 4x2",
+      "precios": {
+        "2021": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 18733.68,
+          "ars": 28700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17219": {
+      "id": "17219",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Iconic 1.3 Turbo CVT 4x2 Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 20039.16,
+          "ars": 30700000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 20822.45,
+          "ars": 31900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17220": {
+      "id": "17220",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Iconic 1.3 Turbo CVT 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 32030.03,
+          "ars": 49070000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23368.15,
+          "ars": 35800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24543.08,
+          "ars": 37600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17221": {
+      "id": "17221",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Outsider 1.3 Turbo CVT 4x2",
+      "precios": {
+        "2021": {
+          "usd": 16579.63,
+          "ars": 25400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17558.75,
+          "ars": 26900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17222": {
+      "id": "17222",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Iconic 1.3 Turbo 4x4",
+      "precios": {
+        "2021": {
+          "usd": 18211.49,
+          "ars": 27900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19190.6,
+          "ars": 29400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17223": {
+      "id": "17223",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Iconic 1.3 Turbo 4x4 Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 20365.54,
+          "ars": 31200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 21409.92,
+          "ars": 32800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17224": {
+      "id": "17224",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Iconic 1.3 Turbo 4x4 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 33511.75,
+          "ars": 51340000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 22976.5,
+          "ars": 35200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 24086.16,
+          "ars": 36900000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 25391.64,
+          "ars": 38900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17225": {
+      "id": "17225",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Confort 1.6 4x2",
+      "precios": {
+        "2013": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9007.83,
+          "ars": 13800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17226": {
+      "id": "17226",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Confort Plus 1.6 4x2",
+      "precios": {
+        "2013": {
+          "usd": 8812.01,
+          "ars": 13500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17227": {
+      "id": "17227",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Dakar 1.6 4x2 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17228": {
+      "id": "17228",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Dakar Spirit 1.6 4x2",
+      "precios": {
+        "2015": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17229": {
+      "id": "17229",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Dynamique 1.6 4x2",
+      "precios": {}
+    },
+    "17230": {
+      "id": "17230",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Dynamique 1.6 4x2 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17231": {
+      "id": "17231",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Expression 1.6 4x2",
+      "precios": {}
+    },
+    "17232": {
+      "id": "17232",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Expression 1.6 4x2 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13838.12,
+          "ars": 21200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17233": {
+      "id": "17233",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Intens 1.6 4x2 Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 15143.6,
+          "ars": 23200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17234": {
+      "id": "17234",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Intens 1.6 CVT 4x2 Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 17167.1,
+          "ars": 26300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17235": {
+      "id": "17235",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Intens 1.6 4x2 Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 17754.57,
+          "ars": 27200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18668.41,
+          "ars": 28600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17236": {
+      "id": "17236",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Intens 1.6 CVT 4x2 Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 19190.6,
+          "ars": 29400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17237": {
+      "id": "17237",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Intens 1.6 4x2 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 29171.02,
+          "ars": 44690000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 19973.89,
+          "ars": 30600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 21018.28,
+          "ars": 32200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22584.86,
+          "ars": 34600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17238": {
+      "id": "17238",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "LOS Pumas 1.6 4x2",
+      "precios": {
+        "2019": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17239": {
+      "id": "17239",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Privilege 1.6 4x2 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 11129.24,
+          "ars": 17050000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11651.44,
+          "ars": 17850000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12173.63,
+          "ars": 18650000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12695.82,
+          "ars": 19450000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13413.84,
+          "ars": 20550000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14001.31,
+          "ars": 21450000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17240": {
+      "id": "17240",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Tech Road 1.6 4x2",
+      "precios": {
+        "2013": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17241": {
+      "id": "17241",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "ZEN 1.6 4x2 Modelo 2021",
+      "precios": {
+        "2021": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 16187.99,
+          "ars": 24800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17242": {
+      "id": "17242",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Dakar 2.0 4x2",
+      "precios": {
+        "2017": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17243": {
+      "id": "17243",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "LOS Pumas 2.0 4x2",
+      "precios": {
+        "2013": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9530.03,
+          "ars": 14600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17244": {
+      "id": "17244",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Luxe 2.0 4x2",
+      "precios": {
+        "2013": {
+          "usd": 9268.93,
+          "ars": 14200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17245": {
+      "id": "17245",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Luxe Navegación 2.0 4x2",
+      "precios": {
+        "2013": {
+          "usd": 9301.57,
+          "ars": 14250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 9627.94,
+          "ars": 14750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9954.31,
+          "ars": 15250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17246": {
+      "id": "17246",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Privilege 2.0 4x2",
+      "precios": {}
+    },
+    "17247": {
+      "id": "17247",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Privilege 2.0 4x2 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15274.15,
+          "ars": 23400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17248": {
+      "id": "17248",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Dakar 2.0 4x4",
+      "precios": {
+        "2017": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17249": {
+      "id": "17249",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "LOS Pumas 2.0 4x4",
+      "precios": {
+        "2013": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17250": {
+      "id": "17250",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Luxe 2.0 4x4",
+      "precios": {
+        "2013": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17251": {
+      "id": "17251",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Luxe Navegación 2.0 4x4",
+      "precios": {
+        "2013": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17252": {
+      "id": "17252",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Privilege 2.0 4x4",
+      "precios": {}
+    },
+    "17253": {
+      "id": "17253",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Privilege 2.0 4x4 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 13642.3,
+          "ars": 20900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14425.59,
+          "ars": 22100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 15208.88,
+          "ars": 23300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17254": {
+      "id": "17254",
+      "marcaId": "147",
+      "modeloId": "1679",
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "version": "Tech Road 2.0 4x4",
+      "precios": {
+        "2013": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17273": {
+      "id": "17273",
+      "marcaId": "147",
+      "modeloId": "1681",
+      "marca": "RENAULT",
+      "modelo": "EXPRESS",
+      "version": "RL 1.6",
+      "precios": {}
+    },
+    "17274": {
+      "id": "17274",
+      "marcaId": "147",
+      "modeloId": "1681",
+      "marca": "RENAULT",
+      "modelo": "EXPRESS",
+      "version": "RL 1.9 Diésel",
+      "precios": {}
+    },
+    "17275": {
+      "id": "17275",
+      "marcaId": "147",
+      "modeloId": "1681",
+      "marca": "RENAULT",
+      "modelo": "EXPRESS",
+      "version": "RN 1.9 Diésel",
+      "precios": {}
+    },
+    "17276": {
+      "id": "17276",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Confort 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7832.9,
+          "ars": 12000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17277": {
+      "id": "17277",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Confort Plus 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7571.8,
+          "ars": 11600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7963.45,
+          "ars": 12200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17278": {
+      "id": "17278",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Dynamique 1.6 Modelo 2015",
+      "precios": {
+        "2014": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8877.28,
+          "ars": 13600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9073.11,
+          "ars": 13900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10052.22,
+          "ars": 15400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17279": {
+      "id": "17279",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Dynamique Pack 1.6 Modelo 2015",
+      "precios": {
+        "2014": {
+          "usd": 8812.01,
+          "ars": 13500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9007.83,
+          "ars": 13800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17280": {
+      "id": "17280",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe 1.6",
+      "precios": {
+        "2015": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9660.57,
+          "ars": 14800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17281": {
+      "id": "17281",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Dynamique 2.0",
+      "precios": {
+        "2013": {
+          "usd": 7930.81,
+          "ars": 12150000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17282": {
+      "id": "17282",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "GT 2.0",
+      "precios": {
+        "2013": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17283": {
+      "id": "17283",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "GT2 2.0",
+      "precios": {
+        "2015": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17284": {
+      "id": "17284",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe 2.0",
+      "precios": {
+        "2013": {
+          "usd": 8061.36,
+          "ars": 12350000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8322.45,
+          "ars": 12750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17285": {
+      "id": "17285",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe 2.0 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10182.77,
+          "ars": 15600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17286": {
+      "id": "17286",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe 2.0 CVT Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 9758.49,
+          "ars": 14950000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9954.31,
+          "ars": 15250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10215.4,
+          "ars": 15650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17287": {
+      "id": "17287",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe Pack 2.0 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9986.95,
+          "ars": 15300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17288": {
+      "id": "17288",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe Cuero Pack 2.0 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 9268.93,
+          "ars": 14200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10052.22,
+          "ars": 15400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17289": {
+      "id": "17289",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe Pack 2.0 CVT Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17290": {
+      "id": "17290",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe Rlink 2.0",
+      "precios": {
+        "2014": {
+          "usd": 8518.28,
+          "ars": 13050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17291": {
+      "id": "17291",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Luxe Rlink Cuero 2.0",
+      "precios": {
+        "2014": {
+          "usd": 8550.91,
+          "ars": 13100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17292": {
+      "id": "17292",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Privilege 2.0",
+      "precios": {
+        "2013": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8844.65,
+          "ars": 13550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17293": {
+      "id": "17293",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Privilege 2.0 CVT",
+      "precios": {
+        "2013": {
+          "usd": 8550.91,
+          "ars": 13100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8909.92,
+          "ars": 13650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17294": {
+      "id": "17294",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Privilege 2.0 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17295": {
+      "id": "17295",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Privilege 2.0 CVT Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17296": {
+      "id": "17296",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Sport Turbo 2.0",
+      "precios": {
+        "2013": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17299": {
+      "id": "17299",
+      "marcaId": "147",
+      "modeloId": "1684",
+      "marca": "RENAULT",
+      "modelo": "GRAND SCENIC",
+      "version": "Dynamique Confort",
+      "precios": {}
+    },
+    "17300": {
+      "id": "17300",
+      "marcaId": "147",
+      "modeloId": "1684",
+      "marca": "RENAULT",
+      "modelo": "GRAND SCENIC",
+      "version": "Dynamique Plus",
+      "precios": {}
+    },
+    "17337": {
+      "id": "17337",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 7454.31,
+          "ars": 11420000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7911.23,
+          "ars": 12120000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17338": {
+      "id": "17338",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza 1.5 Diésel 7 Asientos",
+      "precios": {}
+    },
+    "17339": {
+      "id": "17339",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique SL Puerta Lateral Corrediza 1.5 Diésel 7 Asientos",
+      "precios": {}
+    },
+    "17340": {
+      "id": "17340",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza Plus 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 7552.22,
+          "ars": 11570000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8074.41,
+          "ars": 12370000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17341": {
+      "id": "17341",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique SL Puerta Lateral Corrediza Plus 1.5 Diésel",
+      "precios": {}
+    },
+    "17342": {
+      "id": "17342",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Campus Puerta Lateral Corrediza 1.5 Diésel",
+      "precios": {}
+    },
+    "17345": {
+      "id": "17345",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Auth 7A Plus Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 8746.74,
+          "ars": 13400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9268.93,
+          "ars": 14200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10378.59,
+          "ars": 15900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17346": {
+      "id": "17346",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authen Plus Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 8681.46,
+          "ars": 13300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17347": {
+      "id": "17347",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentiq. 7A SL Puerta Lateral Corrediza Plus 1.6",
+      "precios": {}
+    },
+    "17348": {
+      "id": "17348",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17349": {
+      "id": "17349",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 9007.83,
+          "ars": 13800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9530.03,
+          "ars": 14600000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17350": {
+      "id": "17350",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza Plus 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7408.62,
+          "ars": 11350000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7865.54,
+          "ars": 12050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17351": {
+      "id": "17351",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique 7A Puerta Lateral Corrediza Plus 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7441.25,
+          "ars": 11400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7898.17,
+          "ars": 12100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17352": {
+      "id": "17352",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique SL Puerta Lateral Corrediza Plus 1.6",
+      "precios": {}
+    },
+    "17354": {
+      "id": "17354",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Campus 7A Puerta Lateral Corrediza 1.6",
+      "precios": {}
     },
     "131666": {
       "id": "131666",
@@ -114406,6 +121409,86 @@
         "2026": {
           "usd": 42659.92,
           "ars": 65355000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "247295": {
+      "id": "247295",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Electric Coupé",
+      "precios": {
+        "0": {
+          "usd": 193574.41,
+          "ars": 296556000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 177545.69,
+          "ars": 272000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "247297": {
+      "id": "247297",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S Coupé",
+      "precios": {
+        "0": {
+          "usd": 216892.95,
+          "ars": 332280000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 194516.97,
+          "ars": 298000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "247301": {
+      "id": "247301",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "S Electric Coupé",
+      "precios": {
+        "0": {
+          "usd": 215263.71,
+          "ars": 329784000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 195822.45,
+          "ars": 300000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "247308": {
+      "id": "247308",
+      "marcaId": "144",
+      "modeloId": "1659",
+      "marca": "PORSCHE",
+      "modelo": "CAYENNE",
+      "version": "Turbo Electric Coupé",
+      "precios": {
+        "0": {
+          "usd": 280535.25,
+          "ars": 429780000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 248694.52,
+          "ars": 381000000,
           "cotizacion": 1532
         }
       }
