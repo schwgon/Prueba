@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-18T13:43:38.434Z",
+  "actualizado": "2026-09-18T15:47:07.976Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 8712,
-  "versionesConValuacion": 4259,
+  "versionesProcesadas": 9060,
+  "versionesConValuacion": 4376,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -141886,6 +141886,31 @@
         }
       }
     },
+    "18918": {
+      "id": "18918",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus 1.4 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6201.04,
+          "ars": 9500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6527.42,
+          "ars": 10000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 6853.79,
+          "ars": 10500000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "18919": {
       "id": "18919",
       "marcaId": "157",
@@ -141907,6 +141932,31 @@
         "2015": {
           "usd": 6821.15,
           "ars": 10450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18920": {
+      "id": "18920",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus 1.4 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 6266.32,
+          "ars": 9600000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6592.69,
+          "ars": 10100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 6919.06,
+          "ars": 10600000,
           "cotizacion": 1532
         }
       }
@@ -142154,6 +142204,69 @@
       "version": "Power 1.6 3 Puertas",
       "precios": {}
     },
+    "18949": {
+      "id": "18949",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Aire Dirección 1.6 3 Puertas",
+      "precios": {}
+    },
+    "18950": {
+      "id": "18950",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus 1.6 3 Puertas",
+      "precios": {}
+    },
+    "18951": {
+      "id": "18951",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus Aire 1.6 3 Puertas",
+      "precios": {}
+    },
+    "18952": {
+      "id": "18952",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline 1.6 3 Puertas",
+      "precios": {}
+    },
+    "18953": {
+      "id": "18953",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline 1.6 3 Puertas 2",
+      "precios": {}
+    },
+    "18954": {
+      "id": "18954",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline Airbag 1.6 3 Puertas",
+      "precios": {}
+    },
+    "18955": {
+      "id": "18955",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline Plus 1.6 3 Puertas",
+      "precios": {}
+    },
     "18956": {
       "id": "18956",
       "marcaId": "157",
@@ -142289,6 +142402,51 @@
       "version": "Plus 1.6 Nafta 5 Puertas",
       "precios": {}
     },
+    "18973": {
+      "id": "18973",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power 1.6 5 Puertas",
+      "precios": {}
+    },
+    "18974": {
+      "id": "18974",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Aire Dirección 1.6 5 Puertas",
+      "precios": {}
+    },
+    "18975": {
+      "id": "18975",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus 1.6 5 Puertas",
+      "precios": {}
+    },
+    "18976": {
+      "id": "18976",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus Aire 1.6 5 Puertas",
+      "precios": {}
+    },
+    "18977": {
+      "id": "18977",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline 1.6 5 Puertas",
+      "precios": {}
+    },
     "18981": {
       "id": "18981",
       "marcaId": "157",
@@ -142415,6 +142573,60 @@
       "version": "Format 1.9 Diésel 3 Puertas 2",
       "precios": {}
     },
+    "18995": {
+      "id": "18995",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus 1.9 Diésel 3 Puertas",
+      "precios": {}
+    },
+    "18996": {
+      "id": "18996",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus Aire 1.9 Diésel 3 Puertas",
+      "precios": {}
+    },
+    "18997": {
+      "id": "18997",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline 1.9 Diésel 3 Puertas",
+      "precios": {}
+    },
+    "18998": {
+      "id": "18998",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline 1.9 Diésel 3 Puertas 2",
+      "precios": {}
+    },
+    "18999": {
+      "id": "18999",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline Airbag 1.9 Diésel 3 Puertas",
+      "precios": {}
+    },
+    "19000": {
+      "id": "19000",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline Plus 1.9 Diésel 3 Puertas",
+      "precios": {}
+    },
     "19001": {
       "id": "19001",
       "marcaId": "157",
@@ -142431,6 +142643,69 @@
       "marca": "VOLKSWAGEN",
       "modelo": "GOL",
       "version": "GLD Full 1.9 3 Puertas",
+      "precios": {}
+    },
+    "19003": {
+      "id": "19003",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD 1.9 3 Puertas",
+      "precios": {}
+    },
+    "19004": {
+      "id": "19004",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dublin Dirección 1.9 3 Puertas",
+      "precios": {}
+    },
+    "19005": {
+      "id": "19005",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dublin Dirección Aire 1.9 3 Puertas",
+      "precios": {}
+    },
+    "19006": {
+      "id": "19006",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dublin Dirección Aire Pack 1.9 3 Puertas",
+      "precios": {}
+    },
+    "19007": {
+      "id": "19007",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dublin Full 1.9 3 Puertas",
+      "precios": {}
+    },
+    "19008": {
+      "id": "19008",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Full 1.9 3 Puertas",
+      "precios": {}
+    },
+    "19009": {
+      "id": "19009",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Lamy 1.9 3 Puertas",
       "precios": {}
     },
     "19010": {
@@ -142485,6 +142760,150 @@
       "marca": "VOLKSWAGEN",
       "modelo": "GOL",
       "version": "Format 1.9 Diésel 5 Puertas 2",
+      "precios": {}
+    },
+    "19016": {
+      "id": "19016",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus 1.9 Diésel 5 Puertas",
+      "precios": {}
+    },
+    "19017": {
+      "id": "19017",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Power Plus Aire 1.9 Diésel 5 Puertas",
+      "precios": {}
+    },
+    "19018": {
+      "id": "19018",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline 1.9 Diésel 5 Puertas",
+      "precios": {}
+    },
+    "19019": {
+      "id": "19019",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline 1.9 Diésel 5 Puertas 2",
+      "precios": {}
+    },
+    "19020": {
+      "id": "19020",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline Airbag 1.9 Diésel 5 Puertas",
+      "precios": {}
+    },
+    "19021": {
+      "id": "19021",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline Plus 1.9 Diésel 5 Puertas",
+      "precios": {}
+    },
+    "19022": {
+      "id": "19022",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19023": {
+      "id": "19023",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dirección 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19024": {
+      "id": "19024",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dirección Aire 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19025": {
+      "id": "19025",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dublin Dirección 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19026": {
+      "id": "19026",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dublin Dirección Aire 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19027": {
+      "id": "19027",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dublin Dirección Aire Pack 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19028": {
+      "id": "19028",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Dublin Full 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19029": {
+      "id": "19029",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Full 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19030": {
+      "id": "19030",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Lamy 1.9 5 Puertas",
+      "precios": {}
+    },
+    "19031": {
+      "id": "19031",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "SD Plus 1.9 5 Puertas",
       "precios": {}
     },
     "19032": {
@@ -142902,6 +143321,4954 @@
       "marca": "VOLKSWAGEN",
       "modelo": "GOL",
       "version": "Country SD Trendline 1.9",
+      "precios": {}
+    },
+    "19077": {
+      "id": "19077",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend 1.6 3 Puertas Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 7212.79,
+          "ars": 11050000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7473.89,
+          "ars": 11450000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7800.26,
+          "ars": 11950000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8453,
+          "ars": 12950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19078": {
+      "id": "19078",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Highline 1.6 3 Puertas Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 7865.54,
+          "ars": 12050000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8453,
+          "ars": 12950000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8779.37,
+          "ars": 13450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19079": {
+      "id": "19079",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 3 Puertas Modelo 2013 1",
+      "precios": {
+        "2013": {
+          "usd": 7343.34,
+          "ars": 11250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7604.44,
+          "ars": 11650000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7930.81,
+          "ars": 12150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19080": {
+      "id": "19080",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 3 Puertas Modelo 2013 2",
+      "precios": {
+        "2013": {
+          "usd": 7408.62,
+          "ars": 11350000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7669.71,
+          "ars": 11750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7996.08,
+          "ars": 12250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19081": {
+      "id": "19081",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 3 Puertas Modelo 2013 3",
+      "precios": {
+        "2013": {
+          "usd": 7539.16,
+          "ars": 11550000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7800.26,
+          "ars": 11950000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19082": {
+      "id": "19082",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Startliine 1.6 3 Puertas Modelo 2013",
+      "precios": {
+        "2015": {
+          "usd": 7996.08,
+          "ars": 12250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8322.45,
+          "ars": 12750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19083": {
+      "id": "19083",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Trendline 1.6 3 Puertas Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 7539.16,
+          "ars": 11550000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7800.26,
+          "ars": 11950000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8453,
+          "ars": 12950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19084": {
+      "id": "19084",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend 1.6 3 Puertas Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 8779.37,
+          "ars": 13450000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9171.02,
+          "ars": 14050000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9562.66,
+          "ars": 14650000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10019.58,
+          "ars": 15350000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10541.78,
+          "ars": 16150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19085": {
+      "id": "19085",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Trendline 1.6 3 Puertas Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 9040.47,
+          "ars": 13850000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9432.11,
+          "ars": 14450000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9823.76,
+          "ars": 15050000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10280.68,
+          "ars": 15750000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10802.87,
+          "ars": 16550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19086": {
+      "id": "19086",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend 1.6 5 Puertas",
+      "precios": {}
+    },
+    "19087": {
+      "id": "19087",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend CUP 1.6 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 7800.26,
+          "ars": 11950000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19088": {
+      "id": "19088",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend 1.6 5 Puertas Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 7343.34,
+          "ars": 11250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7604.44,
+          "ars": 11650000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7930.81,
+          "ars": 12150000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8257.18,
+          "ars": 12650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19089": {
+      "id": "19089",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend HIG Imotion 1.6 5 Puertas Modelo 2013",
+      "precios": {
+        "2014": {
+          "usd": 8322.45,
+          "ars": 12750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8648.83,
+          "ars": 13250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8975.2,
+          "ars": 13750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19090": {
+      "id": "19090",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Highline 1.6 5 Puertas Modelo 2013",
+      "precios": {
+        "2014": {
+          "usd": 8257.18,
+          "ars": 12650000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8583.55,
+          "ars": 13150000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8909.92,
+          "ars": 13650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19091": {
+      "id": "19091",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 5 Puertas Modelo 2013 1",
+      "precios": {
+        "2013": {
+          "usd": 7473.89,
+          "ars": 11450000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7734.99,
+          "ars": 11850000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8061.36,
+          "ars": 12350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19092": {
+      "id": "19092",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 5 Puertas Modelo 2013 2",
+      "precios": {
+        "2013": {
+          "usd": 7539.16,
+          "ars": 11550000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7800.26,
+          "ars": 11950000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19093": {
+      "id": "19093",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 5 Puertas Modelo 2013 3",
+      "precios": {
+        "2013": {
+          "usd": 7669.71,
+          "ars": 11750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7930.81,
+          "ars": 12150000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8257.18,
+          "ars": 12650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19094": {
+      "id": "19094",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Mot. Pack 1.6 Nafta 5 Puertas Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 7734.99,
+          "ars": 11850000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7996.08,
+          "ars": 12250000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8322.45,
+          "ars": 12750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19095": {
+      "id": "19095",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Trendlin 1.6 5 Puertas Modelo 2013",
+      "precios": {
+        "2014": {
+          "usd": 7930.81,
+          "ars": 12150000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8257.18,
+          "ars": 12650000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8583.55,
+          "ars": 13150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19096": {
+      "id": "19096",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend 1.6 5 Puertas Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 8844.65,
+          "ars": 13550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9236.29,
+          "ars": 14150000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9627.94,
+          "ars": 14750000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10084.86,
+          "ars": 15450000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10607.05,
+          "ars": 16250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19097": {
+      "id": "19097",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Comfortline 1.6 5 Puertas Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 9627.94,
+          "ars": 14750000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10019.58,
+          "ars": 15350000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10476.5,
+          "ars": 16050000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10998.69,
+          "ars": 16850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19098": {
+      "id": "19098",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Connect 1.6 5 Puertas Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 9301.57,
+          "ars": 14250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9693.21,
+          "ars": 14850000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10084.86,
+          "ars": 15450000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10541.78,
+          "ars": 16150000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11063.97,
+          "ars": 16950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19099": {
+      "id": "19099",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Highline 1.6 5 Puertas Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 9301.57,
+          "ars": 14250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9693.21,
+          "ars": 14850000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10084.86,
+          "ars": 15450000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10541.78,
+          "ars": 16150000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11063.97,
+          "ars": 16950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19100": {
+      "id": "19100",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Highline Motion 1.6 Nafta 5 Puertas Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 9432.11,
+          "ars": 14450000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9823.76,
+          "ars": 15050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19101": {
+      "id": "19101",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Sportline 1.6 5 Puertas Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 9366.84,
+          "ars": 14350000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9758.49,
+          "ars": 14950000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10150.13,
+          "ars": 15550000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10607.05,
+          "ars": 16250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11129.24,
+          "ars": 17050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19102": {
+      "id": "19102",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Trendline 1.6 5 Puertas Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 9105.74,
+          "ars": 13950000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9497.39,
+          "ars": 14550000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9889.03,
+          "ars": 15150000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10345.95,
+          "ars": 15850000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10868.15,
+          "ars": 16650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19103": {
+      "id": "19103",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Comfortline 1.6 5 Puertas Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 11586.16,
+          "ars": 17750000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11977.81,
+          "ars": 18350000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12369.45,
+          "ars": 18950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19104": {
+      "id": "19104",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Comfortline 1.6 Automática 5 Puertas Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 11716.71,
+          "ars": 17950000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12108.36,
+          "ars": 18550000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12500,
+          "ars": 19150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19105": {
+      "id": "19105",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Trendline 1.6 5 Puertas Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 11455.61,
+          "ars": 17550000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11847.26,
+          "ars": 18150000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12238.9,
+          "ars": 18750000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12630.55,
+          "ars": 19350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19106": {
+      "id": "19106",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Trendline 1.6 Tiptronic 5 Puertas Modelo 2019",
+      "precios": {
+        "2020": {
+          "usd": 11977.81,
+          "ars": 18350000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12369.45,
+          "ars": 18950000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12761.1,
+          "ars": 19550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19107": {
+      "id": "19107",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 5 Puertas 1",
+      "precios": {}
+    },
+    "19108": {
+      "id": "19108",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack Plus 1.6 5 Puertas",
+      "precios": {}
+    },
+    "19109": {
+      "id": "19109",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Motion Pack Plus 1.6 Nafta 5 Puertas",
+      "precios": {}
+    },
+    "19110": {
+      "id": "19110",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 5 Puertas 2",
+      "precios": {}
+    },
+    "19111": {
+      "id": "19111",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Pack 1.6 5 Puertas 3",
+      "precios": {}
+    },
+    "19112": {
+      "id": "19112",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Motion Pack 1.6 Nafta 5 Puertas",
+      "precios": {}
+    },
+    "19113": {
+      "id": "19113",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Sportline 1.6 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 8648.83,
+          "ars": 13250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8975.2,
+          "ars": 13750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19114": {
+      "id": "19114",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trend Startline 1.6 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8453,
+          "ars": 12950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19135": {
+      "id": "19135",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Advance 1.6",
+      "precios": {}
+    },
+    "19136": {
+      "id": "19136",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Comfortline 1.6",
+      "precios": {}
+    },
+    "19137": {
+      "id": "19137",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Conceptline 1.6",
+      "precios": {}
+    },
+    "19138": {
+      "id": "19138",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Format 1.6",
+      "precios": {}
+    },
+    "19139": {
+      "id": "19139",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Format Aleman 1.6",
+      "precios": {}
+    },
+    "19140": {
+      "id": "19140",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Impulse 1.6",
+      "precios": {}
+    },
+    "19141": {
+      "id": "19141",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GL 1.8 Nafta",
+      "precios": {}
+    },
+    "19142": {
+      "id": "19142",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GL Aire 1.8 Nafta",
+      "precios": {}
+    },
+    "19143": {
+      "id": "19143",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI 1.8 Turbo 150 CV",
+      "precios": {}
+    },
+    "19144": {
+      "id": "19144",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI 1.8 Turbo 150 CV 3 Puertas",
+      "precios": {}
+    },
+    "19145": {
+      "id": "19145",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI 1.8 Turbo 180 CV",
+      "precios": {}
+    },
+    "19146": {
+      "id": "19146",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI 1.8 Turbo 180 CV 3 Puertas",
+      "precios": {}
+    },
+    "19147": {
+      "id": "19147",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI Highline Cuero 1.8 Turbo 180 CV",
+      "precios": {}
+    },
+    "19148": {
+      "id": "19148",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI Highline Cuero T 1.8 Turbo 180 CV",
+      "precios": {}
+    },
+    "19149": {
+      "id": "19149",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI Highline 1.8 Turbo Tiptronic 180 CV",
+      "precios": {}
+    },
+    "19150": {
+      "id": "19150",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI 1.8 Turbo 180 CV Modelo 2007",
+      "precios": {}
+    },
+    "19151": {
+      "id": "19151",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI 1.8 Turbo Tiptronic 180 CV Modelo 2007",
+      "precios": {}
+    },
+    "19152": {
+      "id": "19152",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTD 1.9",
+      "precios": {}
+    },
+    "19153": {
+      "id": "19153",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTD Full 1.9",
+      "precios": {}
+    },
+    "19154": {
+      "id": "19154",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Advance 1.9 TDI",
+      "precios": {}
+    },
+    "19155": {
+      "id": "19155",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Comfortline 1.9 TDI",
+      "precios": {}
+    },
+    "19156": {
+      "id": "19156",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Format 1.9 TDI",
+      "precios": {}
+    },
+    "19157": {
+      "id": "19157",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Advance 2.0",
+      "precios": {}
+    },
+    "19158": {
+      "id": "19158",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Advance 2.0 Tiptronic",
+      "precios": {}
+    },
+    "19159": {
+      "id": "19159",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "2.0 Cabriolet",
+      "precios": {}
+    },
+    "19160": {
+      "id": "19160",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Conceptline 2.0",
+      "precios": {}
+    },
+    "19161": {
+      "id": "19161",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GLX Techo Corredizo 2.0",
+      "precios": {}
+    },
+    "19162": {
+      "id": "19162",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI 2.0",
+      "precios": {}
+    },
+    "19163": {
+      "id": "19163",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Highline 2.0",
+      "precios": {}
+    },
+    "19164": {
+      "id": "19164",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Highline 2.0 Automática",
+      "precios": {}
+    },
+    "19165": {
+      "id": "19165",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Highline 2.0 Modelo 2007",
+      "precios": {}
+    },
+    "19166": {
+      "id": "19166",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Highline 2.0 Tiptronic Modelo 2007",
+      "precios": {}
+    },
+    "19167": {
+      "id": "19167",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI TSI 2.0 Turbo",
+      "precios": {
+        "2013": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19168": {
+      "id": "19168",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "GTI TSI 2.0 Turbo Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19169": {
+      "id": "19169",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Motion 2.8 V6",
+      "precios": {}
+    },
+    "19170": {
+      "id": "19170",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VR6 2.8",
+      "precios": {}
+    },
+    "19171": {
+      "id": "19171",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Variant Comfortline 1.6",
+      "precios": {}
+    },
+    "19172": {
+      "id": "19172",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Variant Comfortline 1.9 TDI",
+      "precios": {}
+    },
+    "19173": {
+      "id": "19173",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Variant Highline 2.0",
+      "precios": {}
+    },
+    "19174": {
+      "id": "19174",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "Variant Highline 2.0 Automática",
+      "precios": {}
+    },
+    "19175": {
+      "id": "19175",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII Highline 1.4 TSI Doble Embrague",
+      "precios": {
+        "2020": {
+          "usd": 21344.65,
+          "ars": 32700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 22650.13,
+          "ars": 34700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23955.61,
+          "ars": 36700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19176": {
+      "id": "19176",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII BLU TEC Comfortline 1.4 TSI",
+      "precios": {
+        "2015": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19177": {
+      "id": "19177",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII BLU TEC Comfortline 1.4 TSI Doble Embrague",
+      "precios": {
+        "2015": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13903.39,
+          "ars": 21300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 16187.99,
+          "ars": 24800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 19125.33,
+          "ars": 29300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19178": {
+      "id": "19178",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII BLU TEC Highline 1.4 TSI Doble Embrague",
+      "precios": {
+        "2015": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 14882.51,
+          "ars": 22800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 15861.62,
+          "ars": 24300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17167.1,
+          "ars": 26300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18472.58,
+          "ars": 28300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 20104.44,
+          "ars": 30800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19179": {
+      "id": "19179",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII Variant Comfor 1.4 TSI",
+      "precios": {
+        "2015": {
+          "usd": 12989.56,
+          "ars": 19900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14751.96,
+          "ars": 22600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 16057.44,
+          "ars": 24600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 17362.92,
+          "ars": 26600000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 18994.78,
+          "ars": 29100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19180": {
+      "id": "19180",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII Variant Comfor 1.4 TSI Doble Embrague",
+      "precios": {
+        "2015": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 16253.26,
+          "ars": 24900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 17558.75,
+          "ars": 26900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 19190.6,
+          "ars": 29400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19181": {
+      "id": "19181",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII Variant Highline 1.4 TSI Doble Embrague",
+      "precios": {
+        "2015": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 14947.78,
+          "ars": 22900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 15926.89,
+          "ars": 24400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 17232.38,
+          "ars": 26400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 18537.86,
+          "ars": 28400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 20169.71,
+          "ars": 30900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19182": {
+      "id": "19182",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII Trendline 1.6 Nafta",
+      "precios": {
+        "2015": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15469.97,
+          "ars": 23700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19183": {
+      "id": "19183",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII Variant Trendline 1.6 Nafta",
+      "precios": {
+        "2016": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15535.25,
+          "ars": 23800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16187.99,
+          "ars": 24800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19184": {
+      "id": "19184",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII Variant Trendline 1.6 Nafta Doble Embrague",
+      "precios": {
+        "2016": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14751.96,
+          "ars": 22600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15731.07,
+          "ars": 24100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16383.81,
+          "ars": 25100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19185": {
+      "id": "19185",
+      "marcaId": "157",
+      "modeloId": "1795",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "version": "VII GTI 2.0",
+      "precios": {
+        "2016": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19186": {
+      "id": "19186",
+      "marcaId": "157",
+      "modeloId": "1796",
+      "marca": "VOLKSWAGEN",
+      "modelo": "MULTIVAN",
+      "version": "Comfortline 1.9 TDI",
+      "precios": {}
+    },
+    "19187": {
+      "id": "19187",
+      "marcaId": "157",
+      "modeloId": "1796",
+      "marca": "VOLKSWAGEN",
+      "modelo": "MULTIVAN",
+      "version": "Highline 2.5 TDI",
+      "precios": {}
+    },
+    "19188": {
+      "id": "19188",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "1.8 Turbo Sport",
+      "precios": {}
+    },
+    "19189": {
+      "id": "19189",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "1.8 Turbo Tiptronic Sport",
+      "precios": {}
+    },
+    "19190": {
+      "id": "19190",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.0 Advance",
+      "precios": {}
+    },
+    "19191": {
+      "id": "19191",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.0 Tiptronic Advance",
+      "precios": {}
+    },
+    "19192": {
+      "id": "19192",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.0 Luxury",
+      "precios": {}
+    },
+    "19193": {
+      "id": "19193",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.0 Tiptronic Luxury",
+      "precios": {}
+    },
+    "19194": {
+      "id": "19194",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.5 Sport",
+      "precios": {}
+    },
+    "19195": {
+      "id": "19195",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.5 Tiptronic Sport",
+      "precios": {}
+    },
+    "19196": {
+      "id": "19196",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "1.8 Turbo Sport Cabriolet",
+      "precios": {}
+    },
+    "19197": {
+      "id": "19197",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.0 · Cabriolet · Ref. V-19197",
+      "precios": {}
+    },
+    "19198": {
+      "id": "19198",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.0 Cuero Cabriolet",
+      "precios": {}
+    },
+    "19199": {
+      "id": "19199",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.0 Tiptronic Cuero Cabriolet",
+      "precios": {}
+    },
+    "19200": {
+      "id": "19200",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.5 Sport Cabriolet",
+      "precios": {}
+    },
+    "19201": {
+      "id": "19201",
+      "marcaId": "157",
+      "modeloId": "1797",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "version": "2.5 Tiptronic Sport Cabriolet",
+      "precios": {}
+    },
+    "19202": {
+      "id": "19202",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "170 TSI Manual",
+      "precios": {
+        "2021": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14751.96,
+          "ars": 22600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 15600.52,
+          "ars": 23900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17493.47,
+          "ars": 26800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19203": {
+      "id": "19203",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "170 TSI Manual Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 29288.51,
+          "ars": 44870000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19712.79,
+          "ars": 30200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19204": {
+      "id": "19204",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "Comfortline 200 TSI Automática",
+      "precios": {
+        "2020": {
+          "usd": 15731.07,
+          "ars": 24100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 16383.81,
+          "ars": 25100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 17167.1,
+          "ars": 26300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 18015.67,
+          "ars": 27600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19205": {
+      "id": "19205",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "Comfortline 200 TSI Automática Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 32892.3,
+          "ars": 50391000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 20822.45,
+          "ars": 31900000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22127.94,
+          "ars": 33900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19206": {
+      "id": "19206",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "Highline 200 TSI Automática",
+      "precios": {
+        "2020": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18668.41,
+          "ars": 28600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19451.7,
+          "ars": 29800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 20234.99,
+          "ars": 31000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 21018.28,
+          "ars": 32200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 21997.39,
+          "ars": 33700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19207": {
+      "id": "19207",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "Highline Hero 200 TSI Automática",
+      "precios": {
+        "2020": {
+          "usd": 18080.94,
+          "ars": 27700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 18864.23,
+          "ars": 28900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 19647.52,
+          "ars": 30100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 20430.81,
+          "ars": 31300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19208": {
+      "id": "19208",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "Highline 200 TSI Automática Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 35516.32,
+          "ars": 54411000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 22911.23,
+          "ars": 35100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24216.71,
+          "ars": 37100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19209": {
+      "id": "19209",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "Outfit 200 TSI Automática Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 36332.25,
+          "ars": 55661000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 23237.6,
+          "ars": 35600000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 24543.08,
+          "ars": 37600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19210": {
+      "id": "19210",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "Trendline 200 TSI Automática Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 31089.43,
+          "ars": 47629000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 19516.97,
+          "ars": 29900000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 20822.45,
+          "ars": 31900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19211": {
+      "id": "19211",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.8 · Ref. V-19211",
+      "precios": {}
+    },
+    "19212": {
+      "id": "19212",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.8 · Automática · Ref. V-19212",
+      "precios": {}
+    },
+    "19213": {
+      "id": "19213",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.8 Turbo · Ref. V-19213",
+      "precios": {}
+    },
+    "19214": {
+      "id": "19214",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.8 Turbo · Tiptronic · Ref. V-19214",
+      "precios": {}
+    },
+    "19215": {
+      "id": "19215",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline 1.8 Turbo",
+      "precios": {}
+    },
+    "19216": {
+      "id": "19216",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline+ ESP 1.8 Turbo",
+      "precios": {}
+    },
+    "19217": {
+      "id": "19217",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline 1.8 Turbo Tiptronic",
+      "precios": {}
+    },
+    "19218": {
+      "id": "19218",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline Tip.+ ESP 1.8 Turbo",
+      "precios": {}
+    },
+    "19219": {
+      "id": "19219",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline Variant 1.8 Turbo",
+      "precios": {}
+    },
+    "19220": {
+      "id": "19220",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline Variant 1.8 Turbo Tiptronic",
+      "precios": {}
+    },
+    "19221": {
+      "id": "19221",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.8 Turbo · Rural · Ref. V-19221",
+      "precios": {}
+    },
+    "19222": {
+      "id": "19222",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.8 Turbo · Tiptronic · Rural · Ref. V-19222",
+      "precios": {}
+    },
+    "19223": {
+      "id": "19223",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Comfortline 1.8 TSI",
+      "precios": {
+        "2013": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19224": {
+      "id": "19224",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Comfortline 1.8 TSI Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19225": {
+      "id": "19225",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.8 · Rural · Ref. V-19225",
+      "precios": {}
+    },
+    "19226": {
+      "id": "19226",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.8 · Automática · Rural · Ref. V-19226",
+      "precios": {}
+    },
+    "19227": {
+      "id": "19227",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.9 TDI · Ref. V-19227",
+      "precios": {}
+    },
+    "19228": {
+      "id": "19228",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.9 TDI · Automática · Ref. V-19228",
+      "precios": {}
+    },
+    "19229": {
+      "id": "19229",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Comfortline 1.9 TDI",
+      "precios": {}
+    },
+    "19230": {
+      "id": "19230",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Comfortline Variant 1.9 TDI",
+      "precios": {}
+    },
+    "19231": {
+      "id": "19231",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Highline 1.9 TDI",
+      "precios": {}
+    },
+    "19232": {
+      "id": "19232",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Climat Techo Corredizo 1.9 TDI",
+      "precios": {}
+    },
+    "19233": {
+      "id": "19233",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline 1.9 TDI",
+      "precios": {}
+    },
+    "19234": {
+      "id": "19234",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline 1.9 TDI 4Motion",
+      "precios": {}
+    },
+    "19235": {
+      "id": "19235",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline 1.9 TDI Tiptronic",
+      "precios": {}
+    },
+    "19236": {
+      "id": "19236",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline Varia 1.9 TDI Tiptronic",
+      "precios": {}
+    },
+    "19237": {
+      "id": "19237",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline Varia. 1.9 TDI 4Motion",
+      "precios": {}
+    },
+    "19238": {
+      "id": "19238",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Trendline Variant 1.9 TDI",
+      "precios": {}
+    },
+    "19239": {
+      "id": "19239",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.9 TDI · Rural · Ref. V-19239",
+      "precios": {}
+    },
+    "19240": {
+      "id": "19240",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "1.9 TDI · Automática · Rural · Ref. V-19240",
+      "precios": {}
+    },
+    "19241": {
+      "id": "19241",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 FSI · Ref. V-19241",
+      "precios": {}
+    },
+    "19242": {
+      "id": "19242",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 FSI · Tiptronic · Ref. V-19242",
+      "precios": {}
+    },
+    "19243": {
+      "id": "19243",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Exclusive 2.0 Nafta",
+      "precios": {}
+    },
+    "19244": {
+      "id": "19244",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Exclusive 2.0 Nafta Tiptronic",
+      "precios": {}
+    },
+    "19245": {
+      "id": "19245",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 FSI · Ref. V-19245",
+      "precios": {}
+    },
+    "19246": {
+      "id": "19246",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 FSI · Tiptronic · Ref. V-19246",
+      "precios": {}
+    },
+    "19247": {
+      "id": "19247",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 FSI · Rural · Ref. V-19247",
+      "precios": {}
+    },
+    "19248": {
+      "id": "19248",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 FSI · Tiptronic · Rural · Ref. V-19248",
+      "precios": {}
+    },
+    "19249": {
+      "id": "19249",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Varia. Elegance 2.0 Nafta",
+      "precios": {}
+    },
+    "19250": {
+      "id": "19250",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Varia. Elegance 2.0 Nafta Tiptronic",
+      "precios": {}
+    },
+    "19251": {
+      "id": "19251",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 FSI · Rural · Ref. V-19251",
+      "precios": {}
+    },
+    "19252": {
+      "id": "19252",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 FSI · Tiptronic · Rural · Ref. V-19252",
+      "precios": {}
+    },
+    "19253": {
+      "id": "19253",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "FSI Advance 2.0 Turbo Tiptronic",
+      "precios": {}
+    },
+    "19254": {
+      "id": "19254",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "FSI Exclusive 2.0 Turbo Tiptronic",
+      "precios": {}
+    },
+    "19255": {
+      "id": "19255",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "FSI Luxury 2.0 Turbo Tiptronic",
+      "precios": {}
+    },
+    "19256": {
+      "id": "19256",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "FSI Varia Advance 2.0 Turbo Tiptronic",
+      "precios": {}
+    },
+    "19257": {
+      "id": "19257",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "FSI Varia Eleganc 2.0 Turbo Tiptronic",
+      "precios": {}
+    },
+    "19258": {
+      "id": "19258",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · Ref. V-19258",
+      "precios": {}
+    },
+    "19259": {
+      "id": "19259",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · 4Motion · Ref. V-19259",
+      "precios": {}
+    },
+    "19260": {
+      "id": "19260",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · Doble Embrague · Ref. V-19260",
+      "precios": {}
+    },
+    "19261": {
+      "id": "19261",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · Doble Embrague · Ref. V-19261",
+      "precios": {
+        "2013": {
+          "usd": 11161.88,
+          "ars": 17100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19262": {
+      "id": "19262",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · Ref. V-19262",
+      "precios": {
+        "2013": {
+          "usd": 10966.06,
+          "ars": 16800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19263": {
+      "id": "19263",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Exclusive 2.0 BiTurbo",
+      "precios": {}
+    },
+    "19264": {
+      "id": "19264",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Exclusive 2.0 BiTurbo 4Motion",
+      "precios": {}
+    },
+    "19265": {
+      "id": "19265",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Exclusive 2.0 BiTurbo Doble Embrague",
+      "precios": {}
+    },
+    "19266": {
+      "id": "19266",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TDI · Ref. V-19266",
+      "precios": {}
+    },
+    "19267": {
+      "id": "19267",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TDI · 4Motion · Ref. V-19267",
+      "precios": {}
+    },
+    "19268": {
+      "id": "19268",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TDI · Doble Embrague · Ref. V-19268",
+      "precios": {}
+    },
+    "19269": {
+      "id": "19269",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TDI · Doble Embrague · Ref. V-19269",
+      "precios": {
+        "2013": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12989.56,
+          "ars": 19900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19270": {
+      "id": "19270",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TDI · Ref. V-19270",
+      "precios": {
+        "2013": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19271": {
+      "id": "19271",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · Rural · Ref. V-19271",
+      "precios": {}
+    },
+    "19272": {
+      "id": "19272",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · Doble Embrague · Rural · Ref. V-19272",
+      "precios": {}
+    },
+    "19273": {
+      "id": "19273",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · Rural · Ref. V-19273",
+      "precios": {
+        "2013": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19274": {
+      "id": "19274",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TDI · Doble Embrague · Rural · Ref. V-19274",
+      "precios": {
+        "2013": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19275": {
+      "id": "19275",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Varia. Elegance 2.0 BiTurbo",
+      "precios": {}
+    },
+    "19276": {
+      "id": "19276",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Varia. Elegance 2.0 BiTurbo Doble Embrague",
+      "precios": {}
+    },
+    "19277": {
+      "id": "19277",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TDI · Rural · Ref. V-19277",
+      "precios": {}
+    },
+    "19278": {
+      "id": "19278",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TDI · Doble Embrague · Rural · Ref. V-19278",
+      "precios": {}
+    },
+    "19279": {
+      "id": "19279",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TSI · Ref. V-19279",
+      "precios": {}
+    },
+    "19280": {
+      "id": "19280",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TSI · Doble Embrague · Ref. V-19280",
+      "precios": {}
+    },
+    "19281": {
+      "id": "19281",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TSI · Doble Embrague · Ref. V-19281",
+      "precios": {
+        "2013": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19282": {
+      "id": "19282",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Advance · 2.0 TSI · Ref. V-19282",
+      "precios": {
+        "2013": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19283": {
+      "id": "19283",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Exclusive 2.0 TSI",
+      "precios": {}
+    },
+    "19284": {
+      "id": "19284",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Exclusive 2.0 TSI Doble Embrague",
+      "precios": {}
+    },
+    "19285": {
+      "id": "19285",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Highline 2.0 TSI Doble Embrague Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 23041.78,
+          "ars": 35300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 24020.89,
+          "ars": 36800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 25000,
+          "ars": 38300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 25979.11,
+          "ars": 39800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19286": {
+      "id": "19286",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TSI · Ref. V-19286",
+      "precios": {}
+    },
+    "19287": {
+      "id": "19287",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TSI · Doble Embrague · Ref. V-19287",
+      "precios": {}
+    },
+    "19288": {
+      "id": "19288",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TSI · Doble Embrague · Ref. V-19288",
+      "precios": {
+        "2013": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19289": {
+      "id": "19289",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TSI · Ref. V-19289",
+      "precios": {
+        "2013": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19290": {
+      "id": "19290",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TSI · Rural · Ref. V-19290",
+      "precios": {
+        "2013": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 12989.56,
+          "ars": 19900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19291": {
+      "id": "19291",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Luxury · 2.0 TSI · Doble Embrague · Rural · Ref. V-19291",
+      "precios": {
+        "2013": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19292": {
+      "id": "19292",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "R-Line 2.0 TSI Doble Embrague Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 24347.26,
+          "ars": 37300000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25326.37,
+          "ars": 38800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26631.85,
+          "ars": 40800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 27937.34,
+          "ars": 42800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19293": {
+      "id": "19293",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "2.0 Nafta · Ref. V-19293",
+      "precios": {}
+    },
+    "19294": {
+      "id": "19294",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "2.0 Nafta · Rural · Ref. V-19294",
+      "precios": {}
+    },
+    "19295": {
+      "id": "19295",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "2.5 TDI · Tiptronic · 4Motion · V6 · Ref. V-19295",
+      "precios": {}
+    },
+    "19296": {
+      "id": "19296",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "2.5 TDI · Tiptronic · 4Motion · Rural · V6 · Ref. V-19296",
+      "precios": {}
+    },
+    "19297": {
+      "id": "19297",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "2.8 · V6 · Ref. V-19297",
+      "precios": {}
+    },
+    "19298": {
+      "id": "19298",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Motion 2.8 V6 Tiptronic",
+      "precios": {}
+    },
+    "19299": {
+      "id": "19299",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Motion Variant 2.8 V6 Tiptronic",
+      "precios": {}
+    },
+    "19300": {
+      "id": "19300",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Highline 2.8 V6",
+      "precios": {}
+    },
+    "19301": {
+      "id": "19301",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Highline 2.8 V6 Tiptronic",
+      "precios": {}
+    },
+    "19302": {
+      "id": "19302",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Protect 2.8 V6 Tiptronic",
+      "precios": {}
+    },
+    "19303": {
+      "id": "19303",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "2.8 · Tiptronic · V6 · Ref. V-19303",
+      "precios": {}
+    },
+    "19304": {
+      "id": "19304",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "VR6 Exclusive 2.8",
+      "precios": {}
+    },
+    "19305": {
+      "id": "19305",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "Highline 3.2 V6 Doble Embrague 4Motion",
+      "precios": {}
+    },
+    "19306": {
+      "id": "19306",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "W8 Motion 4.0 Tiptronic",
+      "precios": {}
+    },
+    "19307": {
+      "id": "19307",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Advance 2.0 BiTurbo",
+      "precios": {
+        "2013": {
+          "usd": 15535.25,
+          "ars": 23800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19308": {
+      "id": "19308",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Advance 2.0 BiTurbo Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 15731.07,
+          "ars": 24100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19309": {
+      "id": "19309",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Exclusive 2.0 BiTurbo",
+      "precios": {
+        "2013": {
+          "usd": 15926.89,
+          "ars": 24400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17167.1,
+          "ars": 26300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17819.84,
+          "ars": 27300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19310": {
+      "id": "19310",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Exclusive 2.0 BiTurbo Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 16122.72,
+          "ars": 24700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16710.18,
+          "ars": 25600000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17362.92,
+          "ars": 26600000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18015.67,
+          "ars": 27600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19311": {
+      "id": "19311",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Luxury 2.0 BiTurbo",
+      "precios": {
+        "2013": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16253.26,
+          "ars": 24900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16906.01,
+          "ars": 25900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17558.75,
+          "ars": 26900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19312": {
+      "id": "19312",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Luxury 2.0 BiTurbo Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 15861.62,
+          "ars": 24300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16449.09,
+          "ars": 25200000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17101.83,
+          "ars": 26200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17754.57,
+          "ars": 27200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19313": {
+      "id": "19313",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Advance 2.0 TSI",
+      "precios": {
+        "2013": {
+          "usd": 15502.61,
+          "ars": 23750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16090.08,
+          "ars": 24650000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16742.82,
+          "ars": 25650000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17395.56,
+          "ars": 26650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19314": {
+      "id": "19314",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Advance 2.0 TSI Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 15698.43,
+          "ars": 24050000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16285.9,
+          "ars": 24950000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16938.64,
+          "ars": 25950000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17591.38,
+          "ars": 26950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19315": {
+      "id": "19315",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Elegance 2.0 TSI Doble Embrague",
+      "precios": {
+        "2016": {
+          "usd": 20757.18,
+          "ars": 31800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19316": {
+      "id": "19316",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Exclusive 2.0 TSI",
+      "precios": {
+        "2013": {
+          "usd": 15894.26,
+          "ars": 24350000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16481.72,
+          "ars": 25250000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17134.46,
+          "ars": 26250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17787.21,
+          "ars": 27250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19317": {
+      "id": "19317",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Exclusive 2.0 TSI Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 16090.08,
+          "ars": 24650000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16677.55,
+          "ars": 25550000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17330.29,
+          "ars": 26550000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17983.03,
+          "ars": 27550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19318": {
+      "id": "19318",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Luxury 2.0 TSI",
+      "precios": {
+        "2013": {
+          "usd": 15633.16,
+          "ars": 23950000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16220.63,
+          "ars": 24850000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16873.37,
+          "ars": 25850000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17526.11,
+          "ars": 26850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19319": {
+      "id": "19319",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC Luxury 2.0 TSI Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 15828.98,
+          "ars": 24250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16416.45,
+          "ars": 25150000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17069.19,
+          "ars": 26150000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17721.93,
+          "ars": 27150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19320": {
+      "id": "19320",
+      "marcaId": "157",
+      "modeloId": "1799",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "version": "CC 3.6 V6 Doble Embrague",
+      "precios": {
+        "2013": {
+          "usd": 19386.42,
+          "ars": 29700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 20039.16,
+          "ars": 30700000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 20691.91,
+          "ars": 31700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 21344.65,
+          "ars": 32700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19321": {
+      "id": "19321",
+      "marcaId": "157",
+      "modeloId": "1800",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POINTER",
+      "version": "CLI Full",
+      "precios": {}
+    },
+    "19322": {
+      "id": "19322",
+      "marcaId": "157",
+      "modeloId": "1800",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POINTER",
+      "version": "CLI STD",
+      "precios": {}
+    },
+    "19323": {
+      "id": "19323",
+      "marcaId": "157",
+      "modeloId": "1800",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POINTER",
+      "version": "GLI",
+      "precios": {}
+    },
+    "19324": {
+      "id": "19324",
+      "marcaId": "157",
+      "modeloId": "1800",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POINTER",
+      "version": "GTI 2.0",
+      "precios": {}
+    },
+    "19325": {
+      "id": "19325",
+      "marcaId": "157",
+      "modeloId": "1800",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POINTER",
+      "version": "GTI 2.0 Cabina Doble",
+      "precios": {}
+    },
+    "19326": {
+      "id": "19326",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Comfortline 1.0 TSI Automática",
+      "precios": {
+        "0": {
+          "usd": 29432.11,
+          "ars": 45090000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 14785.71,
+          "ars": 20700000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 16214.29,
+          "ars": 22700000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 17642.86,
+          "ars": 24700000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 19071.43,
+          "ars": 26700000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 20500,
+          "ars": 28700000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 21928.57,
+          "ars": 30700000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 19778.07,
+          "ars": 30300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 21083.55,
+          "ars": 32300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19327": {
+      "id": "19327",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Highline 1.0 TSI Automática Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 31834.86,
+          "ars": 48771000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 19125.33,
+          "ars": 29300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 20104.44,
+          "ars": 30800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 21083.55,
+          "ars": 32300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22389.03,
+          "ars": 34300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19329": {
+      "id": "19329",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "GTS 1.4 TSI",
+      "precios": {
+        "2020": {
+          "usd": 20365.54,
+          "ars": 31200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 21344.65,
+          "ars": 32700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 22323.76,
+          "ars": 34200000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 23302.87,
+          "ars": 35700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19330": {
+      "id": "19330",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "GTS 1.4 TSI Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 24281.98,
+          "ars": 37200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25261.1,
+          "ars": 38700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 26240.21,
+          "ars": 40200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 27545.69,
+          "ars": 42200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19331": {
+      "id": "19331",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Comfortline 1.6",
+      "precios": {}
+    },
+    "19332": {
+      "id": "19332",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Comfortline GNC 1.6",
+      "precios": {}
+    },
+    "19333": {
+      "id": "19333",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Format 1.6",
+      "precios": {}
+    },
+    "19334": {
+      "id": "19334",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Format GNC 1.6",
+      "precios": {}
+    },
+    "19335": {
+      "id": "19335",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Comfortline 1.6 4 Puertas Modelo 2016",
+      "precios": {
+        "2015": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10313.32,
+          "ars": 15800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19336": {
+      "id": "19336",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Comfortline 1.6 Tiptronic 4 Puertas Modelo 2016",
+      "precios": {
+        "2015": {
+          "usd": 10052.22,
+          "ars": 15400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10835.51,
+          "ars": 16600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19338": {
+      "id": "19338",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Comfortline 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19339": {
+      "id": "19339",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Comfortline Plus 1.6 Tiptronic 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19341": {
+      "id": "19341",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Highline 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13642.3,
+          "ars": 20900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19342": {
+      "id": "19342",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Highline 1.6 Tiptronic 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14751.96,
+          "ars": 22600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19343": {
+      "id": "19343",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Trendline 1.6 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12989.56,
+          "ars": 19900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13511.75,
+          "ars": 20700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19344": {
+      "id": "19344",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Trendline 1.6 Tiptronic 5 Puertas Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12206.27,
+          "ars": 18700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13642.3,
+          "ars": 20900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19345": {
+      "id": "19345",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "1.6 MSI Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19346": {
+      "id": "19346",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "1.6 MSI Automática Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14229.77,
+          "ars": 21800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19347": {
+      "id": "19347",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Trend 1.6 MSI Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14425.59,
+          "ars": 22100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19348": {
+      "id": "19348",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "1.6 MSI Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 14751.96,
+          "ars": 22600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15469.97,
+          "ars": 23700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16383.81,
+          "ars": 25100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19349": {
+      "id": "19349",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Track 1.6 MSI Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 25262.4,
+          "ars": 38702000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14621.41,
+          "ars": 22400000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15535.25,
+          "ars": 23800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16514.36,
+          "ars": 25300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19350": {
+      "id": "19350",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Track First Edition 1.6 MSI Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19351": {
+      "id": "19351",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Trendline 1.6",
+      "precios": {}
+    },
+    "19352": {
+      "id": "19352",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Trendline GNC 1.6",
+      "precios": {}
+    },
+    "19353": {
+      "id": "19353",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Highline 1.8",
+      "precios": {}
+    },
+    "19354": {
+      "id": "19354",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Highline ABS Techo Corredizo 1.8",
+      "precios": {}
+    },
+    "19355": {
+      "id": "19355",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "SD Comfortline 1.9",
+      "precios": {}
+    },
+    "19356": {
+      "id": "19356",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "SD Format 1.9",
+      "precios": {}
+    },
+    "19357": {
+      "id": "19357",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "SD Trendline 1.9",
+      "precios": {}
+    },
+    "19358": {
+      "id": "19358",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Highline 1.9 TDI",
+      "precios": {}
+    },
+    "19359": {
+      "id": "19359",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Highline Full 1.9 TDI",
+      "precios": {}
+    },
+    "19360": {
+      "id": "19360",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic 1.6 Nafta",
+      "precios": {}
+    },
+    "19361": {
+      "id": "19361",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic Aire 1.6 Nafta",
+      "precios": {}
+    },
+    "19362": {
+      "id": "19362",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic Full 1.6 Nafta",
+      "precios": {}
+    },
+    "19363": {
+      "id": "19363",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic Taxi 1.6 Nafta",
+      "precios": {}
+    },
+    "19364": {
+      "id": "19364",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic 1.8 Nafta",
+      "precios": {}
+    },
+    "19365": {
+      "id": "19365",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic Aire 1.8 Nafta",
+      "precios": {}
+    },
+    "19366": {
+      "id": "19366",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic Full 1.8 Nafta",
+      "precios": {}
+    },
+    "19367": {
+      "id": "19367",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic Sport 1.8 Nafta",
+      "precios": {}
+    },
+    "19368": {
+      "id": "19368",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic SD 1.9",
+      "precios": {}
+    },
+    "19369": {
+      "id": "19369",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic SD Aire 1.9",
+      "precios": {}
+    },
+    "19370": {
+      "id": "19370",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic SD Full 1.9",
+      "precios": {}
+    },
+    "19371": {
+      "id": "19371",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic SD Taxi 1.9",
+      "precios": {}
+    },
+    "19372": {
+      "id": "19372",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic Full 1.9 TDI",
+      "precios": {}
+    },
+    "19373": {
+      "id": "19373",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Classic Full Techo Corredizo 1.9 TDI",
+      "precios": {}
+    },
+    "19374": {
+      "id": "19374",
+      "marcaId": "157",
+      "modeloId": "1802",
+      "marca": "VOLKSWAGEN",
+      "modelo": "QUANTUM",
+      "version": "GLI 1.8",
+      "precios": {}
+    },
+    "19375": {
+      "id": "19375",
+      "marcaId": "157",
+      "modeloId": "1802",
+      "marca": "VOLKSWAGEN",
+      "modelo": "QUANTUM",
+      "version": "1.8 Nafta · Ref. V-19375",
+      "precios": {}
+    },
+    "19376": {
+      "id": "19376",
+      "marcaId": "157",
+      "modeloId": "1802",
+      "marca": "VOLKSWAGEN",
+      "modelo": "QUANTUM",
+      "version": "GLS 2.0 Nafta",
+      "precios": {}
+    },
+    "19377": {
+      "id": "19377",
+      "marcaId": "157",
+      "modeloId": "1802",
+      "marca": "VOLKSWAGEN",
+      "modelo": "QUANTUM",
+      "version": "Exclusive 2.0 Nafta",
+      "precios": {}
+    },
+    "19378": {
+      "id": "19378",
+      "marcaId": "157",
+      "modeloId": "1802",
+      "marca": "VOLKSWAGEN",
+      "modelo": "QUANTUM",
+      "version": "Exclusive ABS Techo Corredizo 2.0 Nafta",
+      "precios": {}
+    },
+    "19379": {
+      "id": "19379",
+      "marcaId": "157",
+      "modeloId": "1802",
+      "marca": "VOLKSWAGEN",
+      "modelo": "QUANTUM",
+      "version": "Exclusive 2.0 Nafta Automática",
+      "precios": {}
+    },
+    "19380": {
+      "id": "19380",
+      "marcaId": "157",
+      "modeloId": "1803",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SANTANA",
+      "version": "Comfortline",
+      "precios": {}
+    },
+    "19381": {
+      "id": "19381",
+      "marcaId": "157",
+      "modeloId": "1803",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SANTANA",
+      "version": "Trendline",
+      "precios": {}
+    },
+    "19382": {
+      "id": "19382",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "CL 1.6",
+      "precios": {}
+    },
+    "19383": {
+      "id": "19383",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "1.6 Diésel",
+      "precios": {}
+    },
+    "19384": {
+      "id": "19384",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "CL 1.6 Diésel",
+      "precios": {}
+    },
+    "19385": {
+      "id": "19385",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "1.6 Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 7571.8,
+          "ars": 11600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19386": {
+      "id": "19386",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "1.6 Cabina Extendida Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 7637.08,
+          "ars": 11700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19390": {
+      "id": "19390",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Aa+Ps 1.6 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8093.99,
+          "ars": 12400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19391": {
+      "id": "19391",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Aa+Ps+Safety 1.6 Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8159.27,
+          "ars": 12500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8550.91,
+          "ars": 13100000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8942.56,
+          "ars": 13700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19394": {
+      "id": "19394",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Cross 1.6 Cabina Doble Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19397": {
+      "id": "19397",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Cross HIG 1.6 Cabina Doble Modelo 2017",
+      "precios": {
+        "2016": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11488.25,
+          "ars": 17600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19403": {
+      "id": "19403",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Cross 1.6 Cabina Doble Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13968.67,
+          "ars": 21400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 15208.88,
+          "ars": 23300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19405": {
+      "id": "19405",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Comfortline 1.6 Cabina Extendida Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19407": {
+      "id": "19407",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Comfortline 1.6 Cabina Doble Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19412": {
+      "id": "19412",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Extreme 1.6 Cabina Doble Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 25909.92,
+          "ars": 39694000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "19414": {
+      "id": "19414",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "1.6 Nafta",
+      "precios": {}
+    },
+    "19415": {
+      "id": "19415",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Aire 1.6 Nafta",
+      "precios": {}
+    },
+    "19416": {
+      "id": "19416",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "GNC 1.6 Nafta",
       "precios": {}
     },
     "131666": {
@@ -152492,6 +157859,26 @@
         }
       }
     },
+    "249218": {
+      "id": "249218",
+      "marcaId": "157",
+      "modeloId": "1798",
+      "marca": "VOLKSWAGEN",
+      "modelo": "NIVUS",
+      "version": "Sense 170 TSI Manual",
+      "precios": {
+        "0": {
+          "usd": 22380.55,
+          "ars": 34287000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "250300": {
       "id": "250300",
       "marcaId": "102",
@@ -156002,6 +161389,33 @@
       "version": "Comfortline Airbag 1.6 5 Puertas",
       "precios": {}
     },
+    "323854": {
+      "id": "323854",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline 1.6 5 Puertas 2",
+      "precios": {}
+    },
+    "323855": {
+      "id": "323855",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline Airbag 1.6 5 Puertas",
+      "precios": {}
+    },
+    "323856": {
+      "id": "323856",
+      "marcaId": "157",
+      "modeloId": "1793",
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "version": "Trendline Plus 1.6 5 Puertas",
+      "precios": {}
+    },
     "325260": {
       "id": "325260",
       "marcaId": "3986",
@@ -157233,6 +162647,76 @@
         "2022": {
           "usd": 40535.25,
           "ars": 62100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "343146": {
+      "id": "343146",
+      "marcaId": "157",
+      "modeloId": "1801",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "version": "Robust 1.6 MSI Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 19436.03,
+          "ars": 29776000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "343203": {
+      "id": "343203",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Comfortline 1.6 Cabina Doble Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "343206": {
+      "id": "343206",
+      "marcaId": "157",
+      "modeloId": "1804",
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "version": "Comfortline 1.6 Cabina Doble Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 23362.27,
+          "ars": 35791000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18276.76,
+          "ars": 28000000,
           "cotizacion": 1532
         }
       }
