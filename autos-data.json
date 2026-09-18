@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-18T05:29:52.345Z",
+  "actualizado": "2026-09-18T07:33:13.908Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 7319,
-  "versionesConValuacion": 3553,
+  "versionesProcesadas": 7667,
+  "versionesConValuacion": 3656,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -123221,6 +123221,116 @@
         }
       }
     },
+    "17718": {
+      "id": "17718",
+      "marcaId": "147",
+      "modeloId": "1694",
+      "marca": "RENAULT",
+      "modelo": "OROCH",
+      "version": "Outsider Plus 2.0",
+      "precios": {
+        "2016": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13250.65,
+          "ars": 20300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13903.39,
+          "ars": 21300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17719": {
+      "id": "17719",
+      "marcaId": "147",
+      "modeloId": "1694",
+      "marca": "RENAULT",
+      "modelo": "OROCH",
+      "version": "Outsider Plus 2.0 4x4",
+      "precios": {
+        "2018": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14425.59,
+          "ars": 22100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17720": {
+      "id": "17720",
+      "marcaId": "147",
+      "modeloId": "1694",
+      "marca": "RENAULT",
+      "modelo": "OROCH",
+      "version": "Privilege 2.0",
+      "precios": {
+        "2016": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "17721": {
       "id": "17721",
       "marcaId": "147",
@@ -123271,6 +123381,31 @@
         }
       }
     },
+    "17723": {
+      "id": "17723",
+      "marcaId": "147",
+      "modeloId": "1694",
+      "marca": "RENAULT",
+      "modelo": "OROCH",
+      "version": "Profesional 1.6 Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 12663.19,
+          "ars": 19400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "17724": {
       "id": "17724",
       "marcaId": "147",
@@ -123317,6 +123452,81 @@
         "2022": {
           "usd": 15404.7,
           "ars": 23600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17726": {
+      "id": "17726",
+      "marcaId": "147",
+      "modeloId": "1694",
+      "marca": "RENAULT",
+      "modelo": "OROCH",
+      "version": "Outsider 2.0 Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15404.7,
+          "ars": 23600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17727": {
+      "id": "17727",
+      "marcaId": "147",
+      "modeloId": "1694",
+      "marca": "RENAULT",
+      "modelo": "OROCH",
+      "version": "Outsider 2.0 4x4 Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16057.44,
+          "ars": 24600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17728": {
+      "id": "17728",
+      "marcaId": "147",
+      "modeloId": "1694",
+      "marca": "RENAULT",
+      "modelo": "OROCH",
+      "version": "Privilege 2.0 Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15078.33,
+          "ars": 23100000,
           "cotizacion": 1532
         }
       }
@@ -123545,6 +123755,2524 @@
           "cotizacion": 1532
         }
       }
+    },
+    "17735": {
+      "id": "17735",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RE 4 Puertas",
+      "precios": {}
+    },
+    "17736": {
+      "id": "17736",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RE Aire 4 Puertas",
+      "precios": {}
+    },
+    "17737": {
+      "id": "17737",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RED 4 Puertas",
+      "precios": {}
+    },
+    "17738": {
+      "id": "17738",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RED Dirección Aire 4 Puertas",
+      "precios": {}
+    },
+    "17739": {
+      "id": "17739",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RL 4 Puertas",
+      "precios": {}
+    },
+    "17740": {
+      "id": "17740",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RL Dirección Aire 4 Puertas",
+      "precios": {}
+    },
+    "17741": {
+      "id": "17741",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RL Full 4 Puertas",
+      "precios": {}
+    },
+    "17742": {
+      "id": "17742",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RLD Dirección 4 Puertas",
+      "precios": {}
+    },
+    "17743": {
+      "id": "17743",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RLD Dirección Aire 4 Puertas",
+      "precios": {}
+    },
+    "17744": {
+      "id": "17744",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RN RNI 4 Puertas",
+      "precios": {}
+    },
+    "17745": {
+      "id": "17745",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RN RNI 5 Puertas",
+      "precios": {}
+    },
+    "17746": {
+      "id": "17746",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RND 4 Puertas",
+      "precios": {}
+    },
+    "17747": {
+      "id": "17747",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RND 5 Puertas",
+      "precios": {}
+    },
+    "17748": {
+      "id": "17748",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RNI Coupé",
+      "precios": {}
+    },
+    "17749": {
+      "id": "17749",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RSI 16 Válvulas Cabriolet",
+      "precios": {}
+    },
+    "17750": {
+      "id": "17750",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RSI 16 Válvulas Coupé",
+      "precios": {}
+    },
+    "17751": {
+      "id": "17751",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RT RTI 4 Puertas",
+      "precios": {}
+    },
+    "17752": {
+      "id": "17752",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RT RTI 5 Puertas",
+      "precios": {}
+    },
+    "17753": {
+      "id": "17753",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RTD 4 Puertas",
+      "precios": {}
+    },
+    "17754": {
+      "id": "17754",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "RTI Coupé",
+      "precios": {}
+    },
+    "17755": {
+      "id": "17755",
+      "marcaId": "147",
+      "modeloId": "1695",
+      "marca": "RENAULT",
+      "modelo": "R 19",
+      "version": "Rttd 4 Puertas",
+      "precios": {}
+    },
+    "17756": {
+      "id": "17756",
+      "marcaId": "147",
+      "modeloId": "1696",
+      "marca": "RENAULT",
+      "modelo": "R 21",
+      "version": "Alize GLX",
+      "precios": {}
+    },
+    "17757": {
+      "id": "17757",
+      "marcaId": "147",
+      "modeloId": "1696",
+      "marca": "RENAULT",
+      "modelo": "R 21",
+      "version": "RN",
+      "precios": {}
+    },
+    "17758": {
+      "id": "17758",
+      "marcaId": "147",
+      "modeloId": "1696",
+      "marca": "RENAULT",
+      "modelo": "R 21",
+      "version": "RN Nevada",
+      "precios": {}
+    },
+    "17759": {
+      "id": "17759",
+      "marcaId": "147",
+      "modeloId": "1696",
+      "marca": "RENAULT",
+      "modelo": "R 21",
+      "version": "RND",
+      "precios": {}
+    },
+    "17760": {
+      "id": "17760",
+      "marcaId": "147",
+      "modeloId": "1696",
+      "marca": "RENAULT",
+      "modelo": "R 21",
+      "version": "RND Nevada",
+      "precios": {}
+    },
+    "17761": {
+      "id": "17761",
+      "marcaId": "147",
+      "modeloId": "1696",
+      "marca": "RENAULT",
+      "modelo": "R 21",
+      "version": "RT",
+      "precios": {}
+    },
+    "17762": {
+      "id": "17762",
+      "marcaId": "147",
+      "modeloId": "1696",
+      "marca": "RENAULT",
+      "modelo": "R 21",
+      "version": "RT Nevada",
+      "precios": {}
+    },
+    "17763": {
+      "id": "17763",
+      "marcaId": "147",
+      "modeloId": "1696",
+      "marca": "RENAULT",
+      "modelo": "R 21",
+      "version": "RT Nevada 7 Asientos",
+      "precios": {}
+    },
+    "17764": {
+      "id": "17764",
+      "marcaId": "147",
+      "modeloId": "1697",
+      "marca": "RENAULT",
+      "modelo": "R 9",
+      "version": "Losange",
+      "precios": {}
+    },
+    "17765": {
+      "id": "17765",
+      "marcaId": "147",
+      "modeloId": "1697",
+      "marca": "RENAULT",
+      "modelo": "R 9",
+      "version": "RL",
+      "precios": {}
+    },
+    "17766": {
+      "id": "17766",
+      "marcaId": "147",
+      "modeloId": "1697",
+      "marca": "RENAULT",
+      "modelo": "R 9",
+      "version": "RL Aire",
+      "precios": {}
+    },
+    "17767": {
+      "id": "17767",
+      "marcaId": "147",
+      "modeloId": "1697",
+      "marca": "RENAULT",
+      "modelo": "R 9",
+      "version": "RN Aire",
+      "precios": {}
+    },
+    "17768": {
+      "id": "17768",
+      "marcaId": "147",
+      "modeloId": "1698",
+      "marca": "RENAULT",
+      "modelo": "SAFRANE",
+      "version": "Variante · Ref. V-17768",
+      "precios": {}
+    },
+    "17772": {
+      "id": "17772",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Confort 1.5 dCi",
+      "precios": {}
+    },
+    "17773": {
+      "id": "17773",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Luxe 1.5 dCi",
+      "precios": {}
+    },
+    "17774": {
+      "id": "17774",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Pack 1.5 dCi",
+      "precios": {}
+    },
+    "17775": {
+      "id": "17775",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Confort 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "17776": {
+      "id": "17776",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Confort 16 Válvulas 1.6 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17777": {
+      "id": "17777",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Expression 16 Válvulas 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17778": {
+      "id": "17778",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "GET UP 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "17779": {
+      "id": "17779",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "GT Line 16 Válvulas 1.6",
+      "precios": {
+        "2013": {
+          "usd": 8126.63,
+          "ars": 12450000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8257.18,
+          "ars": 12650000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17780": {
+      "id": "17780",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Luxe 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "17781": {
+      "id": "17781",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Luxe 16 Válvulas 1.6 Modelo 2011",
+      "precios": {}
+    },
+    "17782": {
+      "id": "17782",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Privilege 16 Válvulas 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7506.53,
+          "ars": 11500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17784": {
+      "id": "17784",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Authentique 8 Válvulas Pack 1.6 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7114.88,
+          "ars": 10900000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17785": {
+      "id": "17785",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Authentique Packii 8 Válvulas 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7016.97,
+          "ars": 10750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7147.52,
+          "ars": 10950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17786": {
+      "id": "17786",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Expression 8 Válvulas 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7049.61,
+          "ars": 10800000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7180.16,
+          "ars": 11000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17787": {
+      "id": "17787",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "8 Válvulas Pack 1.6",
+      "precios": {}
+    },
+    "17788": {
+      "id": "17788",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "8 Válvulas Pack 1.6 Modelo 2011",
+      "precios": {}
+    },
+    "17789": {
+      "id": "17789",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "8 Válvulas Pack Plus 1.6 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17790": {
+      "id": "17790",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Tech RUN 8 Válvulas 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7114.88,
+          "ars": 10900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7278.07,
+          "ars": 11150000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7408.62,
+          "ars": 11350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17792": {
+      "id": "17792",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "GT Line 16 Válvulas 1.6 Serie II",
+      "precios": {
+        "2016": {
+          "usd": 10345.95,
+          "ars": 15850000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10802.87,
+          "ars": 16550000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 11325.07,
+          "ars": 17350000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11977.81,
+          "ars": 18350000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12695.82,
+          "ars": 19450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17793": {
+      "id": "17793",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "GT Line 16 Válvulas 1.6 CVT Serie II Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17794": {
+      "id": "17794",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "GT Line 16 Válvulas 1.6 Serie II Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17795": {
+      "id": "17795",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Intens 16 Válvulas 1.6 CVT Serie II Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 11912.53,
+          "ars": 18250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12434.73,
+          "ars": 19050000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12695.82,
+          "ars": 19450000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13152.74,
+          "ars": 20150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17796": {
+      "id": "17796",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Intens 16 Válvulas 1.6 CVT Serie II Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 25469.97,
+          "ars": 39020000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14425.59,
+          "ars": 22100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15731.07,
+          "ars": 24100000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17101.83,
+          "ars": 26200000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17797": {
+      "id": "17797",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Intens 16 Válvulas 1.6 Serie II Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12989.56,
+          "ars": 19900000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13413.84,
+          "ars": 20550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17798": {
+      "id": "17798",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Intens 16 Válvulas 1.6 Serie II Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 24791.12,
+          "ars": 37980000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14099.22,
+          "ars": 21600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15404.7,
+          "ars": 23600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18080.94,
+          "ars": 27700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17799": {
+      "id": "17799",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Life 16 Válvulas 1.6 Serie II Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 10574.41,
+          "ars": 16200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11063.97,
+          "ars": 16950000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12271.54,
+          "ars": 18800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17800": {
+      "id": "17800",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Life 16 Válvulas 1.6 Serie II Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14556.14,
+          "ars": 22300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15926.89,
+          "ars": 24400000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17801": {
+      "id": "17801",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Life 16 Válvulas Plus 1.6 Serie II",
+      "precios": {
+        "2022": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17802": {
+      "id": "17802",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Privilege 16 Válvulas 1.6 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 8975.2,
+          "ars": 13750000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9334.2,
+          "ars": 14300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10182.77,
+          "ars": 15600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10639.69,
+          "ars": 16300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17803": {
+      "id": "17803",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Privilege 16 Válvulas Pack 1.6 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 9040.47,
+          "ars": 13850000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17804": {
+      "id": "17804",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "ZEN 16 Válvulas 1.6 Serie II Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 11292.43,
+          "ars": 17300000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11814.62,
+          "ars": 18100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13120.1,
+          "ars": 20100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17805": {
+      "id": "17805",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Authentique 8 Válvulas 1.6 Serie II",
+      "precios": {
+        "2017": {
+          "usd": 8942.56,
+          "ars": 13700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9399.48,
+          "ars": 14400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9856.4,
+          "ars": 15100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17806": {
+      "id": "17806",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Dynamique 8 Válvulas 1.6 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 8518.28,
+          "ars": 13050000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8844.65,
+          "ars": 13550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 9268.93,
+          "ars": 14200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9725.85,
+          "ars": 14900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10182.77,
+          "ars": 15600000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17807": {
+      "id": "17807",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Expression 8 Válvulas 1.6 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 7996.08,
+          "ars": 12250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8322.45,
+          "ars": 12750000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8746.74,
+          "ars": 13400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9203.66,
+          "ars": 14100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10182.77,
+          "ars": 15600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17808": {
+      "id": "17808",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Expression 8 Válvulas Pack 1.6 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 8355.09,
+          "ars": 12800000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 8779.37,
+          "ars": 13450000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9236.29,
+          "ars": 14150000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9627.94,
+          "ars": 14750000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10215.4,
+          "ars": 15650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17809": {
+      "id": "17809",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "RS 16 Válvulas 2.0 Serie II",
+      "precios": {
+        "2016": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 11520.89,
+          "ars": 17650000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12173.63,
+          "ars": 18650000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12826.37,
+          "ars": 19650000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13479.11,
+          "ars": 20650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17810": {
+      "id": "17810",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "RS 16 Válvulas 2.0 Serie II Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15078.33,
+          "ars": 23100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 16057.44,
+          "ars": 24600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17811": {
+      "id": "17811",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "RS Racing Spiri 16 Válvulas 2.0 Serie II",
+      "precios": {
+        "2017": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12532.64,
+          "ars": 19200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17812": {
+      "id": "17812",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Confort 1.5 dCi",
+      "precios": {}
+    },
+    "17813": {
+      "id": "17813",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Luxe 1.5 dCi",
+      "precios": {}
+    },
+    "17814": {
+      "id": "17814",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Authentique 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7637.08,
+          "ars": 11700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17815": {
+      "id": "17815",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Confort 1.6",
+      "precios": {}
+    },
+    "17816": {
+      "id": "17816",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Confort 1.6 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 7767.62,
+          "ars": 11900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 7898.17,
+          "ars": 12100000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17817": {
+      "id": "17817",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Dynamique 1.6 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 7832.9,
+          "ars": 12000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17818": {
+      "id": "17818",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Expression 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17819": {
+      "id": "17819",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Luxe 1.6",
+      "precios": {}
+    },
+    "17820": {
+      "id": "17820",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Luxe 1.6 Modelo 2011",
+      "precios": {}
+    },
+    "17821": {
+      "id": "17821",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Privilege 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7930.81,
+          "ars": 12150000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 8061.36,
+          "ars": 12350000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 8191.91,
+          "ars": 12550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17822": {
+      "id": "17822",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Privilege Plus 1.6",
+      "precios": {
+        "2013": {
+          "usd": 8061.36,
+          "ars": 12350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17823": {
+      "id": "17823",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway RIP Curl 1.6",
+      "precios": {
+        "2013": {
+          "usd": 8028.72,
+          "ars": 12300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17824": {
+      "id": "17824",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway SL 1.6",
+      "precios": {}
+    },
+    "17825": {
+      "id": "17825",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Tweed 1.6",
+      "precios": {
+        "2014": {
+          "usd": 7702.35,
+          "ars": 11800000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 7898.17,
+          "ars": 12100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17826": {
+      "id": "17826",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Dynamique 1.6 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 9432.11,
+          "ars": 14450000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 9758.49,
+          "ars": 14950000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10509.14,
+          "ars": 16100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17827": {
+      "id": "17827",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Expression 1.6 Serie II",
+      "precios": {
+        "2017": {
+          "usd": 9693.21,
+          "ars": 14850000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10084.86,
+          "ars": 15450000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10476.5,
+          "ars": 16050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17828": {
+      "id": "17828",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Privilege 1.6 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 9791.12,
+          "ars": 15000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10476.5,
+          "ars": 16050000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10868.15,
+          "ars": 16650000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11684.07,
+          "ars": 17900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17829": {
+      "id": "17829",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway RIP Curl 1.6 Serie II",
+      "precios": {
+        "2016": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10476.5,
+          "ars": 16050000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 10933.42,
+          "ars": 16750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17830": {
+      "id": "17830",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway Volcom 1.6 Serie II",
+      "precios": {
+        "2018": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11259.79,
+          "ars": 17250000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11716.71,
+          "ars": 17950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17831": {
+      "id": "17831",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway PH2 C B. 1.6 Automática",
+      "precios": {
+        "2021": {
+          "usd": 13903.39,
+          "ars": 21300000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17832": {
+      "id": "17832",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway PH2 C B. 1.6 Automática Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14980.42,
+          "ars": 22950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17833": {
+      "id": "17833",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway PH2 Intens 1.6 CVT Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 24086.16,
+          "ars": 36900000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 17036.55,
+          "ars": 26100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18342.04,
+          "ars": 28100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17834": {
+      "id": "17834",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway PH2 Intens 1.6 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 12630.55,
+          "ars": 19350000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13087.47,
+          "ars": 20050000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13805.48,
+          "ars": 21150000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14164.49,
+          "ars": 21700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17835": {
+      "id": "17835",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway PH2 Intens 1.6 Modelo 2023",
+      "precios": {
+        "0": {
+          "usd": 23328.98,
+          "ars": 35740000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16710.18,
+          "ars": 25600000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18015.67,
+          "ars": 27600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17836": {
+      "id": "17836",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway PH2 Intens 1.6 Automática Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 12826.37,
+          "ars": 19650000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13218.02,
+          "ars": 20250000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 14001.31,
+          "ars": 21450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17837": {
+      "id": "17837",
+      "marcaId": "147",
+      "modeloId": "1699",
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "version": "Stepway PH2 ZEN 1.6 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 12467.36,
+          "ars": 19100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13185.38,
+          "ars": 20200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13577.02,
+          "ars": 20800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13870.76,
+          "ars": 21250000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14197.13,
+          "ars": 21750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17873": {
+      "id": "17873",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Allyum 1.6",
+      "precios": {}
+    },
+    "17874": {
+      "id": "17874",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Authentique 1.6",
+      "precios": {}
+    },
+    "17875": {
+      "id": "17875",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Confort 1.6",
+      "precios": {}
+    },
+    "17876": {
+      "id": "17876",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Confort Plus 1.6",
+      "precios": {}
+    },
+    "17877": {
+      "id": "17877",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Expression 1.6",
+      "precios": {}
+    },
+    "17878": {
+      "id": "17878",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Fairway 1.6",
+      "precios": {}
+    },
+    "17879": {
+      "id": "17879",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Luxe 1.6",
+      "precios": {}
+    },
+    "17880": {
+      "id": "17880",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "REC 1.6",
+      "precios": {}
+    },
+    "17881": {
+      "id": "17881",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT Columbia 1.6",
+      "precios": {}
+    },
+    "17882": {
+      "id": "17882",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT ABS 1.6",
+      "precios": {}
+    },
+    "17883": {
+      "id": "17883",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXE Privilege 1.6",
+      "precios": {}
+    },
+    "17884": {
+      "id": "17884",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Sportway 1.6",
+      "precios": {}
+    },
+    "17885": {
+      "id": "17885",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Allyum 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17886": {
+      "id": "17886",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Authentique 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17888": {
+      "id": "17888",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Confort 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17889": {
+      "id": "17889",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Expression 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17890": {
+      "id": "17890",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Fairway 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17891": {
+      "id": "17891",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Luxe 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17892": {
+      "id": "17892",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "REC 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17893": {
+      "id": "17893",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT Columbia 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17894": {
+      "id": "17894",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT ABS 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17895": {
+      "id": "17895",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXE Privilege 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17896": {
+      "id": "17896",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXI Campus 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17897": {
+      "id": "17897",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Luxe 2.0",
+      "precios": {}
+    },
+    "17898": {
+      "id": "17898",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "Luxe 2.0 Automática",
+      "precios": {}
+    },
+    "17899": {
+      "id": "17899",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXE Cuero 2.0",
+      "precios": {}
+    },
+    "17900": {
+      "id": "17900",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXE Privilege 2.0",
+      "precios": {}
+    },
+    "17901": {
+      "id": "17901",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXE Privilege 2.0 Automática",
+      "precios": {}
+    },
+    "17902": {
+      "id": "17902",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXI Campus 2.0",
+      "precios": {}
+    },
+    "17903": {
+      "id": "17903",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT RN Airbag 1.6",
+      "precios": {}
+    },
+    "17904": {
+      "id": "17904",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT ABS Airbag 1.6",
+      "precios": {}
+    },
+    "17905": {
+      "id": "17905",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17906": {
+      "id": "17906",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT ABS Airbag 1.9 Turbodiésel",
+      "precios": {}
+    },
+    "17907": {
+      "id": "17907",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT 2.0",
+      "precios": {}
+    },
+    "17908": {
+      "id": "17908",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT Airbag Techo Corredizo 2.0",
+      "precios": {}
+    },
+    "17909": {
+      "id": "17909",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT ABS 2.0",
+      "precios": {}
+    },
+    "17910": {
+      "id": "17910",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RT ABS Airbag 2.0",
+      "precios": {}
+    },
+    "17911": {
+      "id": "17911",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXE 2.0",
+      "precios": {}
+    },
+    "17912": {
+      "id": "17912",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXE ABS 2.0",
+      "precios": {}
+    },
+    "17913": {
+      "id": "17913",
+      "marcaId": "147",
+      "modeloId": "1702",
+      "marca": "RENAULT",
+      "modelo": "SCENIC",
+      "version": "RXE ABS Techo Corredizo 2.0",
+      "precios": {}
+    },
+    "17914": {
+      "id": "17914",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Confort 1.5 dCi",
+      "precios": {
+        "2013": {
+          "usd": 5345.95,
+          "ars": 8190000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17915": {
+      "id": "17915",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Connection SL 1.5 dCi",
+      "precios": {}
+    },
+    "17916": {
+      "id": "17916",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Pack 1.5 dCi",
+      "precios": {}
+    },
+    "17917": {
+      "id": "17917",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Authentique 16 Válvulas Pack 1.6 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 5704.96,
+          "ars": 8740000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5933.42,
+          "ars": 9090000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17918": {
+      "id": "17918",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Authentique 16 Válvulas Pack 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 5737.6,
+          "ars": 8790000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 5966.06,
+          "ars": 9140000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17920": {
+      "id": "17920",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Confort 16 Válvulas 1.6",
+      "precios": {
+        "2013": {
+          "usd": 5796.34,
+          "ars": 8880000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17921": {
+      "id": "17921",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Connection SL 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "17922": {
+      "id": "17922",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Expression 16 Válvulas Pack 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 5835.51,
+          "ars": 8940000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 6063.97,
+          "ars": 9290000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17923": {
+      "id": "17923",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "Luxe 16 Válvulas 1.6",
+      "precios": {
+        "2013": {
+          "usd": 5868.15,
+          "ars": 8990000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17924": {
+      "id": "17924",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "16 Válvulas Pack 1.6",
+      "precios": {
+        "2013": {
+          "usd": 5652.74,
+          "ars": 8660000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "17925": {
+      "id": "17925",
+      "marcaId": "147",
+      "modeloId": "1703",
+      "marca": "RENAULT",
+      "modelo": "SYMBOL",
+      "version": "8 Válvulas Pack 1.6",
+      "precios": {}
+    },
+    "17926": {
+      "id": "17926",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Rodeo TA83 Diésel",
+      "precios": {}
+    },
+    "17927": {
+      "id": "17927",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Rodeo TA83 Dirección Diésel",
+      "precios": {}
+    },
+    "17928": {
+      "id": "17928",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Rodeo TA8J Diésel",
+      "precios": {}
+    },
+    "17929": {
+      "id": "17929",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Rodeo TA8J S/Caja Diésel",
+      "precios": {}
+    },
+    "17930": {
+      "id": "17930",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Rodeo TA8J Dirección Diésel",
+      "precios": {}
+    },
+    "17931": {
+      "id": "17931",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Rodeo TA9J S/Caja Dirección Diésel",
+      "precios": {}
+    },
+    "17932": {
+      "id": "17932",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "C T N Turbo",
+      "precios": {}
+    },
+    "17933": {
+      "id": "17933",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "J Corto Diesel Turbo",
+      "precios": {}
+    },
+    "17934": {
+      "id": "17934",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Turbo",
+      "precios": {}
+    },
+    "17935": {
+      "id": "17935",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Turbo 3101",
+      "precios": {}
+    },
+    "17936": {
+      "id": "17936",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "Turbo 2",
+      "precios": {}
+    },
+    "17937": {
+      "id": "17937",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "D Turbo",
+      "precios": {}
+    },
+    "17938": {
+      "id": "17938",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "TA",
+      "precios": {}
+    },
+    "17939": {
+      "id": "17939",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "TA Diésel",
+      "precios": {}
+    },
+    "17940": {
+      "id": "17940",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "TA 1C",
+      "precios": {}
+    },
+    "17941": {
+      "id": "17941",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "TA 1J Larga Diesel Dirección",
+      "precios": {}
+    },
+    "17942": {
+      "id": "17942",
+      "marcaId": "147",
+      "modeloId": "1704",
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "version": "TA BUS",
+      "precios": {}
+    },
+    "17943": {
+      "id": "17943",
+      "marcaId": "147",
+      "modeloId": "1705",
+      "marca": "RENAULT",
+      "modelo": "TWINGO",
+      "version": "Authentique",
+      "precios": {}
+    },
+    "17944": {
+      "id": "17944",
+      "marcaId": "147",
+      "modeloId": "1705",
+      "marca": "RENAULT",
+      "modelo": "TWINGO",
+      "version": "Expression Aire",
+      "precios": {}
+    },
+    "17945": {
+      "id": "17945",
+      "marcaId": "147",
+      "modeloId": "1705",
+      "marca": "RENAULT",
+      "modelo": "TWINGO",
+      "version": "Privilege PK1 Aire Airbag",
+      "precios": {}
+    },
+    "17946": {
+      "id": "17946",
+      "marcaId": "147",
+      "modeloId": "1705",
+      "marca": "RENAULT",
+      "modelo": "TWINGO",
+      "version": "Easy PK2 Aire Dirección",
+      "precios": {}
+    },
+    "17947": {
+      "id": "17947",
+      "marcaId": "147",
+      "modeloId": "1705",
+      "marca": "RENAULT",
+      "modelo": "TWINGO",
+      "version": "Joven",
+      "precios": {}
+    },
+    "17948": {
+      "id": "17948",
+      "marcaId": "147",
+      "modeloId": "1705",
+      "marca": "RENAULT",
+      "modelo": "TWINGO",
+      "version": "PK1",
+      "precios": {}
+    },
+    "17949": {
+      "id": "17949",
+      "marcaId": "147",
+      "modeloId": "1705",
+      "marca": "RENAULT",
+      "modelo": "TWINGO",
+      "version": "PK1 Aire Techo Corredizo",
+      "precios": {}
     },
     "131666": {
       "id": "131666",
@@ -126846,6 +129574,2253 @@
       "modelo": "RX7",
       "version": "Twin Turbo",
       "precios": {}
+    },
+    "210390": {
+      "id": "210390",
+      "marcaId": "2120",
+      "modeloId": "21751",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "214",
+      "version": "SI 3 Puertas",
+      "precios": {}
+    },
+    "210391": {
+      "id": "210391",
+      "marcaId": "2120",
+      "modeloId": "21751",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "214",
+      "version": "SI TL3 5 Puertas",
+      "precios": {}
+    },
+    "210392": {
+      "id": "210392",
+      "marcaId": "2120",
+      "modeloId": "21751",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "214",
+      "version": "SLI",
+      "precios": {}
+    },
+    "210393": {
+      "id": "210393",
+      "marcaId": "2120",
+      "modeloId": "21752",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "216",
+      "version": "Coupé · Ref. V-210393",
+      "precios": {}
+    },
+    "210394": {
+      "id": "210394",
+      "marcaId": "2120",
+      "modeloId": "21752",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "216",
+      "version": "SI TL 5 Puertas",
+      "precios": {}
+    },
+    "210395": {
+      "id": "210395",
+      "marcaId": "2120",
+      "modeloId": "21752",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "216",
+      "version": "SI TL 5 Puertas Automática",
+      "precios": {}
+    },
+    "210396": {
+      "id": "210396",
+      "marcaId": "2120",
+      "modeloId": "21752",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "216",
+      "version": "SI TL Full 5 Puertas",
+      "precios": {}
+    },
+    "210397": {
+      "id": "210397",
+      "marcaId": "2120",
+      "modeloId": "21752",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "216",
+      "version": "SLI",
+      "precios": {}
+    },
+    "210398": {
+      "id": "210398",
+      "marcaId": "2120",
+      "modeloId": "21753",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "218",
+      "version": "VI",
+      "precios": {}
+    },
+    "210399": {
+      "id": "210399",
+      "marcaId": "2120",
+      "modeloId": "21754",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "220",
+      "version": "Coupé · Ref. V-210399",
+      "precios": {}
+    },
+    "210400": {
+      "id": "210400",
+      "marcaId": "2120",
+      "modeloId": "21754",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "220",
+      "version": "SDI TL3 5 Puertas",
+      "precios": {}
+    },
+    "210401": {
+      "id": "210401",
+      "marcaId": "2120",
+      "modeloId": "21755",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "25",
+      "version": "Classic 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "210402": {
+      "id": "210402",
+      "marcaId": "2120",
+      "modeloId": "21755",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "25",
+      "version": "Club 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "210403": {
+      "id": "210403",
+      "marcaId": "2120",
+      "modeloId": "21755",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "25",
+      "version": "Club Cuero 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "210404": {
+      "id": "210404",
+      "marcaId": "2120",
+      "modeloId": "21755",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "25",
+      "version": "Classic 2.0 Turbodiésel",
+      "precios": {}
+    },
+    "210405": {
+      "id": "210405",
+      "marcaId": "2120",
+      "modeloId": "21755",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "25",
+      "version": "Club 2.0 Turbodiésel",
+      "precios": {}
+    },
+    "210406": {
+      "id": "210406",
+      "marcaId": "2120",
+      "modeloId": "21755",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "25",
+      "version": "Club Cuero 2.0 Turbodiésel",
+      "precios": {}
+    },
+    "210407": {
+      "id": "210407",
+      "marcaId": "2120",
+      "modeloId": "21756",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "414",
+      "version": "SLI",
+      "precios": {}
+    },
+    "210408": {
+      "id": "210408",
+      "marcaId": "2120",
+      "modeloId": "21757",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "416",
+      "version": "SI TL4 4 Puertas",
+      "precios": {}
+    },
+    "210409": {
+      "id": "210409",
+      "marcaId": "2120",
+      "modeloId": "21757",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "416",
+      "version": "SI TL8 4 Puertas Automática",
+      "precios": {}
+    },
+    "210410": {
+      "id": "210410",
+      "marcaId": "2120",
+      "modeloId": "21757",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "416",
+      "version": "SI TL4 5 Puertas",
+      "precios": {}
+    },
+    "210411": {
+      "id": "210411",
+      "marcaId": "2120",
+      "modeloId": "21757",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "416",
+      "version": "SI TL7 Full 5 Puertas",
+      "precios": {}
+    },
+    "210412": {
+      "id": "210412",
+      "marcaId": "2120",
+      "modeloId": "21757",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "416",
+      "version": "SI TL8 5 Puertas",
+      "precios": {}
+    },
+    "210413": {
+      "id": "210413",
+      "marcaId": "2120",
+      "modeloId": "21757",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "416",
+      "version": "SI TL8 Full ABS 5 Puertas",
+      "precios": {}
+    },
+    "210414": {
+      "id": "210414",
+      "marcaId": "2120",
+      "modeloId": "21757",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "416",
+      "version": "SLI",
+      "precios": {}
+    },
+    "210415": {
+      "id": "210415",
+      "marcaId": "2120",
+      "modeloId": "21757",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "416",
+      "version": "SLI Automática",
+      "precios": {}
+    },
+    "210416": {
+      "id": "210416",
+      "marcaId": "2120",
+      "modeloId": "21758",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "420",
+      "version": "DI TL3 4 Puertas",
+      "precios": {}
+    },
+    "210417": {
+      "id": "210417",
+      "marcaId": "2120",
+      "modeloId": "21758",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "420",
+      "version": "DI 5 Puertas",
+      "precios": {}
+    },
+    "210418": {
+      "id": "210418",
+      "marcaId": "2120",
+      "modeloId": "21758",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "420",
+      "version": "SDI TL7 4 Puertas",
+      "precios": {}
+    },
+    "210419": {
+      "id": "210419",
+      "marcaId": "2120",
+      "modeloId": "21758",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "420",
+      "version": "SDI TL7 Full ABS Techo Corredizo 4 Puertas",
+      "precios": {}
+    },
+    "210420": {
+      "id": "210420",
+      "marcaId": "2120",
+      "modeloId": "21758",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "420",
+      "version": "SLI TL7 SI",
+      "precios": {}
+    },
+    "210421": {
+      "id": "210421",
+      "marcaId": "2120",
+      "modeloId": "21758",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "420",
+      "version": "SLI TL7 SI C/Techo",
+      "precios": {}
+    },
+    "210422": {
+      "id": "210422",
+      "marcaId": "2120",
+      "modeloId": "21759",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "45",
+      "version": "Club 16 Válvulas 1.8 4 Puertas",
+      "precios": {}
+    },
+    "210423": {
+      "id": "210423",
+      "marcaId": "2120",
+      "modeloId": "21759",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "45",
+      "version": "Club Cuero 16 Válvulas 1.8 4 Puertas",
+      "precios": {}
+    },
+    "210424": {
+      "id": "210424",
+      "marcaId": "2120",
+      "modeloId": "21759",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "45",
+      "version": "Club 16 Válvulas 1.8 5 Puertas",
+      "precios": {}
+    },
+    "210425": {
+      "id": "210425",
+      "marcaId": "2120",
+      "modeloId": "21759",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "45",
+      "version": "Club Cuero 16 Válvulas 1.8 5 Puertas",
+      "precios": {}
+    },
+    "210426": {
+      "id": "210426",
+      "marcaId": "2120",
+      "modeloId": "21759",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "45",
+      "version": "Classic 2.0 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "210427": {
+      "id": "210427",
+      "marcaId": "2120",
+      "modeloId": "21759",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "45",
+      "version": "Classic 2.0 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "210428": {
+      "id": "210428",
+      "marcaId": "2120",
+      "modeloId": "21759",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "45",
+      "version": "Club 2.0 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "210429": {
+      "id": "210429",
+      "marcaId": "2120",
+      "modeloId": "21759",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "45",
+      "version": "Connoisseur 2.0 V6",
+      "precios": {}
+    },
+    "210430": {
+      "id": "210430",
+      "marcaId": "2120",
+      "modeloId": "21760",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "618",
+      "version": "Nafta · Ref. V-210430",
+      "precios": {}
+    },
+    "210431": {
+      "id": "210431",
+      "marcaId": "2120",
+      "modeloId": "21760",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "618",
+      "version": "SI Automática",
+      "precios": {}
+    },
+    "210432": {
+      "id": "210432",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "Gsdi",
+      "precios": {}
+    },
+    "210433": {
+      "id": "210433",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "GSI Luxe",
+      "precios": {}
+    },
+    "210434": {
+      "id": "210434",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "GSI Luxe Automática",
+      "precios": {}
+    },
+    "210435": {
+      "id": "210435",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "SDI Luxe",
+      "precios": {}
+    },
+    "210436": {
+      "id": "210436",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "SI",
+      "precios": {}
+    },
+    "210437": {
+      "id": "210437",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "SI Luxe",
+      "precios": {}
+    },
+    "210438": {
+      "id": "210438",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "SI Luxe Automática",
+      "precios": {}
+    },
+    "210439": {
+      "id": "210439",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "Sldi",
+      "precios": {}
+    },
+    "210440": {
+      "id": "210440",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "SLI",
+      "precios": {}
+    },
+    "210441": {
+      "id": "210441",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "SLI Automática",
+      "precios": {}
+    },
+    "210442": {
+      "id": "210442",
+      "marcaId": "2120",
+      "modeloId": "21761",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "620",
+      "version": "TI",
+      "precios": {}
+    },
+    "210443": {
+      "id": "210443",
+      "marcaId": "2120",
+      "modeloId": "21762",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "623",
+      "version": "GSI Luxe",
+      "precios": {}
+    },
+    "210444": {
+      "id": "210444",
+      "marcaId": "2120",
+      "modeloId": "21762",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "623",
+      "version": "Automática GSI Luxe",
+      "precios": {}
+    },
+    "210445": {
+      "id": "210445",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.0 Turbodiésel Club",
+      "precios": {}
+    },
+    "210446": {
+      "id": "210446",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.0 Turbodiésel Club Rural",
+      "precios": {}
+    },
+    "210447": {
+      "id": "210447",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.0 Turbodiésel Automática Connoisseur",
+      "precios": {}
+    },
+    "210448": {
+      "id": "210448",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.0 Turbodiésel Automática Connoisseur Rural",
+      "precios": {}
+    },
+    "210449": {
+      "id": "210449",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.0 V6 Club",
+      "precios": {}
+    },
+    "210450": {
+      "id": "210450",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.0 V6 Club Rural",
+      "precios": {}
+    },
+    "210451": {
+      "id": "210451",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.5 V6 Connoisseur",
+      "precios": {}
+    },
+    "210452": {
+      "id": "210452",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.5 V6 Automática Connoisseur",
+      "precios": {}
+    },
+    "210453": {
+      "id": "210453",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.5 V6 Connoisseur Rural",
+      "precios": {}
+    },
+    "210454": {
+      "id": "210454",
+      "marcaId": "2120",
+      "modeloId": "21763",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "75",
+      "version": "2.5 V6 Automática Connoisseur Rural",
+      "precios": {}
+    },
+    "210455": {
+      "id": "210455",
+      "marcaId": "2120",
+      "modeloId": "21764",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "820",
+      "version": "SI",
+      "precios": {}
+    },
+    "210456": {
+      "id": "210456",
+      "marcaId": "2120",
+      "modeloId": "21764",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "820",
+      "version": "TI",
+      "precios": {}
+    },
+    "210457": {
+      "id": "210457",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "P400E HSE X-Dynamic 2.0",
+      "precios": {
+        "2022": {
+          "usd": 122225.85,
+          "ars": 187250000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 129406.01,
+          "ars": 198250000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 136586.16,
+          "ars": 209250000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 143766.32,
+          "ars": 220250000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 153557.44,
+          "ars": 235250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210458": {
+      "id": "210458",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "P400E S 2.0",
+      "precios": {
+        "2025": {
+          "usd": 115045.69,
+          "ars": 176250000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 124836.81,
+          "ars": 191250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210459": {
+      "id": "210459",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "7S Plus 2.2 Rural",
+      "precios": {
+        "2013": {
+          "usd": 51174.93,
+          "ars": 78400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 53785.9,
+          "ars": 82400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 56396.87,
+          "ars": 86400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210460": {
+      "id": "210460",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "CSW S 5S 2.4",
+      "precios": {}
+    },
+    "210461": {
+      "id": "210461",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "5S 2.4 Rural Modelo 2011",
+      "precios": {}
+    },
+    "210462": {
+      "id": "210462",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "7S 2.4 Rural Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210463": {
+      "id": "210463",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "Alloy 2.4 Rural",
+      "precios": {}
+    },
+    "210464": {
+      "id": "210464",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "S 2.4 Rural",
+      "precios": {}
+    },
+    "210465": {
+      "id": "210465",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "Hard Top Aire 2.5",
+      "precios": {}
+    },
+    "210466": {
+      "id": "210466",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "2.5 Pick-Up 110",
+      "precios": {}
+    },
+    "210467": {
+      "id": "210467",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "Larga 2.5 Pick-Up",
+      "precios": {}
+    },
+    "210468": {
+      "id": "210468",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "2.5 Rural 110",
+      "precios": {}
+    },
+    "210469": {
+      "id": "210469",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "Aire 2.5 Rural",
+      "precios": {}
+    },
+    "210470": {
+      "id": "210470",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "County 2.5 Rural 110",
+      "precios": {}
+    },
+    "210471": {
+      "id": "210471",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "TD5 Crew CAB",
+      "precios": {}
+    },
+    "210472": {
+      "id": "210472",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "TD5 Rural",
+      "precios": {}
+    },
+    "210473": {
+      "id": "210473",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "TD5 Aire Rural",
+      "precios": {}
+    },
+    "210474": {
+      "id": "210474",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "TD5 County Rural",
+      "precios": {}
+    },
+    "210475": {
+      "id": "210475",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "Hard Top 2.5",
+      "precios": {}
+    },
+    "210476": {
+      "id": "210476",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "2.5 Pick-Up 90",
+      "precios": {}
+    },
+    "210477": {
+      "id": "210477",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "Soft Top 2.5",
+      "precios": {}
+    },
+    "210478": {
+      "id": "210478",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "Sport 2.5",
+      "precios": {}
+    },
+    "210479": {
+      "id": "210479",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "2.5 Rural 90",
+      "precios": {}
+    },
+    "210480": {
+      "id": "210480",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "County 2.5 Rural 90",
+      "precios": {}
+    },
+    "210481": {
+      "id": "210481",
+      "marcaId": "2120",
+      "modeloId": "21765",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DEFENDER",
+      "version": "D300 3.0 Híbrido Liviano",
+      "precios": {
+        "2025": {
+          "usd": 130058.75,
+          "ars": 199250000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 143113.58,
+          "ars": 219250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210482": {
+      "id": "210482",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "Turbodiésel V6 Automática",
+      "precios": {}
+    },
+    "210483": {
+      "id": "210483",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "V8 Automática 3",
+      "precios": {
+        "2013": {
+          "usd": 29438.64,
+          "ars": 45100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210484": {
+      "id": "210484",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "TDV6 HSE",
+      "precios": {
+        "2013": {
+          "usd": 28785.9,
+          "ars": 44100000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 30091.38,
+          "ars": 46100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210485": {
+      "id": "210485",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "TDV6 SE",
+      "precios": {}
+    },
+    "210486": {
+      "id": "210486",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "ALL NEW TA HSE 3.0 Automática",
+      "precios": {
+        "2018": {
+          "usd": 53524.8,
+          "ars": 82000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 56135.77,
+          "ars": 86000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210487": {
+      "id": "210487",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "ALL NEW HSE 3.0 TDI Automática",
+      "precios": {
+        "2018": {
+          "usd": 52545.69,
+          "ars": 80500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 55156.66,
+          "ars": 84500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 58093.99,
+          "ars": 89000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 64621.41,
+          "ars": 99000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 71148.83,
+          "ars": 109000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210488": {
+      "id": "210488",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "ALL NEW SE 3.0 TDI Automática",
+      "precios": {
+        "2018": {
+          "usd": 49934.73,
+          "ars": 76500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 52545.69,
+          "ars": 80500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 55483.03,
+          "ars": 85000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210489": {
+      "id": "210489",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "Sport HSE 2.0",
+      "precios": {
+        "2015": {
+          "usd": 24902.09,
+          "ars": 38150000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 25881.2,
+          "ars": 39650000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 27676.24,
+          "ars": 42400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 29634.46,
+          "ars": 45400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 31592.69,
+          "ars": 48400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33550.91,
+          "ars": 51400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 36161.88,
+          "ars": 55400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210490": {
+      "id": "210490",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "Sport HSE Black 2.0",
+      "precios": {
+        "2015": {
+          "usd": 24967.36,
+          "ars": 38250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 25946.48,
+          "ars": 39750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210491": {
+      "id": "210491",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "Sport S 2.0",
+      "precios": {
+        "2015": {
+          "usd": 23596.61,
+          "ars": 36150000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 24575.72,
+          "ars": 37650000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 26370.76,
+          "ars": 40400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 28328.98,
+          "ars": 43400000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 30287.21,
+          "ars": 46400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210492": {
+      "id": "210492",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "Sport SE 2.0",
+      "precios": {
+        "2015": {
+          "usd": 24249.35,
+          "ars": 37150000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 25228.46,
+          "ars": 38650000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 27023.5,
+          "ars": 41400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210493": {
+      "id": "210493",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "TD5 ES Automática",
+      "precios": {}
+    },
+    "210494": {
+      "id": "210494",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "TD5 S",
+      "precios": {}
+    },
+    "210495": {
+      "id": "210495",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "TD5 S Automática",
+      "precios": {}
+    },
+    "210496": {
+      "id": "210496",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "TDI · Ref. V-210496",
+      "precios": {}
+    },
+    "210497": {
+      "id": "210497",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "TDI · Automática · Ref. V-210497",
+      "precios": {}
+    },
+    "210498": {
+      "id": "210498",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "ES TDI",
+      "precios": {}
+    },
+    "210499": {
+      "id": "210499",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "ES TDI Automática",
+      "precios": {}
+    },
+    "210500": {
+      "id": "210500",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "XS TDI",
+      "precios": {}
+    },
+    "210501": {
+      "id": "210501",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "XS TDI Automática",
+      "precios": {}
+    },
+    "210502": {
+      "id": "210502",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "V8 · Ref. V-210502",
+      "precios": {}
+    },
+    "210503": {
+      "id": "210503",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "Automática · V8 · Ref. V-210503",
+      "precios": {}
+    },
+    "210504": {
+      "id": "210504",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "ES V8",
+      "precios": {}
+    },
+    "210505": {
+      "id": "210505",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "ES V8 Automática",
+      "precios": {}
+    },
+    "210506": {
+      "id": "210506",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "XS V8",
+      "precios": {}
+    },
+    "210507": {
+      "id": "210507",
+      "marcaId": "2120",
+      "modeloId": "21766",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "DISCOVERY",
+      "version": "XS V8 Automática",
+      "precios": {}
+    },
+    "210508": {
+      "id": "210508",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "GS 1.8",
+      "precios": {}
+    },
+    "210509": {
+      "id": "210509",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "S 1.8",
+      "precios": {}
+    },
+    "210510": {
+      "id": "210510",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "XEI 1.8",
+      "precios": {}
+    },
+    "210511": {
+      "id": "210511",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 HSE 2.0 Automática",
+      "precios": {}
+    },
+    "210512": {
+      "id": "210512",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 SE 2.0",
+      "precios": {}
+    },
+    "210513": {
+      "id": "210513",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 SE 2.0 Automática",
+      "precios": {}
+    },
+    "210514": {
+      "id": "210514",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 SE 2.0 Automática 3 Puertas",
+      "precios": {}
+    },
+    "210515": {
+      "id": "210515",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 SE GO 2.0 Automática",
+      "precios": {}
+    },
+    "210516": {
+      "id": "210516",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "Xedi 2.0",
+      "precios": {}
+    },
+    "210517": {
+      "id": "210517",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "ES 2.5 V6 Automática",
+      "precios": {}
+    },
+    "210518": {
+      "id": "210518",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "HSE 2.0 Serie II Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17787.21,
+          "ars": 27250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210519": {
+      "id": "210519",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "S Plus 2.0 Serie II Modelo 2013",
+      "precios": {
+        "2013": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17460.84,
+          "ars": 26750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210520": {
+      "id": "210520",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 HSE 2.2 Automática Serie II",
+      "precios": {}
+    },
+    "210521": {
+      "id": "210521",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 S 2.2 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 13218.02,
+          "ars": 20250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210522": {
+      "id": "210522",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 SE 2.2 Serie II",
+      "precios": {}
+    },
+    "210523": {
+      "id": "210523",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "TD4 SE 2.2 Automática Serie II",
+      "precios": {}
+    },
+    "210524": {
+      "id": "210524",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "I6 HSE 3.2 Automática Serie II",
+      "precios": {
+        "2013": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210525": {
+      "id": "210525",
+      "marcaId": "2120",
+      "modeloId": "21767",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "FREELANDER",
+      "version": "I6 S 3.2 Automática Serie II",
+      "precios": {
+        "2013": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210526": {
+      "id": "210526",
+      "marcaId": "2120",
+      "modeloId": "21768",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "MGF",
+      "version": "1.8 · Ref. V-210526",
+      "precios": {}
+    },
+    "210527": {
+      "id": "210527",
+      "marcaId": "2120",
+      "modeloId": "21768",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "MGF",
+      "version": "Hard Top 1.8",
+      "precios": {}
+    },
+    "210528": {
+      "id": "210528",
+      "marcaId": "2120",
+      "modeloId": "21768",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "MGF",
+      "version": "VVC 1.8",
+      "precios": {}
+    },
+    "210529": {
+      "id": "210529",
+      "marcaId": "2120",
+      "modeloId": "21768",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "MGF",
+      "version": "Stepspeed 1.8 Nafta",
+      "precios": {}
+    },
+    "210530": {
+      "id": "210530",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "2.5 Turbodiésel · Ref. V-210530",
+      "precios": {}
+    },
+    "210531": {
+      "id": "210531",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "2.5 TDI · Ref. V-210531",
+      "precios": {}
+    },
+    "210532": {
+      "id": "210532",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "TDV6 Sport HSE 2.7",
+      "precios": {}
+    },
+    "210533": {
+      "id": "210533",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "TDV6 3.0",
+      "precios": {
+        "2013": {
+          "usd": 32310.7,
+          "ars": 49500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210534": {
+      "id": "210534",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "TDV6 Sport 3.0",
+      "precios": {
+        "2013": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210535": {
+      "id": "210535",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "TDV6 Sport HSE 3.0 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 49608.36,
+          "ars": 76000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 52219.32,
+          "ars": 80000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 54830.29,
+          "ars": 84000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 60052.22,
+          "ars": 92000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210537": {
+      "id": "210537",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Sport HSE 3.0 V6 Cabina Simple Serie II",
+      "precios": {
+        "2015": {
+          "usd": 48955.61,
+          "ars": 75000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 51566.58,
+          "ars": 79000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 56788.51,
+          "ars": 87000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 59399.48,
+          "ars": 91000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 62010.44,
+          "ars": 95000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210538": {
+      "id": "210538",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Sport SE 3.0 V6 Cabina Simple Serie II",
+      "precios": {
+        "2015": {
+          "usd": 47650.13,
+          "ars": 73000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 50261.1,
+          "ars": 77000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210542": {
+      "id": "210542",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "SE 4.0",
+      "precios": {}
+    },
+    "210543": {
+      "id": "210543",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Sport 4.2 V8 Cabina Simple",
+      "precios": {}
+    },
+    "210546": {
+      "id": "210546",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Sport HSE 4.4 V8",
+      "precios": {}
+    },
+    "210548": {
+      "id": "210548",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Sport HSE 5.0 V8",
+      "precios": {
+        "2013": {
+          "usd": 43211.49,
+          "ars": 66200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 45822.45,
+          "ars": 70200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210549": {
+      "id": "210549",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Superc Sport 5.0 V8 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 55483.03,
+          "ars": 85000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 58746.74,
+          "ars": 90000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 66906.01,
+          "ars": 102500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 71475.2,
+          "ars": 109500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 76370.76,
+          "ars": 117000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 81266.32,
+          "ars": 124500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210550": {
+      "id": "210550",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Superchar Sport 5.0 V8",
+      "precios": {
+        "2013": {
+          "usd": 45496.08,
+          "ars": 69700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 48107.05,
+          "ars": 73700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210551": {
+      "id": "210551",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Supercharged 5.0 V8",
+      "precios": {}
+    },
+    "210553": {
+      "id": "210553",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque HSE Dynamic 1.5 Híbrido",
+      "precios": {
+        "2024": {
+          "usd": 116514.36,
+          "ars": 178500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 124673.63,
+          "ars": 191000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210554": {
+      "id": "210554",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque Convertible 2.0 Turbo",
+      "precios": {
+        "2018": {
+          "usd": 42787.21,
+          "ars": 65550000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 45724.54,
+          "ars": 70050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210555": {
+      "id": "210555",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque Dynamic Plus 2.0 Turbo Coupé",
+      "precios": {
+        "2013": {
+          "usd": 26142.3,
+          "ars": 40050000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 28100.52,
+          "ars": 43050000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 30711.49,
+          "ars": 47050000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 32996.08,
+          "ars": 50550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 35607.05,
+          "ars": 54550000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 38870.76,
+          "ars": 59550000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 42134.46,
+          "ars": 64550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210556": {
+      "id": "210556",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque Dynamic SE HYB 2.0 Turbo",
+      "precios": {
+        "2020": {
+          "usd": 57114.88,
+          "ars": 87500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 60704.96,
+          "ars": 93000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 69843.34,
+          "ars": 107000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 74738.9,
+          "ars": 114500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210557": {
+      "id": "210557",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque Dynamic SE R HYB 2.0 Turbo",
+      "precios": {
+        "2020": {
+          "usd": 62989.56,
+          "ars": 96500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 66579.63,
+          "ars": 102000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 71475.2,
+          "ars": 109500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 76370.76,
+          "ars": 117000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 82898.17,
+          "ars": 127000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210558": {
+      "id": "210558",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque HSE 2.0 Turbo",
+      "precios": {
+        "2017": {
+          "usd": 35835.51,
+          "ars": 54900000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 38446.48,
+          "ars": 58900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 41057.44,
+          "ars": 62900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210559": {
+      "id": "210559",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque HST HYB 2.0 Turbo",
+      "precios": {
+        "2023": {
+          "usd": 90078.33,
+          "ars": 138000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 96605.74,
+          "ars": 148000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210560": {
+      "id": "210560",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque Prestige 2.0 Turbo",
+      "precios": {
+        "2013": {
+          "usd": 24967.36,
+          "ars": 38250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26925.59,
+          "ars": 41250000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 28883.81,
+          "ars": 44250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 31168.41,
+          "ars": 47750000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 33779.37,
+          "ars": 51750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210561": {
+      "id": "210561",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque Pure Plus 2.0 Turbo",
+      "precios": {
+        "2013": {
+          "usd": 23988.25,
+          "ars": 36750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 25946.48,
+          "ars": 39750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27904.7,
+          "ars": 42750000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 30189.3,
+          "ars": 46250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 32800.26,
+          "ars": 50250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210562": {
+      "id": "210562",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque Pure SE 2.0 Turbo",
+      "precios": {
+        "2013": {
+          "usd": 23009.14,
+          "ars": 35250000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 24967.36,
+          "ars": 38250000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 26925.59,
+          "ars": 41250000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29210.18,
+          "ars": 44750000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 31821.15,
+          "ars": 48750000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 34432.11,
+          "ars": 52750000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 37043.08,
+          "ars": 56750000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210563": {
+      "id": "210563",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque S HYB 2.0 Turbo",
+      "precios": {
+        "0": {
+          "usd": 87062.66,
+          "ars": 133380000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 69516.97,
+          "ars": 106500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 73433.42,
+          "ars": 112500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210564": {
+      "id": "210564",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque SE Plus 2.0 Turbo",
+      "precios": {
+        "2017": {
+          "usd": 34040.47,
+          "ars": 52150000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 36651.44,
+          "ars": 56150000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 39262.4,
+          "ars": 60150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210565": {
+      "id": "210565",
+      "marcaId": "2120",
+      "modeloId": "21770",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER EVOQUE",
+      "version": "ROV Evoque SD4 Prestige 2.2",
+      "precios": {
+        "2013": {
+          "usd": 26370.76,
+          "ars": 40400000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 28328.98,
+          "ars": 43400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 30287.21,
+          "ars": 46400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 32571.8,
+          "ars": 49900000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 35182.77,
+          "ars": 53900000,
+          "cotizacion": 1532
+        }
+      }
     },
     "215311": {
       "id": "215311",
