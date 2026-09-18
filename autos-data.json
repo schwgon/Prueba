@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-09-18T07:33:13.908Z",
+  "actualizado": "2026-09-18T09:36:39.356Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9556,
-  "versionesProcesadas": 7667,
-  "versionesConValuacion": 3656,
+  "versionesProcesadas": 8017,
+  "versionesConValuacion": 3839,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -126274,6 +126274,1944 @@
       "version": "PK1 Aire Techo Corredizo",
       "precios": {}
     },
+    "18009": {
+      "id": "18009",
+      "marcaId": "150",
+      "modeloId": "1712",
+      "marca": "SHACMAN",
+      "modelo": "L3000",
+      "version": "4x2 Chasis",
+      "precios": {
+        "0": {
+          "usd": 82493.47,
+          "ars": 126380000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18010": {
+      "id": "18010",
+      "marcaId": "150",
+      "modeloId": "1713",
+      "marca": "SHACMAN",
+      "modelo": "X5000",
+      "version": "4x2",
+      "precios": {
+        "0": {
+          "usd": 126213.45,
+          "ars": 193359000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 88120.1,
+          "ars": 135000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 96605.74,
+          "ars": 148000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18011": {
+      "id": "18011",
+      "marcaId": "150",
+      "modeloId": "1713",
+      "marca": "SHACMAN",
+      "modelo": "X5000",
+      "version": "6X2",
+      "precios": {
+        "0": {
+          "usd": 141512.4,
+          "ars": 216797000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 99869.45,
+          "ars": 153000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 109660.57,
+          "ars": 168000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18022": {
+      "id": "18022",
+      "marcaId": "152",
+      "modeloId": "1718",
+      "marca": "SITRAK",
+      "modelo": "G7",
+      "version": "Mixer 8X4 AMT 10M3",
+      "precios": {
+        "0": {
+          "usd": 242377.28,
+          "ars": 371322000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 174934.73,
+          "ars": 268000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18023": {
+      "id": "18023",
+      "marcaId": "152",
+      "modeloId": "1718",
+      "marca": "SITRAK",
+      "modelo": "G7",
+      "version": "Tractor 6X2 440 CV",
+      "precios": {
+        "0": {
+          "usd": 169268.93,
+          "ars": 259320000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 124020.89,
+          "ars": 190000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18024": {
+      "id": "18024",
+      "marcaId": "152",
+      "modeloId": "1718",
+      "marca": "SITRAK",
+      "modelo": "G7",
+      "version": "Tractor 6X4 C/Susp. Mecanica 440 CV",
+      "precios": {
+        "0": {
+          "usd": 161631.85,
+          "ars": 247620000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 117493.47,
+          "ars": 180000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18025": {
+      "id": "18025",
+      "marcaId": "152",
+      "modeloId": "1718",
+      "marca": "SITRAK",
+      "modelo": "G7",
+      "version": "Volcador 8X4 AMT 20M3",
+      "precios": {
+        "0": {
+          "usd": 255462.14,
+          "ars": 391368000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 181462.14,
+          "ars": 278000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18026": {
+      "id": "18026",
+      "marcaId": "153",
+      "modeloId": "1719",
+      "marca": "SUBARU",
+      "modelo": "CROSSTREK",
+      "version": "Dynamic",
+      "precios": {
+        "0": {
+          "usd": 38849.22,
+          "ars": 59517000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 32049.61,
+          "ars": 49100000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 34007.83,
+          "ars": 52100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 35966.06,
+          "ars": 55100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18027": {
+      "id": "18027",
+      "marcaId": "153",
+      "modeloId": "1719",
+      "marca": "SUBARU",
+      "modelo": "CROSSTREK",
+      "version": "Limited ES",
+      "precios": {
+        "0": {
+          "usd": 43443.21,
+          "ars": 66555000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 34986.95,
+          "ars": 53600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 37597.91,
+          "ars": 57600000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 40535.25,
+          "ars": 62100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18028": {
+      "id": "18028",
+      "marcaId": "153",
+      "modeloId": "1719",
+      "marca": "SUBARU",
+      "modelo": "CROSSTREK",
+      "version": "Limited ES Híbrido",
+      "precios": {
+        "0": {
+          "usd": 48436.68,
+          "ars": 74205000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 38903.39,
+          "ars": 59600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 41514.36,
+          "ars": 63600000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 44451.7,
+          "ars": 68100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18029": {
+      "id": "18029",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Limited Sport HYB 2.5 Nafta CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 60920.37,
+          "ars": 93330000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 54177.55,
+          "ars": 83000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 56135.77,
+          "ars": 86000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18030": {
+      "id": "18030",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Limited Sport 2.5 Nafta CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 53929.5,
+          "ars": 82620000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 47813.32,
+          "ars": 73250000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 49771.54,
+          "ars": 76250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18031": {
+      "id": "18031",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "XS 2.5 Nafta CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 43842.69,
+          "ars": 67167000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 41383.81,
+          "ars": 63400000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 43342.04,
+          "ars": 66400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18032": {
+      "id": "18032",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "Dynamic ES 2.0 CVT Tracción Integral Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 34854.44,
+          "ars": 53397000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 32800.26,
+          "ars": 50250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18033": {
+      "id": "18033",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "Limited ES 2.5 Nafta CVT Modelo 2022",
+      "precios": {
+        "0": {
+          "usd": 57652.55,
+          "ars": 87113000,
+          "cotizacion": 1511
+        },
+        "2022": {
+          "usd": 38511.75,
+          "ars": 59000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 41122.72,
+          "ars": 63000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 44060.05,
+          "ars": 67500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 47323.76,
+          "ars": 72500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 50587.47,
+          "ars": 77500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18034": {
+      "id": "18034",
+      "marcaId": "153",
+      "modeloId": "1723",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "2.4 Turbo Performance",
+      "precios": {
+        "0": {
+          "usd": 61919.06,
+          "ars": 94860000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 57310.7,
+          "ars": 87800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 60574.41,
+          "ars": 92800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 63838.12,
+          "ars": 97800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18035": {
+      "id": "18035",
+      "marcaId": "153",
+      "modeloId": "1723",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "2.4 Turbo CVT TS ES",
+      "precios": {
+        "0": {
+          "usd": 65913.84,
+          "ars": 100980000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 61227.15,
+          "ars": 93800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 64490.86,
+          "ars": 98800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18036": {
+      "id": "18036",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "GLX 1.4 2",
+      "precios": {
+        "2018": {
+          "usd": 11031.33,
+          "ars": 16900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11357.7,
+          "ars": 17400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18037": {
+      "id": "18037",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "GLX 1.4 Automática 2",
+      "precios": {
+        "2018": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11553.52,
+          "ars": 17700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11945.17,
+          "ars": 18300000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12336.81,
+          "ars": 18900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12793.73,
+          "ars": 19600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18038": {
+      "id": "18038",
+      "marcaId": "154",
+      "modeloId": "1725",
+      "marca": "SUZUKI",
+      "modelo": "FUN",
+      "version": "1.0 3 Puertas 2",
+      "precios": {}
+    },
+    "18039": {
+      "id": "18039",
+      "marcaId": "154",
+      "modeloId": "1725",
+      "marca": "SUZUKI",
+      "modelo": "FUN",
+      "version": "Aire 1.0 3 Puertas 2",
+      "precios": {}
+    },
+    "18041": {
+      "id": "18041",
+      "marcaId": "154",
+      "modeloId": "1725",
+      "marca": "SUZUKI",
+      "modelo": "FUN",
+      "version": "1.4 5 Puertas 2",
+      "precios": {}
+    },
+    "18043": {
+      "id": "18043",
+      "marcaId": "154",
+      "modeloId": "1726",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "Jimny GL 1.5",
+      "precios": {
+        "0": {
+          "usd": 30959.53,
+          "ars": 47430000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24412.53,
+          "ars": 37400000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 26566.58,
+          "ars": 40700000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 27872.06,
+          "ars": 42700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18044": {
+      "id": "18044",
+      "marcaId": "154",
+      "modeloId": "1726",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "Jimny GLX 1.5 5 Puertas",
+      "precios": {
+        "0": {
+          "usd": 33855.74,
+          "ars": 51867000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30613.58,
+          "ars": 46900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18045": {
+      "id": "18045",
+      "marcaId": "154",
+      "modeloId": "1726",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "Jimny GLX 1.5 Automática 5 Puertas",
+      "precios": {
+        "0": {
+          "usd": 35953,
+          "ars": 55080000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 31266.32,
+          "ars": 47900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18046": {
+      "id": "18046",
+      "marcaId": "154",
+      "modeloId": "1726",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "Jimny GLX 1.5 Automática",
+      "precios": {
+        "0": {
+          "usd": 34954.31,
+          "ars": 53550000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 21475.2,
+          "ars": 32900000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 22454.31,
+          "ars": 34400000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 23433.42,
+          "ars": 35900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 24477.81,
+          "ars": 37500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 25522.19,
+          "ars": 39100000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 27219.32,
+          "ars": 41700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28524.8,
+          "ars": 43700000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30091.38,
+          "ars": 46100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18051": {
+      "id": "18051",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.2 Híbrido GLX 5 Puertas",
+      "precios": {
+        "0": {
+          "usd": 22370.76,
+          "ars": 34272000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18052": {
+      "id": "18052",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.2 Híbrido CVT GLX 5 Puertas",
+      "precios": {
+        "0": {
+          "usd": 24368.15,
+          "ars": 37332000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 19255.87,
+          "ars": 29500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18053": {
+      "id": "18053",
+      "marcaId": "155",
+      "modeloId": "1729",
+      "marca": "TANK",
+      "modelo": "TANK",
+      "version": "Variante · Ref. V-18053",
+      "precios": {
+        "0": {
+          "usd": 51832.25,
+          "ars": 79407000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 39164.49,
+          "ars": 60000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18054": {
+      "id": "18054",
+      "marcaId": "156",
+      "modeloId": "1730",
+      "marca": "TOYOTA",
+      "modelo": "4RUNER",
+      "version": "Four Runner L",
+      "precios": {}
+    },
+    "18055": {
+      "id": "18055",
+      "marcaId": "156",
+      "modeloId": "1730",
+      "marca": "TOYOTA",
+      "modelo": "4RUNER",
+      "version": "Four Runner SL",
+      "precios": {}
+    },
+    "18056": {
+      "id": "18056",
+      "marcaId": "156",
+      "modeloId": "1731",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "FT 2",
+      "precios": {
+        "2013": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 29373.37,
+          "ars": 45000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18057": {
+      "id": "18057",
+      "marcaId": "156",
+      "modeloId": "1731",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "GR",
+      "precios": {
+        "0": {
+          "usd": 60820.5,
+          "ars": 93177000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 48785.71,
+          "ars": 68300000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 49357.14,
+          "ars": 69100000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 49928.57,
+          "ars": 69900000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 50500,
+          "ars": 70700000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 41449.09,
+          "ars": 63500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 43733.68,
+          "ars": 67000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 46344.65,
+          "ars": 71000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 48955.61,
+          "ars": 75000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18058": {
+      "id": "18058",
+      "marcaId": "156",
+      "modeloId": "1731",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "GT 2",
+      "precios": {
+        "2013": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33942.56,
+          "ars": 52000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 35900.78,
+          "ars": 55000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 37859.01,
+          "ars": 58000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18059": {
+      "id": "18059",
+      "marcaId": "156",
+      "modeloId": "1731",
+      "marca": "TOYOTA",
+      "modelo": "86",
+      "version": "GT Automática 2",
+      "precios": {
+        "2013": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 29047,
+          "ars": 44500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 30352.48,
+          "ars": 46500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 31657.96,
+          "ars": 48500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32963.45,
+          "ars": 50500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 34268.93,
+          "ars": 52500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 36227.15,
+          "ars": 55500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 38185.38,
+          "ars": 58500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18060": {
+      "id": "18060",
+      "marcaId": "156",
+      "modeloId": "1732",
+      "marca": "TOYOTA",
+      "modelo": "AVALON",
+      "version": "24V",
+      "precios": {}
+    },
+    "18061": {
+      "id": "18061",
+      "marcaId": "156",
+      "modeloId": "1733",
+      "marca": "TOYOTA",
+      "modelo": "AVENSIS",
+      "version": "2.0 2",
+      "precios": {}
+    },
+    "18062": {
+      "id": "18062",
+      "marcaId": "156",
+      "modeloId": "1733",
+      "marca": "TOYOTA",
+      "modelo": "AVENSIS",
+      "version": "2.0 Automática 2",
+      "precios": {}
+    },
+    "18063": {
+      "id": "18063",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "2.2",
+      "precios": {}
+    },
+    "18064": {
+      "id": "18064",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "2.2 Automática",
+      "precios": {}
+    },
+    "18065": {
+      "id": "18065",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "2.4 Automática Modelo 2003 2",
+      "precios": {}
+    },
+    "18066": {
+      "id": "18066",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "2.4 Automática Modelo 2006 2",
+      "precios": {}
+    },
+    "18067": {
+      "id": "18067",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "2.5 Automática Modelo 2012 2",
+      "precios": {
+        "2013": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16579.63,
+          "ars": 25400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17428.2,
+          "ars": 26700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18068": {
+      "id": "18068",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "2.5 Automática Modelo 2017 2",
+      "precios": {
+        "2016": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18069": {
+      "id": "18069",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "2.5 Automática Modelo 2018 2",
+      "precios": {
+        "2017": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18070": {
+      "id": "18070",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "2.5 CVT HV 2",
+      "precios": {
+        "2021": {
+          "usd": 39490.86,
+          "ars": 60500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 40796.34,
+          "ars": 62500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 42754.57,
+          "ars": 65500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 45365.54,
+          "ars": 69500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18071": {
+      "id": "18071",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "3.0 Automática GX Cuero",
+      "precios": {}
+    },
+    "18072": {
+      "id": "18072",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "3.0 Automática Modelo 2003 2",
+      "precios": {}
+    },
+    "18073": {
+      "id": "18073",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "3.5 Automática Modelo 2006 2",
+      "precios": {}
+    },
+    "18074": {
+      "id": "18074",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "3.5 Automática Modelo 2012 2",
+      "precios": {
+        "2013": {
+          "usd": 16775.46,
+          "ars": 25700000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18075": {
+      "id": "18075",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "3.5 Automática Modelo 2017 2",
+      "precios": {
+        "2016": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 28394.26,
+          "ars": 43500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18076": {
+      "id": "18076",
+      "marcaId": "156",
+      "modeloId": "1734",
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "version": "3.5 Automática Modelo 2018 2",
+      "precios": {
+        "2018": {
+          "usd": 29699.74,
+          "ars": 45500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 31657.96,
+          "ars": 48500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18078": {
+      "id": "18078",
+      "marcaId": "156",
+      "modeloId": "1735",
+      "marca": "TOYOTA",
+      "modelo": "CELICA",
+      "version": "Lift 2.0",
+      "precios": {}
+    },
+    "18079": {
+      "id": "18079",
+      "marcaId": "156",
+      "modeloId": "1735",
+      "marca": "TOYOTA",
+      "modelo": "CELICA",
+      "version": "Americana 2.2",
+      "precios": {}
+    },
+    "18080": {
+      "id": "18080",
+      "marcaId": "156",
+      "modeloId": "1736",
+      "marca": "TOYOTA",
+      "modelo": "CH-R",
+      "version": "1.8 Hybrid CVT 2",
+      "precios": {
+        "2019": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 28067.89,
+          "ars": 43000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18081": {
+      "id": "18081",
+      "marcaId": "156",
+      "modeloId": "1737",
+      "marca": "TOYOTA",
+      "modelo": "COASTER",
+      "version": "PAS 18",
+      "precios": {}
+    },
+    "18082": {
+      "id": "18082",
+      "marcaId": "156",
+      "modeloId": "1737",
+      "marca": "TOYOTA",
+      "modelo": "COASTER",
+      "version": "PAS 22",
+      "precios": {}
+    },
+    "18083": {
+      "id": "18083",
+      "marcaId": "156",
+      "modeloId": "1737",
+      "marca": "TOYOTA",
+      "modelo": "COASTER",
+      "version": "PAS 30",
+      "precios": {}
+    },
+    "18084": {
+      "id": "18084",
+      "marcaId": "156",
+      "modeloId": "1738",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "DX 1.6",
+      "precios": {}
+    },
+    "18085": {
+      "id": "18085",
+      "marcaId": "156",
+      "modeloId": "1738",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "DX 1.6 Automática",
+      "precios": {}
+    },
+    "18086": {
+      "id": "18086",
+      "marcaId": "156",
+      "modeloId": "1738",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "GLI Full 1.6",
+      "precios": {}
+    },
+    "18087": {
+      "id": "18087",
+      "marcaId": "156",
+      "modeloId": "1738",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "GLI Full 1.6 Automática",
+      "precios": {}
+    },
+    "18091": {
+      "id": "18091",
+      "marcaId": "156",
+      "modeloId": "1738",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "Fielder Se-G 1.8 Automática",
+      "precios": {}
+    },
+    "18092": {
+      "id": "18092",
+      "marcaId": "156",
+      "modeloId": "1738",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "Fielder XEI 1.8",
+      "precios": {}
+    },
+    "18093": {
+      "id": "18093",
+      "marcaId": "156",
+      "modeloId": "1738",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "Fielder XEI 1.8 Automática",
+      "precios": {}
+    },
+    "18139": {
+      "id": "18139",
+      "marcaId": "156",
+      "modeloId": "1738",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "version": "Gr-Sport 2.0 CVT 2",
+      "precios": {
+        "2021": {
+          "usd": 20757.18,
+          "ars": 31800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 22323.76,
+          "ars": 34200000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 23302.87,
+          "ars": 35700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 24281.98,
+          "ars": 37200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18167": {
+      "id": "18167",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Seguridad 1.8 Híbrido CVT",
+      "precios": {
+        "2021": {
+          "usd": 24281.98,
+          "ars": 37200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 27415.14,
+          "ars": 42000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28785.9,
+          "ars": 44100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18168": {
+      "id": "18168",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Seguridad 1.8 Híbrido CVT Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 28916.45,
+          "ars": 44300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29895.56,
+          "ars": 45800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30939.95,
+          "ars": 47400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18169": {
+      "id": "18169",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Seguridad 1.8 Híbrido CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 41569.19,
+          "ars": 63684000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 30483.03,
+          "ars": 46700000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 32441.25,
+          "ars": 49700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18170": {
+      "id": "18170",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Launch E Seguridad 1.8 Híbrido CVT",
+      "precios": {
+        "2021": {
+          "usd": 24412.53,
+          "ars": 37400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 25261.1,
+          "ars": 38700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18173": {
+      "id": "18173",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XEI 1.8 Híbrido CVT",
+      "precios": {
+        "2021": {
+          "usd": 22323.76,
+          "ars": 34200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25326.37,
+          "ars": 38800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18174": {
+      "id": "18174",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XEI 1.8 Híbrido CVT Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 26958.22,
+          "ars": 41300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27937.34,
+          "ars": 42800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18175": {
+      "id": "18175",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XEI 1.8 Híbrido CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 37437.99,
+          "ars": 57355000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28590.08,
+          "ars": 43800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30548.3,
+          "ars": 46800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18177": {
+      "id": "18177",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Gr-Sport 2.0 CVT",
+      "precios": {
+        "2022": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 28263.71,
+          "ars": 43300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29438.64,
+          "ars": 45100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18178": {
+      "id": "18178",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Gr-Sport 2.0 CVT Modelo 2024 2",
+      "precios": {
+        "2024": {
+          "usd": 29242.82,
+          "ars": 44800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 30221.93,
+          "ars": 46300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 31201.04,
+          "ars": 47800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18179": {
+      "id": "18179",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Gr-Sport 2.0 CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 41829.63,
+          "ars": 64083000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 31331.59,
+          "ars": 48000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18180": {
+      "id": "18180",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Seguridad 2.0 CVT",
+      "precios": {
+        "2021": {
+          "usd": 23825.07,
+          "ars": 36500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 25783.29,
+          "ars": 39500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18181": {
+      "id": "18181",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Seguridad 2.0 CVT Modelo 2024 2",
+      "precios": {
+        "2024": {
+          "usd": 28590.08,
+          "ars": 43800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 29569.19,
+          "ars": 45300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30548.3,
+          "ars": 46800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18182": {
+      "id": "18182",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Seguridad 2.0 CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 40295.04,
+          "ars": 61732000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 30026.11,
+          "ars": 46000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 31984.33,
+          "ars": 49000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18183": {
+      "id": "18183",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XEI 2.0 CVT",
+      "precios": {
+        "2021": {
+          "usd": 22258.49,
+          "ars": 34100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23172.32,
+          "ars": 35500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18184": {
+      "id": "18184",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XEI 2.0 CVT Modelo 2024 2",
+      "precios": {
+        "2024": {
+          "usd": 26631.85,
+          "ars": 40800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 27610.97,
+          "ars": 42300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18185": {
+      "id": "18185",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XEI 2.0 CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 36516.97,
+          "ars": 55944000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 28263.71,
+          "ars": 43300000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 30221.93,
+          "ars": 46300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18186": {
+      "id": "18186",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XLI 2.0 CVT",
+      "precios": {
+        "2021": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 24151.44,
+          "ars": 37000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25456.92,
+          "ars": 39000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18187": {
+      "id": "18187",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XLI 2.0 CVT Modelo 2024 2",
+      "precios": {
+        "2024": {
+          "usd": 25130.55,
+          "ars": 38500000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25979.11,
+          "ars": 39800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "18188": {
+      "id": "18188",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XLI 2.0 CVT Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 33889.03,
+          "ars": 51918000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 26631.85,
+          "ars": 40800000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 28590.08,
+          "ars": 43800000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "131666": {
       "id": "131666",
       "marcaId": "106",
@@ -127440,6 +129378,1972 @@
           "cotizacion": 1532
         }
       }
+    },
+    "208077": {
+      "id": "208077",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Automática · Tracción Integral · Ref. V-208077",
+      "precios": {}
+    },
+    "208078": {
+      "id": "208078",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "AUT Automática",
+      "precios": {}
+    },
+    "208079": {
+      "id": "208079",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "B",
+      "precios": {}
+    },
+    "208080": {
+      "id": "208080",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "B Automática",
+      "precios": {}
+    },
+    "208081": {
+      "id": "208081",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Cross Sport 2.0",
+      "precios": {}
+    },
+    "208082": {
+      "id": "208082",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Dynamic 2.0 CVT",
+      "precios": {
+        "2016": {
+          "usd": 19288.51,
+          "ars": 29550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20593.99,
+          "ars": 31550000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22552.22,
+          "ars": 34550000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24510.44,
+          "ars": 37550000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 26468.67,
+          "ars": 40550000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 28426.89,
+          "ars": 43550000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 30385.12,
+          "ars": 46550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208083": {
+      "id": "208083",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "FA 2.0",
+      "precios": {}
+    },
+    "208084": {
+      "id": "208084",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "FA 2.0 Automática",
+      "precios": {}
+    },
+    "208085": {
+      "id": "208085",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "QV TV 2.0",
+      "precios": {}
+    },
+    "208086": {
+      "id": "208086",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "SL 2.0",
+      "precios": {}
+    },
+    "208087": {
+      "id": "208087",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Turbo 2.0",
+      "precios": {}
+    },
+    "208088": {
+      "id": "208088",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "X 2.0",
+      "precios": {}
+    },
+    "208089": {
+      "id": "208089",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "X Limited 2.0",
+      "precios": {}
+    },
+    "208090": {
+      "id": "208090",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "X Limited 2.0 Automática",
+      "precios": {}
+    },
+    "208091": {
+      "id": "208091",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "XT Turbo 2.0 CVT",
+      "precios": {
+        "2016": {
+          "usd": 19288.51,
+          "ars": 29550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 20593.99,
+          "ars": 31550000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 22552.22,
+          "ars": 34550000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24510.44,
+          "ars": 37550000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 26468.67,
+          "ars": 40550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208092": {
+      "id": "208092",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Dynamic ES 2.0 Nafta CVT Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 33485.64,
+          "ars": 51300000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 35443.86,
+          "ars": 54300000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37402.09,
+          "ars": 57300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 40013.05,
+          "ars": 61300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208093": {
+      "id": "208093",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Hybrid Limited Sport 2.0 Nafta CVT",
+      "precios": {
+        "2024": {
+          "usd": 43668.41,
+          "ars": 66900000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 46932.11,
+          "ars": 71900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208094": {
+      "id": "208094",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "NEW X 2.0 Nafta CVT",
+      "precios": {
+        "2019": {
+          "usd": 22878.59,
+          "ars": 35050000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 24836.81,
+          "ars": 38050000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 26795.04,
+          "ars": 41050000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 28753.26,
+          "ars": 44050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208095": {
+      "id": "208095",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "NEW XS 2.0 Nafta CVT",
+      "precios": {
+        "2019": {
+          "usd": 23531.33,
+          "ars": 36050000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 25489.56,
+          "ars": 39050000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 27447.78,
+          "ars": 42050000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 29406.01,
+          "ars": 45050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208096": {
+      "id": "208096",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "X 2.0 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 13152.74,
+          "ars": 20150000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14131.85,
+          "ars": 21650000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15437.34,
+          "ars": 23650000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 16742.82,
+          "ars": 25650000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18048.3,
+          "ars": 27650000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208097": {
+      "id": "208097",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "X 2.0 Nafta CVT Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 30548.3,
+          "ars": 46800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 32506.53,
+          "ars": 49800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 34464.75,
+          "ars": 52800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 37075.72,
+          "ars": 56800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208098": {
+      "id": "208098",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "XS 2.0 Nafta CVT Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 31853.79,
+          "ars": 48800000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 33812.01,
+          "ars": 51800000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 35770.23,
+          "ars": 54800000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 38381.2,
+          "ars": 58800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208099": {
+      "id": "208099",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "XS SI Drive 2.0 Nafta CVT",
+      "precios": {
+        "2013": {
+          "usd": 13609.66,
+          "ars": 20850000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14588.77,
+          "ars": 22350000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15894.26,
+          "ars": 24350000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17199.74,
+          "ars": 26350000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18537.86,
+          "ars": 28400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 20169.71,
+          "ars": 30900000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 21801.57,
+          "ars": 33400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208100": {
+      "id": "208100",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R X 2.0",
+      "precios": {
+        "2013": {
+          "usd": 11651.44,
+          "ars": 17850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208101": {
+      "id": "208101",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R X 2.0 Automática",
+      "precios": {}
+    },
+    "208102": {
+      "id": "208102",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R XA 2.0",
+      "precios": {}
+    },
+    "208103": {
+      "id": "208103",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R XA 2.0 Automática",
+      "precios": {}
+    },
+    "208104": {
+      "id": "208104",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R XS 2.0",
+      "precios": {}
+    },
+    "208105": {
+      "id": "208105",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R XS 2.0 Automática",
+      "precios": {
+        "2013": {
+          "usd": 12304.18,
+          "ars": 18850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208106": {
+      "id": "208106",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R XS Limited 2.0",
+      "precios": {}
+    },
+    "208107": {
+      "id": "208107",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R XS Limited 2.0 Automática",
+      "precios": {
+        "2013": {
+          "usd": 12630.55,
+          "ars": 19350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208108": {
+      "id": "208108",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "XT SI Drive 2.0 Turbo CVT",
+      "precios": {
+        "2013": {
+          "usd": 14915.14,
+          "ars": 22850000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15894.26,
+          "ars": 24350000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17199.74,
+          "ars": 26350000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18505.22,
+          "ars": 28350000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 19647.52,
+          "ars": 30100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208109": {
+      "id": "208109",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Dynamic ES 2.5 Nafta CVT Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 35345.95,
+          "ars": 54150000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 37304.18,
+          "ars": 57150000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 39262.4,
+          "ars": 60150000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 41873.37,
+          "ars": 64150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208110": {
+      "id": "208110",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Limited Sport ES 2.5 Nafta CVT Modelo 2022",
+      "precios": {
+        "2022": {
+          "usd": 37304.18,
+          "ars": 57150000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 39262.4,
+          "ars": 60150000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 41220.63,
+          "ars": 63150000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 43831.59,
+          "ars": 67150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208113": {
+      "id": "208113",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "XS 2.5 Nafta CVT",
+      "precios": {
+        "2023": {
+          "usd": 35345.95,
+          "ars": 54150000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 37304.18,
+          "ars": 57150000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 39262.4,
+          "ars": 60150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208115": {
+      "id": "208115",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Drive SI DYN 2.5 Nafta CVT",
+      "precios": {
+        "2013": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208116": {
+      "id": "208116",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Drive SI XS 2.5 Nafta CVT",
+      "precios": {
+        "2013": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208117": {
+      "id": "208117",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Limited SI DRI S 2.5 Nafta CVT",
+      "precios": {
+        "2013": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 19908.62,
+          "ars": 30500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 21214.1,
+          "ars": 32500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 32637.08,
+          "ars": 50000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208118": {
+      "id": "208118",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "Limited Sport 2.5 Nafta CVT",
+      "precios": {
+        "2016": {
+          "usd": 21083.55,
+          "ars": 32300000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 22715.4,
+          "ars": 34800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208119": {
+      "id": "208119",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "NEW Dyna. ES 2.5 Nafta CVT",
+      "precios": {
+        "2019": {
+          "usd": 24804.18,
+          "ars": 38000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 26762.4,
+          "ars": 41000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 28720.63,
+          "ars": 44000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 30678.85,
+          "ars": 47000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208120": {
+      "id": "208120",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "XT 2.5 Nafta",
+      "precios": {}
+    },
+    "208121": {
+      "id": "208121",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R XT Turbo 2.5",
+      "precios": {}
+    },
+    "208122": {
+      "id": "208122",
+      "marcaId": "153",
+      "modeloId": "1720",
+      "marca": "SUBARU",
+      "modelo": "FORESTER",
+      "version": "R XT Turbo 2.5 Automática",
+      "precios": {
+        "2013": {
+          "usd": 13772.85,
+          "ars": 21100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208123": {
+      "id": "208123",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "2A 1.5 Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208124": {
+      "id": "208124",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "2A 1.5 Automática Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208125": {
+      "id": "208125",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 1.6",
+      "precios": {}
+    },
+    "208126": {
+      "id": "208126",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 1.6 Automática",
+      "precios": {}
+    },
+    "208127": {
+      "id": "208127",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "LX 1.6",
+      "precios": {}
+    },
+    "208128": {
+      "id": "208128",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 1.8 Tracción Integral",
+      "precios": {}
+    },
+    "208129": {
+      "id": "208129",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 1.8 Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208130": {
+      "id": "208130",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 1.8 Automática Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208131": {
+      "id": "208131",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 1.8 Automática Tracción Integral",
+      "precios": {}
+    },
+    "208132": {
+      "id": "208132",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "Dynamic 5D 2.0 CVT Tracción Integral",
+      "precios": {
+        "2018": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208134": {
+      "id": "208134",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "Limited 4D 2.0 CVT Tracción Integral",
+      "precios": {
+        "2018": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208135": {
+      "id": "208135",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "Limited 5D 2.0 CVT Tracción Integral",
+      "precios": {
+        "2018": {
+          "usd": 21181.46,
+          "ars": 32450000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 22813.32,
+          "ars": 34950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208136": {
+      "id": "208136",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "208137": {
+      "id": "208137",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 2.0 Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208138": {
+      "id": "208138",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 2.0 Automática Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208139": {
+      "id": "208139",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GL 2.0 Automática Tracción Integral",
+      "precios": {}
+    },
+    "208140": {
+      "id": "208140",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GX 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "208141": {
+      "id": "208141",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GX 2.0 Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208142": {
+      "id": "208142",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GX 2.0 Automática Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208143": {
+      "id": "208143",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GX 2.0 Automática Tracción Integral",
+      "precios": {}
+    },
+    "208144": {
+      "id": "208144",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "NA 2.0 Tracción Integral 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 10688.64,
+          "ars": 16375000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208145": {
+      "id": "208145",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "NA 2.0 Automática Tracción Integral 4 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 10884.46,
+          "ars": 16675000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208146": {
+      "id": "208146",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "NA 2.0 Tracción Integral 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 10884.46,
+          "ars": 16675000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208147": {
+      "id": "208147",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "NA 2.0 Automática Tracción Integral 5 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 11015.01,
+          "ars": 16875000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208148": {
+      "id": "208148",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "R 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "208149": {
+      "id": "208149",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "R 2.0 Automática Tracción Integral",
+      "precios": {}
+    },
+    "208150": {
+      "id": "208150",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "RC 2.0 Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208151": {
+      "id": "208151",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "RC 2.0 Automática Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208152": {
+      "id": "208152",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "RN 2.0 Tracción Integral 4 Puertas",
+      "precios": {}
+    },
+    "208153": {
+      "id": "208153",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "RN 2.0 Automática Tracción Integral 4 Puertas",
+      "precios": {}
+    },
+    "208154": {
+      "id": "208154",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "RN 2.0 Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208155": {
+      "id": "208155",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "RN 2.0 Automática Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208156": {
+      "id": "208156",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "RX 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "208157": {
+      "id": "208157",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GT Turbo 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "208158": {
+      "id": "208158",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GT Turbo 2.0 Tracción Integral 2",
+      "precios": {}
+    },
+    "208159": {
+      "id": "208159",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "GT Turbo 2.0 Tracción Integral 5 Puertas",
+      "precios": {}
+    },
+    "208160": {
+      "id": "208160",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "WRX STI 2.0 Tracción Integral Modelo 2004",
+      "precios": {}
+    },
+    "208161": {
+      "id": "208161",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "WRX 2.5 Tracción Integral",
+      "precios": {
+        "2013": {
+          "usd": 26436.03,
+          "ars": 40500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208162": {
+      "id": "208162",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "WRX 2.5 Tracción Integral 5 Puertas Modelo 2008",
+      "precios": {}
+    },
+    "208163": {
+      "id": "208163",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "WRX STI 2.5 Tracción Integral 5 Puertas Modelo 2008",
+      "precios": {
+        "2013": {
+          "usd": 27088.77,
+          "ars": 41500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208164": {
+      "id": "208164",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "WRX STI 2.5 Tracción Integral Modelo 2006",
+      "precios": {}
+    },
+    "208165": {
+      "id": "208165",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "3S Sportshift 2.5",
+      "precios": {}
+    },
+    "208166": {
+      "id": "208166",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "UN 2.5",
+      "precios": {}
+    },
+    "208167": {
+      "id": "208167",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "UN Sportshift 2.5",
+      "precios": {}
+    },
+    "208168": {
+      "id": "208168",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "US 2.5",
+      "precios": {}
+    },
+    "208169": {
+      "id": "208169",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "US Sportshift 2.5",
+      "precios": {}
+    },
+    "208170": {
+      "id": "208170",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "Limited 2.5 Nafta CVT",
+      "precios": {
+        "2013": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 23563.97,
+          "ars": 36100000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 25848.56,
+          "ars": 39600000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 28133.16,
+          "ars": 43100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 30744.13,
+          "ars": 47100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 33355.09,
+          "ars": 51100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 35966.06,
+          "ars": 55100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208172": {
+      "id": "208172",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "Limited Tech 2.5 Nafta CVT",
+      "precios": {
+        "2013": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18603.13,
+          "ars": 28500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208173": {
+      "id": "208173",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "XA 2.5 Nafta CVT",
+      "precios": {
+        "2013": {
+          "usd": 12565.27,
+          "ars": 19250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208174": {
+      "id": "208174",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "XS 2.5 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208175": {
+      "id": "208175",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "XS 2.5 Nafta CVT",
+      "precios": {
+        "2013": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15339.43,
+          "ars": 23500000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208176": {
+      "id": "208176",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "R 3.0 Automática",
+      "precios": {}
+    },
+    "208177": {
+      "id": "208177",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "ES VDC Sportshif 3.0",
+      "precios": {}
+    },
+    "208179": {
+      "id": "208179",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "R LTD 3.6 CVT",
+      "precios": {
+        "2017": {
+          "usd": 25522.19,
+          "ars": 39100000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 27741.51,
+          "ars": 42500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208181": {
+      "id": "208181",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "R SI Drive 3.6 CVT",
+      "precios": {
+        "2013": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 18929.5,
+          "ars": 29000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208182": {
+      "id": "208182",
+      "marcaId": "153",
+      "modeloId": "1723",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "2.0 Turbo · Ref. V-208182",
+      "precios": {
+        "2015": {
+          "usd": 33093.99,
+          "ars": 50700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 35052.22,
+          "ars": 53700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 37663.19,
+          "ars": 57700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 40274.15,
+          "ars": 61700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 42885.12,
+          "ars": 65700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 45496.08,
+          "ars": 69700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 47780.68,
+          "ars": 73200000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 51044.39,
+          "ars": 78200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208183": {
+      "id": "208183",
+      "marcaId": "153",
+      "modeloId": "1723",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "2.0 Turbo · CVT · Ref. V-208183",
+      "precios": {
+        "2015": {
+          "usd": 34399.48,
+          "ars": 52700000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 36357.7,
+          "ars": 55700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 38968.67,
+          "ars": 59700000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 41579.63,
+          "ars": 63700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 44190.6,
+          "ars": 67700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 46801.57,
+          "ars": 71700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 49412.53,
+          "ars": 75700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 52349.87,
+          "ars": 80200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208186": {
+      "id": "208186",
+      "marcaId": "153",
+      "modeloId": "1723",
+      "marca": "SUBARU",
+      "modelo": "WRX",
+      "version": "2.5 STI",
+      "precios": {
+        "2019": {
+          "usd": 46801.57,
+          "ars": 71700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 49412.53,
+          "ars": 75700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 52023.5,
+          "ars": 79700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 55287.21,
+          "ars": 84700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208187": {
+      "id": "208187",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "1.3 · Ref. V-208187",
+      "precios": {}
+    },
+    "208190": {
+      "id": "208190",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "GLX 1.6",
+      "precios": {}
+    },
+    "208191": {
+      "id": "208191",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "GLX ABS Airbag 1.6",
+      "precios": {}
+    },
+    "208192": {
+      "id": "208192",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "GLX 1.6 Automática",
+      "precios": {}
+    },
+    "208193": {
+      "id": "208193",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "GLX ABS Airbag 1.6 Automática",
+      "precios": {}
+    },
+    "208194": {
+      "id": "208194",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "GS Hatch 1.6 3 Puertas",
+      "precios": {}
+    },
+    "208195": {
+      "id": "208195",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "Wagon Full 1.6",
+      "precios": {}
+    },
+    "208196": {
+      "id": "208196",
+      "marcaId": "154",
+      "modeloId": "1724",
+      "marca": "SUZUKI",
+      "modelo": "BALENO",
+      "version": "Wagon Full 1.6 Automática",
+      "precios": {}
+    },
+    "208199": {
+      "id": "208199",
+      "marcaId": "154",
+      "modeloId": "1725",
+      "marca": "SUZUKI",
+      "modelo": "FUN",
+      "version": "L/N 1.4 3 Puertas",
+      "precios": {}
+    },
+    "208202": {
+      "id": "208202",
+      "marcaId": "154",
+      "modeloId": "1725",
+      "marca": "SUZUKI",
+      "modelo": "FUN",
+      "version": "L/N 1.4 5 Puertas",
+      "precios": {}
+    },
+    "208205": {
+      "id": "208205",
+      "marcaId": "154",
+      "modeloId": "1726",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "Jimny GL Bitone 1.5",
+      "precios": {
+        "2024": {
+          "usd": 24543.08,
+          "ars": 37600000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 25979.11,
+          "ars": 39800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208206": {
+      "id": "208206",
+      "marcaId": "154",
+      "modeloId": "1726",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "Jimny GLX 1.5",
+      "precios": {
+        "2019": {
+          "usd": 20887.73,
+          "ars": 32000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 22845.95,
+          "ars": 35000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 23890.34,
+          "ars": 36600000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 24934.73,
+          "ars": 38200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208210": {
+      "id": "208210",
+      "marcaId": "154",
+      "modeloId": "1726",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "Jimny JLX 4x4",
+      "precios": {}
+    },
+    "208211": {
+      "id": "208211",
+      "marcaId": "154",
+      "modeloId": "1726",
+      "marca": "SUZUKI",
+      "modelo": "JIMMY",
+      "version": "Jimny JX Aire 4x4",
+      "precios": {}
+    },
+    "208216": {
+      "id": "208216",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.0 GL 3 Puertas",
+      "precios": {}
+    },
+    "208217": {
+      "id": "208217",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.0 GL Aire 3 Puertas",
+      "precios": {}
+    },
+    "208218": {
+      "id": "208218",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.0 GL 5 Puertas",
+      "precios": {}
+    },
+    "208219": {
+      "id": "208219",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.0 GL Aire 5 Puertas",
+      "precios": {}
+    },
+    "208220": {
+      "id": "208220",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.2 · Automática · 5 Puertas · Ref. V-208220",
+      "precios": {
+        "2018": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12924.28,
+          "ars": 19800000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13446.48,
+          "ars": 20600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208223": {
+      "id": "208223",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.3 GTI 3 Puertas",
+      "precios": {}
+    },
+    "208224": {
+      "id": "208224",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.3 GL 4 Puertas",
+      "precios": {}
+    },
+    "208225": {
+      "id": "208225",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.4 GLX 5 Puertas",
+      "precios": {
+        "2015": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 10704.96,
+          "ars": 16400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "208226": {
+      "id": "208226",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.5 · 5 Puertas · Ref. V-208226",
+      "precios": {}
+    },
+    "208227": {
+      "id": "208227",
+      "marcaId": "154",
+      "modeloId": "1728",
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "version": "1.5 Edic. Limited 5 Puertas",
+      "precios": {}
     },
     "210172": {
       "id": "210172",
@@ -129133,6 +133037,1214 @@
           "cotizacion": 1532
         }
       }
+    },
+    "210259": {
+      "id": "210259",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "2.0 · Tracción Integral · Ref. V-210259",
+      "precios": {}
+    },
+    "210260": {
+      "id": "210260",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "Sportshift 2.0 Automática Tracción Integral",
+      "precios": {}
+    },
+    "210261": {
+      "id": "210261",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "X 2.0 Nafta Tracción Integral",
+      "precios": {}
+    },
+    "210262": {
+      "id": "210262",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "XS TW 2.0 Nafta CVT Tracción Integral",
+      "precios": {}
+    },
+    "210263": {
+      "id": "210263",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "XV 2.0 Nafta CVT Tracción Integral",
+      "precios": {}
+    },
+    "210264": {
+      "id": "210264",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GT SI Drive 2.5 Nafta CVT Tracción Integral",
+      "precios": {
+        "2013": {
+          "usd": 14197.13,
+          "ars": 21750000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 14849.87,
+          "ars": 22750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 15828.98,
+          "ars": 24250000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210265": {
+      "id": "210265",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "Limited 2.5 Nafta CVT Tracción Integral",
+      "precios": {
+        "2013": {
+          "usd": 13479.11,
+          "ars": 20650000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 22584.86,
+          "ars": 34600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 24869.45,
+          "ars": 38100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 25848.56,
+          "ars": 39600000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 27480.42,
+          "ars": 42100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210266": {
+      "id": "210266",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "Sport 2.5 Nafta CVT Tracción Integral",
+      "precios": {
+        "2014": {
+          "usd": 13544.39,
+          "ars": 20750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14458.22,
+          "ars": 22150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210267": {
+      "id": "210267",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GL 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "210268": {
+      "id": "210268",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GL 2.0 Automática Tracción Integral",
+      "precios": {}
+    },
+    "210269": {
+      "id": "210269",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GL 2.0 Tracción Integral Rural",
+      "precios": {}
+    },
+    "210270": {
+      "id": "210270",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GL 2.0 Automática Tracción Integral Rural",
+      "precios": {}
+    },
+    "210271": {
+      "id": "210271",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GX 2.2 Tracción Integral",
+      "precios": {}
+    },
+    "210272": {
+      "id": "210272",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GX 2.2 Automática Tracción Integral",
+      "precios": {}
+    },
+    "210273": {
+      "id": "210273",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GX 2.2 Tracción Integral Rural",
+      "precios": {}
+    },
+    "210274": {
+      "id": "210274",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GX 2.2 Automática Tracción Integral Rural",
+      "precios": {}
+    },
+    "210275": {
+      "id": "210275",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GX 2.5 Tracción Integral",
+      "precios": {}
+    },
+    "210276": {
+      "id": "210276",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GX 2.5 Automática Tracción Integral",
+      "precios": {}
+    },
+    "210277": {
+      "id": "210277",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GX 2.5 Tracción Integral Rural",
+      "precios": {}
+    },
+    "210278": {
+      "id": "210278",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "GX 2.5 Automática Tracción Integral Rural",
+      "precios": {}
+    },
+    "210279": {
+      "id": "210279",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "LX 2.0 Rural",
+      "precios": {}
+    },
+    "210280": {
+      "id": "210280",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "R S Shift 3Q 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "210281": {
+      "id": "210281",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "R S Shift 3S 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "210282": {
+      "id": "210282",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "R S Shift UX 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "210283": {
+      "id": "210283",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "R S Shift UX 2.0 Tracción Integral Rural",
+      "precios": {}
+    },
+    "210284": {
+      "id": "210284",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "R XX 2.0 Tracción Integral Rural",
+      "precios": {}
+    },
+    "210285": {
+      "id": "210285",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "R XX 2.0 Tracción Integral",
+      "precios": {}
+    },
+    "210286": {
+      "id": "210286",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "R S Shift SI 3.0 Tracción Integral",
+      "precios": {}
+    },
+    "210287": {
+      "id": "210287",
+      "marcaId": "153",
+      "modeloId": "21585",
+      "marca": "SUBARU",
+      "modelo": "LEGACY",
+      "version": "R S Shift SI SPE B 3.0 Tracción Integral",
+      "precios": {}
+    },
+    "210288": {
+      "id": "210288",
+      "marcaId": "153",
+      "modeloId": "21587",
+      "marca": "SUBARU",
+      "modelo": "TRIBECA",
+      "version": "3.6 · Automática · Tracción Integral · Ref. V-210288",
+      "precios": {
+        "2013": {
+          "usd": 13609.66,
+          "ars": 20850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210289": {
+      "id": "210289",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "2.0 · Ref. V-210289",
+      "precios": {
+        "2013": {
+          "usd": 10672.32,
+          "ars": 16350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210290": {
+      "id": "210290",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "2.0 · Automática · Ref. V-210290",
+      "precios": {
+        "2013": {
+          "usd": 10998.69,
+          "ars": 16850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210291": {
+      "id": "210291",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "Limited · 2.0 · Automática · Ref. V-210291",
+      "precios": {
+        "2013": {
+          "usd": 11977.81,
+          "ars": 18350000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210292": {
+      "id": "210292",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "Dynamic ES 2.0 CVT Tracción Integral Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 30613.58,
+          "ars": 46900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 32245.43,
+          "ars": 49400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210293": {
+      "id": "210293",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "Limited ES 2.0 CVT Tracción Integral Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 32571.8,
+          "ars": 49900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 33877.28,
+          "ars": 51900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210294": {
+      "id": "210294",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "Dynamic · 2.0 Nafta · CVT · Tracción Integral · Ref. V-210294",
+      "precios": {
+        "2016": {
+          "usd": 17101.83,
+          "ars": 26200000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 19712.79,
+          "ars": 30200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210295": {
+      "id": "210295",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "Dynamic · 2.0 Nafta · CVT · Tracción Integral · Ref. V-210295",
+      "precios": {
+        "2018": {
+          "usd": 22650.13,
+          "ars": 34700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 23955.61,
+          "ars": 36700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 25261.1,
+          "ars": 38700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 26566.58,
+          "ars": 40700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 27872.06,
+          "ars": 42700000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 29177.55,
+          "ars": 44700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210296": {
+      "id": "210296",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "2.0 Nafta · CVT · Tracción Integral · Ref. V-210296",
+      "precios": {
+        "2013": {
+          "usd": 12434.73,
+          "ars": 19050000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13413.84,
+          "ars": 20550000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14392.95,
+          "ars": 22050000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 15698.43,
+          "ars": 24050000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 17003.92,
+          "ars": 26050000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 18309.4,
+          "ars": 28050000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210297": {
+      "id": "210297",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "2.0 Nafta · CVT · Tracción Integral · Ref. V-210297",
+      "precios": {
+        "2018": {
+          "usd": 21344.65,
+          "ars": 32700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 22650.13,
+          "ars": 34700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 23955.61,
+          "ars": 36700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 25261.1,
+          "ars": 38700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 26566.58,
+          "ars": 40700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210298": {
+      "id": "210298",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "Limited · 2.0 Nafta · CVT · Tracción Integral · Ref. V-210298",
+      "precios": {
+        "2013": {
+          "usd": 14295.04,
+          "ars": 21900000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 15274.15,
+          "ars": 23400000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 16579.63,
+          "ars": 25400000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 17885.12,
+          "ars": 27400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 19190.6,
+          "ars": 29400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 20496.08,
+          "ars": 31400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210299": {
+      "id": "210299",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "Limited · 2.0 Nafta · CVT · Tracción Integral · Ref. V-210299",
+      "precios": {
+        "2018": {
+          "usd": 23302.87,
+          "ars": 35700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 24608.36,
+          "ars": 37700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 25913.84,
+          "ars": 39700000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 27219.32,
+          "ars": 41700000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 28524.8,
+          "ars": 43700000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 29830.29,
+          "ars": 45700000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210300": {
+      "id": "210300",
+      "marcaId": "153",
+      "modeloId": "21589",
+      "marca": "SUBARU",
+      "modelo": "XV",
+      "version": "2.0 Nafta · Tracción Integral · Ref. V-210300",
+      "precios": {
+        "2013": {
+          "usd": 12108.36,
+          "ars": 18550000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 13087.47,
+          "ars": 20050000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14066.58,
+          "ars": 21550000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 15372.06,
+          "ars": 23550000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 16677.55,
+          "ars": 25550000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210301": {
+      "id": "210301",
+      "marcaId": "154",
+      "modeloId": "21590",
+      "marca": "SUZUKI",
+      "modelo": "ALTO",
+      "version": "GL Marutti 3 Puertas",
+      "precios": {}
+    },
+    "210302": {
+      "id": "210302",
+      "marcaId": "154",
+      "modeloId": "21590",
+      "marca": "SUZUKI",
+      "modelo": "ALTO",
+      "version": "GL Marutti Aire 3 Puertas",
+      "precios": {}
+    },
+    "210303": {
+      "id": "210303",
+      "marcaId": "154",
+      "modeloId": "21590",
+      "marca": "SUZUKI",
+      "modelo": "ALTO",
+      "version": "GL Marutti 5 Puertas",
+      "precios": {}
+    },
+    "210304": {
+      "id": "210304",
+      "marcaId": "154",
+      "modeloId": "21590",
+      "marca": "SUZUKI",
+      "modelo": "ALTO",
+      "version": "GL Marutti Aire 5 Puertas",
+      "precios": {}
+    },
+    "210305": {
+      "id": "210305",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "1.6 · 3 Puertas · Ref. V-210305",
+      "precios": {}
+    },
+    "210306": {
+      "id": "210306",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.0 · 3 Puertas · Ref. V-210306",
+      "precios": {}
+    },
+    "210307": {
+      "id": "210307",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.0 · 5 Puertas · Ref. V-210307",
+      "precios": {}
+    },
+    "210308": {
+      "id": "210308",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.0 TDI · 5 Puertas · Ref. V-210308",
+      "precios": {}
+    },
+    "210309": {
+      "id": "210309",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.0 TDI · Automática · 5 Puertas · Ref. V-210309",
+      "precios": {}
+    },
+    "210310": {
+      "id": "210310",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.4 JX 4x4 3 Puertas",
+      "precios": {
+        "2013": {
+          "usd": 12434.73,
+          "ars": 19050000,
+          "cotizacion": 1532
+        },
+        "2014": {
+          "usd": 12761.1,
+          "ars": 19550000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 13283.29,
+          "ars": 20350000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 13805.48,
+          "ars": 21150000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14458.22,
+          "ars": 22150000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210311": {
+      "id": "210311",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.4 JLX 4x2 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 11912.53,
+          "ars": 18250000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 12304.18,
+          "ars": 18850000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210312": {
+      "id": "210312",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.4 Jlx-L 4x4 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 13283.29,
+          "ars": 20350000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 13674.93,
+          "ars": 20950000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210313": {
+      "id": "210313",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.4 Automática Jlx-L 4x4 5 Puertas",
+      "precios": {
+        "2014": {
+          "usd": 13544.39,
+          "ars": 20750000,
+          "cotizacion": 1532
+        },
+        "2015": {
+          "usd": 14001.31,
+          "ars": 21450000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 14523.5,
+          "ars": 22250000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 15176.24,
+          "ars": 23250000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15959.53,
+          "ars": 24450000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210314": {
+      "id": "210314",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.5 · 5 Puertas · Ref. V-210314",
+      "precios": {}
+    },
+    "210315": {
+      "id": "210315",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.5 · 5 Puertas · ABS · Ref. V-210315",
+      "precios": {}
+    },
+    "210316": {
+      "id": "210316",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.0 Jiii 5 Puertas",
+      "precios": {}
+    },
+    "210317": {
+      "id": "210317",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.4 Jiii 5 Puertas",
+      "precios": {}
+    },
+    "210318": {
+      "id": "210318",
+      "marcaId": "154",
+      "modeloId": "21593",
+      "marca": "SUZUKI",
+      "modelo": "GRAND VITARA",
+      "version": "2.7 V6 XL-7 5 Puertas",
+      "precios": {}
+    },
+    "210319": {
+      "id": "210319",
+      "marcaId": "154",
+      "modeloId": "21594",
+      "marca": "SUZUKI",
+      "modelo": "JEEP",
+      "version": "Marutti Gypsy",
+      "precios": {}
+    },
+    "210320": {
+      "id": "210320",
+      "marcaId": "154",
+      "modeloId": "21597",
+      "marca": "SUZUKI",
+      "modelo": "SAMURAI",
+      "version": "Metal/Lona",
+      "precios": {}
+    },
+    "210321": {
+      "id": "210321",
+      "marcaId": "154",
+      "modeloId": "21597",
+      "marca": "SUZUKI",
+      "modelo": "SAMURAI",
+      "version": "Largo",
+      "precios": {}
+    },
+    "210322": {
+      "id": "210322",
+      "marcaId": "154",
+      "modeloId": "21598",
+      "marca": "SUZUKI",
+      "modelo": "SUPER CARRY",
+      "version": "1.0 · Furgón · Ref. V-210322",
+      "precios": {}
+    },
+    "210323": {
+      "id": "210323",
+      "marcaId": "154",
+      "modeloId": "21598",
+      "marca": "SUZUKI",
+      "modelo": "SUPER CARRY",
+      "version": "Mini BUS",
+      "precios": {}
+    },
+    "210324": {
+      "id": "210324",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "GL 1.6 Automática 4x2 5 Puertas Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 12010.44,
+          "ars": 18400000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12859.01,
+          "ars": 19700000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13315.93,
+          "ars": 20400000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210325": {
+      "id": "210325",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "GL 1.6 4x2 5 Puertas Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 12140.99,
+          "ars": 18600000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 12597.91,
+          "ars": 19300000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210326": {
+      "id": "210326",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "GL 1.6 Automática 4x4 5 Puertas Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 14490.86,
+          "ars": 22200000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 15535.25,
+          "ars": 23800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210327": {
+      "id": "210327",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "GLX 1.6 Automática 4x4 5 Puertas Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 19190.6,
+          "ars": 29400000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 20822.45,
+          "ars": 31900000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210328": {
+      "id": "210328",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "GLX SR 1.6 Automática 4x4 5 Puertas Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 14817.23,
+          "ars": 22700000,
+          "cotizacion": 1532
+        },
+        "2017": {
+          "usd": 15274.15,
+          "ars": 23400000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 15796.34,
+          "ars": 24200000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210329": {
+      "id": "210329",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "JLX Sidekick 3 Puertas",
+      "precios": {}
+    },
+    "210330": {
+      "id": "210330",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "JLX Aire Diésel 3 Puertas",
+      "precios": {}
+    },
+    "210331": {
+      "id": "210331",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "JLX T/Lona Sidekick 3 Puertas",
+      "precios": {}
+    },
+    "210332": {
+      "id": "210332",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "JLX Sidekick 5 Puertas",
+      "precios": {}
+    },
+    "210333": {
+      "id": "210333",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "JLX 2.0 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "210334": {
+      "id": "210334",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "JX Sidekick 3 Puertas",
+      "precios": {}
+    },
+    "210335": {
+      "id": "210335",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "JX Diésel 3 Puertas",
+      "precios": {}
+    },
+    "210336": {
+      "id": "210336",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "Sport Sidekick 2.0 5 Puertas",
+      "precios": {}
+    },
+    "210337": {
+      "id": "210337",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "Turbodiésel · 3 Puertas · Ref. V-210337",
+      "precios": {}
+    },
+    "210338": {
+      "id": "210338",
+      "marcaId": "154",
+      "modeloId": "21600",
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "version": "Turbodiésel · 5 Puertas · Ref. V-210338",
+      "precios": {}
+    },
+    "210339": {
+      "id": "210339",
+      "marcaId": "154",
+      "modeloId": "21601",
+      "marca": "SUZUKI",
+      "modelo": "WAGON",
+      "version": "R GA",
+      "precios": {}
+    },
+    "210340": {
+      "id": "210340",
+      "marcaId": "154",
+      "modeloId": "21601",
+      "marca": "SUZUKI",
+      "modelo": "WAGON",
+      "version": "R GL",
+      "precios": {}
     },
     "210341": {
       "id": "210341",
@@ -131236,6 +136348,26 @@
         }
       }
     },
+    "210536": {
+      "id": "210536",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "TDV6 Sport SE 3.0 Serie II",
+      "precios": {
+        "2015": {
+          "usd": 48302.87,
+          "ars": 74000000,
+          "cotizacion": 1532
+        },
+        "2016": {
+          "usd": 50913.84,
+          "ars": 78000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "210537": {
       "id": "210537",
       "marcaId": "2120",
@@ -131301,6 +136433,33 @@
         }
       }
     },
+    "210539": {
+      "id": "210539",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "TDV8 3.6",
+      "precios": {}
+    },
+    "210540": {
+      "id": "210540",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "TDV8 3.6 Modelo 2010",
+      "precios": {}
+    },
+    "210541": {
+      "id": "210541",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "TDV8 Sport HSE 3.6",
+      "precios": {}
+    },
     "210542": {
       "id": "210542",
       "marcaId": "2120",
@@ -131319,6 +136478,65 @@
       "version": "Sport 4.2 V8 Cabina Simple",
       "precios": {}
     },
+    "210544": {
+      "id": "210544",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Vogue 4.2 V8 Cabina Simple",
+      "precios": {}
+    },
+    "210545": {
+      "id": "210545",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Vogue SE 4.4 TDI",
+      "precios": {
+        "2017": {
+          "usd": 61357.7,
+          "ars": 94000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 65274.15,
+          "ars": 100000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 69843.34,
+          "ars": 107000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 75065.27,
+          "ars": 115000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 79960.84,
+          "ars": 122500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 86488.25,
+          "ars": 132500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 91383.81,
+          "ars": 140000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 97911.23,
+          "ars": 150000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "210546": {
       "id": "210546",
       "marcaId": "2120",
@@ -131327,6 +136545,21 @@
       "modelo": "RANGE ROVER",
       "version": "Sport HSE 4.4 V8",
       "precios": {}
+    },
+    "210547": {
+      "id": "210547",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Vogue 4.6 V8",
+      "precios": {
+        "2013": {
+          "usd": 44516.97,
+          "ars": 68200000,
+          "cotizacion": 1532
+        }
+      }
     },
     "210548": {
       "id": "210548",
@@ -131421,6 +136654,56 @@
       "modelo": "RANGE ROVER",
       "version": "Supercharged 5.0 V8",
       "precios": {}
+    },
+    "210552": {
+      "id": "210552",
+      "marcaId": "2120",
+      "modeloId": "21769",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER",
+      "version": "Vogue SE 5.0 V8",
+      "precios": {
+        "2017": {
+          "usd": 73107.05,
+          "ars": 112000000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 78002.61,
+          "ars": 119500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 82898.17,
+          "ars": 127000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 89425.59,
+          "ars": 137000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 95953,
+          "ars": 147000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 102480.42,
+          "ars": 157000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 109007.83,
+          "ars": 167000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 115535.25,
+          "ars": 177000000,
+          "cotizacion": 1532
+        }
+      }
     },
     "210553": {
       "id": "210553",
@@ -131822,6 +137105,111 @@
         }
       }
     },
+    "210566": {
+      "id": "210566",
+      "marcaId": "2120",
+      "modeloId": "21771",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER VELAR",
+      "version": "S+ 2.0 Turbo",
+      "precios": {
+        "2018": {
+          "usd": 57441.25,
+          "ars": 88000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 62336.81,
+          "ars": 95500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 67558.75,
+          "ars": 103500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 72127.94,
+          "ars": 110500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 77023.5,
+          "ars": 118000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 83550.91,
+          "ars": 128000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 90078.33,
+          "ars": 138000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210567": {
+      "id": "210567",
+      "marcaId": "2120",
+      "modeloId": "21771",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER VELAR",
+      "version": "S 2.0 Turbodiésel",
+      "precios": {
+        "2018": {
+          "usd": 56135.77,
+          "ars": 86000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 61031.33,
+          "ars": 93500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 65600.52,
+          "ars": 100500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 70169.71,
+          "ars": 107500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "210568": {
+      "id": "210568",
+      "marcaId": "2120",
+      "modeloId": "21771",
+      "marca": "ROVER-LAND ROV.",
+      "modelo": "RANGE ROVER VELAR",
+      "version": "S R-Dynamic 3.0 V6",
+      "precios": {
+        "2018": {
+          "usd": 62663.19,
+          "ars": 96000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 67885.12,
+          "ars": 104000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 72780.68,
+          "ars": 111500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 77676.24,
+          "ars": 119000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "215311": {
       "id": "215311",
       "marcaId": "131",
@@ -131918,6 +137306,41 @@
         "2026": {
           "usd": 30026.11,
           "ars": 46000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "221161": {
+      "id": "221161",
+      "marcaId": "2290",
+      "modeloId": "23013",
+      "marca": "SKYWELL",
+      "modelo": "BE11",
+      "version": "Variante · Ref. V-221161",
+      "precios": {
+        "2025": {
+          "usd": 26109.66,
+          "ars": 40000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "221162": {
+      "id": "221162",
+      "marcaId": "2290",
+      "modeloId": "23014",
+      "marca": "SKYWELL",
+      "modelo": "ET5",
+      "version": "Variante · Ref. V-221162",
+      "precios": {
+        "2024": {
+          "usd": 23498.69,
+          "ars": 36000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 24804.18,
+          "ars": 38000000,
           "cotizacion": 1532
         }
       }
@@ -134679,6 +140102,146 @@
         }
       }
     },
+    "276416": {
+      "id": "276416",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Seguridad 1.8 Híbrido CVT Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 41569.19,
+          "ars": 63684000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 33616.19,
+          "ars": 51500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "276421": {
+      "id": "276421",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XEI 1.8 Híbrido CVT Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 37437.99,
+          "ars": 57355000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 31657.96,
+          "ars": 48500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "276425": {
+      "id": "276425",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Gr-Sport 2.0 CVT Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 41829.63,
+          "ars": 64083000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 34595.3,
+          "ars": 53000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "276429": {
+      "id": "276429",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "Seguridad 2.0 CVT Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 40295.04,
+          "ars": 61732000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 33289.82,
+          "ars": 51000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "276433": {
+      "id": "276433",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XEI 2.0 CVT Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 36725.2,
+          "ars": 56263000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 31527.42,
+          "ars": 48300000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "276437": {
+      "id": "276437",
+      "marcaId": "156",
+      "modeloId": "1739",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA CROSS",
+      "version": "XLI 2.0 CVT Modelo 2026",
+      "precios": {
+        "0": {
+          "usd": 33889.03,
+          "ars": 51918000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 29895.56,
+          "ars": 45800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "278416": {
+      "id": "278416",
+      "marcaId": "156",
+      "modeloId": "29491",
+      "marca": "TOYOTA",
+      "modelo": "BZ4X",
+      "version": "Eléctrico · 4x4 · Ref. V-278416",
+      "precios": {
+        "0": {
+          "usd": 73803.52,
+          "ars": 113067000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 62010.44,
+          "ars": 95000000,
+          "cotizacion": 1532
+        }
+      }
+    },
     "287771": {
       "id": "287771",
       "marcaId": "117",
@@ -136655,6 +142218,71 @@
         "0": {
           "usd": 132375.98,
           "ars": 202800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "342003": {
+      "id": "342003",
+      "marcaId": "153",
+      "modeloId": "1721",
+      "marca": "SUBARU",
+      "modelo": "IMPREZA",
+      "version": "Limited ES 2.0 CVT Tracción Integral",
+      "precios": {
+        "0": {
+          "usd": 39847.91,
+          "ars": 61047000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "342046": {
+      "id": "342046",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "R Limited ES 3.6",
+      "precios": {
+        "2022": {
+          "usd": 42493.47,
+          "ars": 65100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "342048": {
+      "id": "342048",
+      "marcaId": "153",
+      "modeloId": "1722",
+      "marca": "SUBARU",
+      "modelo": "OUTBACK",
+      "version": "R LTD Eyesight 3.6 CVT",
+      "precios": {
+        "2018": {
+          "usd": 30091.38,
+          "ars": 46100000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 32702.35,
+          "ars": 50100000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 35313.32,
+          "ars": 54100000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 37924.28,
+          "ars": 58100000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 40535.25,
+          "ars": 62100000,
           "cotizacion": 1532
         }
       }
@@ -140917,6 +146545,1046 @@
       "modelo": "SPYDER",
       "version": "Variante · Ref. V-344333",
       "precios": {}
+    },
+    "344334": {
+      "id": "344334",
+      "marcaId": "4316",
+      "modeloId": "38616",
+      "marca": "SERO ELECTRIC",
+      "modelo": "CARGO",
+      "version": "Variante 1",
+      "precios": {
+        "2019": {
+          "usd": 5091.38,
+          "ars": 7800000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 5352.48,
+          "ars": 8200000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 5613.58,
+          "ars": 8600000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 5939.95,
+          "ars": 9100000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 6266.32,
+          "ars": 9600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 6657.96,
+          "ars": 10200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344335": {
+      "id": "344335",
+      "marcaId": "4316",
+      "modeloId": "38616",
+      "marca": "SERO ELECTRIC",
+      "modelo": "CARGO",
+      "version": "Furgón · Ref. V-344335",
+      "precios": {
+        "2021": {
+          "usd": 6201.04,
+          "ars": 9500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 6527.42,
+          "ars": 10000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344336": {
+      "id": "344336",
+      "marcaId": "4316",
+      "modeloId": "38616",
+      "marca": "SERO ELECTRIC",
+      "modelo": "CARGO",
+      "version": "Furgón Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 14102.48,
+          "ars": 21605000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 7898.17,
+          "ars": 12100000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344337": {
+      "id": "344337",
+      "marcaId": "4316",
+      "modeloId": "38616",
+      "marca": "SERO ELECTRIC",
+      "modelo": "CARGO",
+      "version": "Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 12493.47,
+          "ars": 19140000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 6984.33,
+          "ars": 10700000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 7506.53,
+          "ars": 11500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 8159.27,
+          "ars": 12500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344338": {
+      "id": "344338",
+      "marcaId": "4316",
+      "modeloId": "38616",
+      "marca": "SERO ELECTRIC",
+      "modelo": "CARGO",
+      "version": "Largo",
+      "precios": {
+        "2021": {
+          "usd": 5809.4,
+          "ars": 8900000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 6135.77,
+          "ars": 9400000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 6462.14,
+          "ars": 9900000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 6853.79,
+          "ars": 10500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344339": {
+      "id": "344339",
+      "marcaId": "4316",
+      "modeloId": "38616",
+      "marca": "SERO ELECTRIC",
+      "modelo": "CARGO",
+      "version": "Largo Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 13345.3,
+          "ars": 20445000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 7375.98,
+          "ars": 11300000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 7898.17,
+          "ars": 12100000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 8550.91,
+          "ars": 13100000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344340": {
+      "id": "344340",
+      "marcaId": "4316",
+      "modeloId": "38617",
+      "marca": "SERO ELECTRIC",
+      "modelo": "SEDAN",
+      "version": "Variante 1",
+      "precios": {
+        "2019": {
+          "usd": 5221.93,
+          "ars": 8000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 5548.3,
+          "ars": 8500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 5874.67,
+          "ars": 9000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 6201.04,
+          "ars": 9500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 6527.42,
+          "ars": 10000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 6919.06,
+          "ars": 10600000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344341": {
+      "id": "344341",
+      "marcaId": "4316",
+      "modeloId": "38617",
+      "marca": "SERO ELECTRIC",
+      "modelo": "SEDAN",
+      "version": "Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 12493.47,
+          "ars": 19140000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 7310.7,
+          "ars": 11200000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 7832.9,
+          "ars": 12000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 8485.64,
+          "ars": 13000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344342": {
+      "id": "344342",
+      "marcaId": "4318",
+      "modeloId": "38618",
+      "marca": "SHINERAY",
+      "modelo": "SRM",
+      "version": "Furgón M7",
+      "precios": {
+        "0": {
+          "usd": 23469.32,
+          "ars": 35955000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17624.02,
+          "ars": 27000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344343": {
+      "id": "344343",
+      "marcaId": "4318",
+      "modeloId": "38618",
+      "marca": "SHINERAY",
+      "modelo": "SRM",
+      "version": "M7 Pasajeros Plazas",
+      "precios": {
+        "0": {
+          "usd": 29361.62,
+          "ars": 44982000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22193.21,
+          "ars": 34000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344344": {
+      "id": "344344",
+      "marcaId": "4318",
+      "modeloId": "38618",
+      "marca": "SHINERAY",
+      "modelo": "SRM",
+      "version": "7 Asientos M7 Pasajeros",
+      "precios": {
+        "0": {
+          "usd": 28962.14,
+          "ars": 44370000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 19582.25,
+          "ars": 30000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 21540.47,
+          "ars": 33000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344345": {
+      "id": "344345",
+      "marcaId": "4318",
+      "modeloId": "38618",
+      "marca": "SHINERAY",
+      "modelo": "SRM",
+      "version": "9 Asientos M7 Pasajeros",
+      "precios": {
+        "0": {
+          "usd": 29161.88,
+          "ars": 44676000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 21866.84,
+          "ars": 33500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344346": {
+      "id": "344346",
+      "marcaId": "4318",
+      "modeloId": "38619",
+      "marca": "SHINERAY",
+      "modelo": "SWM",
+      "version": "GO Elite",
+      "precios": {
+        "2020": {
+          "usd": 11618.8,
+          "ars": 17800000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344347": {
+      "id": "344347",
+      "marcaId": "4318",
+      "modeloId": "38619",
+      "marca": "SHINERAY",
+      "modelo": "SWM",
+      "version": "GO Elite Automática",
+      "precios": {
+        "2020": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344348": {
+      "id": "344348",
+      "marcaId": "4318",
+      "modeloId": "38619",
+      "marca": "SHINERAY",
+      "modelo": "SWM",
+      "version": "GO Premium Automática",
+      "precios": {
+        "2020": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344349": {
+      "id": "344349",
+      "marcaId": "4318",
+      "modeloId": "38619",
+      "marca": "SHINERAY",
+      "modelo": "SWM",
+      "version": "GO 1F Premium Automática",
+      "precios": {
+        "2020": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344350": {
+      "id": "344350",
+      "marcaId": "4318",
+      "modeloId": "38619",
+      "marca": "SHINERAY",
+      "modelo": "SWM",
+      "version": "GO 3F Comfortline",
+      "precios": {
+        "0": {
+          "usd": 24468.02,
+          "ars": 37485000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344351": {
+      "id": "344351",
+      "marcaId": "4318",
+      "modeloId": "38619",
+      "marca": "SHINERAY",
+      "modelo": "SWM",
+      "version": "GO 3F Hibrida Automática",
+      "precios": {
+        "0": {
+          "usd": 24468.02,
+          "ars": 37485000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18276.76,
+          "ars": 28000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344352": {
+      "id": "344352",
+      "marcaId": "4318",
+      "modeloId": "38620",
+      "marca": "SHINERAY",
+      "modelo": "T 30",
+      "version": "Cabina Simple",
+      "precios": {
+        "0": {
+          "usd": 19924.28,
+          "ars": 30524000,
+          "cotizacion": 1532
+        },
+        "2018": {
+          "usd": 9138.38,
+          "ars": 14000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9595.3,
+          "ars": 14700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10117.49,
+          "ars": 15500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15992.17,
+          "ars": 24500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344353": {
+      "id": "344353",
+      "marcaId": "4318",
+      "modeloId": "38620",
+      "marca": "SHINERAY",
+      "modelo": "T 30",
+      "version": "CH Refrigerado Furgón",
+      "precios": {
+        "0": {
+          "usd": 35275.42,
+          "ars": 49950000,
+          "cotizacion": 1416
+        },
+        "2025": {
+          "usd": 20561.36,
+          "ars": 31500000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 22519.58,
+          "ars": 34500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344354": {
+      "id": "344354",
+      "marcaId": "4318",
+      "modeloId": "38620",
+      "marca": "SHINERAY",
+      "modelo": "T 30",
+      "version": "CH Duales Cabina Simple",
+      "precios": {
+        "2019": {
+          "usd": 10248.04,
+          "ars": 15700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10770.23,
+          "ars": 16500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 16644.91,
+          "ars": 25500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344355": {
+      "id": "344355",
+      "marcaId": "4318",
+      "modeloId": "38620",
+      "marca": "SHINERAY",
+      "modelo": "T 30",
+      "version": "CH Duales Cabina Simple Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 23369.45,
+          "ars": 35802000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17297.65,
+          "ars": 26500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344356": {
+      "id": "344356",
+      "marcaId": "4318",
+      "modeloId": "38621",
+      "marca": "SHINERAY",
+      "modelo": "T 32",
+      "version": "Cabina Doble · Ref. V-344356",
+      "precios": {
+        "2018": {
+          "usd": 9464.75,
+          "ars": 14500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 9921.67,
+          "ars": 15200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344357": {
+      "id": "344357",
+      "marcaId": "4318",
+      "modeloId": "38621",
+      "marca": "SHINERAY",
+      "modelo": "T 32",
+      "version": "Duales Cabina Doble",
+      "precios": {
+        "2021": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344358": {
+      "id": "344358",
+      "marcaId": "4318",
+      "modeloId": "38621",
+      "marca": "SHINERAY",
+      "modelo": "T 32",
+      "version": "Cabina Doble · Ref. V-344358",
+      "precios": {
+        "0": {
+          "usd": 20823.11,
+          "ars": 31901000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344359": {
+      "id": "344359",
+      "marcaId": "4318",
+      "modeloId": "38622",
+      "marca": "SHINERAY",
+      "modelo": "T 50",
+      "version": "CH",
+      "precios": {
+        "0": {
+          "usd": 23369.45,
+          "ars": 35802000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344360": {
+      "id": "344360",
+      "marcaId": "4318",
+      "modeloId": "38623",
+      "marca": "SHINERAY",
+      "modelo": "T 52",
+      "version": "Cabina Doble · Ref. V-344360",
+      "precios": {
+        "0": {
+          "usd": 24268.28,
+          "ars": 37179000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 18407.31,
+          "ars": 28200000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344361": {
+      "id": "344361",
+      "marcaId": "4318",
+      "modeloId": "38624",
+      "marca": "SHINERAY",
+      "modelo": "X 30",
+      "version": "Furgón · Ref. V-344361",
+      "precios": {
+        "2018": {
+          "usd": 10443.86,
+          "ars": 16000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 10900.78,
+          "ars": 16700000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12075.72,
+          "ars": 18500000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344362": {
+      "id": "344362",
+      "marcaId": "4318",
+      "modeloId": "38624",
+      "marca": "SHINERAY",
+      "modelo": "X 30",
+      "version": "L Furgón",
+      "precios": {
+        "2019": {
+          "usd": 11227.15,
+          "ars": 17200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 11749.35,
+          "ars": 18000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 14686.68,
+          "ars": 22500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344363": {
+      "id": "344363",
+      "marcaId": "4318",
+      "modeloId": "38624",
+      "marca": "SHINERAY",
+      "modelo": "X 30",
+      "version": "Vidriado Furgón",
+      "precios": {
+        "2019": {
+          "usd": 11096.61,
+          "ars": 17000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344364": {
+      "id": "344364",
+      "marcaId": "4318",
+      "modeloId": "38624",
+      "marca": "SHINERAY",
+      "modelo": "X 30",
+      "version": "L Pasajeros Eléctrico Van",
+      "precios": {
+        "0": {
+          "usd": 25616.84,
+          "ars": 39245000,
+          "cotizacion": 1532
+        },
+        "2025": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2026": {
+          "usd": 17950.39,
+          "ars": 27500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344365": {
+      "id": "344365",
+      "marcaId": "4318",
+      "modeloId": "38624",
+      "marca": "SHINERAY",
+      "modelo": "X 30",
+      "version": "Pasajeros Van",
+      "precios": {
+        "2018": {
+          "usd": 11422.98,
+          "ars": 17500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 11879.9,
+          "ars": 18200000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344366": {
+      "id": "344366",
+      "marcaId": "4318",
+      "modeloId": "38625",
+      "marca": "SHINERAY",
+      "modelo": "X 7",
+      "version": "SWM 1.5 Turbo Automática",
+      "precios": {
+        "2018": {
+          "usd": 12728.46,
+          "ars": 19500000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13381.2,
+          "ars": 20500000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14033.94,
+          "ars": 21500000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344367": {
+      "id": "344367",
+      "marcaId": "4318",
+      "modeloId": "38625",
+      "marca": "SHINERAY",
+      "modelo": "X 7",
+      "version": "SWM Luxury 1.5 Turbo Automática",
+      "precios": {
+        "2019": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15665.8,
+          "ars": 24000000,
+          "cotizacion": 1532
+        },
+        "2023": {
+          "usd": 16318.54,
+          "ars": 25000000,
+          "cotizacion": 1532
+        },
+        "2024": {
+          "usd": 16971.28,
+          "ars": 26000000,
+          "cotizacion": 1532
+        }
+      }
+    },
+    "344368": {
+      "id": "344368",
+      "marcaId": "4318",
+      "modeloId": "38625",
+      "marca": "SHINERAY",
+      "modelo": "X 7",
+      "version": "SWM Basic 1.8",
+      "precios": {
+        "2018": {
+          "usd": 12402.09,
+          "ars": 19000000,
+          "cotizacion": 1532
+        },
+        "2019": {
+          "usd": 13054.83,
+          "ars": 20000000,
+          "cotizacion": 1532
+        },
+        "2020": {
+          "usd": 13707.57,
+          "ars": 21000000,
+          "cotizacion": 1532
+        },
+        "2021": {
+          "usd": 14360.31,
+          "ars": 22000000,
+          "cotizacion": 1532
+        },
+        "2022": {
+          "usd": 15013.05,
+          "ars": 23000000,
+          "cotizacion": 1532
+        }
+      }
     }
   }
 }
