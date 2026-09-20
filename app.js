@@ -151,7 +151,32 @@ function cargarMarcas() {
     typeof m === "string" ? m : m.nombre
   );
 
-  [...new Set(nombres)]
+  const marcasValidas = [];
+
+  nombres.forEach(nombre => {
+    if (!nombre || marcasValidas.includes(nombre)) return;
+
+    // En modo legacy tenemos todos los vehículos directamente.
+    if (indice.legacy) {
+      const tieneDatos = Object.values(indice.vehiculos || {})
+        .some(v =>
+          v.marca === nombre &&
+          tieneAniosValidos(v)
+        );
+
+      if (tieneDatos) {
+        marcasValidas.push(nombre);
+      }
+
+      return;
+    }
+
+    // En el formato actual, todavía no tenemos cargado el shard.
+    // Se agrega inicialmente y se filtra al cargar cada marca.
+    marcasValidas.push(nombre);
+  });
+
+  marcasValidas
     .sort((a, b) => a.localeCompare(b, "es"))
     .forEach(nombre => {
       const o = document.createElement("option");
@@ -161,8 +186,8 @@ function cargarMarcas() {
     });
 
   modeloSelect.disabled = true;
-  versionSelect.disabled = true;
   anioVehiculo.disabled = true;
+  versionSelect.disabled = true;
 }
 
 async function cargarMarca(marca) {
