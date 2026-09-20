@@ -47,6 +47,22 @@ let vehiculoActual = null;
 const anioActual = new Date().getFullYear();
 const MIN_YEAR = anioActual - 13;
 
+function tieneAniosValidos(vehiculo) {
+  const precios = vehiculo?.precios || {};
+  return Object.keys(precios).some(anio => {
+    const y = Number(anio);
+    return (
+      Number.isFinite(y) &&
+      (
+        y === 0 ||
+        (y >= MIN_YEAR && y <= anioActual)
+      ) &&
+      Number.isFinite(Number(precios[anio]?.ars)) &&
+      Number(precios[anio].ars) > 0
+    );
+  });
+}
+
 // ArgAutos usa year=0 para 0 km. Los demás años se limitan
 // automáticamente a los 14 años-modelo definidos para el proyecto.
 
