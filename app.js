@@ -297,81 +297,6 @@ async function cargarModelos() {
 function cargarVersiones() {
   const marca = marcaSelect.value;
   const modelo = modeloSelect.value;
-
-  limpiarSelect(
-    anioVehiculo,
-    "Selecciona un año..."
-  );
-
-  limpiarSelect(
-    versionSelect,
-    "Selecciona una versión..."
-  );
-
-  anioVehiculo.disabled = true;
-  versionSelect.disabled = true;
-
-  limpiarVehiculo();
-
-  if (!marca || !modelo || !datosMarca) {
-    return;
-  }
-
-  const vehiculosModelo =
-    (datosMarca.vehiculos || [])
-      .filter(v =>
-        v.marca === marca &&
-        v.modelo === modelo &&
-        tieneAniosValidos(v)
-      );
-
-  const anios = new Set();
-
-  vehiculosModelo.forEach(v => {
-    Object.keys(v.precios || {}).forEach(anio => {
-      const y = Number(anio);
-
-      if (
-        y === 0 ||
-        (y >= MIN_YEAR && y <= anioActual)
-      ) {
-        const precio = Number(v.precios[anio]?.ars);
-
-        if (
-          Number.isFinite(precio) &&
-          precio > 0
-        ) {
-          anios.add(y);
-        }
-      }
-    });
-  });
-
-  [...anios]
-    .sort((a, b) => {
-      if (a === 0) return -1;
-      if (b === 0) return 1;
-      return b - a;
-    })
-    .forEach(y => {
-      const o = document.createElement("option");
-
-      o.value = y;
-      o.textContent =
-        y === 0
-          ? "0 km"
-          : String(y);
-
-      anioVehiculo.appendChild(o);
-    });
-
-  anioVehiculo.disabled =
-    anios.size === 0;
-}
-
-function cargarAnios() {
-  const marca = marcaSelect.value;
-  const modelo = modeloSelect.value;
   const anio = anioVehiculo.value;
 
   limpiarSelect(
@@ -381,26 +306,28 @@ function cargarAnios() {
 
   limpiarVehiculo();
 
-  versionSelect.disabled = true;
-
-  if (
-    !marca ||
-    !modelo ||
-    !anio ||
-    !datosMarca
-  ) {
+  if (!marca || !modelo || !anio || !datosMarca) {
+    versionSelect.disabled = true;
     return;
   }
 
   const versiones = (datosMarca.vehiculos || [])
-    .filter(v =>
-      v.marca === marca &&
-      v.modelo === modelo &&
-      Number.isFinite(
-        Number(v.precios?.[String(anio)]?.ars)
-      ) &&
-      Number(v.precios?.[String(anio)]?.ars) > 0
-    )
+    .filter(v => {
+      if (
+        String(v.marca).trim() !== String(marca).trim() ||
+        String(v.modelo).trim() !== String(modelo).trim()
+      ) {
+        return false;
+      }
+
+      const precio = v.precios?.[String(anio)];
+
+      return (
+        precio &&
+        Number.isFinite(Number(precio.ars)) &&
+        Number(precio.ars) > 0
+      );
+    })
     .sort((a, b) =>
       a.version.localeCompare(
         b.version,
@@ -419,6 +346,76 @@ function cargarAnios() {
 
   versionSelect.disabled =
     versiones.length === 0;
+}
+
+
+function cargarAnios() {
+  const marca = marcaSelect.value;
+  const modelo = modeloSelect.value;
+
+  limpiarSelect(
+    anioVehiculo,
+    "Selecciona un año..."
+  );
+
+  limpiarSelect(
+    versionSelect,
+    "Selecciona una versión..."
+  );
+
+  versionSelect.disabled = true;
+  limpiarVehiculo();
+
+  if (!marca || !modelo || !datosMarca) {
+    anioVehiculo.disabled = true;
+    return;
+  }
+
+  const aniosSet = new Set();
+
+  (datosMarca.vehiculos || [])
+    .filter(v =>
+      String(v.marca).trim() === String(marca).trim() &&
+      String(v.modelo).trim() === String(modelo).trim()
+    )
+    .forEach(v => {
+      Object.entries(v.precios || {}).forEach(
+        ([year, precio]) => {
+          const y = Number(year);
+
+          if (
+            (y === 0 ||
+              (y >= MIN_YEAR && y <= anioActual)) &&
+            precio &&
+            Number.isFinite(Number(precio.ars)) &&
+            Number(precio.ars) > 0
+          ) {
+            aniosSet.add(y);
+          }
+        }
+      );
+    });
+
+  const anios = [...aniosSet].sort((a, b) => {
+    if (a === 0) return -1;
+    if (b === 0) return 1;
+    return b - a;
+  });
+
+  anios.forEach(y => {
+    const o = document.createElement("option");
+
+    o.value = y;
+    o.textContent =
+      y === 0
+        ? "0 km"
+        : String(y);
+
+    anioVehiculo.appendChild(o);
+  });
+
+  anioVehiculo.disabled =
+    anios.length === 0;
 }
 
 function obtenerPrecio() {
@@ -801,12 +798,12 @@ marcaSelect.addEventListener(
 
 modeloSelect.addEventListener(
   "change",
-  cargarVersiones
+  cargarAnios
 );
 
 anioVehiculo.addEventListener(
   "change",
-  cargarAnios
+  cargarVersiones
 );
 
 versionSelect.addEventListener(
