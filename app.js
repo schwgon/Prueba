@@ -370,51 +370,55 @@ function cargarVersiones() {
 }
 
 function cargarAnios() {
-  const id = versionSelect.value;
+  const marca = marcaSelect.value;
+  const modelo = modeloSelect.value;
+  const anio = anioVehiculo.value;
 
   limpiarSelect(
-    anioVehiculo,
-    "Selecciona un año..."
+    versionSelect,
+    "Selecciona una versión..."
   );
 
   limpiarVehiculo();
 
-  if (!id || !datosMarca) {
-    anioVehiculo.disabled = true;
+  versionSelect.disabled = true;
+
+  if (
+    !marca ||
+    !modelo ||
+    !anio ||
+    !datosMarca
+  ) {
     return;
   }
 
-  const v = (datosMarca.vehiculos || [])
-    .find(x => String(x.id) === String(id));
-
-  if (!v) {
-    anioVehiculo.disabled = true;
-    return;
-  }
-
-  const anios = Object.keys(v.precios || {})
-    .map(Number)
-    .filter(y =>
-      y === 0 ||
-      (y >= MIN_YEAR && y <= anioActual)
+  const versiones = (datosMarca.vehiculos || [])
+    .filter(v =>
+      v.marca === marca &&
+      v.modelo === modelo &&
+      Number.isFinite(
+        Number(v.precios?.[String(anio)]?.ars)
+      ) &&
+      Number(v.precios?.[String(anio)]?.ars) > 0
     )
-    .sort((a, b) => {
-      if (a === 0) return -1;
-      if (b === 0) return 1;
-      return b - a;
-    });
+    .sort((a, b) =>
+      a.version.localeCompare(
+        b.version,
+        "es"
+      )
+    );
 
-  anios.forEach(y => {
+  versiones.forEach(v => {
     const o = document.createElement("option");
-    o.value = y;
-    o.textContent = y === 0
-      ? "0 km"
-      : String(y);
-    anioVehiculo.appendChild(o);
+
+    o.value = v.id;
+    o.textContent = v.version;
+
+    versionSelect.appendChild(o);
   });
 
-  anioVehiculo.disabled =
-    anios.length === 0;
+  versionSelect.disabled =
+    versiones.length === 0;
 }
 
 function obtenerPrecio() {
@@ -800,12 +804,12 @@ modeloSelect.addEventListener(
   cargarVersiones
 );
 
-versionSelect.addEventListener(
+anioVehiculo.addEventListener(
   "change",
   cargarAnios
 );
 
-anioVehiculo.addEventListener(
+versionSelect.addEventListener(
   "change",
   obtenerPrecio
 );
