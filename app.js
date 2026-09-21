@@ -222,23 +222,22 @@ async function cargarModelos() {
   );
 
   limpiarSelect(
-    versionSelect,
-    "Selecciona una versión..."
-  );
-
-  limpiarSelect(
     anioVehiculo,
     "Selecciona un año..."
   );
 
-  versionSelect.disabled = true;
+  limpiarSelect(
+    versionSelect,
+    "Selecciona una versión..."
+  );
+
+  modeloSelect.disabled = true;
   anioVehiculo.disabled = true;
+  versionSelect.disabled = true;
+
   limpiarVehiculo();
 
-  if (!marca) {
-    modeloSelect.disabled = true;
-    return;
-  }
+  if (!marca) return;
 
   try {
     estadoDatos.textContent =
@@ -246,14 +245,12 @@ async function cargarModelos() {
 
     await cargarMarca(marca);
 
-    // IMPORTANTE:
-    // El archivo puede contener varias marcas.
-    // Solo usamos los vehículos de la marca seleccionada.
     const vehiculosMarca =
       (datosMarca.vehiculos || [])
         .filter(v =>
           String(v.marca).trim() ===
-          String(marca).trim()
+          String(marca).trim() &&
+          tieneAniosValidos(v)
         );
 
     const modelos = [
@@ -267,8 +264,7 @@ async function cargarModelos() {
     );
 
     modelos.forEach(modelo => {
-      const o =
-        document.createElement("option");
+      const o = document.createElement("option");
 
       o.value = modelo;
       o.textContent = modelo;
