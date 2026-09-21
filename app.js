@@ -299,44 +299,74 @@ function cargarVersiones() {
   const modelo = modeloSelect.value;
 
   limpiarSelect(
-    versionSelect,
-    "Selecciona una versión..."
-  );
-
-  limpiarSelect(
     anioVehiculo,
     "Selecciona un año..."
   );
 
+  limpiarSelect(
+    versionSelect,
+    "Selecciona una versión..."
+  );
+
   anioVehiculo.disabled = true;
+  versionSelect.disabled = true;
+
   limpiarVehiculo();
 
   if (!marca || !modelo || !datosMarca) {
-    versionSelect.disabled = true;
     return;
   }
 
-  const versiones = (datosMarca.vehiculos || [])
-    .filter(v =>
-      v.marca === marca &&
-      v.modelo === modelo
-    )
-    .sort((a, b) =>
-      a.version.localeCompare(
-        b.version,
-        "es"
-      )
-    );
+  const vehiculosModelo =
+    (datosMarca.vehiculos || [])
+      .filter(v =>
+        v.marca === marca &&
+        v.modelo === modelo &&
+        tieneAniosValidos(v)
+      );
 
-  versiones.forEach(v => {
-    const o = document.createElement("option");
-    o.value = v.id;
-    o.textContent = v.version;
-    versionSelect.appendChild(o);
+  const anios = new Set();
+
+  vehiculosModelo.forEach(v => {
+    Object.keys(v.precios || {}).forEach(anio => {
+      const y = Number(anio);
+
+      if (
+        y === 0 ||
+        (y >= MIN_YEAR && y <= anioActual)
+      ) {
+        const precio = Number(v.precios[anio]?.ars);
+
+        if (
+          Number.isFinite(precio) &&
+          precio > 0
+        ) {
+          anios.add(y);
+        }
+      }
+    });
   });
 
-  versionSelect.disabled =
-    versiones.length === 0;
+  [...anios]
+    .sort((a, b) => {
+      if (a === 0) return -1;
+      if (b === 0) return 1;
+      return b - a;
+    })
+    .forEach(y => {
+      const o = document.createElement("option");
+
+      o.value = y;
+      o.textContent =
+        y === 0
+          ? "0 km"
+          : String(y);
+
+      anioVehiculo.appendChild(o);
+    });
+
+  anioVehiculo.disabled =
+    anios.size === 0;
 }
 
 function cargarAnios() {
