@@ -39,6 +39,15 @@ const infoVehiculo = document.getElementById("infoVehiculo");
 const vehiculoNombre = document.getElementById("vehiculoNombre");
 const estadoDatos = document.getElementById("estadoDatos");
 
+const modoManual = document.getElementById("modoManual");
+const datosManuales = document.getElementById("datosManuales");
+
+const manualMarca = document.getElementById("manualMarca");
+const manualModelo = document.getElementById("manualModelo");
+const manualAnio = document.getElementById("manualAnio");
+const manualVersion = document.getElementById("manualVersion");
+const manualValuacion = document.getElementById("manualValuacion");
+
 let indice = null;
 let datosMarca = null;
 let precioActual = 0;
@@ -123,6 +132,35 @@ async function cargarDatosAutos() {
       "No se pudieron cargar los datos de vehículos.";
   }
 }
+
+function alternarModoManual() {
+    const manual = modoManual.checked;
+
+    const selectores = document.querySelector(".inputs");
+
+    if (manual) {
+        selectores.classList.add("modo-oculto");
+        datosManuales.classList.remove("oculto");
+
+        limpiarVehiculo();
+    } else {
+        selectores.classList.remove("modo-oculto");
+        datosManuales.classList.add("oculto");
+
+        manualMarca.value = "";
+        manualModelo.value = "";
+        manualAnio.value = "";
+        manualVersion.value = "";
+        manualValuacion.value = "";
+
+        limpiarVehiculo();
+    }
+}
+
+modoManual.addEventListener(
+    "change",
+    alternarModoManual
+);
 
 function contarModelosLegacy() {
   return new Set(
