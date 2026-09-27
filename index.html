@@ -58,11 +58,15 @@
             </label>
         </div>
 
+        <div class="manual-header">
+            <p>En caso de que los datos del vehículo no se encuentren disponibles o no sean los que usted necesita, </p>
+            <p>complete manualmente los campos de información vehicular y su valuación.</p>
+        </div>
+
         <div id="datosManuales" class="datos-manuales oculto">
 
             <div class="manual-header">
                 <h3>Datos del vehículo</h3>
-                <p>Ingrese manualmente los datos del vehículo y su valuación.</p>
             </div>
 
             <div class="manual-grid">
@@ -89,13 +93,9 @@
 
                 <div>
                     <label for="manualAnio">Año</label>
-                    <input
-                        type="number"
-                        id="manualAnio"
-                        placeholder="Ej.: 2023"
-                        min="1900"
-                        max="2100"
-                    >
+                    <select id="manualAnio">
+                        <option value="">Selecciona un año...</option>
+                    </select>
                 </div>
 
                 <div>
