@@ -48,6 +48,80 @@
             </div>
         </div>
 
+        <div class="manual-toggle-container">
+            <label class="manual-toggle">
+                <input type="checkbox" id="modoManual">
+                <span class="manual-slider"></span>
+                <span class="manual-label">
+                    Ingresar vehículo manualmente
+                </span>
+            </label>
+        </div>
+
+        <div id="datosManuales" class="datos-manuales oculto">
+
+            <div class="manual-header">
+                <h3>Datos del vehículo</h3>
+                <p>Ingrese manualmente los datos del vehículo y su valuación.</p>
+            </div>
+
+            <div class="manual-grid">
+
+                <div>
+                    <label for="manualMarca">Marca</label>
+                    <input
+                        type="text"
+                        id="manualMarca"
+                        placeholder="Ej.: Volkswagen"
+                        autocomplete="off"
+                    >
+                </div>
+
+                <div>
+                    <label for="manualModelo">Modelo</label>
+                    <input
+                        type="text"
+                        id="manualModelo"
+                        placeholder="Ej.: Virtus"
+                        autocomplete="off"
+                    >
+                </div>
+
+                <div>
+                    <label for="manualAnio">Año</label>
+                    <input
+                        type="number"
+                        id="manualAnio"
+                        placeholder="Ej.: 2023"
+                        min="1900"
+                        max="2100"
+                    >
+                </div>
+
+                <div>
+                    <label for="manualVersion">Versión</label>
+                    <input
+                        type="text"
+                        id="manualVersion"
+                        placeholder="Ej.: Highline 1.0 TSI"
+                        autocomplete="off"
+                    >
+                </div>
+
+                <div>
+                    <label for="manualValuacion">Valuación</label>
+                    <input
+                        type="number"
+                        id="manualValuacion"
+                        placeholder="Ej.: 25000000"
+                        min="0"
+                        step="0.01"
+                    >
+                </div>
+
+            </div>
+        </div>
+
         <div id="infoVehiculo" style="display:none; background:#ecfdf5; border:2px solid #22c55e; border-radius:14px; padding:20px; margin-top:20px; text-align:center;">
             <h3>Vehículo Seleccionado</h3>
             <div><strong id="vehiculoNombre"></strong></div>
