@@ -157,6 +157,35 @@ function alternarModoManual() {
     }
 }
 
+function cargarAniosManual() {
+    const select = document.getElementById("manualAnio");
+
+    if (!select) return;
+
+    select.innerHTML = `
+        <option value="">Selecciona un año...</option>
+    `;
+
+    const anioActual = new Date().getFullYear();
+    const anioMinimo = anioActual - 13;
+
+    // 0 km
+    const opcion0 = document.createElement("option");
+    opcion0.value = "0";
+    opcion0.textContent = "0 km";
+    select.appendChild(opcion0);
+
+    // Año actual hasta 13 años anteriores
+    for (let anio = anioActual; anio >= anioMinimo; anio--) {
+        const opcion = document.createElement("option");
+
+        opcion.value = String(anio);
+        opcion.textContent = String(anio);
+
+        select.appendChild(opcion);
+    }
+}
+
 modoManual.addEventListener(
     "change",
     alternarModoManual
@@ -871,5 +900,11 @@ window.addEventListener(
   () => {
     cargarDatosAutos();
     calcularTodo();
+  }
+);
+
+document.addEventListener(
+  "DOMContentLoaded", () => {
+    cargarAniosManual();
   }
 );
