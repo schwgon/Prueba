@@ -114,11 +114,8 @@ async function cargarDatosAutos() {
     cargarMarcas();
 
     const cantidadMarcas = indice.marcas?.length || 0;
-    const cantidadModelos = indice.modelos?.length ||
-      (indice.legacy ? contarModelosLegacy() : 0);
-    const cantidadVersiones = indice.versiones ||
-      Object.keys(indice.vehiculos || {}).length ||
-      0;
+    const cantidadModelos = indice.modelos?.length || (indice.legacy ? contarModelosLegacy() : 0);
+    const cantidadVersiones = indice.versiones || Object.keys(indice.vehiculos || {}).length || 0;
 
     estadoDatos.classList.add("ok");
     estadoDatos.textContent =
@@ -128,20 +125,16 @@ async function cargarDatosAutos() {
   } catch (e) {
     console.error("Error cargando datos:", e);
     estadoDatos.classList.add("error");
-    estadoDatos.textContent =
-      "No se pudieron cargar los datos de vehículos.";
+    estadoDatos.textContent = "No se pudieron cargar los datos de vehículos.";
   }
 }
 
 function alternarModoManual() {
     const manual = modoManual.checked;
-
     const selectores = document.querySelector(".inputs");
-
     if (manual) {
         selectores.classList.add("modo-oculto");
         datosManuales.classList.remove("oculto");
-
         limpiarVehiculo();
     } else {
         selectores.classList.remove("modo-oculto");
@@ -191,11 +184,27 @@ modoManual.addEventListener(
     alternarModoManual
 );
 
+function formatearValuacionManual() {
+    let valor = manualValuacion.value.replace(/\D/g, "").slice(0, 10);
+    if (!valor) {
+        manualValuacion.value = "";
+        return;
+    }
+    manualValuacion.value = Number(valor).toLocaleString("es-AR");
+}
+
+function obtenerValuacionManual() {
+    return Number(manualValuacion.value.replace(/\./g, "")) || 0;
+}
+
+manualValuacion.addEventListener(
+    "input",
+    formatearValuacionManual
+);
+
 function contarModelosLegacy() {
   return new Set(
-    Object.values(indice.vehiculos || {})
-      .map(v => `${v.marca}|||${v.modelo}`)
-  ).size;
+    Object.values(indice.vehiculos || {}).map(v => `${v.marca}|||${v.modelo}`)).size;
 }
 
 function limpiarSelect(select, texto) {
@@ -583,8 +592,7 @@ function limpiarVehiculo() {
 function calcularPrestamo() {
   if (!precioActual) return;
 
-  const y =
-    Number(anioVehiculo.value);
+  const y = Number(anioVehiculo.value);
 
   let pct = 0;
   let txt = "";
@@ -762,8 +770,7 @@ function calcularTodo() {
         monto * COEF[m] / 1000
       );
 
-    const t =
-      c * Number(m);
+    const t = c * Number(m);
 
     cuotasDiv.innerHTML +=
       `<div class="card card-cuota">` +
@@ -782,8 +789,7 @@ function calcularTodo() {
 }
 
 function calcularUVA() {
-  const m =
-    Number(montoFinanciar.value) || 0;
+  const m = Number(montoFinanciar.value) || 0;
 
   for (const p in COEF_UVA) {
     const e =
