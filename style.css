@@ -98,7 +98,11 @@ select:disabled{
 #vehiculoNombre{
     font-size: 1.2rem;
     display: block;
-    color:#000000;
+    color:#101010;
+}
+
+#infoVehiculo h3{
+    color:#101010;
 }
 
 #precioEstimado{
