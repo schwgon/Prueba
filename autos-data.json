@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-10-03T17:01:30.864Z",
+  "actualizado": "2026-10-03T19:04:59.848Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9601,
-  "versionesProcesadas": 337,
-  "versionesConValuacion": 141,
+  "versionesProcesadas": 685,
+  "versionesConValuacion": 313,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -3886,6 +3886,33 @@
       "version": "1.8 Automática",
       "precios": {}
     },
+    "10270": {
+      "id": "10270",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.8",
+      "precios": {}
+    },
+    "10271": {
+      "id": "10271",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.8 Automática",
+      "precios": {}
+    },
+    "10272": {
+      "id": "10272",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.8 Quattro",
+      "precios": {}
+    },
     "10273": {
       "id": "10273",
       "marcaId": "100",
@@ -3902,6 +3929,42 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "1.8 TFSI",
+      "precios": {}
+    },
+    "10275": {
+      "id": "10275",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.8 TFSI",
+      "precios": {}
+    },
+    "10276": {
+      "id": "10276",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.8 TFSI Quattro",
+      "precios": {}
+    },
+    "10277": {
+      "id": "10277",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.8 TFSI Tiptronic Quattro",
+      "precios": {}
+    },
+    "10278": {
+      "id": "10278",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.8 TFSI Tiptronic",
       "precios": {}
     },
     "10279": {
@@ -3940,6 +4003,42 @@
       "version": "1.8 TFSI Modelo 2001",
       "precios": {}
     },
+    "10283": {
+      "id": "10283",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Luxury 1.8 TFSI Modelo 2001",
+      "precios": {}
+    },
+    "10284": {
+      "id": "10284",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic 1.8 TFSI Modelo 2001",
+      "precios": {}
+    },
+    "10285": {
+      "id": "10285",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic Luxury 1.8 TFSI Modelo 2001",
+      "precios": {}
+    },
+    "10286": {
+      "id": "10286",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic Sport 1.8 TFSI Modelo 2001",
+      "precios": {}
+    },
     "10287": {
       "id": "10287",
       "marcaId": "100",
@@ -3949,6 +4048,15 @@
       "version": "1.8 TFSI Quattro Modelo 2001",
       "precios": {}
     },
+    "10288": {
+      "id": "10288",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport 1.8 TFSI Modelo 2001",
+      "precios": {}
+    },
     "10289": {
       "id": "10289",
       "marcaId": "100",
@@ -3956,6 +4064,297 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "1.8 TFSI Modelo 2005",
+      "precios": {}
+    },
+    "10290": {
+      "id": "10290",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic 1.8 TFSI Modelo 2005",
+      "precios": {}
+    },
+    "10291": {
+      "id": "10291",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic Sport 1.8 TFSI Modelo 2005",
+      "precios": {}
+    },
+    "10292": {
+      "id": "10292",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport 1.8 TFSI Modelo 2005",
+      "precios": {}
+    },
+    "10293": {
+      "id": "10293",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction 1.8 TFSI Modelo 2008",
+      "precios": {}
+    },
+    "10294": {
+      "id": "10294",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic Attraction 1.8 TFSI Modelo 2008",
+      "precios": {}
+    },
+    "10295": {
+      "id": "10295",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Plus 1.8 TFSI Modelo 2008",
+      "precios": {}
+    },
+    "10296": {
+      "id": "10296",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic Plus 1.8 TFSI Modelo 2008",
+      "precios": {}
+    },
+    "10297": {
+      "id": "10297",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Ambition Plus 1.8 TFSI Modelo 2008",
+      "precios": {}
+    },
+    "10298": {
+      "id": "10298",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Multitronic AM Plus 1.8 TFSI Modelo 2008",
+      "precios": {}
+    },
+    "10299": {
+      "id": "10299",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero 1.8 TFSI Modelo 2008",
+      "precios": {}
+    },
+    "10300": {
+      "id": "10300",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Multitronic 1.8 TFSI Modelo 2008",
+      "precios": {}
+    },
+    "10301": {
+      "id": "10301",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Ambition 1.8 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 13766.23,
+          "ars": 21200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 14740.26,
+          "ars": 22700000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16038.96,
+          "ars": 24700000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17337.66,
+          "ars": 26700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10302": {
+      "id": "10302",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Ambition Multitronic 1.8 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 13961.04,
+          "ars": 21500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 14935.06,
+          "ars": 23000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16233.77,
+          "ars": 25000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17532.47,
+          "ars": 27000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10303": {
+      "id": "10303",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction 1.8 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 13441.56,
+          "ars": 20700000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 14415.58,
+          "ars": 22200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 15714.29,
+          "ars": 24200000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17012.99,
+          "ars": 26200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10304": {
+      "id": "10304",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction Multitronic 1.8 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 13636.36,
+          "ars": 21000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 14610.39,
+          "ars": 22500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 15909.09,
+          "ars": 24500000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17207.79,
+          "ars": 26500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10305": {
+      "id": "10305",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Attraction 1.8 TFSI",
+      "precios": {}
+    },
+    "10306": {
+      "id": "10306",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Multitronic Attraction 1.8 TFSI",
+      "precios": {}
+    },
+    "10307": {
+      "id": "10307",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Sport Cuero Ambition Plus 1.8 TFSI",
+      "precios": {}
+    },
+    "10308": {
+      "id": "10308",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Sport Cuero Multitronic Ambition Plus 1.8 TFSI",
+      "precios": {}
+    },
+    "10309": {
+      "id": "10309",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Plus 1.8 TFSI",
+      "precios": {}
+    },
+    "10310": {
+      "id": "10310",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Multitronic Plus 1.8 TFSI",
+      "precios": {}
+    },
+    "10311": {
+      "id": "10311",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Sport Cuero 1.8 TFSI",
+      "precios": {}
+    },
+    "10312": {
+      "id": "10312",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Sport Cuero Multitronic 1.8 TFSI",
       "precios": {}
     },
     "10313": {
@@ -3976,6 +4375,51 @@
       "version": "1.9 TDI Modelo 2001",
       "precios": {}
     },
+    "10315": {
+      "id": "10315",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.9 TDI Quattro Modelo 2001",
+      "precios": {}
+    },
+    "10316": {
+      "id": "10316",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Luxury 1.9 TDI Modelo 2001",
+      "precios": {}
+    },
+    "10317": {
+      "id": "10317",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic 1.9 TDI Modelo 2001",
+      "precios": {}
+    },
+    "10318": {
+      "id": "10318",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport 1.9 TDI Modelo 2001",
+      "precios": {}
+    },
+    "10319": {
+      "id": "10319",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Multitronic 1.9 TDI Modelo 2001",
+      "precios": {}
+    },
     "10320": {
       "id": "10320",
       "marcaId": "100",
@@ -3983,6 +4427,33 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "1.9 TDI Automática",
+      "precios": {}
+    },
+    "10321": {
+      "id": "10321",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.9 TDI",
+      "precios": {}
+    },
+    "10322": {
+      "id": "10322",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.9 TDI Automática",
+      "precios": {}
+    },
+    "10323": {
+      "id": "10323",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 1.9 TDI Quattro",
       "precios": {}
     },
     "10324": {
@@ -4003,6 +4474,96 @@
       "version": "1.9 TDI Tiptronic",
       "precios": {}
     },
+    "10326": {
+      "id": "10326",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Mhev 2.0 TFSI S-Tronic 190 CV Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 30844.16,
+          "ars": 47500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 32142.86,
+          "ars": 49500000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 33441.56,
+          "ars": 51500000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 35064.94,
+          "ars": 54000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 37662.34,
+          "ars": 58000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 40909.09,
+          "ars": 63000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10327": {
+      "id": "10327",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Allroad Mhev 2.0 TFSI S-Tronic Quattro Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 41558.44,
+          "ars": 64000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 44155.84,
+          "ars": 68000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 47402.6,
+          "ars": 73000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10328": {
+      "id": "10328",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Advance Mhev 2.0 TFSI S-Tronic Quattro Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 38311.69,
+          "ars": 59000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 40909.09,
+          "ars": 63000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 44155.84,
+          "ars": 68000000,
+          "cotizacion": 1540
+        }
+      }
+    },
     "10329": {
       "id": "10329",
       "marcaId": "100",
@@ -4010,6 +4571,15 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "2.0 TFSI Quattro Modelo 2006",
+      "precios": {}
+    },
+    "10330": {
+      "id": "10330",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "S Line 2.0 TFSI Tiptronic Quattro Modelo 2006",
       "precios": {}
     },
     "10331": {
@@ -4030,6 +4600,60 @@
       "version": "2.0 TFSI Quattro Modelo 2009",
       "precios": {}
     },
+    "10333": {
+      "id": "10333",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction Plus 2.0 TFSI Quattro Modelo 2009",
+      "precios": {}
+    },
+    "10334": {
+      "id": "10334",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "ATT Plus 2.0 TFSI S-Tronic Quattro Modelo 2009",
+      "precios": {}
+    },
+    "10335": {
+      "id": "10335",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero 2.0 TFSI Quattro Modelo 2009",
+      "precios": {}
+    },
+    "10336": {
+      "id": "10336",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Ambition Plus 2.0 TFSI Quattro Modelo 2009",
+      "precios": {}
+    },
+    "10337": {
+      "id": "10337",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero ST Plus 2.0 TFSI Quattro Modelo 2009",
+      "precios": {}
+    },
+    "10338": {
+      "id": "10338",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero 2.0 TFSI S-Tronic Quattro Modelo 2009",
+      "precios": {}
+    },
     "10339": {
       "id": "10339",
       "marcaId": "100",
@@ -4047,6 +4671,279 @@
       "modelo": "A4",
       "version": "2.0 TFSI Modelo 2010",
       "precios": {}
+    },
+    "10341": {
+      "id": "10341",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Allroad 2.0 TFSI S-Tronic Quattro Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 16233.77,
+          "ars": 25000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 17207.79,
+          "ars": 26500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 18506.49,
+          "ars": 28500000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 19805.19,
+          "ars": 30500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10342": {
+      "id": "10342",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic 2.0 TFSI Modelo 2010",
+      "precios": {}
+    },
+    "10343": {
+      "id": "10343",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction Plus 2.0 TFSI Modelo 2010",
+      "precios": {}
+    },
+    "10344": {
+      "id": "10344",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Mult Attraction Plus 2.0 TFSI Modelo 2010",
+      "precios": {}
+    },
+    "10345": {
+      "id": "10345",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero 2.0 TFSI Modelo 2010",
+      "precios": {}
+    },
+    "10346": {
+      "id": "10346",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Multitronic 2.0 TFSI Modelo 2010",
+      "precios": {}
+    },
+    "10347": {
+      "id": "10347",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Multitronic Ambition Plus 2.0 TFSI Modelo 2010",
+      "precios": {}
+    },
+    "10348": {
+      "id": "10348",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Ambition Plus 2.0 TFSI Modelo 2010",
+      "precios": {}
+    },
+    "10349": {
+      "id": "10349",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Ambition 2.0 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 14415.58,
+          "ars": 22200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 15389.61,
+          "ars": 23700000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16688.31,
+          "ars": 25700000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17987.01,
+          "ars": 27700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10350": {
+      "id": "10350",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Ambition Multitronic 2.0 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 14610.39,
+          "ars": 22500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 15584.42,
+          "ars": 24000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16883.12,
+          "ars": 26000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10351": {
+      "id": "10351",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Ambition 2.0 TFSI S-Tronic Quattro Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 15584.42,
+          "ars": 24000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 16558.44,
+          "ars": 25500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 17857.14,
+          "ars": 27500000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 19155.84,
+          "ars": 29500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10352": {
+      "id": "10352",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction 2.0 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 14090.91,
+          "ars": 21700000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 15064.94,
+          "ars": 23200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16363.64,
+          "ars": 25200000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17662.34,
+          "ars": 27200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10353": {
+      "id": "10353",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction Multitronic 2.0 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 14285.71,
+          "ars": 22000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 15259.74,
+          "ars": 23500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16558.44,
+          "ars": 25500000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17857.14,
+          "ars": 27500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10354": {
+      "id": "10354",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction Quattr ST 2.0 TFSI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 15259.74,
+          "ars": 23500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 16233.77,
+          "ars": 25000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 17532.47,
+          "ars": 27000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        }
+      }
     },
     "10355": {
       "id": "10355",
@@ -4173,6 +5070,41 @@
         }
       }
     },
+    "10359": {
+      "id": "10359",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Allroad 2.0 TFSI S-Tronic Quattro Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 25000,
+          "ars": 38500000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 26298.7,
+          "ars": 40500000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 27922.08,
+          "ars": 43000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 29870.13,
+          "ars": 46000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 32467.53,
+          "ars": 50000000,
+          "cotizacion": 1540
+        }
+      }
+    },
     "10360": {
       "id": "10360",
       "marcaId": "100",
@@ -4180,6 +5112,60 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "2.0 TDI Modelo 2005",
+      "precios": {}
+    },
+    "10361": {
+      "id": "10361",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.0 TDI Modelo 2005",
+      "precios": {}
+    },
+    "10362": {
+      "id": "10362",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Multitronic 2.0 TDI Modelo 2005",
+      "precios": {}
+    },
+    "10363": {
+      "id": "10363",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic 2.0 TDI Modelo 2005",
+      "precios": {}
+    },
+    "10364": {
+      "id": "10364",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport 2.0 TDI Modelo 2005",
+      "precios": {}
+    },
+    "10365": {
+      "id": "10365",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Multitronic 2.0 TDI Modelo 2005",
+      "precios": {}
+    },
+    "10366": {
+      "id": "10366",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "S Line 2.0 TDI Modelo 2007",
       "precios": {}
     },
     "10367": {
@@ -4191,6 +5177,201 @@
       "version": "2.0 TDI Modelo 2008",
       "precios": {}
     },
+    "10368": {
+      "id": "10368",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic Attraction 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10369": {
+      "id": "10369",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Plus 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10370": {
+      "id": "10370",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Cuero Multitronic Ambition Plus 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10371": {
+      "id": "10371",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic Plus 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10372": {
+      "id": "10372",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Plus 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10373": {
+      "id": "10373",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10374": {
+      "id": "10374",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Sport Cuero Multitronic 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10375": {
+      "id": "10375",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10376": {
+      "id": "10376",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Multitronic Attraction 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10377": {
+      "id": "10377",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Sport Cuero Ambition Plus 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10378": {
+      "id": "10378",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Plus 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10379": {
+      "id": "10379",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Multitronic Plus 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10380": {
+      "id": "10380",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Sport Cuero Plus 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10381": {
+      "id": "10381",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Sport Cuero Multitronic 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10382": {
+      "id": "10382",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Sport Cuero 2.0 TDI Modelo 2008",
+      "precios": {}
+    },
+    "10383": {
+      "id": "10383",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Ambition Multitronic 2.0 TDI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 14545.45,
+          "ars": 22400000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 15519.48,
+          "ars": 23900000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16818.18,
+          "ars": 25900000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 18116.88,
+          "ars": 27900000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10384": {
+      "id": "10384",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Attraction Multitronic 2.0 TDI Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 14220.78,
+          "ars": 21900000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 15194.81,
+          "ars": 23400000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16493.51,
+          "ars": 25400000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17792.21,
+          "ars": 27400000,
+          "cotizacion": 1540
+        }
+      }
+    },
     "10385": {
       "id": "10385",
       "marcaId": "100",
@@ -4198,6 +5379,33 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "2.4 V6",
+      "precios": {}
+    },
+    "10386": {
+      "id": "10386",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.4 V6",
+      "precios": {}
+    },
+    "10387": {
+      "id": "10387",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.4 V6 Tiptronic",
+      "precios": {}
+    },
+    "10388": {
+      "id": "10388",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.4 V6 Quattro",
       "precios": {}
     },
     "10389": {
@@ -4227,6 +5435,51 @@
       "version": "2.5 TDI",
       "precios": {}
     },
+    "10392": {
+      "id": "10392",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.5 TDI",
+      "precios": {}
+    },
+    "10393": {
+      "id": "10393",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant Multitronic 2.5 TDI",
+      "precios": {}
+    },
+    "10394": {
+      "id": "10394",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Luxury 2.5 TDI",
+      "precios": {}
+    },
+    "10395": {
+      "id": "10395",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Luxury Multitronic 2.5 TDI",
+      "precios": {}
+    },
+    "10396": {
+      "id": "10396",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic 2.5 TDI",
+      "precios": {}
+    },
     "10397": {
       "id": "10397",
       "marcaId": "100",
@@ -4243,6 +5496,42 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "2.8 V6",
+      "precios": {}
+    },
+    "10399": {
+      "id": "10399",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.8 V6",
+      "precios": {}
+    },
+    "10400": {
+      "id": "10400",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.8 V6 Quattro",
+      "precios": {}
+    },
+    "10401": {
+      "id": "10401",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.8 V6 Tiptronic Quattro",
+      "precios": {}
+    },
+    "10402": {
+      "id": "10402",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 2.8 V6 Tiptronic",
       "precios": {}
     },
     "10403": {
@@ -4329,6 +5618,33 @@
         }
       }
     },
+    "10410": {
+      "id": "10410",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 3.0 TDI Tiptronic Quattro",
+      "precios": {}
+    },
+    "10411": {
+      "id": "10411",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic 3.0 V6 Modelo 2001",
+      "precios": {}
+    },
+    "10412": {
+      "id": "10412",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Multitronic Luxury 3.0 V6 Modelo 2001",
+      "precios": {}
+    },
     "10413": {
       "id": "10413",
       "marcaId": "100",
@@ -4336,6 +5652,24 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "3.0 V6 Quattro Modelo 2001",
+      "precios": {}
+    },
+    "10414": {
+      "id": "10414",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Luxury 3.0 V6 Quattro Modelo 2001",
+      "precios": {}
+    },
+    "10415": {
+      "id": "10415",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Luxury 3.0 V6 Tiptronic Quattro Modelo 2001",
       "precios": {}
     },
     "10416": {
@@ -4354,6 +5688,15 @@
       "marca": "AUDI",
       "modelo": "A4",
       "version": "3.0 V6 Quattro Modelo 2005",
+      "precios": {}
+    },
+    "10418": {
+      "id": "10418",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "3.0 V6 Tiptronic Quattro Modelo 2005",
       "precios": {}
     },
     "10419": {
@@ -4386,6 +5729,51 @@
         }
       }
     },
+    "10420": {
+      "id": "10420",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "3.2 Nafta Quattro",
+      "precios": {}
+    },
+    "10421": {
+      "id": "10421",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "3.2 Nafta Tiptronic Quattro",
+      "precios": {}
+    },
+    "10422": {
+      "id": "10422",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "3.2 Quattro",
+      "precios": {}
+    },
+    "10423": {
+      "id": "10423",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "3.2 Tiptronic Quattro",
+      "precios": {}
+    },
+    "10424": {
+      "id": "10424",
+      "marcaId": "100",
+      "modeloId": "1057",
+      "marca": "AUDI",
+      "modelo": "A4",
+      "version": "Avant 3.2 Tiptronic Quattro",
+      "precios": {}
+    },
     "10425": {
       "id": "10425",
       "marcaId": "100",
@@ -4394,6 +5782,5177 @@
       "modelo": "A4",
       "version": "3.0 V6 Cabriolet",
       "precios": {}
+    },
+    "10426": {
+      "id": "10426",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 17532.47,
+          "ars": 27000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 20129.87,
+          "ars": 31000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 22077.92,
+          "ars": 34000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10427": {
+      "id": "10427",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S Tronic 2.0 TFSI Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 42857.14,
+          "ars": 66000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 45454.55,
+          "ars": 70000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 48051.95,
+          "ars": 74000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10428": {
+      "id": "10428",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S Tronic 2.0 TFSI Quattro Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 48051.95,
+          "ars": 74000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 50649.35,
+          "ars": 78000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 53246.75,
+          "ars": 82000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10429": {
+      "id": "10429",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Luxury 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 19480.52,
+          "ars": 30000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10430": {
+      "id": "10430",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Luxury Multitronic 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 18311.69,
+          "ars": 28200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 19610.39,
+          "ars": 30200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 20909.09,
+          "ars": 32200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10431": {
+      "id": "10431",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Multitronic 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 17662.34,
+          "ars": 27200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18961.04,
+          "ars": 29200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 20259.74,
+          "ars": 31200000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 22207.79,
+          "ars": 34200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10432": {
+      "id": "10432",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "2.0 TFSI Quattro",
+      "precios": {
+        "2013": {
+          "usd": 19480.52,
+          "ars": 30000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10433": {
+      "id": "10433",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S Tronic 2.0 TFSI Quattro",
+      "precios": {
+        "2013": {
+          "usd": 19610.39,
+          "ars": 30200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 24675.32,
+          "ars": 38000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 26948.05,
+          "ars": 41500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10434": {
+      "id": "10434",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S Tronic 2.0 TFSI Quattro Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 27922.08,
+          "ars": 43000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 30519.48,
+          "ars": 47000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 33116.88,
+          "ars": 51000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 35714.29,
+          "ars": 55000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10435": {
+      "id": "10435",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S Tronic Luxury 2.0 TFSI Quattro",
+      "precios": {
+        "2013": {
+          "usd": 20259.74,
+          "ars": 31200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 21428.57,
+          "ars": 33000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 25324.68,
+          "ars": 39000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10436": {
+      "id": "10436",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S Tronic 2.0 TFSI Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 24675.32,
+          "ars": 38000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 27272.73,
+          "ars": 42000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 29870.13,
+          "ars": 46000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 32467.53,
+          "ars": 50000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10437": {
+      "id": "10437",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sport Plus 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 17857.14,
+          "ars": 27500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10438": {
+      "id": "10438",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sport Multitronic Plus 2.0 TFSI",
+      "precios": {}
+    },
+    "10439": {
+      "id": "10439",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "3.0 TFSI S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 24025.97,
+          "ars": 37000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 25974.03,
+          "ars": 40000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 27922.08,
+          "ars": 43000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 30519.48,
+          "ars": 47000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10440": {
+      "id": "10440",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "3.2 Quattro",
+      "precios": {}
+    },
+    "10441": {
+      "id": "10441",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "3.2 Tiptronic Quattro",
+      "precios": {}
+    },
+    "10442": {
+      "id": "10442",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S Tronic 3.0 Quattro Cabriolet",
+      "precios": {
+        "2013": {
+          "usd": 32467.53,
+          "ars": 50000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 34415.58,
+          "ars": 53000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 37012.99,
+          "ars": 57000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10443": {
+      "id": "10443",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S Tronic 3.2 Quattro Cabriolet",
+      "precios": {
+        "2013": {
+          "usd": 31168.83,
+          "ars": 48000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10444": {
+      "id": "10444",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Advance 2.0 TFSI Sedán",
+      "precios": {
+        "0": {
+          "usd": 67363.64,
+          "ars": 103740000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 50000,
+          "ars": 77000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 53246.75,
+          "ars": 82000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10445": {
+      "id": "10445",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "S-Line 2.0 TFSI Quattro Sedán",
+      "precios": {
+        "0": {
+          "usd": 81444.16,
+          "ars": 125424000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 57792.21,
+          "ars": 89000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 61038.96,
+          "ars": 94000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10446": {
+      "id": "10446",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 16883.12,
+          "ars": 26000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 19480.52,
+          "ars": 30000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10447": {
+      "id": "10447",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback S Tronic 2.0 TFSI Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 42207.79,
+          "ars": 65000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 44805.19,
+          "ars": 69000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 47402.6,
+          "ars": 73000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10448": {
+      "id": "10448",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 2.0 TFSI S-Tronic Quattro Modelo 2023 45 2",
+      "precios": {
+        "2023": {
+          "usd": 47402.6,
+          "ars": 73000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 50000,
+          "ars": 77000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 52597.4,
+          "ars": 81000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10449": {
+      "id": "10449",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback Multitronic 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 17012.99,
+          "ars": 26200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18311.69,
+          "ars": 28200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 19610.39,
+          "ars": 30200000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 21558.44,
+          "ars": 33200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10450": {
+      "id": "10450",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 2.0 TFSI Quattro",
+      "precios": {
+        "2013": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10451": {
+      "id": "10451",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 2.0 TFSI S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 18961.04,
+          "ars": 29200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 20129.87,
+          "ars": 31000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 22077.92,
+          "ars": 34000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 24025.97,
+          "ars": 37000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 26298.7,
+          "ars": 40500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10452": {
+      "id": "10452",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 2.0 TFSI S-Tronic Quattro Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 27272.73,
+          "ars": 42000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 29870.13,
+          "ars": 46000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 32467.53,
+          "ars": 50000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 35064.94,
+          "ars": 54000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10453": {
+      "id": "10453",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback S Tronic 2.0 TFSI Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 24025.97,
+          "ars": 37000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 26623.38,
+          "ars": 41000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 29220.78,
+          "ars": 45000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 31818.18,
+          "ars": 49000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10454": {
+      "id": "10454",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback T. Luxury 2.0",
+      "precios": {
+        "2013": {
+          "usd": 17532.47,
+          "ars": 27000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 20129.87,
+          "ars": 31000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10455": {
+      "id": "10455",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback T. Luxury Multitronic 2.0",
+      "precios": {
+        "2013": {
+          "usd": 17662.34,
+          "ars": 27200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18961.04,
+          "ars": 29200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 20259.74,
+          "ars": 31200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10456": {
+      "id": "10456",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback T. Luxury 2.0 S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 19610.39,
+          "ars": 30200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10457": {
+      "id": "10457",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback 3.0 S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 22077.92,
+          "ars": 34000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 25324.68,
+          "ars": 39000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 27272.73,
+          "ars": 42000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 29870.13,
+          "ars": 46000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10458": {
+      "id": "10458",
+      "marcaId": "100",
+      "modeloId": "1058",
+      "marca": "AUDI",
+      "modelo": "A5",
+      "version": "Sportback S Tronic 3.2 Quattro",
+      "precios": {}
+    },
+    "10459": {
+      "id": "10459",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4",
+      "precios": {}
+    },
+    "10460": {
+      "id": "10460",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4 Avant",
+      "precios": {}
+    },
+    "10461": {
+      "id": "10461",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4 Avant Quattro",
+      "precios": {}
+    },
+    "10462": {
+      "id": "10462",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4 Tiptronic Avant Quattro",
+      "precios": {}
+    },
+    "10463": {
+      "id": "10463",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4 Tiptronic Avant",
+      "precios": {}
+    },
+    "10464": {
+      "id": "10464",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4 Multitronic",
+      "precios": {}
+    },
+    "10465": {
+      "id": "10465",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4 Quattro",
+      "precios": {}
+    },
+    "10466": {
+      "id": "10466",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4 Tiptronic Quattro",
+      "precios": {}
+    },
+    "10467": {
+      "id": "10467",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.4 Tiptronic",
+      "precios": {}
+    },
+    "10468": {
+      "id": "10468",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.5 TDI",
+      "precios": {}
+    },
+    "10469": {
+      "id": "10469",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.5 TDI Avant",
+      "precios": {}
+    },
+    "10470": {
+      "id": "10470",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.5 TDI Tiptronic Avant Quattro",
+      "precios": {}
+    },
+    "10471": {
+      "id": "10471",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.5 TDI Tiptronic",
+      "precios": {}
+    },
+    "10472": {
+      "id": "10472",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.5 TDI Tiptronic Quattro",
+      "precios": {}
+    },
+    "10473": {
+      "id": "10473",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.7 TDI Multitronic",
+      "precios": {}
+    },
+    "10474": {
+      "id": "10474",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.7 Tiptronic Quattro",
+      "precios": {}
+    },
+    "10475": {
+      "id": "10475",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.7 Tiptronic Security Quattro",
+      "precios": {}
+    },
+    "10476": {
+      "id": "10476",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 FSI Multitronic Modelo 2010",
+      "precios": {
+        "2013": {
+          "usd": 17532.47,
+          "ars": 27000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18506.49,
+          "ars": 28500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 19480.52,
+          "ars": 30000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10477": {
+      "id": "10477",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Modelo 2094",
+      "precios": {}
+    },
+    "10478": {
+      "id": "10478",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Automática Modelo 2094",
+      "precios": {}
+    },
+    "10479": {
+      "id": "10479",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Avant Modelo 2094",
+      "precios": {}
+    },
+    "10480": {
+      "id": "10480",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Modelo 2098",
+      "precios": {}
+    },
+    "10481": {
+      "id": "10481",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Avant Modelo 2098",
+      "precios": {}
+    },
+    "10482": {
+      "id": "10482",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Avant Quattro Modelo 2098",
+      "precios": {}
+    },
+    "10483": {
+      "id": "10483",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Tiptronic Avant Modelo 2098",
+      "precios": {}
+    },
+    "10484": {
+      "id": "10484",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Tiptronic Avant Quattro Modelo 2098",
+      "precios": {}
+    },
+    "10485": {
+      "id": "10485",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Quattro Modelo 2098",
+      "precios": {}
+    },
+    "10486": {
+      "id": "10486",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Tiptronic Modelo 2098",
+      "precios": {}
+    },
+    "10487": {
+      "id": "10487",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "2.8 V6 Tiptronic Quattro Modelo 2098",
+      "precios": {}
+    },
+    "10488": {
+      "id": "10488",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 TDI Tiptronic Quattro Modelo 2004",
+      "precios": {}
+    },
+    "10489": {
+      "id": "10489",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 TDI Tiptronic Quattro Modelo 2010",
+      "precios": {}
+    },
+    "10490": {
+      "id": "10490",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 TFSI S-Tronic Quattro Modelo 2019",
+      "precios": {
+        "0": {
+          "usd": 102659.17,
+          "ars": 155118000,
+          "cotizacion": 1511
+        },
+        "2019": {
+          "usd": 46103.9,
+          "ars": 71000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 50000,
+          "ars": 77000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 53896.1,
+          "ars": 83000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 58441.56,
+          "ars": 90000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 63636.36,
+          "ars": 98000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 68831.17,
+          "ars": 106000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 74025.97,
+          "ars": 114000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 80519.48,
+          "ars": 124000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10491": {
+      "id": "10491",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 TFSI Tiptronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 19480.52,
+          "ars": 30000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 21428.57,
+          "ars": 33000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 25974.03,
+          "ars": 40000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 29220.78,
+          "ars": 45000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 34415.58,
+          "ars": 53000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 40259.74,
+          "ars": 62000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10492": {
+      "id": "10492",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 V6 Tiptronic Quattro",
+      "precios": {}
+    },
+    "10493": {
+      "id": "10493",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.2 FSI Tiptronic Quattro",
+      "precios": {}
+    },
+    "10494": {
+      "id": "10494",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "4.2 FSI Tiptronic Security Quattro",
+      "precios": {}
+    },
+    "10495": {
+      "id": "10495",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "4.2 FSI Tiptronic Quattro",
+      "precios": {}
+    },
+    "10496": {
+      "id": "10496",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 TFSI S-Tronic Allroad Quattro",
+      "precios": {
+        "0": {
+          "usd": 109101.26,
+          "ars": 164852000,
+          "cotizacion": 1511
+        },
+        "2013": {
+          "usd": 21428.57,
+          "ars": 33000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 25324.68,
+          "ars": 39000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 27922.08,
+          "ars": 43000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 31818.18,
+          "ars": 49000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 37012.99,
+          "ars": 57000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 48701.3,
+          "ars": 75000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 53246.75,
+          "ars": 82000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 57142.86,
+          "ars": 88000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 61688.31,
+          "ars": 95000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 66883.12,
+          "ars": 103000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 72077.92,
+          "ars": 111000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 77272.73,
+          "ars": 119000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 83766.23,
+          "ars": 129000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10497": {
+      "id": "10497",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 TFSI Tiptronic Allroad Quattro",
+      "precios": {}
+    },
+    "10498": {
+      "id": "10498",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 TDI S-Tronic Allroad Quattro",
+      "precios": {
+        "2013": {
+          "usd": 21298.7,
+          "ars": 32800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 23246.75,
+          "ars": 35800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 25194.81,
+          "ars": 38800000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 27792.21,
+          "ars": 42800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10499": {
+      "id": "10499",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "3.0 TDI Tiptronic Allroad Quattro",
+      "precios": {}
+    },
+    "10500": {
+      "id": "10500",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "4.2 FSI Tiptronic Allroad Quattro",
+      "precios": {}
+    },
+    "10501": {
+      "id": "10501",
+      "marcaId": "100",
+      "modeloId": "1060",
+      "marca": "AUDI",
+      "modelo": "A7",
+      "version": "3.0 TDI Sportback",
+      "precios": {
+        "2013": {
+          "usd": 27142.86,
+          "ars": 41800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 29740.26,
+          "ars": 45800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 32337.66,
+          "ars": 49800000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 35584.42,
+          "ars": 54800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10502": {
+      "id": "10502",
+      "marcaId": "100",
+      "modeloId": "1060",
+      "marca": "AUDI",
+      "modelo": "A7",
+      "version": "3.0 TFSI Sportback",
+      "precios": {
+        "2013": {
+          "usd": 27272.73,
+          "ars": 42000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 29870.13,
+          "ars": 46000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 32467.53,
+          "ars": 50000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 35714.29,
+          "ars": 55000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 38961.04,
+          "ars": 60000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 42857.14,
+          "ars": 66000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 46753.25,
+          "ars": 72000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10503": {
+      "id": "10503",
+      "marcaId": "100",
+      "modeloId": "1060",
+      "marca": "AUDI",
+      "modelo": "A7",
+      "version": "3.0 TFSI Sportback Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 49350.65,
+          "ars": 76000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 54545.45,
+          "ars": 84000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 61038.96,
+          "ars": 94000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 68181.82,
+          "ars": 105000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 75974.03,
+          "ars": 117000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 83766.23,
+          "ars": 129000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 92857.14,
+          "ars": 143000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10504": {
+      "id": "10504",
+      "marcaId": "100",
+      "modeloId": "1061",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4.0",
+      "precios": {
+        "2013": {
+          "usd": 44155.84,
+          "ars": 68000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 46753.25,
+          "ars": 72000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 49350.65,
+          "ars": 76000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 51948.05,
+          "ars": 80000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10505": {
+      "id": "10505",
+      "marcaId": "100",
+      "modeloId": "1061",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "L 4.0",
+      "precios": {
+        "2013": {
+          "usd": 44805.19,
+          "ars": 69000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 47402.6,
+          "ars": 73000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 50000,
+          "ars": 77000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 52597.4,
+          "ars": 81000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10506": {
+      "id": "10506",
+      "marcaId": "100",
+      "modeloId": "1061",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "L 4.0 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 96103.9,
+          "ars": 148000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 103896.1,
+          "ars": 160000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 111688.31,
+          "ars": 172000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 121428.57,
+          "ars": 187000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 131168.83,
+          "ars": 202000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 142857.14,
+          "ars": 220000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10507": {
+      "id": "10507",
+      "marcaId": "100",
+      "modeloId": "1061",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4.0 Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 92857.14,
+          "ars": 143000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 100649.35,
+          "ars": 155000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 108441.56,
+          "ars": 167000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 118181.82,
+          "ars": 182000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 127922.08,
+          "ars": 197000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 139610.39,
+          "ars": 215000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10508": {
+      "id": "10508",
+      "marcaId": "100",
+      "modeloId": "1061",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4.2",
+      "precios": {}
+    },
+    "10509": {
+      "id": "10509",
+      "marcaId": "100",
+      "modeloId": "1061",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "L 4.2",
+      "precios": {}
+    },
+    "10510": {
+      "id": "10510",
+      "marcaId": "100",
+      "modeloId": "1061",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4.2 Modelo 2007",
+      "precios": {}
+    },
+    "10511": {
+      "id": "10511",
+      "marcaId": "100",
+      "modeloId": "1061",
+      "marca": "AUDI",
+      "modelo": "A8",
+      "version": "4.2 Modelo 2011",
+      "precios": {
+        "2013": {
+          "usd": 42857.14,
+          "ars": 66000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10512": {
+      "id": "10512",
+      "marcaId": "100",
+      "modeloId": "1062",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "2.5 TDI",
+      "precios": {}
+    },
+    "10513": {
+      "id": "10513",
+      "marcaId": "100",
+      "modeloId": "1062",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "2.5 TDI Tiptronic",
+      "precios": {}
+    },
+    "10514": {
+      "id": "10514",
+      "marcaId": "100",
+      "modeloId": "1062",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "2.7 TFSI Tiptronic",
+      "precios": {}
+    },
+    "10515": {
+      "id": "10515",
+      "marcaId": "100",
+      "modeloId": "1062",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "2.7 TDI Tiptronic",
+      "precios": {}
+    },
+    "10516": {
+      "id": "10516",
+      "marcaId": "100",
+      "modeloId": "1062",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "3.0 TDI Tiptronic",
+      "precios": {}
+    },
+    "10517": {
+      "id": "10517",
+      "marcaId": "100",
+      "modeloId": "1062",
+      "marca": "AUDI",
+      "modelo": "ALLROAD",
+      "version": "3.2 Nafta Tiptronic",
+      "precios": {}
+    },
+    "10518": {
+      "id": "10518",
+      "marcaId": "100",
+      "modeloId": "1063",
+      "marca": "AUDI",
+      "modelo": "CABRIOLET",
+      "version": "A4",
+      "precios": {}
+    },
+    "10519": {
+      "id": "10519",
+      "marcaId": "100",
+      "modeloId": "1063",
+      "marca": "AUDI",
+      "modelo": "CABRIOLET",
+      "version": "Tiptronic A4",
+      "precios": {}
+    },
+    "10520": {
+      "id": "10520",
+      "marcaId": "100",
+      "modeloId": "1064",
+      "marca": "AUDI",
+      "modelo": "E-TRON",
+      "version": "Quattro",
+      "precios": {
+        "2020": {
+          "usd": 62337.66,
+          "ars": 96000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 67532.47,
+          "ars": 104000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 73376.62,
+          "ars": 113000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 79870.13,
+          "ars": 123000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 86363.64,
+          "ars": 133000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10521": {
+      "id": "10521",
+      "marcaId": "100",
+      "modeloId": "1064",
+      "marca": "AUDI",
+      "modelo": "E-TRON",
+      "version": "Sportback Quattro",
+      "precios": {
+        "2020": {
+          "usd": 64285.71,
+          "ars": 99000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 70129.87,
+          "ars": 108000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 75974.03,
+          "ars": 117000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 82467.53,
+          "ars": 127000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 88961.04,
+          "ars": 137000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10522": {
+      "id": "10522",
+      "marcaId": "100",
+      "modeloId": "1065",
+      "marca": "AUDI",
+      "modelo": "Q2",
+      "version": "1.0 TFSI S-Tronic 116 CV Sport",
+      "precios": {
+        "2020": {
+          "usd": 22402.6,
+          "ars": 34500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 24350.65,
+          "ars": 37500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10523": {
+      "id": "10523",
+      "marcaId": "100",
+      "modeloId": "1065",
+      "marca": "AUDI",
+      "modelo": "Q2",
+      "version": "1.4 TFSI Tiptronic 150 CV Modelo 2022 35",
+      "precios": {
+        "0": {
+          "usd": 52979.22,
+          "ars": 81588000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 28246.75,
+          "ars": 43500000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 31168.83,
+          "ars": 48000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 34415.58,
+          "ars": 53000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 37662.34,
+          "ars": 58000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 40909.09,
+          "ars": 63000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10524": {
+      "id": "10524",
+      "marcaId": "100",
+      "modeloId": "1065",
+      "marca": "AUDI",
+      "modelo": "Q2",
+      "version": "1.4 TFSI S-Tronic 150 CV",
+      "precios": {
+        "2017": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 19480.52,
+          "ars": 30000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 21103.9,
+          "ars": 32500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 23051.95,
+          "ars": 35500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 25000,
+          "ars": 38500000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 26948.05,
+          "ars": 41500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10525": {
+      "id": "10525",
+      "marcaId": "100",
+      "modeloId": "1065",
+      "marca": "AUDI",
+      "modelo": "Q2",
+      "version": "1.4 TFSI S-Tronic 150 CV Offroad STY",
+      "precios": {
+        "2018": {
+          "usd": 20454.55,
+          "ars": 31500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10526": {
+      "id": "10526",
+      "marcaId": "100",
+      "modeloId": "1065",
+      "marca": "AUDI",
+      "modelo": "Q2",
+      "version": "1.4 TFSI S-Tronic 150 CV Sport",
+      "precios": {
+        "2017": {
+          "usd": 19155.84,
+          "ars": 29500000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 20454.55,
+          "ars": 31500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 22077.92,
+          "ars": 34000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 24025.97,
+          "ars": 37000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10527": {
+      "id": "10527",
+      "marcaId": "100",
+      "modeloId": "1065",
+      "marca": "AUDI",
+      "modelo": "Q2",
+      "version": "2.0 TFSI S-Tronic 190 CV Quattro",
+      "precios": {
+        "2018": {
+          "usd": 23051.95,
+          "ars": 35500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 25000,
+          "ars": 38500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 26948.05,
+          "ars": 41500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10528": {
+      "id": "10528",
+      "marcaId": "100",
+      "modeloId": "1065",
+      "marca": "AUDI",
+      "modelo": "Q2",
+      "version": "2.0 TFSI S-Tronic 190 CV Quattro Modelo 2022",
+      "precios": {
+        "0": {
+          "usd": 59462.34,
+          "ars": 91572000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 31168.83,
+          "ars": 48000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 34415.58,
+          "ars": 53000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 37662.34,
+          "ars": 58000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 40909.09,
+          "ars": 63000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 44155.84,
+          "ars": 68000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10529": {
+      "id": "10529",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "1.4 TFSI 150 CV",
+      "precios": {
+        "2015": {
+          "usd": 16103.9,
+          "ars": 24800000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17402.6,
+          "ars": 26800000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 19025.97,
+          "ars": 29300000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 20649.35,
+          "ars": 31800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10530": {
+      "id": "10530",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "1.4 TFSI S-Tronic 150 CV 35 2",
+      "precios": {
+        "2020": {
+          "usd": 28246.75,
+          "ars": 43500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 29545.45,
+          "ars": 45500000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 31493.51,
+          "ars": 48500000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 34090.91,
+          "ars": 52500000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 36688.31,
+          "ars": 56500000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 39610.39,
+          "ars": 61000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 42532.47,
+          "ars": 65500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10531": {
+      "id": "10531",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "Sportback 1.4 TFSI S-Tronic 150 CV 35 2",
+      "precios": {
+        "2020": {
+          "usd": 30194.81,
+          "ars": 46500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 31493.51,
+          "ars": 48500000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 33441.56,
+          "ars": 51500000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 36038.96,
+          "ars": 55500000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 38636.36,
+          "ars": 59500000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 41558.44,
+          "ars": 64000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 44480.52,
+          "ars": 68500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10532": {
+      "id": "10532",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "Advanced 1.4 TFSI 150 CV",
+      "precios": {
+        "0": {
+          "usd": 59664.94,
+          "ars": 91884000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 47402.6,
+          "ars": 73000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10533": {
+      "id": "10533",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "Advanced Plus 1.4 TFSI 150 CV",
+      "precios": {
+        "0": {
+          "usd": 65945.45,
+          "ars": 101556000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 50649.35,
+          "ars": 78000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10534": {
+      "id": "10534",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "Sport 1.4 TFSI 150 CV",
+      "precios": {
+        "2017": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 22077.92,
+          "ars": 34000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10535": {
+      "id": "10535",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "Sport 1.4 TFSI S-Tronic 150 CV",
+      "precios": {
+        "2017": {
+          "usd": 21103.9,
+          "ars": 32500000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 22402.6,
+          "ars": 34500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 23701.3,
+          "ars": 36500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 25649.35,
+          "ars": 39500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10536": {
+      "id": "10536",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "Sportback Advanced 1.4 TFSI 150 CV",
+      "precios": {
+        "0": {
+          "usd": 61792.21,
+          "ars": 95160000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 48701.3,
+          "ars": 75000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10537": {
+      "id": "10537",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "Sportback Advanced Plus 1.4 TFSI 150 CV",
+      "precios": {
+        "0": {
+          "usd": 67768.83,
+          "ars": 104364000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 51948.05,
+          "ars": 80000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10538": {
+      "id": "10538",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "1.4 TFSI S-Tronic 150 CV",
+      "precios": {
+        "2015": {
+          "usd": 16233.77,
+          "ars": 25000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17532.47,
+          "ars": 27000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 19155.84,
+          "ars": 29500000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10539": {
+      "id": "10539",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "2.0 TFSI 170 CV Quattro",
+      "precios": {
+        "2013": {
+          "usd": 13311.69,
+          "ars": 20500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 14285.71,
+          "ars": 22000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 15584.42,
+          "ars": 24000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 16883.12,
+          "ars": 26000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10540": {
+      "id": "10540",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "2.0 TFSI S-Tronic 170 CV Quattro",
+      "precios": {
+        "2013": {
+          "usd": 13506.49,
+          "ars": 20800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 14480.52,
+          "ars": 22300000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 15779.22,
+          "ars": 24300000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17077.92,
+          "ars": 26300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10541": {
+      "id": "10541",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "2.0 TFSI S-Tronic 180 CV Quattro 40 2",
+      "precios": {
+        "2020": {
+          "usd": 30844.16,
+          "ars": 47500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 32142.86,
+          "ars": 49500000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 34090.91,
+          "ars": 52500000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 36688.31,
+          "ars": 56500000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 39285.71,
+          "ars": 60500000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 42207.79,
+          "ars": 65000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 45129.87,
+          "ars": 69500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10542": {
+      "id": "10542",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "Sportb 2.0 TFSI S-Tronic 180 CV Quattro 40 2",
+      "precios": {
+        "2023": {
+          "usd": 39935.06,
+          "ars": 61500000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 42532.47,
+          "ars": 65500000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 45454.55,
+          "ars": 70000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 48376.62,
+          "ars": 74500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10543": {
+      "id": "10543",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "2.0 TFSI S-Tronic 211 CV Quattro",
+      "precios": {
+        "2013": {
+          "usd": 14155.84,
+          "ars": 21800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 15454.55,
+          "ars": 23800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16753.25,
+          "ars": 25800000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 18051.95,
+          "ars": 27800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10544": {
+      "id": "10544",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "2.0 TFSI S-Tronic 220 CV Quattro",
+      "precios": {
+        "2016": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 25324.68,
+          "ars": 39000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 27922.08,
+          "ars": 43000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10545": {
+      "id": "10545",
+      "marcaId": "100",
+      "modeloId": "1066",
+      "marca": "AUDI",
+      "modelo": "Q3",
+      "version": "2.0 TDI S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 13831.17,
+          "ars": 21300000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 15129.87,
+          "ars": 23300000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 16428.57,
+          "ars": 25300000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 17727.27,
+          "ars": 27300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10546": {
+      "id": "10546",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.180HP 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 15129.87,
+          "ars": 23300000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 16428.57,
+          "ars": 25300000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 17727.27,
+          "ars": 27300000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 19025.97,
+          "ars": 29300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10547": {
+      "id": "10547",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.200HP Advanced 2.0 TFSI Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 80127.27,
+          "ars": 123396000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 58441.56,
+          "ars": 90000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 61688.31,
+          "ars": 95000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10548": {
+      "id": "10548",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.200HP Advanced Sportb. 2.0 TFSI Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 82761.04,
+          "ars": 127452000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 61038.96,
+          "ars": 94000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 64285.71,
+          "ars": 99000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10549": {
+      "id": "10549",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.211HP Luxury 2.0 TFSI",
+      "precios": {}
+    },
+    "10550": {
+      "id": "10550",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.211HP Luxury 2.0 TFSI S-Tronic",
+      "precios": {}
+    },
+    "10551": {
+      "id": "10551",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.211HP 2.0 TFSI S-Tronic",
+      "precios": {
+        "2013": {
+          "usd": 15454.55,
+          "ars": 23800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 16753.25,
+          "ars": 25800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 18051.95,
+          "ars": 27800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10552": {
+      "id": "10552",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.225HP 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 16363.64,
+          "ars": 25200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 17662.34,
+          "ars": 27200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 19285.71,
+          "ars": 29700000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 21233.77,
+          "ars": 32700000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 23181.82,
+          "ars": 35700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10553": {
+      "id": "10553",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.225HP 2.0 TFSI S-Tronic",
+      "precios": {
+        "2013": {
+          "usd": 16558.44,
+          "ars": 25500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 17857.14,
+          "ars": 27500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 19480.52,
+          "ars": 30000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 21428.57,
+          "ars": 33000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10554": {
+      "id": "10554",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.245HP Advanced Sport 2.0 TFSI 45 2",
+      "precios": {
+        "2025": {
+          "usd": 53896.1,
+          "ars": 83000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10555": {
+      "id": "10555",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.245HP Offroad Mhev 2.0 TFSI S-Tronic 45 2",
+      "precios": {
+        "2022": {
+          "usd": 46103.9,
+          "ars": 71000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 48701.3,
+          "ars": 75000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 51298.7,
+          "ars": 79000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 54545.45,
+          "ars": 84000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10556": {
+      "id": "10556",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.245HP Sportback Mhev Advan 2.0 TFSI 45 2",
+      "precios": {
+        "2024": {
+          "usd": 52597.4,
+          "ars": 81000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 55844.16,
+          "ars": 86000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10557": {
+      "id": "10557",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.245HP Sportback Mhev Sline 2.0 TFSI 45 2",
+      "precios": {
+        "2024": {
+          "usd": 55844.16,
+          "ars": 86000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 59090.91,
+          "ars": 91000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10558": {
+      "id": "10558",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.252HP Offroad 2.0 TFSI S-Tronic",
+      "precios": {
+        "2020": {
+          "usd": 35714.29,
+          "ars": 55000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 39610.39,
+          "ars": 61000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 43506.49,
+          "ars": 67000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10559": {
+      "id": "10559",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.252HP Sport 2.0 TFSI S-Tronic",
+      "precios": {
+        "2020": {
+          "usd": 37662.34,
+          "ars": 58000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 40259.74,
+          "ars": 62000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10560": {
+      "id": "10560",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.252HP 2.0 TFSI S-Tronic",
+      "precios": {
+        "2017": {
+          "usd": 24675.32,
+          "ars": 38000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 27272.73,
+          "ars": 42000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 29870.13,
+          "ars": 46000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 33116.88,
+          "ars": 51000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10561": {
+      "id": "10561",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.252HP Security 2.0 TFSI S-Tronic",
+      "precios": {
+        "2018": {
+          "usd": 29870.13,
+          "ars": 46000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 33116.88,
+          "ars": 51000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 36363.64,
+          "ars": 56000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10562": {
+      "id": "10562",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.272HP Advanced Plus 2.0 TFSI Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 91472.73,
+          "ars": 140868000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 66883.12,
+          "ars": 103000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 70129.87,
+          "ars": 108000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10563": {
+      "id": "10563",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "QUA.272HP Sline Sportback 2.0 TFSI Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 96132.47,
+          "ars": 148044000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 69480.52,
+          "ars": 107000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 72727.27,
+          "ars": 112000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10564": {
+      "id": "10564",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "2.0 TDI Quattro",
+      "precios": {}
+    },
+    "10565": {
+      "id": "10565",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "2.0 TDI S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 15454.55,
+          "ars": 23800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 16753.25,
+          "ars": 25800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 18051.95,
+          "ars": 27800000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 19350.65,
+          "ars": 29800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10566": {
+      "id": "10566",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "3.0 TDI S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 16753.25,
+          "ars": 25800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18051.95,
+          "ars": 27800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 19675.32,
+          "ars": 30300000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 21298.7,
+          "ars": 32800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10567": {
+      "id": "10567",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "3.0 TFSI Tiptronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 18051.95,
+          "ars": 27800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 19350.65,
+          "ars": 29800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 21298.7,
+          "ars": 32800000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 23246.75,
+          "ars": 35800000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 25194.81,
+          "ars": 38800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10568": {
+      "id": "10568",
+      "marcaId": "100",
+      "modeloId": "1067",
+      "marca": "AUDI",
+      "modelo": "Q5",
+      "version": "3.2 FSI S-Tronic Quattro",
+      "precios": {
+        "2013": {
+          "usd": 16688.31,
+          "ars": 25700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10569": {
+      "id": "10569",
+      "marcaId": "100",
+      "modeloId": "1068",
+      "marca": "AUDI",
+      "modelo": "Q6",
+      "version": "Performance",
+      "precios": {
+        "0": {
+          "usd": 129864.94,
+          "ars": 199992000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 94155.84,
+          "ars": 145000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 100649.35,
+          "ars": 155000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10570": {
+      "id": "10570",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Security 3.0 FSI 272 CV Quattro",
+      "precios": {
+        "2013": {
+          "usd": 20129.87,
+          "ars": 31000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10571": {
+      "id": "10571",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Sport SEC 3.0 FSI 272 CV Quattro",
+      "precios": {
+        "2013": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10572": {
+      "id": "10572",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. 3.0 FSI 333 CV Quattro",
+      "precios": {
+        "2013": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 25974.03,
+          "ars": 40000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 31168.83,
+          "ars": 48000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 36363.64,
+          "ars": 56000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 42857.14,
+          "ars": 66000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 49350.65,
+          "ars": 76000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 57142.86,
+          "ars": 88000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10573": {
+      "id": "10573",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Security 3.0 FSI 333 CV Quattro",
+      "precios": {
+        "2013": {
+          "usd": 21103.9,
+          "ars": 32500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 23701.3,
+          "ars": 36500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10574": {
+      "id": "10574",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Sport 3.0 FSI 333 CV Quattro",
+      "precios": {
+        "2013": {
+          "usd": 21103.9,
+          "ars": 32500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 23701.3,
+          "ars": 36500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10575": {
+      "id": "10575",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. 3.0 TDI Quattro",
+      "precios": {
+        "2013": {
+          "usd": 20129.87,
+          "ars": 31000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 25324.68,
+          "ars": 39000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 30519.48,
+          "ars": 47000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 35714.29,
+          "ars": 55000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 42207.79,
+          "ars": 65000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 48701.3,
+          "ars": 75000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 56493.51,
+          "ars": 87000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10576": {
+      "id": "10576",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Luxury 3.0 TDI Quattro",
+      "precios": {}
+    },
+    "10577": {
+      "id": "10577",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Security 3.0 TDI Quattro",
+      "precios": {
+        "2013": {
+          "usd": 20454.55,
+          "ars": 31500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 23051.95,
+          "ars": 35500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10578": {
+      "id": "10578",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. 4.2 FSI Quattro",
+      "precios": {}
+    },
+    "10579": {
+      "id": "10579",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Luxury 4.2 FSI Quattro",
+      "precios": {}
+    },
+    "10580": {
+      "id": "10580",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Security 4.2 FSI Quattro",
+      "precios": {}
+    },
+    "10581": {
+      "id": "10581",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. 4.2 TDI Quattro",
+      "precios": {
+        "2013": {
+          "usd": 21428.57,
+          "ars": 33000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 24025.97,
+          "ars": 37000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 26623.38,
+          "ars": 41000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 31818.18,
+          "ars": 49000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10582": {
+      "id": "10582",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Luxury 4.2 TDI Quattro",
+      "precios": {}
+    },
+    "10583": {
+      "id": "10583",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Tipt. Security 4.2 TDI Quattro",
+      "precios": {
+        "2013": {
+          "usd": 21753.25,
+          "ars": 33500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 24350.65,
+          "ars": 37500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10584": {
+      "id": "10584",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "S-Line 4.5 TDI Tiptronic Quattro",
+      "precios": {
+        "2020": {
+          "usd": 74025.97,
+          "ars": 114000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 77272.73,
+          "ars": 119000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 80519.48,
+          "ars": 124000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 84415.58,
+          "ars": 130000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 88311.69,
+          "ars": 136000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10585": {
+      "id": "10585",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Mild Hibrid S-Line Tiptronic Quattro 55",
+      "precios": {
+        "0": {
+          "usd": 134220.78,
+          "ars": 206700000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 75324.68,
+          "ars": 116000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 78571.43,
+          "ars": 121000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 81818.18,
+          "ars": 126000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 85714.29,
+          "ars": 132000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 89610.39,
+          "ars": 138000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 94155.84,
+          "ars": 145000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 100000,
+          "ars": 154000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10586": {
+      "id": "10586",
+      "marcaId": "100",
+      "modeloId": "1069",
+      "marca": "AUDI",
+      "modelo": "Q7",
+      "version": "Mild Hibrid Tiptronic Quattro",
+      "precios": {
+        "2020": {
+          "usd": 73376.62,
+          "ars": 113000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 75324.68,
+          "ars": 116000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 78571.43,
+          "ars": 121000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 82467.53,
+          "ars": 127000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 86363.64,
+          "ars": 133000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10587": {
+      "id": "10587",
+      "marcaId": "100",
+      "modeloId": "1070",
+      "marca": "AUDI",
+      "modelo": "Q8",
+      "version": "4.5 TDI Quattro",
+      "precios": {
+        "2019": {
+          "usd": 75974.03,
+          "ars": 117000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 79870.13,
+          "ars": 123000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 84415.58,
+          "ars": 130000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 88961.04,
+          "ars": 137000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 93506.49,
+          "ars": 144000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 98701.3,
+          "ars": 152000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10588": {
+      "id": "10588",
+      "marcaId": "100",
+      "modeloId": "1070",
+      "marca": "AUDI",
+      "modelo": "Q8",
+      "version": "Eléctrico Quattro 55 2",
+      "precios": {
+        "2024": {
+          "usd": 109090.91,
+          "ars": 168000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 115584.42,
+          "ars": 178000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 122077.92,
+          "ars": 188000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10589": {
+      "id": "10589",
+      "marcaId": "100",
+      "modeloId": "1070",
+      "marca": "AUDI",
+      "modelo": "Q8",
+      "version": "Eléctrico Sportback Quattro 55 2",
+      "precios": {
+        "2024": {
+          "usd": 112337.66,
+          "ars": 173000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 118831.17,
+          "ars": 183000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 125324.68,
+          "ars": 193000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10590": {
+      "id": "10590",
+      "marcaId": "100",
+      "modeloId": "1070",
+      "marca": "AUDI",
+      "modelo": "Q8",
+      "version": "TFSI Quattro 55",
+      "precios": {
+        "0": {
+          "usd": 142932.47,
+          "ars": 220116000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 74675.32,
+          "ars": 115000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 78571.43,
+          "ars": 121000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 83116.88,
+          "ars": 128000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 87662.34,
+          "ars": 135000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 92207.79,
+          "ars": 142000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 97402.6,
+          "ars": 150000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 102597.4,
+          "ars": 158000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 107792.21,
+          "ars": 166000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10591": {
+      "id": "10591",
+      "marcaId": "100",
+      "modeloId": "1071",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "4.2 V8",
+      "precios": {
+        "2013": {
+          "usd": 194155.84,
+          "ars": 299000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 200649.35,
+          "ars": 309000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 207142.86,
+          "ars": 319000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 213636.36,
+          "ars": 329000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10592": {
+      "id": "10592",
+      "marcaId": "100",
+      "modeloId": "1071",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "R Tronic 4.2 V8",
+      "precios": {
+        "2013": {
+          "usd": 194805.19,
+          "ars": 300000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 201298.7,
+          "ars": 310000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 207792.21,
+          "ars": 320000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 214285.71,
+          "ars": 330000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10593": {
+      "id": "10593",
+      "marcaId": "100",
+      "modeloId": "1071",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "5.2 V10",
+      "precios": {
+        "2013": {
+          "usd": 200649.35,
+          "ars": 309000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 207142.86,
+          "ars": 319000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 213636.36,
+          "ars": 329000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 220129.87,
+          "ars": 339000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10594": {
+      "id": "10594",
+      "marcaId": "100",
+      "modeloId": "1071",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "R Tronic 5.2 V10",
+      "precios": {
+        "2013": {
+          "usd": 201298.7,
+          "ars": 310000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 207792.21,
+          "ars": 320000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 214285.71,
+          "ars": 330000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 220779.22,
+          "ars": 340000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10595": {
+      "id": "10595",
+      "marcaId": "100",
+      "modeloId": "1071",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Spyder 5.2 V10",
+      "precios": {
+        "2013": {
+          "usd": 207142.86,
+          "ars": 319000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 213636.36,
+          "ars": 329000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 220129.87,
+          "ars": 339000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 226623.38,
+          "ars": 349000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10596": {
+      "id": "10596",
+      "marcaId": "100",
+      "modeloId": "1071",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Spyder Plus 5.2 V10",
+      "precios": {
+        "2018": {
+          "usd": 337662.34,
+          "ars": 520000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 350649.35,
+          "ars": 540000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 370129.87,
+          "ars": 570000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10597": {
+      "id": "10597",
+      "marcaId": "100",
+      "modeloId": "1071",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "Spyder R 5.2 V10",
+      "precios": {
+        "2013": {
+          "usd": 207792.21,
+          "ars": 320000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 214285.71,
+          "ars": 330000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 220779.22,
+          "ars": 340000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 227272.73,
+          "ars": 350000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10598": {
+      "id": "10598",
+      "marcaId": "100",
+      "modeloId": "1071",
+      "marca": "AUDI",
+      "modelo": "R8",
+      "version": "5.2 V10 S-Tronic Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 318181.82,
+          "ars": 490000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 331168.83,
+          "ars": 510000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 344155.84,
+          "ars": 530000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 363636.36,
+          "ars": 560000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10601": {
+      "id": "10601",
+      "marcaId": "100",
+      "modeloId": "1073",
+      "marca": "AUDI",
+      "modelo": "RS E-TRON",
+      "version": "GT",
+      "precios": {
+        "2022": {
+          "usd": 198051.95,
+          "ars": 305000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 207792.21,
+          "ars": 320000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 220779.22,
+          "ars": 340000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 233766.23,
+          "ars": 360000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 246753.25,
+          "ars": 380000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10602": {
+      "id": "10602",
+      "marcaId": "100",
+      "modeloId": "1074",
+      "marca": "AUDI",
+      "modelo": "RS3",
+      "version": "S-Tronic Sedán",
+      "precios": {
+        "2018": {
+          "usd": 72727.27,
+          "ars": 112000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 76623.38,
+          "ars": 118000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 80519.48,
+          "ars": 124000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10603": {
+      "id": "10603",
+      "marcaId": "100",
+      "modeloId": "1074",
+      "marca": "AUDI",
+      "modelo": "RS3",
+      "version": "S-Tronic Sedán Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 112238.96,
+          "ars": 172848000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 88311.69,
+          "ars": 136000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 90909.09,
+          "ars": 140000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10604": {
+      "id": "10604",
+      "marcaId": "100",
+      "modeloId": "1074",
+      "marca": "AUDI",
+      "modelo": "RS3",
+      "version": "Sportback Str. Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 111732.47,
+          "ars": 172068000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 88961.04,
+          "ars": 137000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 91558.44,
+          "ars": 141000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10605": {
+      "id": "10605",
+      "marcaId": "100",
+      "modeloId": "1074",
+      "marca": "AUDI",
+      "modelo": "RS3",
+      "version": "Sportback S-Tronic",
+      "precios": {
+        "2018": {
+          "usd": 73376.62,
+          "ars": 113000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 77272.73,
+          "ars": 119000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 81168.83,
+          "ars": 125000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10606": {
+      "id": "10606",
+      "marcaId": "100",
+      "modeloId": "1075",
+      "marca": "AUDI",
+      "modelo": "RS4",
+      "version": "Turbo 2.7 V6",
+      "precios": {}
+    },
+    "10607": {
+      "id": "10607",
+      "marcaId": "100",
+      "modeloId": "1075",
+      "marca": "AUDI",
+      "modelo": "RS4",
+      "version": "4.2 V8",
+      "precios": {}
+    },
+    "10608": {
+      "id": "10608",
+      "marcaId": "100",
+      "modeloId": "1076",
+      "marca": "AUDI",
+      "modelo": "RS5",
+      "version": "2.9 TFSI V6 Tiptronic",
+      "precios": {
+        "2018": {
+          "usd": 95454.55,
+          "ars": 147000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 98701.3,
+          "ars": 152000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 101948.05,
+          "ars": 157000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10609": {
+      "id": "10609",
+      "marcaId": "100",
+      "modeloId": "1076",
+      "marca": "AUDI",
+      "modelo": "RS5",
+      "version": "S Tronic 4.2 Nafta V8",
+      "precios": {
+        "2013": {
+          "usd": 58441.56,
+          "ars": 90000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 61688.31,
+          "ars": 95000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 65584.42,
+          "ars": 101000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 69480.52,
+          "ars": 107000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10610": {
+      "id": "10610",
+      "marcaId": "100",
+      "modeloId": "1077",
+      "marca": "AUDI",
+      "modelo": "RS6",
+      "version": "4.2",
+      "precios": {}
+    },
+    "10611": {
+      "id": "10611",
+      "marcaId": "100",
+      "modeloId": "1077",
+      "marca": "AUDI",
+      "modelo": "RS6",
+      "version": "Avant 4.2",
+      "precios": {}
+    },
+    "10612": {
+      "id": "10612",
+      "marcaId": "100",
+      "modeloId": "1077",
+      "marca": "AUDI",
+      "modelo": "RS6",
+      "version": "5.0 TFSI",
+      "precios": {}
+    },
+    "10613": {
+      "id": "10613",
+      "marcaId": "100",
+      "modeloId": "1078",
+      "marca": "AUDI",
+      "modelo": "RS7",
+      "version": "Sportback",
+      "precios": {
+        "2015": {
+          "usd": 66883.12,
+          "ars": 103000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 70779.22,
+          "ars": 109000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 74675.32,
+          "ars": 115000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10614": {
+      "id": "10614",
+      "marcaId": "100",
+      "modeloId": "1079",
+      "marca": "AUDI",
+      "modelo": "RSQ3",
+      "version": "Sportback",
+      "precios": {
+        "2024": {
+          "usd": 110389.61,
+          "ars": 170000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 116883.12,
+          "ars": 180000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10615": {
+      "id": "10615",
+      "marcaId": "100",
+      "modeloId": "1080",
+      "marca": "AUDI",
+      "modelo": "RSQ8",
+      "version": "Mild Hibrid",
+      "precios": {
+        "2020": {
+          "usd": 155844.16,
+          "ars": 240000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 162337.66,
+          "ars": 250000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 168831.17,
+          "ars": 260000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 175324.68,
+          "ars": 270000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 181818.18,
+          "ars": 280000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 188311.69,
+          "ars": 290000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10616": {
+      "id": "10616",
+      "marcaId": "100",
+      "modeloId": "1080",
+      "marca": "AUDI",
+      "modelo": "RSQ8",
+      "version": "Mild Perf. Híbrido",
+      "precios": {
+        "0": {
+          "usd": 253753.25,
+          "ars": 390780000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 198051.95,
+          "ars": 305000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 207792.21,
+          "ars": 320000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10617": {
+      "id": "10617",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "Quattro 1.8 TFSI",
+      "precios": {}
+    },
+    "10618": {
+      "id": "10618",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "Quattro 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 24675.32,
+          "ars": 38000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10619": {
+      "id": "10619",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "S Tronic Quattro 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 24805.19,
+          "ars": 38200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10620": {
+      "id": "10620",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "S Tronic Quattro Sedán 2.0 TFSI Modelo 2016",
+      "precios": {
+        "2016": {
+          "usd": 36038.96,
+          "ars": 55500000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 37987.01,
+          "ars": 58500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10621": {
+      "id": "10621",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "S Tronic Quattro Sedán 2.0 TFSI Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 39935.06,
+          "ars": 61500000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 41883.12,
+          "ars": 64500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 43831.17,
+          "ars": 67500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 46428.57,
+          "ars": 71500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10622": {
+      "id": "10622",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "S Tronic Quattro Sedán 2.0 TFSI Modelo 2024 2",
+      "precios": {
+        "2024": {
+          "usd": 51298.7,
+          "ars": 79000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 53896.1,
+          "ars": 83000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10623": {
+      "id": "10623",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "S Tronic Quattro Sedán 2.0 TFSI Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 80735.06,
+          "ars": 124332000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 57142.86,
+          "ars": 88000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 60389.61,
+          "ars": 93000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10624": {
+      "id": "10624",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "Sportback 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 24545.45,
+          "ars": 37800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10625": {
+      "id": "10625",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "Sportback S Tronic Quat 2.0 TFSI",
+      "precios": {
+        "2013": {
+          "usd": 24935.06,
+          "ars": 38400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10626": {
+      "id": "10626",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "Sportback S Tronic Quat 2.0 TFSI Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 40259.74,
+          "ars": 62000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 42207.79,
+          "ars": 65000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 44155.84,
+          "ars": 68000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 46753.25,
+          "ars": 72000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10627": {
+      "id": "10627",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "Sportback S Tronic Quat 2.0 TFSI Modelo 2024 3",
+      "precios": {
+        "2024": {
+          "usd": 51948.05,
+          "ars": 80000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 54545.45,
+          "ars": 84000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10628": {
+      "id": "10628",
+      "marcaId": "100",
+      "modeloId": "1081",
+      "marca": "AUDI",
+      "modelo": "S3",
+      "version": "Sportback S Tronic Quattro 2.0 TFSI Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 80735.06,
+          "ars": 124332000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 57792.21,
+          "ars": 89000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 61038.96,
+          "ars": 94000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10629": {
+      "id": "10629",
+      "marcaId": "100",
+      "modeloId": "1082",
+      "marca": "AUDI",
+      "modelo": "S4",
+      "version": "2.7 V6 Turbo",
+      "precios": {}
+    },
+    "10630": {
+      "id": "10630",
+      "marcaId": "100",
+      "modeloId": "1082",
+      "marca": "AUDI",
+      "modelo": "S4",
+      "version": "3.0 Nafta V6 T.",
+      "precios": {}
+    },
+    "10631": {
+      "id": "10631",
+      "marcaId": "100",
+      "modeloId": "1082",
+      "marca": "AUDI",
+      "modelo": "S4",
+      "version": "3.0 Nafta V6 T. S Tronic",
+      "precios": {
+        "2013": {
+          "usd": 30519.48,
+          "ars": 47000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 32467.53,
+          "ars": 50000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 34415.58,
+          "ars": 53000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 36363.64,
+          "ars": 56000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10632": {
+      "id": "10632",
+      "marcaId": "100",
+      "modeloId": "1082",
+      "marca": "AUDI",
+      "modelo": "S4",
+      "version": "3.0 Nafta V6 Tiptronic T. Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 42207.79,
+          "ars": 65000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 44805.19,
+          "ars": 69000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 47402.6,
+          "ars": 73000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 50000,
+          "ars": 77000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10633": {
+      "id": "10633",
+      "marcaId": "100",
+      "modeloId": "1082",
+      "marca": "AUDI",
+      "modelo": "S4",
+      "version": "4.2 V8",
+      "precios": {}
+    },
+    "10634": {
+      "id": "10634",
+      "marcaId": "100",
+      "modeloId": "1082",
+      "marca": "AUDI",
+      "modelo": "S4",
+      "version": "4.2 V8 Tiptronic",
+      "precios": {}
+    },
+    "10635": {
+      "id": "10635",
+      "marcaId": "100",
+      "modeloId": "1083",
+      "marca": "AUDI",
+      "modelo": "S5",
+      "version": "3.0 V6 S-Tronic",
+      "precios": {
+        "2013": {
+          "usd": 31818.18,
+          "ars": 49000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 33766.23,
+          "ars": 52000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 36363.64,
+          "ars": 56000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 38961.04,
+          "ars": 60000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10636": {
+      "id": "10636",
+      "marcaId": "100",
+      "modeloId": "1083",
+      "marca": "AUDI",
+      "modelo": "S5",
+      "version": "3.0 V6 S-Tronic Avant",
+      "precios": {
+        "0": {
+          "usd": 110618.18,
+          "ars": 170352000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 90909.09,
+          "ars": 140000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10637": {
+      "id": "10637",
+      "marcaId": "100",
+      "modeloId": "1083",
+      "marca": "AUDI",
+      "modelo": "S5",
+      "version": "3.0 V6 Tiptronic",
+      "precios": {
+        "2017": {
+          "usd": 45454.55,
+          "ars": 70000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 49350.65,
+          "ars": 76000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 53246.75,
+          "ars": 82000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 57142.86,
+          "ars": 88000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10638": {
+      "id": "10638",
+      "marcaId": "100",
+      "modeloId": "1083",
+      "marca": "AUDI",
+      "modelo": "S5",
+      "version": "3.0 V6 Tiptronic Sportback",
+      "precios": {
+        "2017": {
+          "usd": 44805.19,
+          "ars": 69000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 48701.3,
+          "ars": 75000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 52597.4,
+          "ars": 81000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 56493.51,
+          "ars": 87000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10639": {
+      "id": "10639",
+      "marcaId": "100",
+      "modeloId": "1083",
+      "marca": "AUDI",
+      "modelo": "S5",
+      "version": "4.2 V8",
+      "precios": {}
+    },
+    "10640": {
+      "id": "10640",
+      "marcaId": "100",
+      "modeloId": "1083",
+      "marca": "AUDI",
+      "modelo": "S5",
+      "version": "4.2 V8 Tiptronic",
+      "precios": {}
+    },
+    "10641": {
+      "id": "10641",
+      "marcaId": "100",
+      "modeloId": "1084",
+      "marca": "AUDI",
+      "modelo": "S6",
+      "version": "S Tronic",
+      "precios": {
+        "2014": {
+          "usd": 36363.64,
+          "ars": 56000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 38961.04,
+          "ars": 60000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 41558.44,
+          "ars": 64000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10642": {
+      "id": "10642",
+      "marcaId": "100",
+      "modeloId": "1085",
+      "marca": "AUDI",
+      "modelo": "S7",
+      "version": "Sportback Stron",
+      "precios": {
+        "2013": {
+          "usd": 35714.29,
+          "ars": 55000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 37662.34,
+          "ars": 58000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 40259.74,
+          "ars": 62000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 42857.14,
+          "ars": 66000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10643": {
+      "id": "10643",
+      "marcaId": "100",
+      "modeloId": "1086",
+      "marca": "AUDI",
+      "modelo": "SQ",
+      "version": "SQ5 FSI Sportbk S-Tronic Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 120140.26,
+          "ars": 185016000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 90909.09,
+          "ars": 140000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 94155.84,
+          "ars": 145000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10644": {
+      "id": "10644",
+      "marcaId": "100",
+      "modeloId": "1086",
+      "marca": "AUDI",
+      "modelo": "SQ",
+      "version": "SQ5 FSI Tiptronic",
+      "precios": {
+        "2017": {
+          "usd": 47402.6,
+          "ars": 73000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 51298.7,
+          "ars": 79000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 55194.81,
+          "ars": 85000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 59090.91,
+          "ars": 91000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 63636.36,
+          "ars": 98000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10649": {
+      "id": "10649",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Turbo 1.8 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 24025.97,
+          "ars": 37000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 25649.35,
+          "ars": 39500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 27272.73,
+          "ars": 42000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 29220.78,
+          "ars": 45000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10651": {
+      "id": "10651",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Turbo 1.8 Nafta Roadster",
+      "precios": {}
+    },
+    "10654": {
+      "id": "10654",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Turbo 2.0 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 26168.83,
+          "ars": 40300000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 27792.21,
+          "ars": 42800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 29740.26,
+          "ars": 45800000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 31688.31,
+          "ars": 48800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10655": {
+      "id": "10655",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "Turbo 2.0 Nafta Roadster",
+      "precios": {
+        "2013": {
+          "usd": 31688.31,
+          "ars": 48800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 33636.36,
+          "ars": 51800000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 35584.42,
+          "ars": 54800000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 38181.82,
+          "ars": 58800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10658": {
+      "id": "10658",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "S Tronic 2.0 TFSI 230 CV",
+      "precios": {
+        "2016": {
+          "usd": 41558.44,
+          "ars": 64000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 45454.55,
+          "ars": 70000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 49350.65,
+          "ars": 76000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 53896.1,
+          "ars": 83000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 58441.56,
+          "ars": 90000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10659": {
+      "id": "10659",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "RS 2.5 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 44155.84,
+          "ars": 68000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 46753.25,
+          "ars": 72000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 49350.65,
+          "ars": 76000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 51948.05,
+          "ars": 80000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10660": {
+      "id": "10660",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "RS S Tronic 2.5 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 44285.71,
+          "ars": 68200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 46883.12,
+          "ars": 72200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 49480.52,
+          "ars": 76200000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 52077.92,
+          "ars": 80200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10661": {
+      "id": "10661",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "RS 2.5 TFSI Modelo 2017",
+      "precios": {
+        "2017": {
+          "usd": 49350.65,
+          "ars": 76000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 53246.75,
+          "ars": 82000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 57792.21,
+          "ars": 89000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 62337.66,
+          "ars": 96000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10662": {
+      "id": "10662",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "3.2 V6 Quattro",
+      "precios": {}
+    },
+    "10663": {
+      "id": "10663",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "3.2 V6 Doble Embrague Quattro",
+      "precios": {}
+    },
+    "10664": {
+      "id": "10664",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "3.2 V6 Quattro Roadster",
+      "precios": {}
+    },
+    "10665": {
+      "id": "10665",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "3.2 V6 Doble Embrague Quattro Roadster",
+      "precios": {}
+    },
+    "10666": {
+      "id": "10666",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "S Tronic 3.2 V6 Quattro",
+      "precios": {}
+    },
+    "10667": {
+      "id": "10667",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "S Tronic Road. 3.2 V6 Quattro",
+      "precios": {}
+    },
+    "10668": {
+      "id": "10668",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "TTS T. S Tronic 2.0 Quattro",
+      "precios": {
+        "2016": {
+          "usd": 46753.25,
+          "ars": 72000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 50649.35,
+          "ars": 78000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 54545.45,
+          "ars": 84000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 61038.96,
+          "ars": 94000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 63636.36,
+          "ars": 98000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "10669": {
+      "id": "10669",
+      "marcaId": "100",
+      "modeloId": "1088",
+      "marca": "AUDI",
+      "modelo": "TT",
+      "version": "TTS T. S Tronic Roads. 2.0 Quattro",
+      "precios": {
+        "2018": {
+          "usd": 57792.21,
+          "ars": 89000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 62337.66,
+          "ars": 96000000,
+          "cotizacion": 1540
+        }
+      }
     },
     "200018": {
       "id": "200018",
@@ -5339,6 +11898,21 @@
         "2026": {
           "usd": 29545.45,
           "ars": 45500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "474656": {
+      "id": "474656",
+      "marcaId": "100",
+      "modeloId": "1059",
+      "marca": "AUDI",
+      "modelo": "A6",
+      "version": "Variante · Ref. V-474656",
+      "precios": {
+        "0": {
+          "usd": 123280.52,
+          "ars": 189852000,
           "cotizacion": 1540
         }
       }
