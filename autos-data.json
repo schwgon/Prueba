@@ -1,12 +1,12 @@
 {
   "version": 7,
-  "actualizado": "2026-10-05T08:07:17.268Z",
+  "actualizado": "2026-10-05T10:10:46.012Z",
   "fuente": "Arg Autos",
   "minYear": 2013,
   "maxYear": 2026,
   "totalVersionesCatalogadas": 9601,
-  "versionesProcesadas": 6972,
-  "versionesConValuacion": 3446,
+  "versionesProcesadas": 7322,
+  "versionesConValuacion": 3562,
   "completo": false,
   "vehiculos": {
     "10040": {
@@ -117270,6 +117270,5762 @@
           "cotizacion": 1540
         }
       }
+    },
+    "17294": {
+      "id": "17294",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Privilege 2.0 Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 10324.68,
+          "ars": 15900000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 10519.48,
+          "ars": 16200000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10779.22,
+          "ars": 16600000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 11038.96,
+          "ars": 17000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11428.57,
+          "ars": 17600000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17295": {
+      "id": "17295",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Privilege 2.0 CVT Modelo 2015",
+      "precios": {
+        "2015": {
+          "usd": 10389.61,
+          "ars": 16000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 10584.42,
+          "ars": 16300000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10844.16,
+          "ars": 16700000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 11103.9,
+          "ars": 17100000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11493.51,
+          "ars": 17700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17296": {
+      "id": "17296",
+      "marcaId": "147",
+      "modeloId": "1682",
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "version": "Sport Turbo 2.0",
+      "precios": {
+        "2013": {
+          "usd": 10259.74,
+          "ars": 15800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17299": {
+      "id": "17299",
+      "marcaId": "147",
+      "modeloId": "1684",
+      "marca": "RENAULT",
+      "modelo": "GRAND SCENIC",
+      "version": "Dynamique Confort",
+      "precios": {}
+    },
+    "17300": {
+      "id": "17300",
+      "marcaId": "147",
+      "modeloId": "1684",
+      "marca": "RENAULT",
+      "modelo": "GRAND SCENIC",
+      "version": "Dynamique Plus",
+      "precios": {}
+    },
+    "17302": {
+      "id": "17302",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL Airbag 1.0",
+      "precios": {}
+    },
+    "17303": {
+      "id": "17303",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL 1.2",
+      "precios": {}
+    },
+    "17304": {
+      "id": "17304",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RN Pack 1.4",
+      "precios": {}
+    },
+    "17306": {
+      "id": "17306",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Confort 1.6",
+      "precios": {}
+    },
+    "17307": {
+      "id": "17307",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Confort Sportway 1.6",
+      "precios": {}
+    },
+    "17308": {
+      "id": "17308",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Pack Puerta Lateral Corrediza 1.6",
+      "precios": {}
+    },
+    "17309": {
+      "id": "17309",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Pack Plus 1.6",
+      "precios": {}
+    },
+    "17310": {
+      "id": "17310",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Pack Plus GNC 1.6",
+      "precios": {}
+    },
+    "17311": {
+      "id": "17311",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL 1.6",
+      "precios": {}
+    },
+    "17312": {
+      "id": "17312",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL Airbag Puerta Lateral Corrediza 1.6",
+      "precios": {}
+    },
+    "17313": {
+      "id": "17313",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL Airbag Pack Puerta Lateral Corrediza 1.6",
+      "precios": {}
+    },
+    "17315": {
+      "id": "17315",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL Authen. GNC Puerta Lateral Corrediza 1.6",
+      "precios": {}
+    },
+    "17316": {
+      "id": "17316",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL Authen. GNC Puerta Lateral Corrediza Aire 1.6",
+      "precios": {}
+    },
+    "17317": {
+      "id": "17317",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL Authentique Puerta Lateral Corrediza 1.6 1",
+      "precios": {}
+    },
+    "17318": {
+      "id": "17318",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RL Authentique Puerta Lateral Corrediza 1.6 2",
+      "precios": {}
+    },
+    "17319": {
+      "id": "17319",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RN Airbag Pack 1.6",
+      "precios": {}
+    },
+    "17320": {
+      "id": "17320",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RN Airbag Pack Puerta Lateral Corrediza 1.6",
+      "precios": {}
+    },
+    "17321": {
+      "id": "17321",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RT Dynamique/Expresion 1.6",
+      "precios": {}
+    },
+    "17325": {
+      "id": "17325",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Confort Sportway 1.9",
+      "precios": {}
+    },
+    "17326": {
+      "id": "17326",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Confort 1.9 Diésel",
+      "precios": {}
+    },
+    "17327": {
+      "id": "17327",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Montagne 1.9 Diésel",
+      "precios": {}
+    },
+    "17328": {
+      "id": "17328",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Pack Puerta Lateral Corrediza 1.9 Diésel",
+      "precios": {}
+    },
+    "17329": {
+      "id": "17329",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Pack Plus 1.9 Diésel",
+      "precios": {}
+    },
+    "17330": {
+      "id": "17330",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RLD 1.9",
+      "precios": {}
+    },
+    "17331": {
+      "id": "17331",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RLD Airbag Puerta Lateral Corrediza 1.9",
+      "precios": {}
+    },
+    "17332": {
+      "id": "17332",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RLD Authentique Puerta Lateral Corrediza 1.9",
+      "precios": {}
+    },
+    "17333": {
+      "id": "17333",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RLD Authentique 2PLC Aire 1.9",
+      "precios": {}
+    },
+    "17334": {
+      "id": "17334",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RND Pack Airbag 1.9",
+      "precios": {}
+    },
+    "17335": {
+      "id": "17335",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RND Pack Airbag Puerta Lateral Corrediza 1.9",
+      "precios": {}
+    },
+    "17336": {
+      "id": "17336",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "RTD Dynamique/Expresion 1.9",
+      "precios": {}
+    },
+    "17337": {
+      "id": "17337",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 7350.65,
+          "ars": 11320000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7805.19,
+          "ars": 12020000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17338": {
+      "id": "17338",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza 1.5 Diésel 7 Asientos",
+      "precios": {}
+    },
+    "17339": {
+      "id": "17339",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique SL Puerta Lateral Corrediza 1.5 Diésel 7 Asientos",
+      "precios": {}
+    },
+    "17340": {
+      "id": "17340",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza Plus 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 7448.05,
+          "ars": 11470000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7967.53,
+          "ars": 12270000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17341": {
+      "id": "17341",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique SL Puerta Lateral Corrediza Plus 1.5 Diésel",
+      "precios": {}
+    },
+    "17342": {
+      "id": "17342",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Campus Puerta Lateral Corrediza 1.5 Diésel",
+      "precios": {}
+    },
+    "17343": {
+      "id": "17343",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "GET UP Puerta Lateral Corrediza Pack 1.5 Diésel",
+      "precios": {}
+    },
+    "17344": {
+      "id": "17344",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Sportway Puerta Lateral Corrediza 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 7480.52,
+          "ars": 11520000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7935.06,
+          "ars": 12220000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17345": {
+      "id": "17345",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Auth 7A Plus Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 8636.36,
+          "ars": 13300000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 9155.84,
+          "ars": 14100000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 9675.32,
+          "ars": 14900000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10259.74,
+          "ars": 15800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17346": {
+      "id": "17346",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authen Plus Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 8571.43,
+          "ars": 13200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 9090.91,
+          "ars": 14000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 9610.39,
+          "ars": 14800000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10194.81,
+          "ars": 15700000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 10779.22,
+          "ars": 16600000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17347": {
+      "id": "17347",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentiq. 7A SL Puerta Lateral Corrediza Plus 1.6",
+      "precios": {}
+    },
+    "17348": {
+      "id": "17348",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7207.79,
+          "ars": 11100000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7662.34,
+          "ars": 11800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17349": {
+      "id": "17349",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 8376.62,
+          "ars": 12900000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 8896.1,
+          "ars": 13700000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 9415.58,
+          "ars": 14500000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10000,
+          "ars": 15400000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 10584.42,
+          "ars": 16300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17350": {
+      "id": "17350",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique Puerta Lateral Corrediza Plus 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7305.19,
+          "ars": 11250000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7759.74,
+          "ars": 11950000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17351": {
+      "id": "17351",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique 7A Puerta Lateral Corrediza Plus 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7337.66,
+          "ars": 11300000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7792.21,
+          "ars": 12000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17352": {
+      "id": "17352",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Authentique SL Puerta Lateral Corrediza Plus 1.6",
+      "precios": {}
+    },
+    "17353": {
+      "id": "17353",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Campus Puerta Lateral Corrediza 1.6",
+      "precios": {}
+    },
+    "17354": {
+      "id": "17354",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Campus 7A Puerta Lateral Corrediza 1.6",
+      "precios": {}
+    },
+    "17355": {
+      "id": "17355",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "GET UP Puerta Lateral Corrediza Pack 1.6",
+      "precios": {}
+    },
+    "17356": {
+      "id": "17356",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "GET UP 7A Puerta Lateral Corrediza Pack 1.6",
+      "precios": {}
+    },
+    "17357": {
+      "id": "17357",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Sportway Puerta Lateral Corrediza 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7467.53,
+          "ars": 11500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7922.08,
+          "ars": 12200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17358": {
+      "id": "17358",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Sportway 7A Puerta Lateral Corrediza 1.6",
+      "precios": {
+        "2013": {
+          "usd": 7500,
+          "ars": 11550000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7954.55,
+          "ars": 12250000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17359": {
+      "id": "17359",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Sportway Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 8766.23,
+          "ars": 13500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 9285.71,
+          "ars": 14300000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 9805.19,
+          "ars": 15100000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10389.61,
+          "ars": 16000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 10974.03,
+          "ars": 16900000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17377": {
+      "id": "17377",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "E-Tech",
+      "precios": {
+        "0": {
+          "usd": 34507.32,
+          "ars": 51830000,
+          "cotizacion": 1502
+        },
+        "2019": {
+          "usd": 24571.43,
+          "ars": 34400000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 25142.86,
+          "ars": 35200000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 25714.29,
+          "ars": 36000000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 26285.71,
+          "ars": 36800000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 27000,
+          "ars": 37800000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 21428.57,
+          "ars": 33000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 24025.97,
+          "ars": 37000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17386": {
+      "id": "17386",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RL Confort 1.6",
+      "precios": {}
+    },
+    "17387": {
+      "id": "17387",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RL Confort Aire 1.6",
+      "precios": {}
+    },
+    "17388": {
+      "id": "17388",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RL Confort GNC 1.6",
+      "precios": {}
+    },
+    "17391": {
+      "id": "17391",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Generique 1.9",
+      "precios": {}
+    },
+    "17392": {
+      "id": "17392",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RLD Confort 1.9",
+      "precios": {}
+    },
+    "17393": {
+      "id": "17393",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RLD Confort Aire 1.9",
+      "precios": {}
+    },
+    "17394": {
+      "id": "17394",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RLD TRF 1.9",
+      "precios": {}
+    },
+    "17395": {
+      "id": "17395",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RLD TRF Puerta Lateral Corrediza 1.9",
+      "precios": {}
+    },
+    "17396": {
+      "id": "17396",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RND TRF 1.9",
+      "precios": {}
+    },
+    "17397": {
+      "id": "17397",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express RND TRF G Conf. Plus 1.9",
+      "precios": {}
+    },
+    "17399": {
+      "id": "17399",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express CON.2 5A Puerta Lateral Corrediza 1.5 Diésel Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 7532.47,
+          "ars": 11600000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 7922.08,
+          "ars": 12200000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 8376.62,
+          "ars": 12900000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 8831.17,
+          "ars": 13600000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 9285.71,
+          "ars": 14300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17400": {
+      "id": "17400",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Conf Puerta Lateral Corrediza 1.5 Diésel Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 7207.79,
+          "ars": 11100000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 7597.4,
+          "ars": 11700000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 8051.95,
+          "ars": 12400000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 8506.49,
+          "ars": 13100000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 8961.04,
+          "ars": 13800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17401": {
+      "id": "17401",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort Puerta Lateral Corrediza 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 6506.49,
+          "ars": 10020000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 6831.17,
+          "ars": 10520000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17402": {
+      "id": "17402",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort Puerta Lateral Corrediza Aire 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 6538.96,
+          "ars": 10070000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 6863.64,
+          "ars": 10570000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17403": {
+      "id": "17403",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort Puerta Lateral Corrediza Pack 1.5 Diésel",
+      "precios": {}
+    },
+    "17404": {
+      "id": "17404",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort 5A Puerta Lateral Corrediza 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 6733.77,
+          "ars": 10370000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7123.38,
+          "ars": 10970000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17405": {
+      "id": "17405",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Generique 1.5 Diésel",
+      "precios": {}
+    },
+    "17406": {
+      "id": "17406",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Grand Conf Puerta Lateral Corrediza 1.5 Diésel",
+      "precios": {
+        "2013": {
+          "usd": 6863.64,
+          "ars": 10570000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7188.31,
+          "ars": 11070000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17407": {
+      "id": "17407",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Con. 5AS Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 7500,
+          "ars": 11550000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 7889.61,
+          "ars": 12150000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 8344.16,
+          "ars": 12850000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 8798.7,
+          "ars": 13550000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 9253.25,
+          "ars": 14250000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17408": {
+      "id": "17408",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Con. 5AS Puerta Lateral Corrediza Pack 1.6",
+      "precios": {
+        "2017": {
+          "usd": 9123.38,
+          "ars": 14050000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 9577.92,
+          "ars": 14750000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17409": {
+      "id": "17409",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort Puerta Lateral Corrediza 1.6",
+      "precios": {
+        "2013": {
+          "usd": 6493.51,
+          "ars": 10000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 6818.18,
+          "ars": 10500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17410": {
+      "id": "17410",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort Puerta Lateral Corrediza Aire 1.6",
+      "precios": {
+        "2013": {
+          "usd": 6525.97,
+          "ars": 10050000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 6850.65,
+          "ars": 10550000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17411": {
+      "id": "17411",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 7175.32,
+          "ars": 11050000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 7564.94,
+          "ars": 11650000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 8019.48,
+          "ars": 12350000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 8474.03,
+          "ars": 13050000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 8928.57,
+          "ars": 13750000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17412": {
+      "id": "17412",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort 5AS Puerta Lateral Corrediza 1.6",
+      "precios": {
+        "2013": {
+          "usd": 6785.71,
+          "ars": 10450000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7110.39,
+          "ars": 10950000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17413": {
+      "id": "17413",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Generique 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 7045.45,
+          "ars": 10850000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 7435.06,
+          "ars": 11450000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 7889.61,
+          "ars": 12150000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 8344.16,
+          "ars": 12850000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17414": {
+      "id": "17414",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Gran CON.2 Puerta Lateral Corrediza 1.6 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 7694.81,
+          "ars": 11850000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 8084.42,
+          "ars": 12450000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 8538.96,
+          "ars": 13150000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 8993.51,
+          "ars": 13850000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 9448.05,
+          "ars": 14550000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17415": {
+      "id": "17415",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort 1.5 dCi Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 10519.48,
+          "ars": 16200000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11233.77,
+          "ars": 17300000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 12012.99,
+          "ars": 18500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 12857.14,
+          "ars": 19800000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 13701.3,
+          "ars": 21100000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 14545.45,
+          "ars": 22400000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 15454.55,
+          "ars": 23800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17416": {
+      "id": "17416",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort 1.5 dCi 5 Asientos Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 11558.44,
+          "ars": 17800000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 12207.79,
+          "ars": 18800000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 12987.01,
+          "ars": 20000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 13831.17,
+          "ars": 21300000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 14935.06,
+          "ars": 23000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 15519.48,
+          "ars": 23900000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 16428.57,
+          "ars": 25300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17417": {
+      "id": "17417",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort SCE 1.6 Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 10454.55,
+          "ars": 16100000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11168.83,
+          "ars": 17200000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 11948.05,
+          "ars": 18400000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 12792.21,
+          "ars": 19700000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 13636.36,
+          "ars": 21000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 14480.52,
+          "ars": 22300000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 15389.61,
+          "ars": 23700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17418": {
+      "id": "17418",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Confort SCE 1.6 5 Asientos Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 11493.51,
+          "ars": 17700000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 12142.86,
+          "ars": 18700000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 12922.08,
+          "ars": 19900000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 13766.23,
+          "ars": 21200000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 14610.39,
+          "ars": 22500000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 15454.55,
+          "ars": 23800000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 16363.64,
+          "ars": 25200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17419": {
+      "id": "17419",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Emotion SCE 1.6 Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 10844.16,
+          "ars": 16700000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11493.51,
+          "ars": 17700000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 12272.73,
+          "ars": 18900000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 13116.88,
+          "ars": 20200000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 13961.04,
+          "ars": 21500000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 14805.19,
+          "ars": 22800000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 15714.29,
+          "ars": 24200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17420": {
+      "id": "17420",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Emotion SCE 1.6 5 Asientos Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 11818.18,
+          "ars": 18200000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 12467.53,
+          "ars": 19200000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 13246.75,
+          "ars": 20400000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 14090.91,
+          "ars": 21700000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 15194.81,
+          "ars": 23400000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 15779.22,
+          "ars": 24300000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 16688.31,
+          "ars": 25700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17421": {
+      "id": "17421",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express Profesional SCE 1.6 Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 10324.68,
+          "ars": 15900000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 10974.03,
+          "ars": 16900000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 11753.25,
+          "ars": 18100000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17422": {
+      "id": "17422",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express 1.5 dCi Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 16298.7,
+          "ars": 25100000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 17142.86,
+          "ars": 26400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17423": {
+      "id": "17423",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express 1.5 dCi 5 Asientos Modelo 2024",
+      "precios": {
+        "2024": {
+          "usd": 17272.73,
+          "ars": 26600000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 18246.75,
+          "ars": 28100000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17424": {
+      "id": "17424",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express SCE 1.6 Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 27370.13,
+          "ars": 42150000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 16233.77,
+          "ars": 25000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 17077.92,
+          "ars": 26300000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17425": {
+      "id": "17425",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Express SCE 1.6 5 Asientos Modelo 2024",
+      "precios": {
+        "0": {
+          "usd": 31422.08,
+          "ars": 48390000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 17207.79,
+          "ars": 26500000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 19155.84,
+          "ars": 29500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17426": {
+      "id": "17426",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "Stepway 1.5 dCi Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 14610.39,
+          "ars": 22500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 15259.74,
+          "ars": 23500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 15909.09,
+          "ars": 24500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 16753.25,
+          "ars": 25800000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 17727.27,
+          "ars": 27300000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 18701.3,
+          "ars": 28800000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 19675.32,
+          "ars": 30300000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 20974.03,
+          "ars": 32300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17427": {
+      "id": "17427",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "SCE Life 1.6 Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 13766.23,
+          "ars": 21200000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 14415.58,
+          "ars": 22200000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 15064.94,
+          "ars": 23200000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 15844.16,
+          "ars": 24400000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 16818.18,
+          "ars": 25900000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 17792.21,
+          "ars": 27400000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 18766.23,
+          "ars": 28900000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17428": {
+      "id": "17428",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "SCE Stepway 1.6 Modelo 2018",
+      "precios": {
+        "0": {
+          "usd": 30324.68,
+          "ars": 46700000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 14545.45,
+          "ars": 22400000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 15194.81,
+          "ars": 23400000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 15844.16,
+          "ars": 24400000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 16688.31,
+          "ars": 25700000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 17662.34,
+          "ars": 27200000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 18636.36,
+          "ars": 28700000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 19610.39,
+          "ars": 30200000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 20909.09,
+          "ars": 32200000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 22207.79,
+          "ars": 34200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17429": {
+      "id": "17429",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "SCE ZEN 1.6 Modelo 2018",
+      "precios": {
+        "0": {
+          "usd": 28668.83,
+          "ars": 44150000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 14090.91,
+          "ars": 21700000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 14740.26,
+          "ars": 22700000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 15389.61,
+          "ars": 23700000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 16168.83,
+          "ars": 24900000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 17142.86,
+          "ars": 26400000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 18116.88,
+          "ars": 27900000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 19090.91,
+          "ars": 29400000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 20259.74,
+          "ars": 31200000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 21688.31,
+          "ars": 33400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17430": {
+      "id": "17430",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "ZE",
+      "precios": {
+        "2018": {
+          "usd": 15584.42,
+          "ars": 24000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 16233.77,
+          "ars": 25000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 16883.12,
+          "ars": 26000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 17532.47,
+          "ars": 27000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 19805.19,
+          "ars": 30500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17431": {
+      "id": "17431",
+      "marcaId": "147",
+      "modeloId": "1685",
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "version": "ZE Maxi",
+      "precios": {
+        "2018": {
+          "usd": 15909.09,
+          "ars": 24500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 16558.44,
+          "ars": 25500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 17207.79,
+          "ars": 26500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 17857.14,
+          "ars": 27500000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 18506.49,
+          "ars": 28500000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 19155.84,
+          "ars": 29500000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 20129.87,
+          "ars": 31000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17432": {
+      "id": "17432",
+      "marcaId": "147",
+      "modeloId": "1686",
+      "marca": "RENAULT",
+      "modelo": "KARDIAN",
+      "version": "Evolution EDC 1.0 Turbo",
+      "precios": {
+        "2024": {
+          "usd": 19025.97,
+          "ars": 29300000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 20194.81,
+          "ars": 31100000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17433": {
+      "id": "17433",
+      "marcaId": "147",
+      "modeloId": "1686",
+      "marca": "RENAULT",
+      "modelo": "KARDIAN",
+      "version": "Evolution EDC 1.0 Turbo Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 28155.84,
+          "ars": 43360000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 22337.66,
+          "ars": 34400000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 23831.17,
+          "ars": 36700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17434": {
+      "id": "17434",
+      "marcaId": "147",
+      "modeloId": "1686",
+      "marca": "RENAULT",
+      "modelo": "KARDIAN",
+      "version": "Iconic EDC 1.0 Turbo Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 32116.88,
+          "ars": 49460000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 24220.78,
+          "ars": 37300000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 25649.35,
+          "ars": 39500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17435": {
+      "id": "17435",
+      "marcaId": "147",
+      "modeloId": "1686",
+      "marca": "RENAULT",
+      "modelo": "KARDIAN",
+      "version": "Premiere Edition EDC 1.0 Turbo",
+      "precios": {
+        "2024": {
+          "usd": 20324.68,
+          "ars": 31300000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 21688.31,
+          "ars": 33400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17437": {
+      "id": "17437",
+      "marcaId": "147",
+      "modeloId": "1686",
+      "marca": "RENAULT",
+      "modelo": "KARDIAN",
+      "version": "Techno EDC 1.0 Turbo",
+      "precios": {
+        "2024": {
+          "usd": 20000,
+          "ars": 30800000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17438": {
+      "id": "17438",
+      "marcaId": "147",
+      "modeloId": "1686",
+      "marca": "RENAULT",
+      "modelo": "KARDIAN",
+      "version": "Techno EDC 1.0 Turbo Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 30370.13,
+          "ars": 46770000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 23636.36,
+          "ars": 36400000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 25064.94,
+          "ars": 38600000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17439": {
+      "id": "17439",
+      "marcaId": "147",
+      "modeloId": "1686",
+      "marca": "RENAULT",
+      "modelo": "KARDIAN",
+      "version": "Evolution 1.6 Manual",
+      "precios": {
+        "2024": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 19220.78,
+          "ars": 29600000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17440": {
+      "id": "17440",
+      "marcaId": "147",
+      "modeloId": "1686",
+      "marca": "RENAULT",
+      "modelo": "KARDIAN",
+      "version": "Evolution 1.6 Manual Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 26019.48,
+          "ars": 40070000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 21363.64,
+          "ars": 32900000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 22662.34,
+          "ars": 34900000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17443": {
+      "id": "17443",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Esprit Alpine Hybrid 1.5 Turbo Automática 4x2",
+      "precios": {
+        "0": {
+          "usd": 60298.7,
+          "ars": 92860000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 45642.86,
+          "ars": 63900000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 46500,
+          "ars": 65100000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 47357.14,
+          "ars": 66300000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 48214.29,
+          "ars": 67500000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 49214.29,
+          "ars": 68900000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 50357.14,
+          "ars": 70500000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 45519.48,
+          "ars": 70100000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 50974.03,
+          "ars": 78500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17444": {
+      "id": "17444",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Techno 2.0 Turbo Automática 4x4",
+      "precios": {
+        "0": {
+          "usd": 54714.29,
+          "ars": 84260000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 40571.43,
+          "ars": 56800000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 41428.57,
+          "ars": 58000000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 42285.71,
+          "ars": 59200000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 43142.86,
+          "ars": 60400000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 44142.86,
+          "ars": 61800000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 45285.71,
+          "ars": 63400000,
+          "cotizacion": 1400
+        },
+        "2025": {
+          "usd": 42467.53,
+          "ars": 65400000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 44090.91,
+          "ars": 67900000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17445": {
+      "id": "17445",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Expression 2.5 4x2",
+      "precios": {}
+    },
+    "17446": {
+      "id": "17446",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Expression 2.5 4x2 Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 8831.17,
+          "ars": 13600000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 9155.84,
+          "ars": 14100000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17447": {
+      "id": "17447",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Expression 2.5 4x2 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 9805.19,
+          "ars": 15100000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 10194.81,
+          "ars": 15700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17448": {
+      "id": "17448",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "ZEN 2.5 CVT 4x2 Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 18441.56,
+          "ars": 28400000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 19285.71,
+          "ars": 29700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17455": {
+      "id": "17455",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Dynamique 2.5 4x4",
+      "precios": {}
+    },
+    "17456": {
+      "id": "17456",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Dynamique 2.5 Automática 4x4",
+      "precios": {}
+    },
+    "17457": {
+      "id": "17457",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Dynamique 2.5 4x4 Modelo 2010",
+      "precios": {}
+    },
+    "17458": {
+      "id": "17458",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Dynamique 2.5 4x4 Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 9350.65,
+          "ars": 14400000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 9675.32,
+          "ars": 14900000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17459": {
+      "id": "17459",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Dynamique Plus 2.5 CVT 4x4 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 10519.48,
+          "ars": 16200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 10909.09,
+          "ars": 16800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17460": {
+      "id": "17460",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Dynamique Plus 2.5 4x4 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 10454.55,
+          "ars": 16100000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 10844.16,
+          "ars": 16700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17461": {
+      "id": "17461",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Intens 2.5 CVT 4x4 Modelo 2018",
+      "precios": {
+        "2018": {
+          "usd": 20194.81,
+          "ars": 31100000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 20974.03,
+          "ars": 32300000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 21688.31,
+          "ars": 33400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17462": {
+      "id": "17462",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Intens 2.5 CVT 4x4 Modelo 2020",
+      "precios": {
+        "2020": {
+          "usd": 24155.84,
+          "ars": 37200000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 25454.55,
+          "ars": 39200000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 26558.44,
+          "ars": 40900000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 27857.14,
+          "ars": 42900000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 29350.65,
+          "ars": 45200000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 30649.35,
+          "ars": 47200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17463": {
+      "id": "17463",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Intens 2.5 CVT 4x4 Modelo 2025",
+      "precios": {
+        "2025": {
+          "usd": 32467.53,
+          "ars": 50000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17465": {
+      "id": "17465",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Privilege 2.5 4x4",
+      "precios": {}
+    },
+    "17466": {
+      "id": "17466",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Privilege 2.5 CVT 4x4",
+      "precios": {}
+    },
+    "17467": {
+      "id": "17467",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Privilege 2.5 CVT 4x4 Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 9935.06,
+          "ars": 15300000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 10324.68,
+          "ars": 15900000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17468": {
+      "id": "17468",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Privilege 2.5 CVT 4x4 Modelo 2014",
+      "precios": {
+        "2014": {
+          "usd": 11038.96,
+          "ars": 17000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 11428.57,
+          "ars": 17600000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17469": {
+      "id": "17469",
+      "marcaId": "147",
+      "modeloId": "1687",
+      "marca": "RENAULT",
+      "modelo": "KOLEOS",
+      "version": "Privilege 2.5 4x4 Modelo 2012",
+      "precios": {
+        "2013": {
+          "usd": 9870.13,
+          "ars": 15200000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 10259.74,
+          "ars": 15800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17470": {
+      "id": "17470",
+      "marcaId": "147",
+      "modeloId": "1688",
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "version": "Iconic 1.0",
+      "precios": {
+        "2017": {
+          "usd": 8051.95,
+          "ars": 12400000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 8441.56,
+          "ars": 13000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 8896.1,
+          "ars": 13700000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 9675.32,
+          "ars": 14900000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 10259.74,
+          "ars": 15800000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 10844.16,
+          "ars": 16700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17473": {
+      "id": "17473",
+      "marcaId": "147",
+      "modeloId": "1688",
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "version": "Intens 1.0",
+      "precios": {
+        "2017": {
+          "usd": 7987.01,
+          "ars": 12300000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 8376.62,
+          "ars": 12900000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 8766.23,
+          "ars": 13500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 9545.45,
+          "ars": 14700000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 10129.87,
+          "ars": 15600000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 10714.29,
+          "ars": 16500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17474": {
+      "id": "17474",
+      "marcaId": "147",
+      "modeloId": "1688",
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "version": "Life 1.0",
+      "precios": {
+        "2017": {
+          "usd": 7792.21,
+          "ars": 12000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 8181.82,
+          "ars": 12600000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 8636.36,
+          "ars": 13300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17475": {
+      "id": "17475",
+      "marcaId": "147",
+      "modeloId": "1688",
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "version": "Outsider 1.0",
+      "precios": {
+        "2019": {
+          "usd": 9415.58,
+          "ars": 14500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 10194.81,
+          "ars": 15700000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 10779.22,
+          "ars": 16600000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 11363.64,
+          "ars": 17500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17476": {
+      "id": "17476",
+      "marcaId": "147",
+      "modeloId": "1688",
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "version": "ZEN 1.0",
+      "precios": {
+        "2017": {
+          "usd": 7857.14,
+          "ars": 12100000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 8246.75,
+          "ars": 12700000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 8701.3,
+          "ars": 13400000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 9480.52,
+          "ars": 14600000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 10064.94,
+          "ars": 15500000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 10649.35,
+          "ars": 16400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17477": {
+      "id": "17477",
+      "marcaId": "147",
+      "modeloId": "1688",
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "version": "E-Tech",
+      "precios": {
+        "0": {
+          "usd": 25058.44,
+          "ars": 38590000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 15642.86,
+          "ars": 21900000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 16214.29,
+          "ars": 22700000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 16785.71,
+          "ars": 23500000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 17357.14,
+          "ars": 24300000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 15584.42,
+          "ars": 24000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 16428.57,
+          "ars": 25300000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 17207.79,
+          "ars": 26500000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 18181.82,
+          "ars": 28000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17478": {
+      "id": "17478",
+      "marcaId": "147",
+      "modeloId": "1688",
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "version": "Iconic Bitono 1.0 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 18376.62,
+          "ars": 28300000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 12272.73,
+          "ars": 18900000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 12987.01,
+          "ars": 20000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 13896.1,
+          "ars": 21400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17479": {
+      "id": "17479",
+      "marcaId": "147",
+      "modeloId": "1688",
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "version": "Iconic Outsider 1.0 Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 18376.62,
+          "ars": 28300000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 13116.88,
+          "ars": 20200000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 14025.97,
+          "ars": 21600000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17481": {
+      "id": "17481",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "G Tour PRI Pack 1.9 dCi Serie II",
+      "precios": {}
+    },
+    "17482": {
+      "id": "17482",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "G Tour PRI Plus 1.9 dCi Serie II",
+      "precios": {}
+    },
+    "17483": {
+      "id": "17483",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "Privilege Pack 1.9 dCi Serie II",
+      "precios": {}
+    },
+    "17484": {
+      "id": "17484",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "Privilege Plus 1.9 dCi Serie II",
+      "precios": {}
+    },
+    "17485": {
+      "id": "17485",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "T. Privilege Pack 2.0 Serie II",
+      "precios": {}
+    },
+    "17486": {
+      "id": "17486",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "T. Privilege Plus 2.0 Serie II",
+      "precios": {}
+    },
+    "17487": {
+      "id": "17487",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "Privilege Plus 3.0 V6 Serie II",
+      "precios": {}
+    },
+    "17488": {
+      "id": "17488",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "Privilege",
+      "precios": {}
+    },
+    "17489": {
+      "id": "17489",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "Privilege DCI Turbodiésel",
+      "precios": {}
+    },
+    "17490": {
+      "id": "17490",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "Privilege DCI Grand Tour Turbodiésel",
+      "precios": {}
+    },
+    "17491": {
+      "id": "17491",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "Privilege V6",
+      "precios": {}
+    },
+    "17492": {
+      "id": "17492",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RT",
+      "precios": {}
+    },
+    "17493": {
+      "id": "17493",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RT Nevada",
+      "precios": {}
+    },
+    "17494": {
+      "id": "17494",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RTD",
+      "precios": {}
+    },
+    "17495": {
+      "id": "17495",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXE",
+      "precios": {}
+    },
+    "17496": {
+      "id": "17496",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXE 16 Válvulas 1.8",
+      "precios": {}
+    },
+    "17497": {
+      "id": "17497",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXE Cuero",
+      "precios": {}
+    },
+    "17498": {
+      "id": "17498",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXE Nevada 7 Asientos",
+      "precios": {}
+    },
+    "17499": {
+      "id": "17499",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXE Turbodiésel",
+      "precios": {}
+    },
+    "17500": {
+      "id": "17500",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXT",
+      "precios": {}
+    },
+    "17501": {
+      "id": "17501",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXT Cuero",
+      "precios": {}
+    },
+    "17502": {
+      "id": "17502",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXT Nevada",
+      "precios": {}
+    },
+    "17503": {
+      "id": "17503",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXT V6",
+      "precios": {}
+    },
+    "17504": {
+      "id": "17504",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXT Cuero V6",
+      "precios": {}
+    },
+    "17505": {
+      "id": "17505",
+      "marcaId": "147",
+      "modeloId": "1689",
+      "marca": "RENAULT",
+      "modelo": "LAGUNA",
+      "version": "RXT Cuero V6 Automática",
+      "precios": {}
+    },
+    "17506": {
+      "id": "17506",
+      "marcaId": "147",
+      "modeloId": "1690",
+      "marca": "RENAULT",
+      "modelo": "LATITUDE",
+      "version": "Dynamique 2.0",
+      "precios": {
+        "2013": {
+          "usd": 8311.69,
+          "ars": 12800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 8636.36,
+          "ars": 13300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17507": {
+      "id": "17507",
+      "marcaId": "147",
+      "modeloId": "1690",
+      "marca": "RENAULT",
+      "modelo": "LATITUDE",
+      "version": "Privilege BVA 3.5",
+      "precios": {
+        "2013": {
+          "usd": 8506.49,
+          "ars": 13100000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 8831.17,
+          "ars": 13600000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17508": {
+      "id": "17508",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Confort 1.5 dCi",
+      "precios": {}
+    },
+    "17509": {
+      "id": "17509",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Confort 1.5 dCi Modelo 2010",
+      "precios": {}
+    },
+    "17510": {
+      "id": "17510",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Luxe 1.5 dCi",
+      "precios": {}
+    },
+    "17511": {
+      "id": "17511",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Pack 1.5 dCi",
+      "precios": {}
+    },
+    "17512": {
+      "id": "17512",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Pack 1.5 dCi Modelo 2010",
+      "precios": {}
+    },
+    "17513": {
+      "id": "17513",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Confort 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "17514": {
+      "id": "17514",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Luxe 16 Válvulas 1.6",
+      "precios": {}
+    },
+    "17515": {
+      "id": "17515",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Authentique 8 Válvulas 1.6",
+      "precios": {}
+    },
+    "17516": {
+      "id": "17516",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Authentique 8 Válvulas Pack 1.6 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 5389.61,
+          "ars": 8300000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 5454.55,
+          "ars": 8400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17517": {
+      "id": "17517",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Authentique 8 Válvulas Pack 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 5422.08,
+          "ars": 8350000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 5487.01,
+          "ars": 8450000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17518": {
+      "id": "17518",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Avantage SL 8 Válvulas 1.6",
+      "precios": {}
+    },
+    "17519": {
+      "id": "17519",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Base 8 Válvulas 1.6",
+      "precios": {}
+    },
+    "17520": {
+      "id": "17520",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Base 8 Válvulas Aire 1.6",
+      "precios": {}
+    },
+    "17521": {
+      "id": "17521",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Confort 8 Válvulas 1.6 Modelo 2010",
+      "precios": {}
+    },
+    "17522": {
+      "id": "17522",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Confort 8 Válvulas Plus 1.6 Modelo 2010",
+      "precios": {}
+    },
+    "17523": {
+      "id": "17523",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Expression Pkconf 8 Válvulas 1.6 Nafta",
+      "precios": {
+        "2013": {
+          "usd": 5519.48,
+          "ars": 8500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17524": {
+      "id": "17524",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Expression Pkconf 8 Válvulas 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 5551.95,
+          "ars": 8550000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 5616.88,
+          "ars": 8650000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17525": {
+      "id": "17525",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "8 Válvulas Pack 1.6 Modelo 2010",
+      "precios": {}
+    },
+    "17526": {
+      "id": "17526",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "8 Válvulas Pack Plus 1.6 Modelo 2010",
+      "precios": {}
+    },
+    "17529": {
+      "id": "17529",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Intens 16 Válvulas 1.6 CVT Serie II Modelo 2019",
+      "precios": {
+        "2019": {
+          "usd": 11753.25,
+          "ars": 18100000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 12077.92,
+          "ars": 18600000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 12467.53,
+          "ars": 19200000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 13279.22,
+          "ars": 20450000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17530": {
+      "id": "17530",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Intens 16 Válvulas 1.6 Serie II Modelo 2019",
+      "precios": {
+        "0": {
+          "usd": 23987.01,
+          "ars": 36940000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11623.38,
+          "ars": 17900000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 11948.05,
+          "ars": 18400000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 12337.66,
+          "ars": 19000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 13149.35,
+          "ars": 20250000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 14090.91,
+          "ars": 21700000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 15032.47,
+          "ars": 23150000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 15974.03,
+          "ars": 24600000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 17077.92,
+          "ars": 26300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17531": {
+      "id": "17531",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Life 16 Válvulas 1.6 Serie II Modelo 2019",
+      "precios": {
+        "0": {
+          "usd": 22064.94,
+          "ars": 33980000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 10974.03,
+          "ars": 16900000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 11363.64,
+          "ars": 17500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 11688.31,
+          "ars": 18000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 12435.06,
+          "ars": 19150000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 13441.56,
+          "ars": 20700000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 14448.05,
+          "ars": 22250000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 15324.68,
+          "ars": 23600000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 16428.57,
+          "ars": 25300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17532": {
+      "id": "17532",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Life 16 Válvulas Pack 1.6 Serie II",
+      "precios": {
+        "2022": {
+          "usd": 12435.06,
+          "ars": 19150000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17533": {
+      "id": "17533",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Life 16 Válvulas Plus 1.6 Serie II",
+      "precios": {
+        "2022": {
+          "usd": 12435.06,
+          "ars": 19150000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17534": {
+      "id": "17534",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Privilege 16 Válvulas 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 8636.36,
+          "ars": 13300000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 8993.51,
+          "ars": 13850000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 9350.65,
+          "ars": 14400000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 9707.79,
+          "ars": 14950000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10097.4,
+          "ars": 15550000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 10584.42,
+          "ars": 16300000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11038.96,
+          "ars": 17000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 11428.57,
+          "ars": 17600000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17535": {
+      "id": "17535",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Privilege 16 Válvulas Plus 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 8701.3,
+          "ars": 13400000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 9058.44,
+          "ars": 13950000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 9415.58,
+          "ars": 14500000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 9772.73,
+          "ars": 15050000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10162.34,
+          "ars": 15650000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 10649.35,
+          "ars": 16400000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11103.9,
+          "ars": 17100000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 11493.51,
+          "ars": 17700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17536": {
+      "id": "17536",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "ZEN 16 Válvulas 1.6 Serie II Modelo 2019",
+      "precios": {
+        "0": {
+          "usd": 23318.18,
+          "ars": 35910000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 11298.7,
+          "ars": 17400000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 11623.38,
+          "ars": 17900000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 11948.05,
+          "ars": 18400000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 12694.81,
+          "ars": 19550000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 13701.3,
+          "ars": 21100000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 14675.32,
+          "ars": 22600000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 15584.42,
+          "ars": 24000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 16688.31,
+          "ars": 25700000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17537": {
+      "id": "17537",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Authentique 8 Válvulas 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 7500,
+          "ars": 11550000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7857.14,
+          "ars": 12100000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 8214.29,
+          "ars": 12650000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 8571.43,
+          "ars": 13200000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 8961.04,
+          "ars": 13800000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 9448.05,
+          "ars": 14550000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 10032.47,
+          "ars": 15450000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 10357.14,
+          "ars": 15950000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17538": {
+      "id": "17538",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Authentique 8 Válvulas Plus 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 7564.94,
+          "ars": 11650000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 7922.08,
+          "ars": 12200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 8279.22,
+          "ars": 12750000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 8636.36,
+          "ars": 13300000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 9025.97,
+          "ars": 13900000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 9512.99,
+          "ars": 14650000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 10097.4,
+          "ars": 15550000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 10422.08,
+          "ars": 16050000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17539": {
+      "id": "17539",
+      "marcaId": "147",
+      "modeloId": "1691",
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "version": "Expression 8 Válvulas 1.6 Serie II",
+      "precios": {
+        "2013": {
+          "usd": 7792.21,
+          "ars": 12000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 8149.35,
+          "ars": 12550000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 8506.49,
+          "ars": 13100000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 8863.64,
+          "ars": 13650000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 9253.25,
+          "ars": 14250000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 9740.26,
+          "ars": 15000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 10292.21,
+          "ars": 15850000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 10681.82,
+          "ars": 16450000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17540": {
+      "id": "17540",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "Aire 2.3 dCi Chasis",
+      "precios": {
+        "2013": {
+          "usd": 15844.16,
+          "ars": 24400000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 16688.31,
+          "ars": 25700000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 17532.47,
+          "ars": 27000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 18506.49,
+          "ars": 28500000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 19480.52,
+          "ars": 30000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 20454.55,
+          "ars": 31500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 21428.57,
+          "ars": 33000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 22402.6,
+          "ars": 34500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 24675.32,
+          "ars": 38000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17541": {
+      "id": "17541",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "L1H1 2.3 dCi Furgón",
+      "precios": {
+        "2013": {
+          "usd": 16103.9,
+          "ars": 24800000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 16948.05,
+          "ars": 26100000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 17792.21,
+          "ars": 27400000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 18766.23,
+          "ars": 28900000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 19740.26,
+          "ars": 30400000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 20714.29,
+          "ars": 31900000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 21688.31,
+          "ars": 33400000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17542": {
+      "id": "17542",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "L1H1 Aire 2.3 dCi Furgón",
+      "precios": {
+        "2013": {
+          "usd": 16168.83,
+          "ars": 24900000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 17012.99,
+          "ars": 26200000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 17857.14,
+          "ars": 27500000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 19805.19,
+          "ars": 30500000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 20779.22,
+          "ars": 32000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 21753.25,
+          "ars": 33500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 22727.27,
+          "ars": 35000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 23701.3,
+          "ars": 36500000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 25000,
+          "ars": 38500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17543": {
+      "id": "17543",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "L1H1 2.3 dCi Furgón Modelo 2023",
+      "precios": {
+        "2023": {
+          "usd": 26298.7,
+          "ars": 40500000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 27597.4,
+          "ars": 42500000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 29220.78,
+          "ars": 45000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17544": {
+      "id": "17544",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "L1H1 2.3 dCi Furgón Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 43577.92,
+          "ars": 67110000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 30194.81,
+          "ars": 46500000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 31818.18,
+          "ars": 49000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17545": {
+      "id": "17545",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "L2H2 Aire 2.3 dCi Furgón",
+      "precios": {
+        "2013": {
+          "usd": 16883.12,
+          "ars": 26000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 17857.14,
+          "ars": 27500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 19805.19,
+          "ars": 30500000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 21103.9,
+          "ars": 32500000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 22402.6,
+          "ars": 34500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 23701.3,
+          "ars": 36500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 25000,
+          "ars": 38500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 26623.38,
+          "ars": 41000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 28246.75,
+          "ars": 43500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17546": {
+      "id": "17546",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "L2H2 2.3 dCi Furgón Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 47720.78,
+          "ars": 73490000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 32792.21,
+          "ars": 50500000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 34415.58,
+          "ars": 53000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17547": {
+      "id": "17547",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "L3H2 Aire 2.3 dCi Furgón",
+      "precios": {
+        "2013": {
+          "usd": 17857.14,
+          "ars": 27500000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 18831.17,
+          "ars": 29000000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 19805.19,
+          "ars": 30500000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 21103.9,
+          "ars": 32500000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 22402.6,
+          "ars": 34500000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 23701.3,
+          "ars": 36500000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 25000,
+          "ars": 38500000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 26298.7,
+          "ars": 40500000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 27922.08,
+          "ars": 43000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 29545.45,
+          "ars": 45500000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17548": {
+      "id": "17548",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "L3H2 2.3 dCi Furgón Modelo 2025",
+      "precios": {
+        "0": {
+          "usd": 50727.27,
+          "ars": 78120000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 34090.91,
+          "ars": 52500000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 35714.29,
+          "ars": 55000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17550": {
+      "id": "17550",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "2.3 dCi Minibús",
+      "precios": {
+        "2013": {
+          "usd": 20129.87,
+          "ars": 31000000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 21103.9,
+          "ars": 32500000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 22077.92,
+          "ars": 34000000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 23376.62,
+          "ars": 36000000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 24675.32,
+          "ars": 38000000,
+          "cotizacion": 1540
+        },
+        "2018": {
+          "usd": 25974.03,
+          "ars": 40000000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 27272.73,
+          "ars": 42000000,
+          "cotizacion": 1540
+        },
+        "2020": {
+          "usd": 28571.43,
+          "ars": 44000000,
+          "cotizacion": 1540
+        },
+        "2021": {
+          "usd": 29870.13,
+          "ars": 46000000,
+          "cotizacion": 1540
+        },
+        "2022": {
+          "usd": 31818.18,
+          "ars": 49000000,
+          "cotizacion": 1540
+        },
+        "2023": {
+          "usd": 33766.23,
+          "ars": 52000000,
+          "cotizacion": 1540
+        },
+        "2024": {
+          "usd": 35714.29,
+          "ars": 55000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17551": {
+      "id": "17551",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto L2HA 2.5 Diésel",
+      "precios": {}
+    },
+    "17552": {
+      "id": "17552",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto L2H2 Aire 2.5 Diésel",
+      "precios": {}
+    },
+    "17553": {
+      "id": "17553",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "P/Con 2.5 dCi Chasis",
+      "precios": {}
+    },
+    "17554": {
+      "id": "17554",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "P/Con 2.5 dCi Chasis 2",
+      "precios": {
+        "2013": {
+          "usd": 14285.71,
+          "ars": 22000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17555": {
+      "id": "17555",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "P/Ele 2.5 dCi Chasis",
+      "precios": {}
+    },
+    "17556": {
+      "id": "17556",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto AL P/Con 2.5 dCi",
+      "precios": {}
+    },
+    "17557": {
+      "id": "17557",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto AL P/Con 2.5 dCi 2",
+      "precios": {
+        "2013": {
+          "usd": 14805.19,
+          "ars": 22800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17558": {
+      "id": "17558",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto AL P/Ele 2.5 dCi",
+      "precios": {}
+    },
+    "17559": {
+      "id": "17559",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto AL P/Ele 2.5 dCi 2",
+      "precios": {}
+    },
+    "17560": {
+      "id": "17560",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto P/Con 2.5 dCi",
+      "precios": {}
+    },
+    "17561": {
+      "id": "17561",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto P/Con 2.5 dCi 2",
+      "precios": {
+        "2013": {
+          "usd": 14480.52,
+          "ars": 22300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17562": {
+      "id": "17562",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto P/Ele 2.5 dCi",
+      "precios": {}
+    },
+    "17563": {
+      "id": "17563",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Corto P/Ele 2.5 dCi 2",
+      "precios": {
+        "2013": {
+          "usd": 14415.58,
+          "ars": 22200000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17564": {
+      "id": "17564",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Largo P/Con 2.5 dCi",
+      "precios": {}
+    },
+    "17565": {
+      "id": "17565",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Largo P/Con 2.5 dCi 2",
+      "precios": {
+        "2013": {
+          "usd": 15454.55,
+          "ars": 23800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17566": {
+      "id": "17566",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Medio P/Con 2.5 dCi",
+      "precios": {}
+    },
+    "17567": {
+      "id": "17567",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Medio P/Con 2.5 dCi 2",
+      "precios": {
+        "2013": {
+          "usd": 15129.87,
+          "ars": 23300000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17568": {
+      "id": "17568",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Medio P/Ele 2.5 dCi",
+      "precios": {}
+    },
+    "17569": {
+      "id": "17569",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F/Medio P/Ele 2.5 dCi 2",
+      "precios": {}
+    },
+    "17570": {
+      "id": "17570",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "2.5 dCi Minibús",
+      "precios": {}
+    },
+    "17571": {
+      "id": "17571",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "P/Luxe 2.5 dCi Minibús",
+      "precios": {
+        "2013": {
+          "usd": 16103.9,
+          "ars": 24800000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17572": {
+      "id": "17572",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F. Corto L1H1 2.8 Diésel",
+      "precios": {}
+    },
+    "17573": {
+      "id": "17573",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F. Corto AL L1H2 2.8 Diésel",
+      "precios": {}
+    },
+    "17574": {
+      "id": "17574",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "2.8 Turbodiésel Chasis",
+      "precios": {}
+    },
+    "17575": {
+      "id": "17575",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F. Corto L1H1 Aire 2.8 Turbodiésel",
+      "precios": {}
+    },
+    "17576": {
+      "id": "17576",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F. Largo L3H2 2.8 Turbodiésel",
+      "precios": {}
+    },
+    "17577": {
+      "id": "17577",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F. Largo L3H2 Aire 2.8 Turbodiésel",
+      "precios": {}
+    },
+    "17578": {
+      "id": "17578",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F. Medio L2H2 2.8 Turbodiésel",
+      "precios": {}
+    },
+    "17579": {
+      "id": "17579",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "F. Medio L2H2 Aire 2.8 Turbodiésel",
+      "precios": {}
+    },
+    "17580": {
+      "id": "17580",
+      "marcaId": "147",
+      "modeloId": "1692",
+      "marca": "RENAULT",
+      "modelo": "MASTER",
+      "version": "Aire 2.8 Turbodiésel Minibús",
+      "precios": {}
+    },
+    "17581": {
+      "id": "17581",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "115 CV Cabriolet",
+      "precios": {}
+    },
+    "17582": {
+      "id": "17582",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "150 CV Cabriolet",
+      "precios": {}
+    },
+    "17583": {
+      "id": "17583",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "115 CV Coupé",
+      "precios": {}
+    },
+    "17584": {
+      "id": "17584",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "150 CV Coupé",
+      "precios": {}
+    },
+    "17585": {
+      "id": "17585",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "E-Tech",
+      "precios": {
+        "0": {
+          "usd": 47266.23,
+          "ars": 72790000,
+          "cotizacion": 1540
+        },
+        "2019": {
+          "usd": 33500,
+          "ars": 46900000,
+          "cotizacion": 1400
+        },
+        "2020": {
+          "usd": 34071.43,
+          "ars": 47700000,
+          "cotizacion": 1400
+        },
+        "2021": {
+          "usd": 34642.86,
+          "ars": 48500000,
+          "cotizacion": 1400
+        },
+        "2022": {
+          "usd": 35214.29,
+          "ars": 49300000,
+          "cotizacion": 1400
+        },
+        "2023": {
+          "usd": 35928.57,
+          "ars": 50300000,
+          "cotizacion": 1400
+        },
+        "2024": {
+          "usd": 30909.09,
+          "ars": 47600000,
+          "cotizacion": 1540
+        },
+        "2025": {
+          "usd": 32467.53,
+          "ars": 50000000,
+          "cotizacion": 1540
+        },
+        "2026": {
+          "usd": 34415.58,
+          "ars": 53000000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17587": {
+      "id": "17587",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Authentiq Fase 2 Pack 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17588": {
+      "id": "17588",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Authentiq Fase 2 Pack GNC 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17589": {
+      "id": "17589",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Exception SL Fase 2 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17590": {
+      "id": "17590",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fairway SL Fase 2 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17591": {
+      "id": "17591",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 Pack 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17592": {
+      "id": "17592",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 Pack GNC 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17593": {
+      "id": "17593",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 Pack Plus 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17594": {
+      "id": "17594",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 Pack Plus GNC 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17596": {
+      "id": "17596",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Authentiq Fase 2 Pack 1.9 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17597": {
+      "id": "17597",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fairway SL Fase 2 1.9 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17598": {
+      "id": "17598",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 Pack 1.9 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17599": {
+      "id": "17599",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 Pack Plus 1.9 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17601": {
+      "id": "17601",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Allyum SL Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17603": {
+      "id": "17603",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Authentiq Fase 2 Pack 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17604": {
+      "id": "17604",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Exception SL Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17605": {
+      "id": "17605",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fairway SL Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17606": {
+      "id": "17606",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 Pack Plus 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17607": {
+      "id": "17607",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 110 CV Cabriolet",
+      "precios": {}
+    },
+    "17608": {
+      "id": "17608",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Fase 2 110 CV Coupé",
+      "precios": {}
+    },
+    "17609": {
+      "id": "17609",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RL Fase 2 4 Puertas",
+      "precios": {}
+    },
+    "17610": {
+      "id": "17610",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RL Fase 2 Aire 4 Puertas",
+      "precios": {}
+    },
+    "17611": {
+      "id": "17611",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RL Authent ECO Fase 2 4 Puertas",
+      "precios": {}
+    },
+    "17612": {
+      "id": "17612",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RL Authent ECO Fase 2 GNC 4 Puertas",
+      "precios": {}
+    },
+    "17613": {
+      "id": "17613",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RL Authent ECO Fase 2 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17614": {
+      "id": "17614",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RL Fase 2 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17615": {
+      "id": "17615",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RL Fase 2 Aire Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17616": {
+      "id": "17616",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 4 Puertas",
+      "precios": {}
+    },
+    "17617": {
+      "id": "17617",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 GNC 4 Puertas",
+      "precios": {}
+    },
+    "17618": {
+      "id": "17618",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 Plus 4 Puertas",
+      "precios": {}
+    },
+    "17619": {
+      "id": "17619",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 Plus GNC 4 Puertas",
+      "precios": {}
+    },
+    "17620": {
+      "id": "17620",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17621": {
+      "id": "17621",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 Plus Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17622": {
+      "id": "17622",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN S/Aa Fase 2 4 Puertas",
+      "precios": {}
+    },
+    "17623": {
+      "id": "17623",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN S/Aa Fase 2 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17624": {
+      "id": "17624",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 5 Puertas",
+      "precios": {}
+    },
+    "17625": {
+      "id": "17625",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 Plus 5 Puertas",
+      "precios": {}
+    },
+    "17626": {
+      "id": "17626",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17627": {
+      "id": "17627",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN Expre Fase 2 Plus Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17628": {
+      "id": "17628",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Fase 2 4 Puertas",
+      "precios": {}
+    },
+    "17629": {
+      "id": "17629",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Fase 2 ABS 4 Puertas",
+      "precios": {}
+    },
+    "17630": {
+      "id": "17630",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Fase 2 ABS Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17631": {
+      "id": "17631",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Fase 2 5 Puertas",
+      "precios": {}
+    },
+    "17632": {
+      "id": "17632",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Fase 2 ABS 5 Puertas",
+      "precios": {}
+    },
+    "17633": {
+      "id": "17633",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Fase 2 ABS Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17634": {
+      "id": "17634",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Cuero Fase 2 ABS 4 Puertas",
+      "precios": {}
+    },
+    "17635": {
+      "id": "17635",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Fase 2 ABS Techo Corredizo 4 Puertas",
+      "precios": {}
+    },
+    "17636": {
+      "id": "17636",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Cuero Fase 2 ABS Techo Corredizo 4 Puertas",
+      "precios": {}
+    },
+    "17637": {
+      "id": "17637",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Privilege Fase 2 ABS 4 Puertas",
+      "precios": {}
+    },
+    "17639": {
+      "id": "17639",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Privilege Fase 2 Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17640": {
+      "id": "17640",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Cuero Fase 2 ABS Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17641": {
+      "id": "17641",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Fase 2 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17642": {
+      "id": "17642",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Cuero Fase 2 ABS 5 Puertas",
+      "precios": {}
+    },
+    "17643": {
+      "id": "17643",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Fase 2 ABS Techo Corredizo 5 Puertas",
+      "precios": {}
+    },
+    "17644": {
+      "id": "17644",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Cuero Fase 2 ABS Techo Corredizo 5 Puertas",
+      "precios": {}
+    },
+    "17645": {
+      "id": "17645",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Privilege Fase 2 ABS 5 Puertas",
+      "precios": {}
+    },
+    "17646": {
+      "id": "17646",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Privilege Fase 2 Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17647": {
+      "id": "17647",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Cuero Fase 2 ABS Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17654": {
+      "id": "17654",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "F/2. Aniversario 5 Puertas",
+      "precios": {}
+    },
+    "17656": {
+      "id": "17656",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Confort 1.5 dCi Serie II",
+      "precios": {}
+    },
+    "17657": {
+      "id": "17657",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Confort Plus 1.5 dCi Serie II",
+      "precios": {}
+    },
+    "17658": {
+      "id": "17658",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Expression 1.5 dCi Serie II",
+      "precios": {}
+    },
+    "17659": {
+      "id": "17659",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Expression Plus 1.5 dCi Serie II",
+      "precios": {}
+    },
+    "17660": {
+      "id": "17660",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe 1.5 dCi Serie II",
+      "precios": {}
+    },
+    "17661": {
+      "id": "17661",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe Grand Tour 1.5 dCi Serie II",
+      "precios": {}
+    },
+    "17662": {
+      "id": "17662",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Privilege 1.5 dCi Serie II",
+      "precios": {}
+    },
+    "17663": {
+      "id": "17663",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Confort 1.6 Serie II",
+      "precios": {}
+    },
+    "17664": {
+      "id": "17664",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Confort Plus 1.6 Serie II",
+      "precios": {}
+    },
+    "17665": {
+      "id": "17665",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Confort G Tour Plus 1.6 Serie II",
+      "precios": {}
+    },
+    "17666": {
+      "id": "17666",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Expression 1.6 Serie II",
+      "precios": {}
+    },
+    "17667": {
+      "id": "17667",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Expression Plus 1.6 Serie II",
+      "precios": {}
+    },
+    "17668": {
+      "id": "17668",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe 1.6 Serie II",
+      "precios": {}
+    },
+    "17669": {
+      "id": "17669",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe Grand Tour 1.6 Serie II",
+      "precios": {}
+    },
+    "17670": {
+      "id": "17670",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Privilege 1.6 Serie II",
+      "precios": {}
+    },
+    "17671": {
+      "id": "17671",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Confort/Dynamiq 1.9 dCi Serie II",
+      "precios": {}
+    },
+    "17673": {
+      "id": "17673",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Dynamique 1.9 dCi 5 Puertas Serie II",
+      "precios": {}
+    },
+    "17675": {
+      "id": "17675",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Confort/Dynamique 2.0 Serie II",
+      "precios": {}
+    },
+    "17677": {
+      "id": "17677",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Cabriolet 2.0 Coupé Serie II",
+      "precios": {}
+    },
+    "17678": {
+      "id": "17678",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Dynamique 2.0 5 Puertas Serie II",
+      "precios": {}
+    },
+    "17679": {
+      "id": "17679",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "IN Black 2.0 Serie II",
+      "precios": {}
+    },
+    "17680": {
+      "id": "17680",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe 2.0 Serie II",
+      "precios": {}
+    },
+    "17681": {
+      "id": "17681",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe 2.0 Automática Serie II",
+      "precios": {}
+    },
+    "17682": {
+      "id": "17682",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe Grand Tour 2.0 Serie II",
+      "precios": {}
+    },
+    "17683": {
+      "id": "17683",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe Grand Tour 2.0 Automática Serie II",
+      "precios": {}
+    },
+    "17684": {
+      "id": "17684",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Privilege 2.0 Serie II",
+      "precios": {}
+    },
+    "17685": {
+      "id": "17685",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Privilege 2.0 Automática Serie II",
+      "precios": {}
+    },
+    "17686": {
+      "id": "17686",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Privilege Grand Tour 2.0 Serie II",
+      "precios": {}
+    },
+    "17687": {
+      "id": "17687",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Sport SL 2.0 Serie II",
+      "precios": {}
+    },
+    "17688": {
+      "id": "17688",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe Pack 1.6 Serie III",
+      "precios": {
+        "2015": {
+          "usd": 9707.79,
+          "ars": 14950000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 10032.47,
+          "ars": 15450000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 10357.14,
+          "ars": 15950000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17689": {
+      "id": "17689",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Luxe 2.0 Serie III",
+      "precios": {
+        "2013": {
+          "usd": 7824.68,
+          "ars": 12050000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 8149.35,
+          "ars": 12550000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 8603.9,
+          "ars": 13250000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17690": {
+      "id": "17690",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "Privilege 2.0 Serie III",
+      "precios": {
+        "2013": {
+          "usd": 7889.61,
+          "ars": 12150000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 8214.29,
+          "ars": 12650000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 8733.77,
+          "ars": 13450000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17691": {
+      "id": "17691",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RS 2.0 Turbo Serie III",
+      "precios": {
+        "2013": {
+          "usd": 19415.58,
+          "ars": 29900000,
+          "cotizacion": 1540
+        },
+        "2014": {
+          "usd": 20389.61,
+          "ars": 31400000,
+          "cotizacion": 1540
+        },
+        "2015": {
+          "usd": 21363.64,
+          "ars": 32900000,
+          "cotizacion": 1540
+        },
+        "2016": {
+          "usd": 22337.66,
+          "ars": 34400000,
+          "cotizacion": 1540
+        },
+        "2017": {
+          "usd": 23311.69,
+          "ars": 35900000,
+          "cotizacion": 1540
+        }
+      }
+    },
+    "17695": {
+      "id": "17695",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RN 5 Puertas",
+      "precios": {}
+    },
+    "17696": {
+      "id": "17696",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17697": {
+      "id": "17697",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Airbag 1.6 4 Puertas",
+      "precios": {}
+    },
+    "17698": {
+      "id": "17698",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT 2.0 4 Puertas",
+      "precios": {}
+    },
+    "17699": {
+      "id": "17699",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17700": {
+      "id": "17700",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Airbag Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17701": {
+      "id": "17701",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Airbag ABS Turbodiésel 4 Puertas",
+      "precios": {}
+    },
+    "17702": {
+      "id": "17702",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17703": {
+      "id": "17703",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Airbag 1.6 5 Puertas",
+      "precios": {}
+    },
+    "17704": {
+      "id": "17704",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT 2.0 5 Puertas",
+      "precios": {}
+    },
+    "17705": {
+      "id": "17705",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17706": {
+      "id": "17706",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Airbag Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17707": {
+      "id": "17707",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RT Airbag ABS Turbodiésel 5 Puertas",
+      "precios": {}
+    },
+    "17708": {
+      "id": "17708",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE 4 Puertas",
+      "precios": {}
+    },
+    "17709": {
+      "id": "17709",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Airbag 4 Puertas",
+      "precios": {}
+    },
+    "17710": {
+      "id": "17710",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Airbag ABS 4 Puertas",
+      "precios": {}
+    },
+    "17711": {
+      "id": "17711",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE 5 Puertas",
+      "precios": {}
+    },
+    "17712": {
+      "id": "17712",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Airbag 5 Puertas",
+      "precios": {}
+    },
+    "17713": {
+      "id": "17713",
+      "marcaId": "147",
+      "modeloId": "1693",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "version": "RXE Airbag ABS 5 Puertas",
+      "precios": {}
     },
     "131666": {
       "id": "131666",
